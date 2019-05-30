@@ -1,0 +1,201 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "no" ?>
+<?xml-stylesheet type="text/xsl" href="maketable.xsl"?>
+<root>
+<meta>
+<title>एकाक्षरनाममाला</title>
+<author>मलधारिगच्छीयश्रीसुधाकलशमुनि:</author>
+<bookFullName>अनेकार्थरत्नमञ्जूषायां श्रीसमयसुन्दरसन्दृब्धाष्टलक्षार्थीत्यादि नाना रत्नानि</bookFullName>
+<bookSeriesDetails>श्रेष्ठि लालभाइ जैनपुस्तकोद्धारे ग्रन्थाङ्कः ८१</bookSeriesDetails>
+<editor>सूर्यपुरवास्तव्यश्रीयुतरसिकदासतनुजः कापडियेत्युपाह्वो हीरालालः</editor>
+<editorQualifications>एम्. ए. इत्युपाधिविभूषितः सभाष्यसटीकतत्त्वार्थाधिगमसूत्रादिग्रन्थानां संशोधको न्यायकुसुमाञ्जल्यादिग्रन्थानां विवेचनात्मकभाषान्तरकर्ताऽऽर्हतदर्शनदीपिकायाः प्रणेता च ।</editorQualifications>
+<publisher>जीवनचन्द्र साकरचन्द्र जह्वेरीद्वारा श्रेष्ठि देवचन्द लालभाइ जैनपुस्तकोद्धारसंस्था</publisher>
+<pressDetails>रामचन्द्र येसू शेडगेद्वारा निर्णयसागराख्ययन्त्त्रालये मुद्रयित्वा प्रकाशितः</pressDetails>
+<publicationYear>1933 A.D.</publicationYear>
+<dataEntryBy>Dr. Dhaval Patel</dataEntryBy>
+<dataEntryEmail>drdhaval2785@gmail.com</dataEntryEmail>
+<proofReadBy>Dr. Dhaval Patel</proofReadBy>
+<proofReaderEmail>drdhaval2785@gmail.com</proofReaderEmail>
+<annotatedBy>Dr. Dhaval Patel</annotatedBy>
+<annotatorEmail>drdhaval2785@gmail.com</annotatorEmail>
+<version>1.0.0</version>
+<projectDetails>This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.</projectDetails>
+<projectWebPage>http://github.com/drdhaval2785/sanskrit-lexica-ocr</projectWebPage>
+<emailTo>drdhaval2785@gmail.com</emailTo>
+<description></description>
+<shortCode>ENSK</shortCode>
+<funding>Shree Ramkrishna Knowledge Foundation.</funding>
+<licence>GNU GPL v3.0</licence>
+<credits>1. SRKKF for funding. 2. Acharya Shri KailasaSagarsuri Gyanmandir for providing us the scanned book to digitize. 3. Dr. Dhaval Patel for spending time to digitize, proofread and anontate the data.</credits>
+<dataFormatDetails>See https://github.com/drdhaval2785/sanskrit-lexica-ocr/blob/master/docs/annotation_thoughts.md for details.</dataFormatDetails>
+<editorialChanges></editorialChanges>
+<nymic>homo</nymic>
+<pagenum>true</pagenum>
+<linenum>true</linenum>
+<chapterArrangements></chapterArrangements>
+<newVerseNumbersAtChangeOf>never</newVerseNumbersAtChangeOf>
+<newLineNumbersAtChangeOf>page</newLineNumbersAtChangeOf>
+<version0.0.1>15 March 2019</version0.0.1>
+<version0.0.2>15 March 2019</version0.0.2>
+<version0.0.3>15 March 2019</version0.0.3>
+<version0.0.4>12 May 2019</version0.0.4>
+<version0.1.0>12 May 2019</version0.1.0>
+<version0.2.0>12 May 2019</version0.2.0>
+<version0.2.1>12 May 2019</version0.2.1>
+<version0.2.2>12 May 2019</version0.2.2>
+<version0.3.0>12 May 2019</version0.3.0>
+<version0.3.1>12 May 2019</version0.3.1>
+<version0.3.2>19 May 2019</version0.3.2>
+<version0.3.3>19 May 2019</version0.3.3>
+<version0.3.4>25 May 2019</version0.3.4>
+<version0.3.5>25 May 2019</version0.3.5>
+<version0.3.6>25 May 2019</version0.3.6>
+<version1.0.0>25 May 2019</version1.0.0>
+</meta>
+<content>
+<word><headword>अ</headword><meanings><m>शार्ङ्गधारिन्</m></meanings><verse><line>अः पुंल्लिङ्गः शार्ङ्गधारिण्यस्वल्पार्थेऽव्ययः पुनः ।</line></verse><verseNumber>1.1.1.2</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>अ</headword><meanings><m>अस्वल्पार्थ</m></meanings><verse><line>अः पुंल्लिङ्गः शार्ङ्गधारिण्यस्वल्पार्थेऽव्ययः पुनः ।</line></verse><verseNumber>1.1.1.2</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>आ</headword><meanings><m>विरञ्चि</m></meanings><verse><line>विरञ्चावाश्च पुल्लिङ्ग आ वाक्ये स्मरणेऽव्ययः ॥ २ ॥</line></verse><verseNumber>1.1.1.2</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>आ</headword><meanings><m>वाक्य</m></meanings><verse><line>विरञ्चावाश्च पुल्लिङ्ग आ वाक्ये स्मरणेऽव्ययः ॥ २ ॥</line></verse><verseNumber>1.1.1.2</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>आ</headword><meanings><m>स्मरण</m></meanings><verse><line>विरञ्चावाश्च पुल्लिङ्ग आ वाक्ये स्मरणेऽव्ययः ॥ २ ॥</line></verse><verseNumber>1.1.1.2</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>आः</headword><meanings><m>सन्ताप</m><m>अव्यय</m><m>क्रुध्</m></meanings><verse><line>आः सन्तापेऽव्यये क्रुध्यामव्ययोऽधृतौ स्मृतौ ।</line></verse><verseNumber>1.1.1.3</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>आम्</headword><meanings><m>अवधृति</m><m>स्मृति</m></meanings><verse><line>आः सन्तापेऽव्यये क्रुध्यामव्ययोऽधृतौ स्मृतौ ।</line></verse><verseNumber>1.1.1.3</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>इ</headword><meanings><m>काम</m></meanings><verse><line>इः कामे पुल्लिङ्ग इ वाऽव्ययः कोपोक्तिखेदयोः ॥ ३ ॥</line></verse><verseNumber>1.1.1.3</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>इ</headword><meanings><m>कोपोक्ति</m><m>खेद</m></meanings><verse><line>इः कामे पुल्लिङ्ग इ वाऽव्ययः कोपोक्तिखेदयोः ॥ ३ ॥</line></verse><verseNumber>1.1.1.3</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>ई</headword><meanings><m>पद्मा</m></meanings><verse><line>ईः पद्मायामव्ययस्त्वी प्रत्यक्षे दुःखभावने ।</line><line>प्रकोपे सन्निधौ चैव पुल्लिङ्ग उर्वृषध्वजे ॥ ४ ॥</line></verse><verseNumber>1.1.1.4</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>ई</headword><meanings><m>प्रत्यक्ष</m><m>दुःखभावन</m><m>प्रकोप</m><m>सन्निधि</m></meanings><verse><line>ईः पद्मायामव्ययस्त्वी प्रत्यक्षे दुःखभावने ।</line><line>प्रकोपे सन्निधौ चैव पुल्लिङ्ग उर्वृषध्वजे ॥ ४ ॥</line></verse><verseNumber>1.1.1.4</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>उ</headword><meanings><m>वृषध्वज</m></meanings><verse><line>ईः पद्मायामव्ययस्त्वी प्रत्यक्षे दुःखभावने ।</line><line>प्रकोपे सन्निधौ चैव पुल्लिङ्ग उर्वृषध्वजे ॥ ४ ॥</line></verse><verseNumber>1.1.1.4</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>उ</headword><meanings><m>दोषोक्ति</m><m>मन्त्रण</m><m>अप्यर्थ</m></meanings><verse><line>दोषोक्तौ मन्त्रणेऽप्यर्थे त्वव्ययस्त्वं व्ययस्तथा ।</line><line>प्रश्ने चाङ्गीकृतौ रोषो पुल्लिङ्ग ऊस्तु रक्षणे ॥ ५ ॥</line></verse><verseNumber>1.1.1.5</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>उ</headword><meanings><m>व्यय</m><m>प्रश्न</m><m>अङ्गीकृति</m><m>रोष</m></meanings><verse><line>दोषोक्तौ मन्त्रणेऽप्यर्थे त्वव्ययस्त्वं व्ययस्तथा ।</line><line>प्रश्ने चाङ्गीकृतौ रोषो पुल्लिङ्ग ऊस्तु रक्षणे ॥ ५ ॥</line></verse><verseNumber>1.1.1.5</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>ऊ</headword><meanings><m>रक्षण</m></meanings><verse><line>दोषोक्तौ मन्त्रणेऽप्यर्थे त्वव्ययस्त्वं व्ययस्तथा ।</line><line>प्रश्ने चाङ्गीकृतौ रोषो पुल्लिङ्ग ऊस्तु रक्षणे ॥ ५ ॥</line></verse><verseNumber>1.1.1.5</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>ऊ</headword><meanings><m>प्रकोपोक्ति</m><m>प्रश्न</m></meanings><verse><line>ऊमव्ययः प्रकोपोक्तौ प्रश्ने ऋर्देवमातरि ।</line></verse><verseNumber>1.1.1.6</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>ऋ</headword><meanings><m>देवमातृ</m></meanings><verse><line>ऊमव्ययः प्रकोपोक्तौ प्रश्ने ऋर्देवमातरि ।</line></verse><verseNumber>1.1.1.6</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>ऋ</headword><meanings><m>कुत्सा</m><m>वचन</m></meanings><verse><line>अव्यय ऋ तु कुत्सायां वचनेऽपि तथैव च ॥ ६ ॥</line></verse><verseNumber>1.1.1.6</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>ॠ</headword><meanings><m>अज</m><m>दानवाञ्छा</m></meanings><verse><line>कुस्त्वजे दानवाञ्छायां ऌश्च स्याद् देवमातरि ।</line></verse><verseNumber>1.1.1.7</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>ऌ</headword><meanings><m>देवमातृ</m></meanings><verse><line>कुस्त्वजे दानवाञ्छायां ऌश्च स्याद् देवमातरि ।</line></verse><verseNumber>1.1.1.7</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>ॡ</headword><meanings><m>वाराही</m></meanings><verse><line>ॡर्वाराह्यां भवेदेस्तु विष्णावैस्तु वृषध्वजे ॥ ७ ॥</line></verse><verseNumber>1.1.1.7</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>ए</headword><meanings><m>विष्णु</m></meanings><verse><line>ॡर्वाराह्यां भवेदेस्तु विष्णावैस्तु वृषध्वजे ॥ ७ ॥</line></verse><verseNumber>1.1.1.7</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>ऐ</headword><meanings><m>वृषध्वज</m></meanings><verse><line>ॡर्वाराह्यां भवेदेस्तु विष्णावैस्तु वृषध्वजे ॥ ७ ॥</line></verse><verseNumber>1.1.1.7</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>ओ</headword><meanings><m>ऊर्ध्वलिङ्ग</m></meanings><verse><line>ओरूर्ध्वलिङ्ग आहूतावव्ययः स्यादनन्त औः ।</line></verse><verseNumber>1.1.1.8</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>ओ</headword><meanings><m>आहूति</m></meanings><verse><line>ओरूर्ध्वलिङ्ग आहूतावव्ययः स्यादनन्त औः ।</line></verse><verseNumber>1.1.1.8</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>औ</headword><meanings><m>अनन्त</m></meanings><verse><line>ओरूर्ध्वलिङ्ग आहूतावव्ययः स्यादनन्त औः ।</line></verse><verseNumber>1.1.1.8</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>औ</headword><meanings><m>सम्बोधन</m></meanings><verse><line>सम्बोधने चाव्यय औ परब्रह्मण्यमः शिवे ॥ ८ ॥</line></verse><verseNumber>1.1.1.8</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>औ</headword><meanings><m>परब्रह्मन्</m><m>शिव</m></meanings><verse><line>सम्बोधने चाव्यय औ परब्रह्मण्यमः शिवे ॥ ८ ॥</line></verse><verseNumber>1.1.1.8</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>क</headword><meanings><m>सूर्य</m><m>मित्र</m><m>वायु</m><m>अग्नि</m><m>ब्रह्मन्</m><m>आत्मन्</m><m>यम</m><m>केकिन्</m><m>प्रकाश</m><m>वक्त्र</m></meanings><verse><line>कः सूर्यमित्रवाय्वग्निब्रह्मात्मयमकेकिषु ।</line><line>प्रकाशवक्त्रयोश्चापि कं नीरसुर(ख)मूर्धसु ॥ ९ ॥</line></verse><verseNumber>1.1.1.9</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>क</headword><meanings><m>नीर</m><m>सुर</m><m>मूर्धन्</m></meanings><verse><line>कः सूर्यमित्रवाय्वग्निब्रह्मात्मयमकेकिषु ।</line><line>प्रकाशवक्त्रयोश्चापि कं नीरसुर(ख)मूर्धसु ॥ ९ ॥</line></verse><verseNumber>1.1.1.9</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>कु</headword><meanings><m>भू</m><m>कुत्सित</m><m>शब्द</m><m>पापीयस्</m><m>निवारण</m><m>ईषदर्थ</m></meanings><verse><line>कुर्भूकुत्सितशब्देषु पापीयसि निवारणे ।</line><line>ईषदर्थे च किंशब्दः कुत्सने क्षेपप्रश्नयोः ॥ १० ॥</line></verse><verseNumber>1.1.1.10</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>किम्</headword><meanings><m>कुत्सन</m><m>क्षेप</m><m>प्रश्न</m><m>वितर्क</m><m>आश्चर्य</m><m>निन्दा</m></meanings><verse><line>कुर्भूकुत्सितशब्देषु पापीयसि निवारणे ।</line><line>ईषदर्थे च किंशब्दः कुत्सने क्षेपप्रश्नयोः ॥ १० ॥</line></verse><verseNumber>1.1.1.10</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>किम्</headword><meanings><m>वितर्क</m><m>आश्चर्य</m><m>निन्दा</m></meanings><verse><line>वितर्काश्चर्यनिन्दासु किंशब्दः स्यात् कियानपि ।</line></verse><verseNumber>1.1.1.11</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>कियत्</headword><meanings><m>वितर्क</m><m>आश्चर्य</m><m>निन्दा</m></meanings><verse><line>वितर्काश्चर्यनिन्दासु किंशब्दः स्यात् कियानपि ।</line></verse><verseNumber>1.1.1.11</verseNumber><pageNumber>0119</pageNumber></word>
+<word><headword>ख</headword><meanings><m>इन्द्रिय</m><m>स्वर्ग</m><m>शून्य</m><m>भूप</m><m>आकाश</m><m>सुख</m></meanings><verse><line>खमिन्द्रियस्वर्गशून्यभूपाकाशसुखेषु च ॥ ११ ॥</line></verse><verseNumber>1.1.1.11</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>ख</headword><meanings><m>संविद्</m><m>शून्यखण्ड</m></meanings><verse><line>संविदि शून्यखण्डे च वर्तते खश्च भास्करे ।</line></verse><verseNumber>1.1.1.12</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>ख</headword><meanings><m>भास्कर</m></meanings><verse><line>संविदि शून्यखण्डे च वर्तते खश्च भास्करे ।</line></verse><verseNumber>1.1.1.12</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>ग</headword><meanings><m>गन्धर्व</m><m>गणेश</m><m>गीत</m><m>गातृ</m></meanings><verse><line>गो गन्धर्वे गणेशे च गीते गं गश्च गातरि ॥ १२ ॥</line></verse><verseNumber>1.1.1.12</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>ग</headword><meanings><m>गातृ</m></meanings><verse><line>गो गन्धर्वे गणेशे च गीते गं गश्च गातरि ॥ १२ ॥</line></verse><verseNumber>1.1.1.12</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>गो</headword><meanings><m>वाणी</m><m>बाण</m><m>भू</m><m>रश्मि</m><m>वज्र</m><m>स्वर्ग</m><m>अक्षि</m><m>वारि</m><m>दिश्</m><m>धेनु</m><m>श्रुतैश्वरी</m><m>गणेश</m></meanings><verse><line>गौर्वाणीबाणभूरश्मिवज्रस्वर्गाक्षिवारिषु ।</line><line>दिशि धेनौ श्रुतैश्वर्यां गणेशे वाऽपि गौः स्मृतः ॥ १३ ॥</line></verse><verseNumber>1.1.1.13</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>घु</headword><meanings><m>कुम्भ</m><m>हनन</m><m>घोष</m><m>अन्तर्भाव</m><m>किङ्किणी</m></meanings><verse><line>घुः कुम्भे हनने घोषान्तर्भावकिङ्किणीष्वपि ।</line></verse><verseNumber>1.1.1.14</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>ङ</headword><meanings><m>विषय</m><m>भैरव</m></meanings><verse><line>ङो विषये भैरवे च चस्तरौ चन्द्रचोरयोः ॥ १४ ॥</line></verse><verseNumber>1.1.1.14</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>च</headword><meanings><m>तरु</m><m>चन्द्र</m><m>चोर</m></meanings><verse><line>ङो विषये भैरवे च चस्तरौ चन्द्रचोरयोः ॥ १४ ॥</line></verse><verseNumber>1.1.1.14</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>चु</headword><meanings><m>चकोर</m></meanings><verse><line>चुश्चकोरे समाख्यातश्चकारः पुनरव्ययः ।</line><line>अन्योन्यार्थे विकल्पार्थे समासे पादपूरणे ॥ १५ ॥</line></verse><verseNumber>1.1.1.15</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>च</headword><meanings><m>अन्योन्यार्थ</m><m>विकल्पार्थ</m><m>समास</m><m>पादपूरण</m></meanings><verse><line>चुश्चकोरे समाख्यातश्चकारः पुनरव्ययः ।</line><line>अन्योन्यार्थे विकल्पार्थे समासे पादपूरणे ॥ १५ ॥</line></verse><verseNumber>1.1.1.15</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>च</headword><meanings><m>पक्षान्तर</m><m>समूहार्थ</m><m>हेतु</m><m>अवधृति</m><m>अन्वान्वय</m><m>तुल्ययोगिता</m></meanings><verse><line>पक्षान्तरे समूहार्थे हेताववधृतावपि ।</line><line>अन्वान्व(च)ये तथा तुल्ययोगितायां च कीर्तितः ॥ १६ ॥</line></verse><verseNumber>1.1.1.16</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>छ</headword><meanings><m>सूर्य</m><m>छेदक</m><m>संवरण</m></meanings><verse><line>छः सूर्ये छेदके ख्यातस्तथा संवरणे भवेत् ।</line></verse><verseNumber>1.1.1.17</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>छ</headword><meanings><m>छन्दस्</m><m>तडित्</m><m>निर्मल</m></meanings><verse><line>छं च छन्दसि तडिति निर्मले च तथा स्मृतः ॥ १७ ॥</line></verse><verseNumber>1.1.1.17</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>ज</headword><meanings><m>जेतृ</m><m>जनन</m><m>विगत</m></meanings><verse><line>जश्च जेतरि जनने विगते जिस्तु जेतरि ।</line></verse><verseNumber>1.1.1.18</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>जि</headword><meanings><m>जेतृ</m></meanings><verse><line>जश्च जेतरि जनने विगते जिस्तु जेतरि ।</line></verse><verseNumber>1.1.1.18</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>जू</headword><meanings><m>विहायस्</m><m>जवन</m><m>पिशाची</m><m>विगत</m></meanings><verse><line>जूर्विहायसि जवने पिशाच्यां विगतेऽपि च ॥ १८ ॥</line></verse><verseNumber>1.1.1.18</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>झ</headword><meanings><m>नक्तं गायने</m><m>नष्ट</m><m>घर्घरध्वनिनामन्</m><m>चारुवाक्</m><m>चोर</m><m>व्यूहित</m><m>गूढरूपक</m></meanings><verse><line>झो नक्तं गायने नष्टे घर्घरध्वनिनामनि ।</line><line>चारुवाक्चरयोर्झस्तु व्यूहिते गूढरूपके ॥ १९ ॥</line></verse><verseNumber>1.1.1.19</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>ट</headword><meanings><m>पृथिवी</m><m>ध्वनि</m><m>वायु</m><m>करङ्क</m></meanings><verse><line>टः पृथिव्यां ध्वनौ वायौ करके टं पुनर्भुवि ।</line><line>चकोरेऽब्दे तथा ठस्तु घेण्टे शून्ये बृहद्वनौ ॥ २० ॥</line></verse><verseNumber>1.1.1.20</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>ट</headword><meanings><m>भू</m><m>चकोर</m><m>अब्द</m></meanings><verse><line>टः पृथिव्यां ध्वनौ वायौ करके टं पुनर्भुवि ।</line><line>चकोरेऽब्दे तथा ठस्तु घेण्टे शून्ये बृहद्वनौ ॥ २० ॥</line></verse><verseNumber>1.1.1.20</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>ठ</headword><meanings><m>घण्ट</m><m>शून्य</m><m>बृहद्ध्वनि</m></meanings><verse><line>टः पृथिव्यां ध्वनौ वायौ करके टं पुनर्भुवि ।</line><line>चकोरेऽब्दे तथा ठस्तु घेण्टे शून्ये बृहद्वनौ ॥ २० ॥</line></verse><verseNumber>1.1.1.20</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>ठ</headword><meanings><m>चन्द्रस्य मण्डल</m><m>रुद्र</m><m>वृषाङ्क</m><m>ध्वनि</m><m>बन्दिवृन्द</m></meanings><verse><line>चन्द्रस्य मण्डले रुद्रेऽथो वृषाङ्के ध्वनावपि ।</line><line>बन्दिवृन्दे तथा डः स्यात् यामिनीपतिमण्डले ॥ २१ ॥</line></verse><verseNumber>1.1.1.21</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>ड</headword><meanings><m>यामिनीपतिमण्डल</m></meanings><verse><line>चन्द्रस्य मण्डले रुद्रेऽथो वृषाङ्के ध्वनावपि ।</line><line>बन्दिवृन्दे तथा डः स्यात् यामिनीपतिमण्डले ॥ २१ ॥</line></verse><verseNumber>1.1.1.21</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>ढ</headword><meanings><m>ढक्का</m></meanings><verse><line>ढो ढक्कायां समाख्यातस्तथा ढा निर्गुणे ध्वनौ ।</line></verse><verseNumber>1.1.1.22</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>ढा</headword><meanings><m>निर्गुण</m><m>ध्वनि</m></meanings><verse><line>ढो ढक्कायां समाख्यातस्तथा ढा निर्गुणे ध्वनौ ।</line></verse><verseNumber>1.1.1.22</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>ण</headword><meanings><m>प्रकट</m><m>निष्फल</m><m>प्रस्तुत</m><m>ज्ञान</m><m>बन्ध</m></meanings><verse><line>णः प्रकटे निष्फले च प्रस्तुते ज्ञानबन्धयोः ॥ २२ ॥</line></verse><verseNumber>1.1.1.22</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>त</headword><meanings><m>तस्कर</m><m>युद्ध</m><m>क्रोड</m><m>पुच्छ</m></meanings><verse><line>तकारस्तस्करे युद्धे क्रोडे पुच्छे च ता श्रियाम् ।</line></verse><verseNumber>1.1.1.23</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>ता</headword><meanings><m>श्री</m></meanings><verse><line>तकारस्तस्करे युद्धे क्रोडे पुच्छे च ता श्रियाम् ।</line></verse><verseNumber>1.1.1.23</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>तु</headword><meanings><m>पूर्व</m><m>निवृत्ति</m><m>पूर्वस्माद् अवधारण</m></meanings><verse><line>तुः स्यात् पूर्वे निवृत्तौ च पूर्वस्मादवधारणे ॥ २३ ॥</line></verse><verseNumber>1.1.1.23</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>तु</headword><meanings><m>विलक्षण</m><m>विकल्पार्थ</m></meanings><verse><line>विलक्षणे विकल्पार्थे थो भवेद् भयरक्षणे ।</line></verse><verseNumber>1.1.1.24</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>थ</headword><meanings><m>भयरक्षण</m><m>भूधर</m><m>भार</m></meanings><verse><line>विलक्षणे विकल्पार्थे थो भवेद् भयरक्षणे ।</line></verse><verseNumber>1.1.1.24</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>द</headword><meanings><m>दान</m><m>दायक</m></meanings><verse><line>विलक्षणे विकल्पार्थे थो भवेद् भयरक्षणे ।</line></verse><verseNumber>1.1.1.24</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>दा</headword><meanings><m>दान</m><m>दातृ</m><m>छेद</m><m>बन्ध</m></meanings><verse><line>दाने दातरि दा केचिद् विदुर्दा छेदबन्धयोः ।</line></verse><verseNumber>1.1.1.25</verseNumber><pageNumber>0120</pageNumber></word>
+<word><headword>द</headword><meanings><m>कलत्र</m></meanings><verse><line>दं कलत्रं तथा धं च धीरे च धनदे धने ॥ २५ ॥</line></verse><verseNumber>1.1.1.25</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>ध</headword><meanings><m>धीर</m><m>धनद</m><m>धन</m></meanings><verse><line>दं कलत्रं तथा धं च धीरे च धनदे धने ॥ २५ ॥</line></verse><verseNumber>1.1.1.25</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>ध</headword><meanings><m>चित्र</m><m>अश्ववार</m></meanings><verse><line>धस्तु चित्रेऽश्ववारे च धीर्बुद्धाविषुधावपि ।</line></verse><verseNumber>1.1.1.26</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>धी</headword><meanings><m>बुद्धि</m><m>इषुधि</m></meanings><verse><line>धस्तु चित्रेऽश्ववारे च धीर्बुद्धाविषुधावपि ।</line></verse><verseNumber>1.1.1.26</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>धृ</headword><meanings><m>गुह्यकेश</m><m>विरञ्चि</m></meanings><verse><line>गुह्यकेशे विरञ्चौ धा तथा धूर्भारकम्पयोः ॥ २६ ॥</line></verse><verseNumber>1.1.1.26</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>धू</headword><meanings><m>भार</m><m>कम्प</m></meanings><verse><line>गुह्यकेशे विरञ्चौ धा तथा धूर्भारकम्पयोः ॥ २६ ॥</line></verse><verseNumber>1.1.1.26</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>धू</headword><meanings><m>धुरा</m><m>कम्पन</m></meanings><verse><line>धूर्ते धुरा कम्पने च नो बुद्धौ ज्ञानबन्धयोः ।</line></verse><verseNumber>1.1.1.27</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>न</headword><meanings><m>बुद्धौ</m><m>ज्ञान</m><m>बन्ध</m></meanings><verse><line>धूर्ते धुरा कम्पने च नो बुद्धौ ज्ञानबन्धयोः ।</line></verse><verseNumber>1.1.1.27</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>नः</headword><meanings><m>अस्मान्</m><m>अस्मभ्यम्</m><m>अस्माकम्</m></meanings><verse><line>अस्मानमभ्यममाकमेषां स्थाने भवेञ्च नः ॥ २७ ॥</line></verse><verseNumber>1.1.1.27</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>नो</headword><meanings><m>निषेधार्थ</m></meanings><verse><line>निषेधार्थेऽव्ययो नो च नकारस्तु नरस्तु ना ।</line></verse><verseNumber>1.1.1.28</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>न</headword><meanings><m>निषेधार्थ</m></meanings><verse><line>निषेधार्थेऽव्ययो नो च नकारस्तु नरस्तु ना ।</line></verse><verseNumber>1.1.1.28</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>नृ</headword><meanings><m>नर</m></meanings><verse><line>निषेधार्थेऽव्ययो नो च नकारस्तु नरस्तु ना ।</line></verse><verseNumber>1.1.1.28</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>नि</headword><meanings><m>श्रुत</m><m>नेतृ</m></meanings><verse><line>निः श्रुते नेतरि ख्यातौ नुः स्तुतावव्ययस्तु नौ ॥ २८ ॥</line></verse><verseNumber>1.1.1.28</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>नु</headword><meanings><m>स्तुति</m></meanings><verse><line>निः श्रुते नेतरि ख्यातौ नुः स्तुतावव्ययस्तु नौ ॥ २८ ॥</line></verse><verseNumber>1.1.1.28</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>नौ</headword><meanings><m>?</m></meanings><verse><line>निः श्रुते नेतरि ख्यातौ नुः स्तुतावव्ययस्तु नौ ॥ २८ ॥</line></verse><verseNumber>1.1.1.28</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>नि</headword><meanings><m>क्षय</m><m>नित्यार्थ</m><m>भृशार्थ</m><m>आश्रय</m><m>राशि</m><m>कौशल</m><m>बन्धन</m><m>मोक्ष</m><m>दानकर्मन्</m></meanings><verse><line>निः स्यात् क्षये च नित्यार्थे भृशार्थाश्रयराशिषु ।</line><line>कौशले बन्धने मोक्षे संशये दानकर्मणि ॥ २९ ॥</line></verse><verseNumber>1.1.1.29</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>नि</headword><meanings><m>अधोभाव</m><m>उपरम</m><m>सन्निधान</m></meanings><verse><line>अधोभावोपरमयोः सन्निधानेऽव्ययो मतः ।</line></verse><verseNumber>1.1.1.30</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>नु</headword><meanings><m>प्रश्न</m><m>वितर्क</m><m>विकल्प</m><m>अनुशय</m></meanings><verse><line>नुः प्रश्ने च वितर्के च विकल्पेऽनुशयेऽव्ययः ॥ ३० ॥</line></verse><verseNumber>1.1.1.30</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>नौ</headword><meanings><m>तरणी</m></meanings><verse><line>तरण्यां नौस्तथा ख्यातः पः पाने पवने पथि ।</line><line>प्रौढे च वर्णके पश्च पा पातरि तथा श्रुते ॥ ३१ ॥</line></verse><verseNumber>1.1.1.31</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>प</headword><meanings><m>पान</m><m>पवन</m><m>पथन्</m><m>प्रौढ</m><m>वर्णक</m></meanings><verse><line>तरण्यां नौस्तथा ख्यातः पः पाने पवने पथि ।</line><line>प्रौढे च वर्णके पश्च पा पातरि तथा श्रुते ॥ ३१ ॥</line></verse><verseNumber>1.1.1.31</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>पा</headword><meanings><m>पातृ</m><m>श्रुते</m></meanings><verse><line>तरण्यां नौस्तथा ख्यातः पः पाने पवने पथि ।</line><line>प्रौढे च वर्णके पश्च पा पातरि तथा श्रुते ॥ ३१ ॥</line></verse><verseNumber>1.1.1.31</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>फ</headword><meanings><m>निष्फल</m><m>जल्प</m><m>पुष्कर</m><m>भयरक्षण</m><m>झञ्झावात</m><m>फल</m><m>फेन</m></meanings><verse><line>फूत्कार</line><line>फकारो निष्फले जल्पे पुष्करे भयरक्षणे ।</line><line>झंझावाते फले फेने फूत्कारे फूस्तथोदितः ॥ ३२ ॥</line></verse><verseNumber>1.1.1.32</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>ब</headword><meanings><m>वरुण</m><m>पद्म</m><m>कलह</m><m>विगति</m></meanings><verse><line>बकारो वरुणे पद्मे कलहे विगतौ तथा ।</line></verse><verseNumber>1.1.1.33</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>भ</headword><meanings><m>आलि</m><m>शुक्र</m><m>दीप्तौ</m></meanings><verse><line>भश्चालिशुक्रयोर्भावे भश्च दीप्तौ भये च भीः ॥ ३३ ॥</line></verse><verseNumber>1.1.1.33</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>भी</headword><meanings><m>भय</m></meanings><verse><line>भश्चालिशुक्रयोर्भावे भश्च दीप्तौ भये च भीः ॥ ३३ ॥</line></verse><verseNumber>1.1.1.33</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>भ</headword><meanings><m>धिष्ण्य</m></meanings><verse><line>भं धिष्ण्ये भूर्भुवि स्थाने मश्चन्द्रे तु विधौ शिवे ।</line></verse><verseNumber>1.1.1.34</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>भू</headword><meanings><m>भू</m><m>स्थान</m></meanings><verse><line>भं धिष्ण्ये भूर्भुवि स्थाने मश्चन्द्रे तु विधौ शिवे ।</line></verse><verseNumber>1.1.1.34</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>म</headword><meanings><m>चन्द्र</m><m>विधि</m><m>शिव</m></meanings><verse><line>भं धिष्ण्ये भूर्भुवि स्थाने मश्चन्द्रे तु विधौ शिवे ।</line></verse><verseNumber>1.1.1.34</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>मू</headword><meanings><m>मौलि</m><m>बन्धन</m></meanings><verse><line>मौलौ च बन्धने मूः स्यात् मा माने वारणेऽव्ययः ॥ ३४ ॥</line></verse><verseNumber>1.1.1.34</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>मा</headword><meanings><m>मान</m><m>वारण</m></meanings><verse><line>मौलौ च बन्धने मूः स्यात् मा माने वारणेऽव्ययः ॥ ३४ ॥</line></verse><verseNumber>1.1.1.34</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>मा</headword><meanings><m>अस्मच्छब्दे द्वितीयायाम्</m></meanings><verse><line>अस्मच्छब्दे द्वितीयायां मा च षष्ठ्यां च मे पुनः ।</line></verse><verseNumber>1.1.1.35</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>मे</headword><meanings><m>मम</m></meanings><verse><line>अस्मच्छब्दे द्वितीयायां मा च षष्ठ्यां च मे पुनः ।</line></verse><verseNumber>1.1.1.35</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>मा</headword><meanings><m>मातृ</m><m>लक्ष्मी</m></meanings><verse><line>मा मातरि तथा लक्ष्म्यां यस्तु वाते यमेऽपि च ॥ ३५ ॥</line></verse><verseNumber>1.1.1.35</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>य</headword><meanings><m>वात</m><m>यम</m></meanings><verse><line>मा मातरि तथा लक्ष्म्यां यस्तु वाते यमेऽपि च ॥ ३५ ॥</line></verse><verseNumber>1.1.1.35</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>य</headword><meanings><m>धातृ</m><m>पशु</m></meanings><verse><line>धातर्यपि पशौ यं स्यात् या याने यातरि श्रियाम् ।</line><line>खट्वाङ्गेऽपि च रः कामे तीक्ष्णे वैश्वानरे नरे ॥ ३६ ॥</line></verse><verseNumber>1.1.1.36</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>या</headword><meanings><m>यान</m><m>यातृ</m><m>श्री</m><m>खट्वाङ्ग</m></meanings><verse><line>धातर्यपि पशौ यं स्यात् या याने यातरि श्रियाम् ।</line><line>खट्वाङ्गेऽपि च रः कामे तीक्ष्णे वैश्वानरे नरे ॥ ३६ ॥</line></verse><verseNumber>1.1.1.36</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>र</headword><meanings><m>काम</m><m>तीक्ष्ण</m><m>वैश्वानर</m><m>नर</m></meanings><verse><line>धातर्यपि पशौ यं स्यात् या याने यातरि श्रियाम् ।</line><line>खट्वाङ्गेऽपि च रः कामे तीक्ष्णे वैश्वानरे नरे ॥ ३६ ॥</line></verse><verseNumber>1.1.1.36</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>र</headword><meanings><m>राम</m><m>वज्र</m><m>शब्द</m></meanings><verse><line>रामे वज्रे च शब्दे स्यात् रा द्रव्ये कनके पुनः ।</line><line>आश्रये नीरदे च स्यात् रुः सूर्ये रक्षणेऽपि च ॥ ३७ ॥</line></verse><verseNumber>1.1.1.37</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>रा</headword><meanings><m>द्रव्य</m><m>कनक</m><m>आश्रय</m><m>नीरद</m></meanings><verse><line>रामे वज्रे च शब्दे स्यात् रा द्रव्ये कनके पुनः ।</line><line>आश्रये नीरदे च स्यात् रुः सूर्ये रक्षणेऽपि च ॥ ३७ ॥</line></verse><verseNumber>1.1.1.37</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>रु</headword><meanings><m>सूर्य</m><m>रक्षण</m></meanings><verse><line>रामे वज्रे च शब्दे स्यात् रा द्रव्ये कनके पुनः ।</line><line>आश्रये नीरदे च स्यात् रुः सूर्ये रक्षणेऽपि च ॥ ३७ ॥</line></verse><verseNumber>1.1.1.37</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>रु</headword><meanings><m>भय</m><m>शब्द</m></meanings><verse><line>भये शब्दे च री भ्रान्तौ लकारश्चलने पुनः ।</line></verse><verseNumber>1.1.1.38</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>री</headword><meanings><m>भ्रान्ति</m></meanings><verse><line>भये शब्दे च री भ्रान्तौ लकारश्चलने पुनः ।</line></verse><verseNumber>1.1.1.38</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>ल</headword><meanings><m>चलन</m></meanings><verse><line>भये शब्दे च री भ्रान्तौ लकारश्चलने पुनः ।</line></verse><verseNumber>1.1.1.38</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>ला</headword><meanings><m>दान</m></meanings><verse><line>ला दाने लूश्च लवने लश्च लौश्च विडौजसि ॥ ३८ ॥</line></verse><verseNumber>1.1.1.38</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>लू</headword><meanings><m>लवन</m></meanings><verse><line>ला दाने लूश्च लवने लश्च लौश्च विडौजसि ॥ ३८ ॥</line></verse><verseNumber>1.1.1.38</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>ल</headword><meanings><m>विडौजस्</m></meanings><verse><line>ला दाने लूश्च लवने लश्च लौश्च विडौजसि ॥ ३८ ॥</line></verse><verseNumber>1.1.1.38</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>लौ</headword><meanings><m>विडौजस्</m></meanings><verse><line>ला दाने लूश्च लवने लश्च लौश्च विडौजसि ॥ ३८ ॥</line></verse><verseNumber>1.1.1.38</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>ल</headword><meanings><m>अमृत</m><m>दिशा</m></meanings><verse><line>लश्चामृते दिशायां च लीः श्लेषे वलये तथा ।</line></verse><verseNumber>1.1.1.39</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>ली</headword><meanings><m>श्लेष</m><m>वलय</m></meanings><verse><line>लश्चामृते दिशायां च लीः श्लेषे वलये तथा ।</line></verse><verseNumber>1.1.1.39</verseNumber><pageNumber>0121</pageNumber></word>
+<word><headword>व</headword><meanings><m>वात</m><m>वरुण</m><m>रुद्र</m><m>सान्त्वन</m></meanings><verse><line>वो वाते वरुणे रुद्रे सान्त्वने वाऽव्ययः पुनः ॥ ३९ ॥</line></verse><verseNumber>1.1.1.39</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>व</headword><meanings><m>पदार्थ</m><m>उपमान</m><m>विकल्प</m><m>समुच्चय</m></meanings><verse><line>पदार्थ उपमाने च विकल्पे च समुच्चये ।</line></verse><verseNumber>1.1.1.40</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>वि</headword><meanings><m>श्रेष्ठ</m><m>अतीत</m><m>नानार्थ</m></meanings><verse><line>विः श्रेष्ठेऽतीते नानार्थे वै हेतौ पादपूरणे ॥ ४० ॥</line></verse><verseNumber>1.1.1.40</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>वै</headword><meanings><m>हेतु</m><m>पादपूरण</m></meanings><verse><line>विः श्रेष्ठेऽतीते नानार्थे वै हेतौ पादपूरणे ॥ ४० ॥</line></verse><verseNumber>1.1.1.40</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>वः</headword><meanings><m>युष्मान्</m><m>युष्मभ्यम्</m><m>युष्माकम्</m></meanings><verse><line>द्वितीयायाश्चतुर्थ्याश्च षष्ठ्या युष्मद्बहुत्वके ।</line><line>वश्चासां तु विभक्तीनां द्वित्वे वां कथितो बुधैः ॥ ४१ ॥</line></verse><verseNumber>1.1.1.41</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>वाम्</headword><meanings><m>युवाम्</m><m>युष्माभ्याम्</m><m>युवयोः</m></meanings><verse><line>द्वितीयायाश्चतुर्थ्याश्च षष्ठ्या युष्मद्बहुत्वके ।</line><line>वश्चासां तु विभक्तीनां द्वित्वे वां कथितो बुधैः ॥ ४१ ॥</line></verse><verseNumber>1.1.1.41</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>वि</headword><meanings><m>आकाश</m><m>विहग</m></meanings><verse><line>आकाशे विहगे विश्च शं श्रेयसि सुखेऽव्ययः ।</line></verse><verseNumber>1.1.1.42</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>शम्</headword><meanings><m>श्रेयस्</m><m>सुख</m></meanings><verse><line>आकाशे विहगे विश्च शं श्रेयसि सुखेऽव्ययः ।</line></verse><verseNumber>1.1.1.42</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>शा</headword><meanings><m>शान्त</m><m>सास्ना</m></meanings><verse><line>शा तु शान्ते च सास्नायां शीः शये हिंसनेऽपि च ॥ ४२ ॥</line></verse><verseNumber>1.1.1.42</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>शी</headword><meanings><m>शय</m><m>हिंसन</m></meanings><verse><line>शा तु शान्ते च सास्नायां शीः शये हिंसनेऽपि च ॥ ४२ ॥</line></verse><verseNumber>1.1.1.42</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>शु</headword><meanings><m>चन्द्र</m></meanings><verse><line>शुश्चन्द्रे षः सदारः स्यात् तथेष्टे प्रसवे तु षूः ।</line></verse><verseNumber>1.1.1.43</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>ष</headword><meanings><m>सदार</m></meanings><verse><line>शुश्चन्द्रे षः सदारः स्यात् तथेष्टे प्रसवे तु षूः ।</line></verse><verseNumber>1.1.1.43</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>षू</headword><meanings><m>इष्ट</m><m>प्रसव</m></meanings><verse><line>शुश्चन्द्रे षः सदारः स्यात् तथेष्टे प्रसवे तु षूः ।</line></verse><verseNumber>1.1.1.43</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>स</headword><meanings><m>सूर्य</m><m>परोक्ष</m></meanings><verse><line>सः सूर्ये च परोक्षे च सं शङ्का वाऽव्ययस्तु सः ॥ ४३ ॥</line></verse><verseNumber>1.1.1.43</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>स</headword><meanings><m>शङ्का</m></meanings><verse><line>सः सूर्ये च परोक्षे च सं शङ्का वाऽव्ययस्तु सः ॥ ४३ ॥</line></verse><verseNumber>1.1.1.43</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>स</headword><meanings><m>सङ्गार्थ</m><m>शोभनार्थ</m><m>प्रकृष्टार्थ</m><m>समर्थ</m></meanings><verse><line>सङ्गार्थे शोभनार्थे च प्रकृष्टार्थसमर्थयोः ।</line></verse><verseNumber>1.1.1.44</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>स</headword><meanings><m>प्रथमान्ततद्</m></meanings><verse><line>प्रथमान्ततदः स्थाने स्मृतौ लक्ष्म्यां च सोच्यते ॥ ४४ ॥</line></verse><verseNumber>1.1.1.44</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>सा</headword><meanings><m>स्मृति</m><m>लक्ष्मी</m></meanings><verse><line>प्रथमान्ततदः स्थाने स्मृतौ लक्ष्म्यां च सोच्यते ॥ ४४ ॥</line></verse><verseNumber>1.1.1.44</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>ह</headword><meanings><m>शूलिन्</m><m>कर</m><m>नीर</m><m>क्रोधगर्भप्रभाषण</m><m>निवास</m></meanings><verse><line>हः शूलिनि करे नीरे क्रोधगर्भप्रभाषणे ।</line><line>निवासेऽथाव्ययो हः स्यात् सम्बुद्धौ पादपूरणे ॥ ४५ ॥</line></verse><verseNumber>1.1.1.45</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>ह</headword><meanings><m>सम्बुद्धि</m><m>पादपूरण</m></meanings><verse><line>हः शूलिनि करे नीरे क्रोधगर्भप्रभाषणे ।</line><line>निवासेऽथाव्ययो हः स्यात् सम्बुद्धौ पादपूरणे ॥ ४५ ॥</line></verse><verseNumber>1.1.1.45</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>हा</headword><meanings><m>शोक</m><m>दुःख</m><m>विषाद</m></meanings><verse><line>अव्ययो हा स्मृतः शोके तथा दुःखविषादयोः ।</line></verse><verseNumber>1.1.1.46</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>हि</headword><meanings><m>हेतु</m><m>पादपूर्ति</m><m>विशेष</m><m>अवधारण</m></meanings><verse><line>हि हेतौ पादपूर्तौ च विशेषे चावधारणे ॥ ४६ ॥</line></verse><verseNumber>1.1.1.46</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>हि</headword><meanings><m>स्फुट</m><m>दान</m></meanings><verse><line>स्फुटे दानेऽथाव्ययो ही दुःखहेतौ च विस्मये ।</line><line>विषादे चाव्ययो हं त्वनुनये कोपभाषणे ॥ ४७ ॥</line></verse><verseNumber>1.1.1.47</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>ही</headword><meanings><m>दुःखहेतु</m><m>विस्मय</m><m>विषाद</m></meanings><verse><line>स्फुटे दानेऽथाव्ययो ही दुःखहेतौ च विस्मये ।</line><line>विषादे चाव्ययो हं त्वनुनये कोपभाषणे ॥ ४७ ॥</line></verse><verseNumber>1.1.1.47</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>हम्</headword><meanings><m>अनुनय</m><m>कोपभाषण</m></meanings><verse><line>स्फुटे दानेऽथाव्ययो ही दुःखहेतौ च विस्मये ।</line><line>विषादे चाव्ययो हं त्वनुनये कोपभाषणे ॥ ४७ ॥</line></verse><verseNumber>1.1.1.47</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>हुम्</headword><meanings><m>परिप्रश्न</m><m>वितर्क</m></meanings><verse><line>हुमव्ययः परिप्रश्ने वितर्के वचने तु हौ ।</line></verse><verseNumber>1.1.1.48</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>हौ</headword><meanings><m>वचन</m></meanings><verse><line>हुमव्ययः परिप्रश्ने वितर्के वचने तु हौ ।</line></verse><verseNumber>1.1.1.48</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>हे</headword><meanings><m>कुत्सा</m><m>हेतु</m><m>सम्बोधन</m></meanings><verse><line>हे कुत्सायां तथा हे तु हेतौ सम्बोधने तु हौ ॥ ४८ ॥</line></verse><verseNumber>1.1.1.48</verseNumber><pageNumber>0122</pageNumber></word>
+<word><headword>हौ</headword><meanings><m>सम्बोधन</m></meanings><verse><line>हे कुत्सायां तथा हे तु हेतौ सम्बोधने तु हौ ॥ ४८ ॥</line></verse><verseNumber>1.1.1.48</verseNumber><pageNumber>0122</pageNumber></word>
+</content>
+</root>

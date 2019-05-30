@@ -1,0 +1,12 @@
+cd ..
+mkdir $1
+cd $1
+mkdir orig
+mkdir babylon
+mkdir md
+mkdir xml
+mkdir html
+mkdir sample
+mkdir json
+touch orig/$1_googleocr.txt
+cd ../scripts
