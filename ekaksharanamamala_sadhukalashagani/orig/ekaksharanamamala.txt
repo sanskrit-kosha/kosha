@@ -16,14 +16,14 @@
 ;annotatorEmail{drdhaval2785@gmail.com}
 ;version{1.0.0}
 ;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
-;projectWebPage{http://github.com/drdhaval2785/sanskrit-lexica-ocr}
+;projectWebPage{https://github.com/sanskrit-kosha/kosha/}
 ;emailTo{drdhaval2785@gmail.com}
 ;description{}
 ;shortCode{ENSK}
 ;funding{Shree Ramkrishna Knowledge Foundation.}
 ;licence{GNU GPL v3.0}
 ;credits{1. SRKKF for funding. 2. Acharya Shri KailasaSagarsuri Gyanmandir for providing us the scanned book to digitize. 3. Dr. Dhaval Patel for spending time to digitize, proofread and anontate the data.}
-;dataFormatDetails{See https://github.com/drdhaval2785/sanskrit-lexica-ocr/blob/master/docs/annotation_thoughts.md for details.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
 ;editorialChanges{}
 ;nymic{homo}
 ;pagenum{true}
