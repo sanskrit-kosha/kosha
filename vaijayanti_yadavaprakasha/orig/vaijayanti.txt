@@ -16,7 +16,7 @@
 ;annotatorEmail{}
 ;version{0.1.0}
 ;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
-;projectWebPage{http://github.com/drdhaval2785/sanskrit-lexica-ocr}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
 ;emailTo{drdhaval2785@gmail.com}
 ;description{}
 ;shortCode{VJYP}
