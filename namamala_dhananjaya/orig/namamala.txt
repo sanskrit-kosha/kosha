@@ -8,7 +8,7 @@
 ;publisher{अयोध्याप्रसाद गोयलीय, मन्त्री, भारतीय ज्ञानपीठ काशी, दुर्गाकुण्ड रोड, बनारस सिटी}
 ;pressDetails{पं० पृथ्वीनाथ भार्गव, भार्गव भूषण प्रेस, गायघाट, काशी}
 ;publicationYear{1950 A.D.}
-;dataEntryBy{Sansknet Project retrieved from https://www.wilbourhall.org/sansknet/index.html}
+;dataEntryBy{Dr. P. Srinivas, Lecturer in Vyakarana, S.V.V.V.S.College, Bowenpally, Secunderabad, A.P.500011 as part of Sansknet Project - retrieved from https://www.wilbourhall.org/sansknet/index.html}
 ;dataEntryEmail{}
 ;proofReadBy{Dr. Dhaval Patel}
 ;proofReaderEmail{drdhaval2785@gmail.com}
