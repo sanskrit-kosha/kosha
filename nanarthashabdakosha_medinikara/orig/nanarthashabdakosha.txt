@@ -1,7 +1,7 @@
 ;METADATA
 ;title{नानार्थशब्दकोष or मेदिनीकोष}
 ;author{मेदिनीकार}
-;bookFullName{Nānārthaśabdakoṣa or Medinikoṣa by Śrī Medinikara, Edited with an Introduction, Index etc.}
+;bookFullName{Nānārthaśabdakoṣa or ंedinīkoṣa by Śrī ंMedinīkāra, Edited with an Introduction, Index etc.}
 ;bookSeriesDetails{Kāshī Sanskrit Series (Haridās Sanskrit Granthamālā) 41. (Lexicography Section, No. 1)}
 ;editor{Pt. Jagannāth Śāstri Hoshing}
 ;editorQualifications{Sāhityāchārya}
