@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 import codecs
 import sys
 import re
@@ -30,14 +32,19 @@ class Error:
 		self.kanda = ''
 		self.varga = ''
 		self.lastverse = 0
+		self.singleDanda = False
+		self.doubleDanda = True
 
 	def _addpages(self, line):
 		if line.startswith(';p{'):
 			(tag, pagenum) = extract_tag(line)
 			pagenum = int(pagenum)
+			#print(pagenum)
 			if (pagenum != self.lastpage + 1) and self.lastpage != 0:
 				print('Page numbering error.')
-				print('{} can not follow {}').format(pagenum, self.lastpage)
+				print(pagenum)
+				print('can not follow')
+				print(self.lastpage)
 			self.pages.append(pagenum)
 			self.lastpage = pagenum
 
@@ -70,7 +77,22 @@ class Error:
 				print('Verse number error.')
 				print('On page {}, {} can not follow {}'.format(self.lastpage, verseNum, self.lastverse))
 			self.lastverse = verseNum
-			
+
+	def _verse_end_check(self, line):
+		if line.startswith(';'):
+			pass
+		elif re.search('।\n', line):
+			if not self.doubleDanda:
+				print('Single danda does not follow double danda.')
+				print(self.lastpage, line)
+			self.singleDanda = True
+			self.doubleDanda = False
+		elif re.search('॥\n', line):
+			if not self.singleDanda:
+				print('Double danda does not follow single danda.')
+				print(self.lastpage, line)
+			self.doubleDanda = True
+			self.singleDanda = False
 
 if __name__ == "__main__":
 	filein = sys.argv[1]
@@ -87,7 +109,13 @@ if __name__ == "__main__":
 		errors._identify_extra_spaces(line)
 		errors._identify_missing_spaces(line)
 		errors._verse_number_mismatch(line)
+		errors._verse_end_check(line)
 	print('Chapter names extracted from txt file')
 	for (chapter, chaptername) in errors.chapters:
-		print(chapter, chaptername)
+		if chapter == 'k':
+			print(chapter, chaptername)
+		elif chapter == 'v':
+			print('\t', chapter, chaptername)
+		elif chapter == 'vv':
+			print('\t', '\t', chapter, chaptername)
 

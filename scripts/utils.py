@@ -1,7 +1,9 @@
+# -*- coding: utf-8 -*-
 import codecs
 import re
 import json
-
+from datetime import datetime
+from indic_transliteration.sanscript import transliterate
 """
 Holds different reusable utilities for other programs.
 """
@@ -68,3 +70,71 @@ def code_to_dict(code):
 	with codecs.open('dictcode.json', 'r', 'utf-8') as fin:
 		dictdata = json.load(fin)
 	return dictdata[code]
+
+def timestamp():
+	return datetime.now()
+
+
+class VerseInfo():
+	"""Hold the information regarding current verse being handled."""
+
+	def __init__(self):
+		"""Initialize with default values."""
+		self.kanda = ''
+		self.varga = ''
+		self.subvarga = ''
+		self.kandaNum = 1
+		self.vargaNum = 1
+		self.subvargaNum = 1
+		self.pageNum = 1
+		self.verseNum = 1
+		self.lastVerseNum = 0
+
+	def update_pageNum(self, pageNum):
+		"""Upadate pageNum."""
+		self.pageNum = pageNum
+
+	def update_subvarga(self, subvarga):
+		"""Update subvarga. Also identify its name."""
+		self.subvarga = subvarga
+		self.subvargaNum += 1
+
+	def update_varga(self, varga):
+		"""Update varga. Reset subvargaNum to 1."""
+		self.subvarga = ''
+		self.subvargaNum = 1
+		self.varga = varga
+		self.vargaNum += 1
+
+	def update_kanda(self, kanda):
+		"""Update kanda. Reset vargaNum and subvargaNum to 1."""
+		self.subvarga = ''
+		self.subvargaNum = 1
+		self.varga = ''
+		self.vargaNum = 1
+		self.kanda = kanda
+		self.kandaNum += 1
+
+	def update_verseNum(self, verse):
+		"""Identify the verse number from verse and update verseNum."""
+		m = re.search('[॥|..] ([0123456789०१२३४५६७८९]+) [॥|..]', verse)
+		if m:
+			self.lastVerseNum = int(transliterate(m.group(1), 'devanagari', 'slp1'))
+			self.verseNum = self.lastVerseNum
+		# Unless you encounter the next verse number, you need to use prev + 1.
+		else:
+			self.verseNum = self.lastVerseNum + 1
+
+	def give_verse_details(self):
+		"""Return names of kanda, varga, subvarga and number of verse."""
+		return self.kanda + '.' + self.varga + '.' + self.subvarga + '.' + str(self.verseNum)
+
+	def give_page_details(self):
+		"""Return pageNum."""
+		return self.pageNum
+
+	def give_verse_num_details(self):
+		"""Return numbers of kanda, varga, subvarga and verse."""
+		return str(self.kandaNum) + '.' + str(self.vargaNum) + '.' + str(self.subvargaNum) + '.' + str(self.verseNum)
+
+

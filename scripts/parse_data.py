@@ -4,11 +4,10 @@ import re
 import os
 import json
 from collections import defaultdict
-import lxml.etree as ET
 from indic_transliteration.sanscript import transliterate
 import utils
 """
-Usage - python3 parse_data.py dictCode
+Usage - python3 parse_data.py dictCode [babylon|md|json|xml|html]
 e.g. python3 parse_data.py ENSK [babylon|md|json|xml|html]
 
 For dictCodes, see dictcode.json.
@@ -17,74 +16,9 @@ They are 4 letter codes unique to each dictionary.
 
 __version__ = '1.0.0'
 __author__ = 'Dr. Dhaval Patel, drdhaval2785@gmail.com'
-__licence__ 'GNU GPL version 3'
+__licence__ = 'GNU GPL version 3'
 
 
-class VerseInfo():
-	"""Hold the information regarding current verse being handled."""
-
-	def __init__(self):
-		"""Initialize with default values."""
-		self.kanda = ''
-		self.varga = ''
-		self.subvarga = ''
-		self.kandaNum = 1
-		self.vargaNum = 1
-		self.subvargaNum = 1
-		self.pageNum = 1
-		self.verseNum = 1
-		self.lastVerseNum = 0
-
-	def update_pageNum(self, pageNum):
-		"""Upadate pageNum."""
-		self.pageNum = pageNum
-
-	def update_verseNum(self, verseNum):
-		"""Upadate verseNum."""
-		self.verseNum = verseNum
-
-	def update_subvarga(self, subvarga):
-		"""Update subvarga. Also identify its name."""
-		self.subvarga = subvarga
-		self.subvargaNum += 1
-
-	def update_varga(self, varga):
-		"""Update varga. Reset subvargaNum to 1."""
-		self.subvarga = ''
-		self.subvargaNum = 1
-		self.varga = varga
-		self.vargaNum += 1
-
-	def update_kanda(self, kanda):
-		"""Update kanda. Reset vargaNum and subvargaNum to 1."""
-		self.subvarga = ''
-		self.subvargaNum = 1
-		self.varga = ''
-		self.vargaNum = 1
-		self.kanda = kanda
-		self.kandaNum += 1
-
-	def update_verseNum(self, verse):
-		"""Identify the verse number from verse and update verseNum."""
-		m = re.search('॥ ([०१२३४५६७८९]+) ॥', verse)
-		if m:
-			self.lastVerseNum = int(transliterate(m.group(1), 'devanagari', 'slp1'))
-			self.verseNum = self.lastVerseNum
-		# Unless you encounter the next verse number, you need to use prev + 1.
-		else:
-			self.verseNum = self.lastVerseNum + 1
-
-	def give_verse_details(self):
-		"""Return names of kanda, varga, subvarga and number of verse."""
-		return self.kanda + '.' + self.varga + '.' + self.subvarga + '.' + str(self.verseNum)
-
-	def give_page_details(self):
-		"""Return pageNum."""
-		return self.pageNum
-
-	def give_verse_num_details(self):
-		"""Return numbers of kanda, varga, subvarga and verse."""
-		return str(self.kandaNum) + '.' + str(self.vargaNum) + '.' + str(self.subvargaNum) + '.' + str(self.verseNum)
 
 
 def putVerse(verse, wordsOnHand, result):
@@ -113,7 +47,7 @@ def homonymic_list_generator(content):
 	# Making it global so that it can be used in other functions too.
 	global verseDetails
 	# Initialize a VerseInfo class instance.
-	verseDetails = VerseInfo()
+	verseDetails = utils.VerseInfo()
 	# Result will store tuples (headword, meaning, verse)
 	result = []
 	# Initialize blank verse

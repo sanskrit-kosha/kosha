@@ -28,14 +28,18 @@ def specific_preprocess(text, code):
 
 
 def generic_postprocess(text):
-	text = re.sub('([^१२३४५६७८९०]) ॥\n', '\g<1> ।\n', text)
 	text = re.sub('\n[ -~]+\n', '\n', text)
 	text = re.sub('\n[१२३४५६७८९० 1234567890।*=\-]{0,4}\n', '\n', text)
 	text = re.sub('(\n)+', '\n', text)
+	text = re.sub('॥([१२३४५६७८९०])', '॥ \g<1>', text)
+	text = re.sub('([१२३४५६७८९०])॥', '\g<1> ॥', text)
+	text = re.sub('([^ ])([।॥])', '\g<1> \g<2>', text)
 	return text
 
 
-def specific_postprocess(text, data):
+def specific_postprocess(text, code):
+	if code not in ['DKDD']:
+		text = re.sub('([^१२३४५६७८९०]) ॥\n', '\g<1> ।\n', text)
 	text = re.sub(r'\n[। ]+\n', '\n', text)
 	return text
 
