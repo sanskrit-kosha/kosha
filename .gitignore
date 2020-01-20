@@ -1,0 +1,9 @@
+__pycache__*
+deshinamamala*
+paiyala*
+docs/bill1.txt
+docs/deccan_order.ods
+scripts/log.txt
+scripts/*.pyc
+scripts/.python-version
+

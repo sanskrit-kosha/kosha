@@ -89,7 +89,7 @@ def search_in_all(query):
 
 
 def dictcode_to_dict():
-	with codecs.open('dictcode.json', 'r', 'utf-8') as fin:
+	with codecs.open('workingdicts.json', 'r', 'utf-8') as fin:
 		dictcodes = json.load(fin)
 	return dictcodes
 
