@@ -1,0 +1,207 @@
+;METADATA
+;title{dvirUpakoza}
+;author{puruzottamadeva}
+;bookFullName{SrImadamarasiMhaviracitaM nAmaliNgAnuSAsanam amarakozaH anekArTaDvanimaYjarIdvirUpakozEkAkzarakozESca samupabfMhitaH ratnapraBA''KyasaMskftavyAKyayA hindIwippaRyAdiBiSca viBUzitaH}
+;bookSeriesDetails{cOKambA suraBAratI granTamAlA}
+;editor{Dr. Brahmananda Tripathi}
+;editorQualifications{sAhityAyurvedAcAryaH, M.A., Ph.D, D.Sc.A.Y.}
+;publisher{cOKambA suraBAratI prakASana, ke 37/117, gopAlamandira lena, poswa bAksa naM0 129, vArARasI - 221001}
+;pressDetails{SrIjI mudraRAlaya, vArARasI}
+;publicationYear{1982 A.D.}
+;dataEntryBy{Dr. Dhaval Patel}
+;dataEntryEmail{drdhaval2785@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{DKPD}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. SRKKF for funding. 2. Acharya Shri Kailasasagarasuri Gyanmandir for providing us the scanned book to digitize. 4. Dr. Dhaval Patel for spending time to type and proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{homo}
+;pagenum{true}
+;linenum{false}
+;chapterArrangements{none}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{07 January 2020}
+;version0.0.2{07 January 2020}
+;version0.0.3{07 January 2020}
+;version0.0.4{07 January 2020}
+;version0.1.0{07 January 2020}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+﻿;p{0271}
+;c{SrIpuruzottamadevaviracitaH dvirUpakozaH}
+BavedAzAQa ASAQo vizuvad vizuvaM taTA .
+mAtuHzvasA mAtuHsvasA kaSAyAM kaTitaM kazA .. 1 ..
+SambaraM saMvaraM proktaM kuSalaM kusalaM taTA .
+vAsaro vASaro'pi syAd vaSizWo'pi vasizWakaH .. 2 ..
+muzalo musalaH proktaH SUkaraH sUkaro'pi ca .
+sfgAlo'pi SfgAlaH syAcCAraH sAro'pi sammataH .. 3 ..
+koSaH kozo'Sru kaTitamasru cApi satAM matam .
+SaRqaH zaRqastaTAKyAtaH saRqo'pi triviDo mataH .. 4 ..
+SUraH sUro'pi cAditye vizvagviSvaksmftaM buDEH .
+kisalayaM kiSalayaM vasUkaM vasukaM taTA .. 5 ..
+AlO syAdAlirapyevaM bAhlIko bAhliko mataH .
+gARqIvaM gARqivaM proktaM pARquraH pARqarastaTA .. 6 ..
+pArAvataH pAravataH kavAwaM ca kapAwakam .
+antyaScAntaH suKaM sOKyaM naKaM ca naKaraM smftam .. 7 ..
+vAlmIko vAlmikaScEva bAlukA bAlikA taTA .
+maTurA maDurA proktA kaPoRiH kaPaRistaTA .. .8 ..
+dvArdvAramapi ca proktaM sarizapastu sarzapaH .
+DUstUrI DUsturaH proktastvantikApyattikA taTA .. 9 ..
+jamadagnirjAmadagniH karaYjaSca kaliYjakaH .
+pratikAraH pratIkAro vihArAderdvirUpatA .. 10 ..
+rajanyavaniBUmyAderdvErUpyamapi dfSyate .
+apogaRqastu pogaRqo'pyapiDAnaM piDAnakam .. 11 ..
+avataMso vataMsaSca vahito'vahitastaTA .
+arya AryastaTA proktaH KurapraSca kzuraprakaH .. 12 ..
+jAmAtApi ca yAmAtA jAyA yAyA prakIrtitA .
+yozA jozApi ca KyAtA svavASinyAM suvAsinI .. 13 ..
+kaNguH kaNgUryavAguSca yavAgUrapyudAhftA .
+sutrAmApi ca suttrAmA kiNkiRI kiNkaRI taTA .. 14 ..
+;p{0272}
+jAtIPalaM jAtiPalaM pazWImaDu mataM taTA .
+tanustanUrhanuScEva parzacca parizattaTA .. 15 ..
+aBramabBramapi KyAtaM KAnitraM ca Kanitrakam .
+DAnyAkamapi DanyAkaM KaqgI Kaqgo dviDA mataH .. 16 ..
+viriYciSca viraYco'pi paraSuH parSureva ca .
+pfzataH pfzaduddizwo veSyA vizyApi kIrtitA .. 17 ..
+surApARAM surApAnaM BujaNgo Bujago mataH .
+turaNgasturagaScEva kabanDaM ca kamanDakam .. 18 ..
+agramagryAmapi KyAtaM SAriH sAro'pi kaTyate .
+banDUraM banDuraM cApi kandaraM kandamityapi .. 19 ..
+uDmAnamapi codDAnamAyuScAyurapi smftam .
+jambIro'pi ca jamBIro varuRo vAraRo'pi ca .. 20 ..
+rAtriYcaro rAtricaraH satataM santataM taTA .
+jihvA jihvaSca kaTito jihvalo yena gIyate .. 21 ..
+rikTamfkTamiti proktaM rizwirfzwiSca sammataH .
+viSrAmo viSramo vApi pUruzaH puruzastaTA .. 22 ..
+udakaM ca dakaM cEva kawaH kawikawIrakO .
+lajjA lajjyA punaH proktA pratatirvratatistaTA .. 23 ..
+nftyaM nfttaM ca kaTitaM SayyAyAM kaTyate SayaH .
+PalitaM PAlitaM cEva vidvadBiH parikIrtitam .. 24 ..
+gamBIraM ca gaBIraM syAt prakvARaH prakvaRastaTA .
+prAdeSo'pi pradeSaH syAt karajo'pi karaYjakaH .. 25 ..
+lakuco likuco vApi KyAtAvijjalahijjalO .
+agastiH syAdagastyo'pi yamaSca yamajo mataH .. 26 ..
+vAtUlo vAtulaH prokto vfttaSca vartulastaTA .
+kawakaM kaRwakaM cApi taTApUrvESca dfSyate .. 27 ..
+kuwIrakuwirO KyAtO nanandA ca nanAndikA .
+AmikzAyAmamikzA syAjjawilo jawulastaTA .. 28 ..
+mAsi jyezWe taTA jyezWaH pOze puzyo'pi sammataH .
+asTivAnasTivAneva vAgvAcA digdaSAdayaH .. 29 ..
+amizaM camizaM cAwustimastimiriva smftaH .
+ceqI cewI ca kaTitA rajaH KyAtaM rajaM matam .. 30 ..
+;p{0273}
+maha eva mahaH prAhuScintanaM cintanA taTA .
+nArikelAdizu dvEDamAha kelAdivarjanam .. 31 ..
+qimBo qimBaSca viKyAtaH kuvaraH kuvaro mataH .
+ardramArdraM DutaM DOtaM niSAtaM niSitaM taTA .. 32 ..
+GrARaM GrAtaM punaH proktaM gUQaM guptaM satAM matam .
+hrIRaM hrItaM ca viKyAtaM GuzwaM ca GuzitaM taTA .. 33 ..
+dAntaM damitaM SAntaM SamitaM GUrRaGUrRite .
+japtaM ca japitaM cEva klizwaM kleSitameva ca .. 34 ..
+tuzwaM ca tuzitaM vidDaM veDitaM vinnavittake .
+UtaM syUtamutaM cEva BinnaM Beditameva ca .. 35 ..
+ditaM dAtaM ca dattaM syAdDUpitaM DupitaM taTA .
+DUpAyitaM ca mfgitaM mArgitaM pUrRapUrite .. 36 ..
+anvezitaM taTAnvizwaM trARaM trAtaM ca sammatam .
+guptaM gopAyitaM cEva budDaM ca buDitaM taTA .. 37 ..
+paRAyitaM ca paRitaM panitaM ca panAyitam .
+CannaM ca CAditaM cEva pruzwaM pluzwaM smftaM buDEH .. 38 ..
+tIrTaM tirTamarGamarGyaM parva syAtparvaRI taTA .
+guggulurgugguluH proktaH kikidIviH kikIdiviH .. 39 ..
+jIvaM jIvo jIvajIvastaqAgastaqagastaTA .
+yatI KyAto yatiSca syAdantarIkzAntarikzake .. 40 ..
+sannihitaH sannihityAM kolaH kIlApi kIrtitaH .
+akulopyAkulaH KyAtaH pUpo'pUpaSca sammataH .. 41 ..
+apapUrvA marzaRA ca BaRyate cAvamarzaRam .
+apamAno'vamAnaSca bimbozWe'pi dvirUpatA .. 42 ..
+mfdvaNgApi ca mfdvaNgI netrAnetryAdike taTA .
+majjA KyAtaH smftA majjA JAntApi ca vicakzaREH .. 43 ..
+sPawA PawA ca caRqAraScaRqAlaSca prakIrtitaH .
+kAvyezu gIyate harzo harizo'pi ca kIrtyate .. 44 ..
+meDimeDA Saravye ca lakzaM lakzyamudAhftam .
+saNKyA lakzA ca lakzyaM ca karaBo'pi karamBakaH .. 45 ..
+;p{0274}
+mfdurmfdvI gururgurvI tfptA tarptA ca sammatA .
+mrazwA mfzwA mataM tadvat raYjanaM rajanaM taTA .. 46 ..
+natirnatyAM gatirgatyAM BUtirBUtyAdikaM taTA .
+KyAtO nimezanimizO smftO BIrukaBIlukO .. 47 ..
+uzA syAduzasA tadvatsevanaM sIvanaM matam .
+tantrI ca tantrikA proktA mfjA syAnmArjanI taTA .. 48 ..
+sanDyA sanDA pratijYAtA BAratA BaratA nawAH .
+smftO dAseradAseyO piwakaH pewakastaTA .. 49 ..
+parisrutA pariSrutaH syAdAlasyodalaso'pi ca .
+kamalaH kAmalo vApi gfDnurgarDana ityapi .. 50 ..
+BUzRurBUvizRuH kzamitA kzantA cikaRacikkaRO .
+navaM navyaM ca mfdulaM mfdu syAdbahulaM bahu .. 51 ..
+pfTulaM pfTu viKyAtaM maYjulaM maYju cezyate .
+prAgalByaM kIrtyate yatra prAgalBI tatra kIrtitA .. 52 ..
+lAqanaM laqanaM cEva triwistuwirapi smftA .
+vaSyo vaSoBiko'BIko lupo lolupaloluBO .. 53 ..
+DfzRuDfzwakO viSAlaM viSalaM smaryate buDEH .
+bAhubAho'rtirAtiH syAdUrIkftamurIkftam .. 54 ..
+bahvAmpi paWyate kEScittaTA bahvampi cEva hi .
+bahvapAni taTA BawwistritayaM tena sidDyati .. 55 ..
+sPUraRaM sPuraRaM KyAtiH praTA sApi ca kaTyate .
+stambaGanastu stambaGno mAsiScApi masI smftA .. 56 ..
+kAlanemiH kAlanemI dEtyanAma dviDA matam .
+kumBI cApi taTA kumBA BaRyate SabdaSAsane .. 57 ..
+KyAte mANgalyamANgalye vivaDo vIvaDo mataH .
+BfNgariwirBUrIwiH syAt stavastApo'pi gIyate .. 58 ..
+BfkUwaM BfkkawaM prAhurmandAro mandaro'pi saH .
+PalaM ca PalanaM KyAtaM nasA nAsA ca kIrtyate .. 59 ..
+kfzakaH karzako dfzwaH KalInaM KAlinaM taTA .
+maRI iva maRIva syAd rodasI rodasA api .. 60 ..
+;p{0275}
+dampatI iva Sabdena saMhatO tezu pakzakaH .
+pragrAhaH pragraho dfzwaH pAriplavapariplavO .. 61 ..
+ucCrAya ucCrayaH prokto DAraRaM DaraRaM taTA .
+triKawvI ca triKawvaM ca syAdulUKalamudUKalam .. 62 ..
+kzamA BUmiH kzamA tulyA tUlI tUlA mataM satAm .
+masuro'pi masUrastu saruH sadyo'pi dfSyate .. 63 ..
+kApuruzaH kupuruzo vAcikA vAcakaH kriyA .
+vihaNgameti kaTitA taTA KyAtA vihaNgikA .. 64 ..
+ApaHSabdo sakArAnto dfSyate SabdaSAsane .
+cAraBawaScAruBawaH KAlviwo Kalviwo mataH .. 65 ..
+KallIwaM ca taTA dfzwaM hAYjiruktA ca hAYjikam .
+kowitaRqulaSabdO ca dfzwO puMklIbayoH punaH .. 66 .. 
+katamakatarO proktO dfzwO BikzukaBikzakO .
+karkawI karkuwI nAntA ikArAntA ca kecana .. 67 .. 
+lAbUralAbUrirvArururvAruSca mataM satAm .
+AnanaScAnanaM cEva AmezI cAmrapezikA .. 68 ..
+SAliScEva taTA SAlI kalambuSca kalambikA .
+nIlikA cEva nIlI ca karkaruH puMsi ca striyAm .. 69 ..
+potikA potakA KyAtA smftO vAstUkavAstukO .
+BfNgarAjO BfNgarajaH samO dAqimadARimO .. 70 ..
+gutsako gucCako vApi taTA cotsukacotakO .
+SAwiH SAwI ca viKyAtA mawo mayawa eva ca .. 71 ..
+samO dAtyUhadAtyohO pawavAsaH pawavasaH .
+avasatTa AvasatTa tad raNgAd raNgakO samO .. 72 ..
+SUkapiwaH SUkapawaH KawakikkaH Kawakkikam .
+KyAtO parRyAwaparRAwO praGARaH praGaRe'pi ca .. 73 ..
+BrukuwiBrakuwO proktO kaliH strIpuMsamarTitA .
+krOYcApi ca punaH krOYcastaTA ca pratipadyate .. 74 ..
+halanto gIyate kEScidajanto'yaM ca gIyate .
+durlaBo praTito loke bIjaDAtupramARataH .. 75 ..
+;c{.. iti SrIpuruzottamadevaviracito dvirUpakozaH samAptaH ..}

@@ -27,7 +27,7 @@ def create_slp(code):
 
 if __name__ == "__main__":
 	print(utils.timestamp())
-	with codecs.open('dictcode.json', 'r', 'utf-8') as fin:
+	with codecs.open('workingdicts.json', 'r', 'utf-8') as fin:
 		dictcodes = json.load(fin)
 	for code in dictcodes:
 		print(code)

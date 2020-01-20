@@ -1,0 +1,2058 @@
+;METADATA
+;title{halAyuDakoSaH (aBiDAnaratnamAlA)}
+;author{halAyuDa}
+;bookFullName{halAyuDakoSaH (aBiDAnaratnamAlA)}
+;bookSeriesDetails{hindI samiti praBAga granTamAlA - 150}
+;editor{jayaSaNkarajoSI}
+;editorQualifications{}
+;publisher{vinoda candra pARqeya, nideSaka, uttara pradeSa hindI saMsTAna, rAjarzi puruzottamadAsa waRqana hindI Bavana, mahAtmA gAMDI mArga, laKanau - 226001}
+;pressDetails{Sivam prinwarsa, sI. 27/273, iRqiyana presa kolonI, maladahiyA, vArARasI - 221002}
+;dataEntryBy{Dr. Dhaval Patel}
+;dataEntryEmail{drdhaval2785@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{ARMH}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. SRKKF for funding. 2. www.archive.org for providing us the scanned book to digitize. 3. Dr. Dhaval Patel for spending time to proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{mixed}
+;pagenum{true}
+;linenum{false}
+;chapterArrangements{kanda}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{25 June 2019}
+;version0.0.2{25 June 2019}
+;version0.0.3{01 July 2019}
+;version0.0.4{01 July 2019}
+;version0.1.0{02 July 2019}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+;p{0001}
+;c{halAyuDakoSaH}
+;c{( aBiDAnaratnamAlA )}
+;k{svargakARqam}
+;c{praTamaM svargakARqam}
+Sabdabrahma yadekaM yaccEtanyaM ca sarvaBUtAnAm .
+yatpariRAmastriBuvanamaKilamidaM jayati sA vARI .. 1 ..
+iyamamaradattavararuciBAgurivopAlitAdiSAstreByaH .
+aBiDAnaratnamAlA kavikaRWaviBUzaRArTamudDriyate .. 2 ..
+svaH svargaH surasadma tridaSAvAsastrivizwapaM tridivam .
+dyOrgOramartyaBuvanaM nAkaH syAdUrDvalokaSca .. 3 ..
+AdityAstridaSAH surAH sumanasaH svargOkaso devatA,
+gIrvARA fBavo'marASca maruto vfndArakA nirjarAH .
+asvapnA vibuDAstrivizwapasado leKAH suparvARa i-,
+tyAKyAtA amftASanA animizA devAstaTA dEvatam .. 4 ..
+asurA dAnavA dEtyA dEteyAH suraSatravaH .
+pUrvadevAH SukraSizyAH pAtAlanilayAH smftAH .. 5 ..
+;p{0002}
+brahmA srazwA paramezWI DAtA padmaBUH surajyezWaH .
+veDA viDirviriYco hiraRyagarBaH SatAnandaH .. 6 ..
+SamBuH svayamBUrdruhiRaScaturvaktraH prajApatiH .
+pitAmaho jagatkartA viraYciH kamalAsanaH .. 7 ..
+vAgvARI BAratI BAzA gOrgIrbrAhmI sarasvatI .
+oNkAraH praRavaH proktastrayo vedAstrayI smftAH .. 8 ..
+vedaH SrutistaTAmnAyaH svADyAyaSCanda AgamaH .
+vedAntaSca rahasyaM ca buDErupanizanmatA .. 9 ..
+Uhastarko'numAnoktirmImAMsA syAdvicAraRA .
+smftAH kftAntarAdDAntasidDAntasamayAH samAH .. 10 ..
+ISAnaH SaSiSeKaraH paSupatiH SUlI SivaH SaNkaraH,
+SarvaH SamBurumApatiSca giriSaH SrIkaRWa ugro haraH .
+sarvajYastripurAntakastrinayano rudraH kapardI Bavo,
+BUteSaH parameSvaro'nDakaripurdakzADvaraDvaMsakft .. 11 ..
+sTARuH srazwA DUrjawirvAmadevaH,
+kAmaDvaMsI vyomakeSaH kapAlI .
+nilagrIvo vahniretAH pinAkI,
+BImo BargaH kfttivAsA vfzANkaH .. 12 ..
+ahirbuDno virUpAkzaH Sipivizwo gaRADipaH .
+gaNgADaro mahAdevo mfqaH syAnnIlalohitaH .. 13 ..
+;p{0003}
+pinAkaM syAdajagavaM pramaTAstu gaRAH smftAH .
+kapardo'sya jawAbanDastaRquH syAnnandikeSvaraH .. 14 ..
+rudrARI SarvARI kAlI kAtyAyanI BavAnI ca .
+AryAmbikA mfqAnI hEmavatI pArvatI gOrI .. 15 ..
+umA BagavatI durgA caRqI dAkzAyaRI SivA .
+aparRA syAnmahAdevI girijA menakAtmajA .. 16 ..
+brahmARyAdyAH smftAH sapta devatAmAtaro buDEH .
+cAmuRqA karRamowI ca carcA syAdBEravI taTA .. 17 ..
+herambo lambodara AKuraTo gaRapatiSca gajavadanaH .
+paraSuDara ekadanto vinAyako viGnarAjaSca .. 18 ..
+gOrIputraH zaRmuKaH SaktipARiH,
+krOYcArAtiH kArttikeyo viSAKaH .
+skandaH svAmI tArakAriH kumAraH,
+senAnIH syAdagniBUrbAhuleyaH .. 19 ..
+gANgeyo brahmacArI ca guho varhiRavAhanaH .
+mahAsenA mahAtejAH SarajanmA ca kaTyate .. 20 ..
+vizRuH kfzRaH keSavo maYjukeSI,
+SrIvatsANkaH SrIpatiH pItavAsAH .
+vizvakseno viSvarUpo murAriH,
+SOriH SArNgI padmanABo mukundaH .. 21 ..
+;p{0004}
+govindo DaraRiDaraH suparRaketu-
+rvEkuRWo jalaSayanaScaturBujaSca .
+dEtyArirmaDumaTano raTANgapARi-
+rdASArhaH kratupuruzo vfzAkapiH syAt .. 22 ..
+janArdanADokzajavAsudevaM dAmodaraM SrIDaramacyutaM ca .
+upendramindrAvarajaM ca baBraM hariM hfzIkeSamudAharanti .. 23 ..
+AtmaBUH puRqarIkAkzaH SrIvatso vizwaraSravAH .
+nArAyaRo jagannATo vanamAlI gadADaraH .. 24 ..
+sanAtano jinaH SamBurviDirveDA gadAgrajaH .
+kEwaBArirajo jizRuH kaMsajitpuruzottamaH .. 25 ..
+cakraM sudarSanaM cApaM SArNgaM kOmodakI gadA .
+Kaqgo'sya nandakaH SaNKaH pAYcajanyaH prakIrtitaH .. 26 ..
+kOstuBo vakzasi maRiH SrIvatso'sya ca lAYCanam .
+vasudevastu kaTito buDErAnakadunduBiH .. 27 ..
+baladevo balaBadro muSalI nIlAmbaraH pralambaDnaH .
+sIrI ca sAtvataH syAttAlaDvaja ekakuRqalo'nantaH .. 28 ..
+saNkarzaRo rOhiReyaH kAlindIkarzaRo balaH .
+revatIramaRo rAmaH kAmapAlo halAyuDaH .. 29 ..
+vihaNgarAjo garuqo garutmAn,
+tArkzyaH suparRItanayaH suparRaH .
+;p{0005}
+syAdvanateyaH pavanASanASaH,
+surendrajitkaSyapanandanaSca .. 30 ..
+lakzmIH SrIH kamalA padmA padmavAsA haripriyA .
+kzIrodatanayA mA ca SabdajYErindirA smftA .. 31 ..
+pradyumno makaraDvajo manasijaH saNkalpajanmANgajaH,
+paYcezuH kusumAyuDaSca madano mAraH smaro manmaTaH .
+kandarpo Jazaketano ratipatiH SrInandano hfcCayaH,
+kAmaH SambarasUdano maDusaKaH SfNgArayoniH smftaH .. 32 ..
+darpakaH SUpakArAtiranaNgo vizamAyuDaH .
+AtmaBUrmanasiSayaH puzpaDanvA manoBavaH .. 33 ..
+mApatyamirajaScEva kAmapatnI ratiH smftA .
+anirudDaSca tatsUnuruzAramaRa izyate .. 34 ..
+AdityaH savitA sahasrakiraRaH pradyotano BAskara-
+stigmAMSustaraRistaTA dinamaRirBAsvAnvivasvAnhariH .
+mArtaRqastapano vikartana inaH pUzA pataNgo BagaH,
+sUryo gopatiraryamA dinakaraH sUroM'SumAlI raviH .. 35 ..
+mihiro virocano'rkastimiraripurdyumaRiraMSumAnaMSuH .
+haridaSvaH saptASvaH praBAkaro BAnumAnBAnuH .. 36 ..
+braDno haMsaH Kago mitraScitraBAnuraharpatiH .
+karmasAkzI jagaccakzurdvAdaSAtmA trayItanuH .. 37 ..
+;p{0006}
+rociH SociraBISuH pradyotagaBastiraSmiGfRikiraRAH .
+rucirugdIDitidIptidyutipraBABAviBABAsaH .. 38 ..
+usraDAmavasuketumarIcipragrahopaDftivfzRimayUKAH .
+aMSuBAnukarapAdavirokA gAva ityaBihitAstu samAnAH .. 39 ..
+tigmaM tIkzRaM KaraM tIvraM caRqamuzRaM pawu smftam .
+AtapaH kaTyate rOdraM nidAGo Garma ucyate .. 40 ..
+pariDiH parivezaH syAnmaRqalaM copasUryakam .
+ucyate rAhusaMsparSa uparAga upaplavaH .. 41 ..
+induScandraScandramA ozaDISaH,
+somo rAjA rohiRIvallaBo'bjaH .
+fkzeSaH syAdatrinetraprasUtaH,
+prAleyAMSuH SvetarociH SaSANkaH .. 42 ..
+dvijarAjo rajanikaraH pIyUzarucirniSITinInATaH .
+jEvAtfko mfgANko viDuSca dAkzAyaRIramaRaH .. 43 ..
+candrikA kOmudI jyotsnA taTA candrAtapaH smftaH .
+maRqalaM bimbamAKyAtaM hfdaye lAYCanaM mfgaH .. 44 ..
+aNkaScihnamaBijYAnaM lAYCanaM lakzma lakzaRam .
+kalaNkaSceti vijYeyA nAtinAnArTavAcakAH .. 45 ..
+vakramaNgArakaM BOmaM lohitANgaM DarAtmajam .
+rOhiReyaM buDaM sOmyamAhuScAndramasAyanam .. 46 ..
+;p{0007}
+vAcaspatirANgiraso vfhaspatiH kaTyate gururjIvaH .
+DizaRastridaSAcAryaScitraSiKaRqiprasUtaSca .. 47 ..
+uSanA SukraH kAvyo dEtyagururBArgavaH kavirDizRyaH .
+asitaH kroqaH paNguSCAyAtanayaH SanEScaraH SOriH .. 48 ..
+svarBAnuH sEMhikeyaSca tamo rAhurviDuntudaH .
+ketavaH SiKinaH proktA ArdrAlubDaka ucyate .. 49 ..
+saptarzayastu vidvadBiH smftAScitraSiKaRqinaH .
+kfttikA bahulA proktAH pakzastu bahulo'sitaH .. 50 ..
+BaM nakzatraM tArakaM tArakA ca,
+jyotistArA DizRyamfkzaM taToqu .
+puzyastizyaH syAdDanizWA SravizWA,
+dAkzAyaRyaH kIrtitAScandradArAH .. 51 ..
+indro duScyavano hariH surapatiH saNkrandano vAsavo,
+vftrArirbalasUdanaH SatamaKo vfdDaSravAH kOSikaH .
+jizRurvajraDaraH sahasranayano vAstozpatirgopatiH,
+parjanyo maGavA vfzA harihayaH prAcInabarhiH smftaH .. 52 ..
+puruhUtaH pftanAzAw purandaraH pUrvadikpatiH svArAw .
+AKaRqalasturAzAw sutrAmA gotraBitsunAsIraH .. 53 ..
+SakraH syAdugraDanvA ca harivAnpAkaSAsanaH .
+divaspatirviqOjASca marutvAnmeGavAhanaH .. 54 ..
+;p{0008}
+indrARI pOlomI SacI jayantaSca tatsuto jYeyaH .
+amarAvatI ca nagarI nandanamudyAnamindrasya .. 55 ..
+paviraSaniH SataDAraM vajraM kuliSaM ca Bavati damBoliH .
+gOrBiduraM vyADAmaH svarurindrapraharaRaM taTA SambaH .. 56 ..
+sPUrjaTurvajranirGozo vajrajvAlA'tiBIH smftA .
+fju rohitamicCanti buDAH SakraSarAsanam .. 57 ..
+aBramabdo Gano meGaH stanayitnuH payoDaraH .
+GArADaro DUmayonirjImUtaSca balAhakaH .. 58 ..
+DArAsampAta AsAro vAtAstaM vArisIkaraH .
+durdinaM meGatimiraM karakaH syAdGanopalaH .
+calannavABramAlA ca buDEH kAdambinI smftA .. 59 ..
+SampA capalA kzaRikA SatahradA hlAdinI taqidvidyut .
+sOdAminyacirAMSuH prAjYErErAvatI ca vijYeyA .. 60 ..
+ErAvato'BramAtaNgaH sa cErAvaRa ucyate .
+uccEHSravAstu devASvo mAtaliH SakrasAraTiH .. 61 ..
+saptArcirbahulaH SiKI hutavaho vESvAnaro'gnirvasu-
+rvahnirvAyusaKaH sitetaragatiH svAhApriyaH pAvakaH .
+arcizmAn jvalanaH kfSAnuranalo DUmaDvajo havyavAw,
+barhirjyotiruzarbuDaSca dahanaH syAccitraBAnuH SuciH .. 62 ..
+;p{0009}
+kfpIwayonirdamunAH kfzRavartmASuSukzaRiH .
+viBAvasurapAMpittaM jAtavedAstanUnapAt .. 63 ..
+vItihotro vfhadBAnurASrayASo DanaYjayaH .
+hiraRyaretAstamoGno rohitASvo hutASanaH .. 64 ..
+arciH kIlA jvAlA varcastejastvizastaTA jyotiH .
+hetidyutidIptirucaH SiKApraBAraSmayaH samAnArTAH .. 65 ..
+smftaH prakASa Aloka uddyotaSca samAstrayaH .
+agnAyI kaTyate svAhA DUmyA syAdDUmasaMhatiH .. 66 ..
+UzmA vAzpaH sPuliNgaSca kaRA jihvAstaTArcizaH .
+alAtamulmukaM jYeyamulkA jvAlAsya nirgatA .. 67 ..
+Bavati hiraRyA kanakA raktA kfzRA supraBA cAnyA .
+atiraktA bahurUpeti sapta saptArcizo jihvAH .. 68 ..
+eDastarpaRaminDanamaDaH samidiDma ityaBinnArTAH .
+BUtirBasitaM Basma kzAraM rakzA ca nirdizwA .. 69 ..
+vanavahnirdavo dAvo meGavahniriraMmadaH .
+OrvaH samudravahniH syAdvAqavo vaqavAmuKaH .. 70 ..
+SamanaH samavartI ca pretapatiH pitfpatiSca kInASaH .
+vEvasvataH kftAntaH kAlindIsodaraH kAlaH .. 71 ..
+antako DarmarAjaSca yamo daRqaDaro hariH .
+dakziRASApatiH sadBiH SrAdDadevaSca kaTyate .. 72 ..
+;p{0010}
+yAtUni yAtuDAnAH kravyAdA rAkzasASca rakzAMsi .
+naktaYcaranErftakORapAstaTA nEkazeyAH syuH .. 73 ..
+varuRaM yAdasAM nATaM pASapARiM pracetasam .
+jalADidEvataM prAhuH pratyagASApatiM buDAH .. 74 ..
+pavanaH Svasano vAyurmarudanilo mAruto jagatprARaH .
+pfzadaSvaH pavamAnaH praBaYjanaH sparSano vAtaH .. 75 ..
+naBasvAnmAtariSvA ca samIraSca samIraRaH .
+sadAgatirganDavaho hariH prokto mahAbalaH .. 76 ..
+kaNkAvAtaH savfzwiH syAdvAtyA vAtasya maRqalI .
+AmodaH syAtparimalaH sOraByaM ca suganDitA .. 77 ..
+ElavilaH pOlastyo vESravaRaH kinnareSvaro DanadaH .
+SrIdaH SrIkaRWasaKo manuzyaDarmA DanADyakzaH .. 78 ..
+uttarASApatiryakzaH kuvero naravAhanaH .
+guhyako rAjarAjaSca DanI puRyajaneSvaraH .. 79 ..
+dyumnaM dravyaM draviRaM rAH sAraM svApateyamarTaH svam .
+fkTaM pfkTaM vittaM DanaM hiraRyaM ca vasu viBavaH .. 80 ..
+akupyaM rUpyahemAKyaM kupyamanyadDanaM Bavet .
+gomahizyAdikaM sarvaM buDErjIvaDanaM smftam .. 81 ..
+nikzepaH syAdupaniDiH kaTyate SevaDirniDiH .
+kinnaraH syAtkimpuruzo mayuraSvamuKastaTA .. 82 ..
+;p{0011}
+udyAnaM syAccEtraraTaM vimAnaM cAsya puzpakam .
+alakA nagarI jYeyA putrastu nalakUvaraH .. 83 ..
+viSvakfdviSvakarmA ca tvazwA syAddevavarDakiH .
+nAsatyAvaSvinO dasrO proktO devacikitsakO .. 84 ..
+SOdDodanirdaSabalo vfdDaH SAkyastaTAgataH sugataH .
+mArajidadvayavAdI samantaBadro jinaSca sidDArTaH .. 85 ..
+jinendro vItarAgo'rhan kevalI ca trikAlavit .
+alakzmIrnirftirjYeyA niyatirviDirucyate .. 86 ..
+yakzarAkzasaganDarvasidDakinnaraguhyakAH .
+vidyADarApsaroBUtapiSAcA devayonayaH .. 87 ..
+GftAcI menakA ramBA urvaSI ca tilottamA .
+sukeSI maYjuGozAdyAH kaTyante'psaraso buDEH .. 88 ..
+helAvilAsavibbokalIlAlalitaviBramAH .
+strIRAM SfNgAracezwAH syurhAvaparyAyavAcakAH .. 89 ..
+bAhyArTAlambano yastu vikAro mAnaso Bavet .
+sa BAvaH kaTyate sadBistasyotkarzo rasaH smftaH .. 90 ..
+ratirhAsaSca SokaSca kroDotsAhO BayaM taTA .
+jugupsAvismayaSamAH sTAyiBAvAH prakIrtitAH .. 91 ..
+SfNgArahAsyakaruRA rOdravIraBayAnakAH .
+bIBatsAdButaSAntASca nava nAwye rasAH smftAH .. 92 ..
+;p{0012}
+gItaM gAnamiti proktaM vAdyamAtodyamizyate .
+nftyaM tu tARqavaM lAsyaM tritayaM nAwyamucyate .. 93 ..
+tAlaH kAlakriyAmAnaM layaH sAmyamudAhftam .
+aNgahAro'NgavikzepaH sUcyo'rTo'BinayaH smftaH .. 94 ..
+prekzArTaM gItavAdyaM tu saNgItamaBiDIyate .
+AdAveva tu yannAwyaM pUrvaraNgaH sa ucyate .. 95 ..
+proktA GozavatI vIRA vipaYcI parivAdinI .
+vallakI ceti tadBedAstantrIBedasamudBavAH .. 96 ..
+raNgaH syAnnartanasTAnaM mfdaNgo murajaH smftaH .
+AnakaH pawaho jYeyo qiRqimaH paRavastaTA .. 97 ..
+koRo vAdanadaRqaH syAdBerI dunduBirizyate .
+nAwye rAjYI smftA devI kumAro BartfdArakaH .. 98 ..
+BAva ityucyate vidvAn BAvuko BaginIpatiH .
+Avukastu pitA jYeya Aryo mAriza ucyate .. 99 ..
+;p{0013}
+ASAH kakuBaH kAzWA haritaSca diSaH samAKyAtAH .
+indrAnalayamanErftavaruRamarudDanadarudradikpAlAH .. 100 ..
+EndrI pUrvA prAcI yAmyA digdakziRA taTA'vAcI .
+syAdvAruRI praticI kOverI cottarodIcI .. 101 ..
+antarAlA diSaScAnyA vidiSaH pradiSaH smftAH .
+uparizwAduparyUrDvaM taTADastAdavAgaDaH .. 102 ..
+prAcInaM prAk smftaM prAjYErudIcInamudak taTA .
+pratyak cEva pratIcInamapAcInamapAgiti .. 103 ..
+ErAvataH puRqarIkaH kumadAYjanavAmanAH .
+puzpadantaH sArvaBOmaH supratIkaSca diggajAH .. 104 ..
+dizwaH kAlastaTAnehAstadBedAH syuH kalAdayaH .
+ahorAtraM ca vidvadBiH kaTyate zazwinAqikam .. 105 ..
+divaso divA dinaM dyuH proktamaharvAsarastaTA GasraH .
+praharo yAmaH sanDye rajanIdinayoH praveSanizkAsO .. 106 ..
+tamI tamisrA kaTitA tamasvinI,
+viBAvarI naktamuKA ca SarvarI .
+;p{0014}
+kzapA triyAmA kzaRadA niSITinI,
+niSA ca dozA rajanI ca yAminI .. 107 ..
+vasatirvAsateyI ca SyAmA rAtriSca kaTyate .
+gaRarAtro niSA bahvyaScirarAtrastataH param .. 108 ..
+sAyaM divAvasAnaM syAtpradozo rajanImuKam .
+niSITo maDyamA rAtriH proktA sA ca mahAniSA .. 109 ..
+avatamasamanDatamasaM saMtamasaM DvAntamanDakAraM ca .
+timiraM tamastamisrAM tamisramicCanti BUCAyAm .. 110 ..
+kalyamuzaH pratyUzaM prage praBAtaM BavedviBAtaM ca .
+divasamuKaM gosargaH prAtarvyuzwaM ca nirdizwam .. 111 ..
+SaSini sinIvAlI syAddfzwe nazwe kuhUramAvAsyA .
+anumatirUne rAkA sampUrRe pUrRamAsI ca .. 112 ..
+triMSadahorAtraH syAnmAsastAByAmfturvasantAdyAH .
+grIzmaH prAvfw SaradA hemantaH SiSira iti te zaw .. 113 ..
+cEtrAdimAsA maDumADavO dvO,
+tataH paraM SukraSucI krameRa .
+naBonaBasyO kaTitAvizorjO,
+sahaHsahasyO ca tapastapasyO .. 114 ..
+mAsena manuzyARAM pitryamahorAtramekamicCanti .
+abdena tu devAnAM brAhmaM devayugasahasrAByAm .. 115 ..
+;p{0015}
+hAyanAbdaSaradvarzasaMvatsarasamAH samAH .
+nidAGaH kaTyate grIzmo varzAH prAvfw tapAtyayaH .. 116 ..
+saMvartaH parivartaH kzayo yugAnto jagadvinASaSca .
+kalpAntaH samasuptiH saMhAraH syAnmahApralayaH .. 117 ..
+sAndfzwikaM PalaM sadya udarkaH Palamuttaram .
+tatkAlaM tu tadAtvaM syAduttaraH kAla AyatiH .. 118 ..
+ditiraditirdanukadrUnikazAvinatASca mAtaraH proktAH .
+dEtyasuradAnavoragapiSitASanapakzirAjAnAm .. 119 ..
+candrArkAvekavAkyena puzpadantO prakIrtitO .
+jAyApatI ca vidvadBirjampatI dampatI taTA .. 120 ..
+dyAvABUmI ca rodasyO rodasI rodasIti ca .
+kaSipurBojanAcCAdAvOSIraM SayanAsane .. 121 ..
+SvaH SreyasaM syAtkalyARaM SvovasIyaM SivaM SuBam .
+BavikaM BAvukaM Sreyo BavyaM BadraM ca maNgalam .. 122 ..
+pramodapramadO harzaH prItirutkarza udDavaH .
+sammado muttaTAnandaH Sarma jozaM ca SaM suKam .. 123 ..
+kEvalyaM nirvARaM niHSreyasamamftamakzaraM brahma .
+apunarBavo'pavargo muktirmokzo mahAnandaH .. 124 ..
+;p{0016}
+sanAtanaM DruvaM nityaM SASvataM syAdanaSvaram .
+DarmaH puRyaM vfzaH SreyaH sukftaM ca samaM smftam .. 125 ..
+izwAnizwaPalaM prAjYEH smftaM dEvamayAnayam .
+BAgaDeyaM taTA BAgyaM vipAko BavitavyatA .. 126 ..
+upaliNgamarizwaM syAdupasarga upadravastaTotpAtaH .
+ItirajanyaM ca buDErqamaro qimbaSca viplavaH kaTitaH .. 127 ..
+arcA pUjA saparyA syAdupahAro baliH smftaH .
+praRiDAnaM samADAnaM samADiSca samAstrayaH .. 128 ..
+varivasyA paricaryA SuSrUzopAsanA parIzwiH syAt .
+sevA BaktirupAstiH prasAdanArADanopacArASca .. 129 ..
+pratibimbaM pratirUpaM pratimAnaM pratikftiM praticCandam .
+pratikAyaM ca pratiniDimAhuH pratiyAtanAM praticCAyAm .. 130 ..
+arcA tu pratimA proktA hariRI syAdDiraRmayI .
+anyalohamayI prAjYEH sUrmI sTURA ca kaTyate .. 131 ..
+SucirmeDyaM pavitraM ca puRyaM pAvanamucyate .
+vimalaM viSadaM vIDramujjvalaM syAdanAvilam .. 132 ..
+BuvanaM vizwapaM loko jagadekArTavAcakAH .
+amftaM tridaSAhAraH suDA pIyUzamucyate .. 133 ..
+asavo jIvitaM prARA jIvo jIvA ca kaTyate .
+kzetrajYaH puruzo hyAtmA saMsArI cetano mataH .. 134 ..
+;p{0017}
+mandArapArijAtakaharicandanakalpavfkzasantAnAH .
+paYcEte surataravo meruH suraparvato jYeyaH .. 135 ..
+SakrakrIqAcalo meruH sumerurhemaparvataH .
+ratnasAnuriti KyAtA hemAdristridaSAlayaH .. 136 ..
+naBo marudvartma viyadvihAya-
+stArApaTaH puzkaramantarikzam .
+vyomAmbaraM vizRupadaM ca KaM dyO-
+rvihAyasA syAdgaganaM taTA dyuH .. 137 ..
+hrAdo nAdaH SabdaH svAno DvAnaH svaro ravo GozaH .
+aBiDAnavyAhArodIraRakaTanAdayastu tadBedAH .. 138 ..
+kolAhalaH kalakalastumulo vyAkulo ravaH .
+uccAvacamiti proktamanibadDaM tu yadvacaH .. 139 ..
+uccEstaro DvanistAro mandro gamBIra ucyate .
+kalaSca maDuro'vyakto vikruzwo nizWuro mataH .. 140 ..
+sAntvaM syAnmaDuraM vAkyaM priyaM satyaM ca sUnftam .
+KyAtaM mlizwamavispazwamabadDaM viyutArTakam .. 141 ..
+tUrRoditaM nirastaM syAd grastaM luptapadaM smftam .
+ambUkftaM sanizWIvaM grAmyamaSlIlamucyate .. 142 ..
+BinnakaRWo DvanirDIrEH kAkurityaBiDIyate .
+samAsaprAyamAKyAtaM padajAtaM ca taRqakam .. 143 ..
+;p{0018}
+ftaM satyaM samIcInaM samyak taTyaM yaTAtaTam .
+alIkaM vitaTaM miTyA mfzA syAdanftaM taTA .. 144 ..
+arTavAdaH praSaMsA ca stotramIqA stutirnutiH .
+vikatTanaM stavaH SlAGA varRanA ca nigadyate .. 145 ..
+cawu cAwu priyaM vAkyaM hfdyArTaM hfdayaNgamam .
+vArttodantaH pravfttiSca vfttAntaSca samAH smftAH .. 146 ..
+anAdivArttA hyEtihayaM kiMvadantI janaSrutiH .
+kOlInaM janavAdaH syAdvigAnaM vacanIyatA .. 147 ..
+apavAda upakroSo nirvAdAvarRavAdaparivAdAH .
+ekArTAH kaTyante garhA nindA jugupsA ca .. 148 ..
+SApa AkroSa AkzepaH kzAraRA syAdvirUkzaRam .
+smftA solluRWasotprAsa sopahAsAH samAstrayaH .. 149 ..
+anulApo muhurBAzA pralApo'narTakaM vacaH
+kAkvA varRanamullApaH saMlApo BAzaRaM miTaH .. 150 ..
+marmaraH SuzkaparRAnAM visPAro DanuzAM DvaniH .
+vfMhitaM vAraRAnAM ca hezA hrezA ca vAjinAm .. 151 ..
+AKyA saMjYABiDAhvAnaM nAmaDeyaM ca nAma ca .
+AKyAyikA kaTAKyAnaM prahvalIkA prahelikA .. 152 ..
+vidurAmreqitaM prAjYA dvistrirvyAharaRaM ca yat .
+kIrtiH Sloko yaSo'BiKyAsamAKyAstulyalakzaRAH .. 153 ..
+;p{0019}
+praSnaH syAdanuyogaH paryanuyogo BavedupAlamBaH .
+AkAraRamAhvAnaM kaTayantyaBimantraRaM prAjYAH .. 154 ..
+tatraBavAn BagavAniti Sabdo vfdDEH prayujyate pUjye .
+pAdA iti nAmAnta devo BawwArako vApi .. 155 ..
+;c{iti SrIBawwahalAyuDakftAyAmaBiDAnaratnamAlAyAM svargakARqaM praTamaM samAptam .. 1 ..}
+;p{0020}
+;k{BUmikARqam}
+;c{dvitIyaM BUmikARqam}
+BUrBUmirvasuDAvanirvasumatI DAtrI DaritrI DarA,
+gOrgotrA jagatI rasA kzitirilA kzoRI kzamA kzmAcalA .
+kuH pfTvI pfTivI sTirA ca DaraRI viSvamBarA medinI,
+jyAnantA vipulA samudravasanA sarvaMsahorvI mahI .. 156 ..
+kASyapI BUtaDAtrI ca ratnagarBA vasunDarA .
+DarADArA ca vijYeyA tadviSezAnniboData .. 157 ..
+urvarA sarvasasyA BUrBavediriRamUzaram .
+KilamaprahataM sTAnaM marurDanvA sTalaM sTalI .. 158 ..
+mfnmfttikA praSastAsO mftsA mftsneti kaTyate .
+SAdvalaM haritaM proktaM naqvalaM nalasaMyutam .. 159 ..
+kfzRaBUmaH pradeSo'sO yatra syAtkfzRamfttikA .
+pARquBUmastaTA prokta udagBUmaSca paRqitEH .. 160 ..
+nadyambujIvano deSo nadImAtfka ucyate .
+vfzwinizpAdyasasyastu vijYeyo devamAtfkaH .. 161 ..
+;p{0021}
+mudgAdInAM kzetraM mOdgInaM kOdravIRamityAdi .
+vrEheyaM SAleyaM Bavati punarvrIhiSAlyoryat .. 162 ..
+tilyaM tElInaM syAnmAzyaM mAzIRamumyamOmInam .
+BaNgyaM BANgInaM vA yavyaM pazwikyamezAM ca .. 163 ..
+SAkaSAkawamAKyAtamaTavA SAkaSAkinam .
+SAkasya kzetramanyezAmevaM kzetrezu saMhatiH .. 164 ..
+acalaSiloccayaSElakzitiDaragirigotraparvatAhAryAH .
+nagaSiKarisAnumanto DarAdrikuDrASca tulyArTAH .. 165 ..
+nitambaH kawako jYeyaH sAnu prasTaM tawaM BfguH .
+SfNgaM ca SiKaraM kUwaM nirJaraH prasravo'mBasAm .. 166 ..
+guhA pAzARasanDiH syAtkandaraH kandarA darI .
+nikuYjaM gahvaraM proktaM pAdAH pratyantaparvatAH .. 167 ..
+SilopalASmapAzARagrAvARaH prastaro dfzat .
+galitAH sTUlapAzARA gaRqaSElA iti smftAH .. 168 ..
+ayaskAntaviSezAH syuScumbakaBrAmakAdayaH .
+AkaraH syAtKanirgaYjA rumA ca lavaRAkaraH .. 169 ..
+ucyate gErikaM DAtustAmraM Sulvamudumbaram .
+ArakUwaH smfto rItiH kAMsyaM sOrAzwrakaM taTA .. 170 ..
+girisAramaSmasAraM lohaM kAlAyasaM taTA Sastram .
+tIkzRamayaH pAraSavaM kavayaH kaTayantyaBinnArTam .. 171 ..
+sIsakaM sIsapatraM syAdvaNgaM ca maDukaM trapu .
+rajataM kalaDOtaM ca rUpyaM tAraM ca kaTyate .. 172 ..
+;p{0022}
+hema svarRaM jAtarUpaM suvarRaM,
+BarmaM rukmaM hAwakaM SAtakumBam .
+gANgeyaM syAdgErikaM BUri candraM,
+rAH kalyARaM nizkamazwApadaM ca .. 173 ..
+jAmbUnadaM hiraRyaM kanakamahArajatakAYcanAni syuH .
+kArtasvaracAmIkarakarburatapanIyanAmAni .. 174 ..
+aSmagarBaM marakataM harinmaRiriti smftaH .
+SoRASmA padmarAgaH syAdvEdUryaM bAlavAyajam .. 175 ..
+sPawikaH sUryakAntaH syAdarkASmA dahanopalaH .
+ratnaM vasu maRiH sarvaM sarvaM lohaM ca tEjasam .. 176 ..
+vfkzoM'hripaH kzitiruhaH SiKarI ca SAKI,
+SAlo vanaspatirago viwapI kuWaSca .
+adriH kujastaruranokaha ityaBinnAH,
+SabdA druvizwaranagadrumapAdapASca .. 177 ..
+avakeSI sa vijYeyaH PalErbanDyastu yo Bavet .
+kzupo hrasvaSiPASAKI PalavAn PalinaH PalI .. 178 ..
+vAnaspatyAH smftA vfkzA ye puzpyanti Palanti ca .
+Palanti ye vinA puzpaM tAnvadanti vanaspatIn .. 179 ..
+PalapAkAvasAnAstu buDErozaDayaH smftAH .
+latA pratAninI vallI pratatirvratatistaTA .. 180 ..
+;p{0023}
+avAgBAgo Baved vuDnaH prAgraM tu SiKiraM SiraH .
+vistAro viwapaH prokta Arohastu samucCrayaH .. 181 ..
+skanDAdaDaH prakARqaH syAtpraGARaH skanDa ucyate .
+skanDaSAKA tu SAlA syAnnizkuwaH kowaraH smftaH .. 182 ..
+tvagvalkaM valkalaM proktaM majjA sAra udAhftaH .
+karahAwaM BavetkandaH pAdo mUlaM jawA SiPA .. 183 ..
+AvAla AlavAlaH syAdAvApaH sTAnakaM taTA .
+latodgamo'varohastu pravAlaH pallavANkuraH .. 184 ..
+pallavaH syAtkisalayaM vallarI maYjarI taTA .
+varhaM parRaM dalaM pattraM palASaM CadanaM CadaH .
+aNkUraScANkuraH prokto vfntaM prasavabanDanam .. 185 ..
+puzpaM prasavaH kusumaM prasUnakaM sumanasaH samAKyAtAH .
+korakajAlakakalikAkuqmalamukulAni tulyAni .. 186 ..
+unmIlitamunmizitaM smitamunnidraM vijfmBitaM hasitam .
+udbudDaM vyAkoSaM puzpezu vikASavAcakAH SabdAH .. 187 ..
+pOzpaM rajaH parAgaH syAnmakarando maDuH smftaH .
+stavako gucCako gucCo guluYCaH parikIrtitaH .. 188 ..
+SalAwuH komalaM proktaM vAnaM SuzkaPalaM Bavet .
+bIjakoSI SamI SimbA granTiH parva parustaTA .. 189 ..
+;p{0024}
+ulapastambagulmASca vIruDo viwapAH smftAH .
+SazpaM bAlatfRaM proktaM sarvaM ca tfRamarjunam .. 190 ..
+GAsastu yavasaH prokto barhirdarBaH kuTaH kuSaH .
+ulapo valvajaH prokta izIkA kASa ucyate .
+haritAlI BaveddUrvA Saro muYja iti smftaH .. 191 ..
+ramBA kadalI mocA tfRarAjaH kaTyate talastAlaH .
+kaNkeliraSokaH syAdAmraScUtaSca sahakAraH .. 192 ..
+mfdvIkA gostanI drAkzA hArahUrA ca kaTyate .
+priyaNguH PalinI SyAmA kuwajo girimallikA .. 193 ..
+karavIro hayamAro mAlUraH SrIPalo BavedvilvaH .
+karuRo jambIraH syAdbadarI kuvalI ca karkanDuH .. 194 ..
+arjunaM kakuBaM prAhuH sAlaM sarjaM ca sUrayaH .
+JAbukaH piculaH prokta ijjalo niculaH smftaH .. 195 ..
+arizwaH picumandaH syAnnyagroDo vawa ucyate .
+SrIvfkzaH pippalo'SvatTo buDErboDiSca kaTyate .. 196 ..
+brahmavfkzaH palASaH syAtkiMSukaSca tripattrakaH .
+mahAvfkzaH snuhiH proktaH SeluH SlezmAtakaH smftaH .. 197 ..
+naktamAlaH karaYjaH syAdvfzA vAsAwarUzakaH .
+AragvaDaH kftamAlaH svarRapuzpI ca kaTyate .. 198 ..
+;p{0025}
+vfkzotpalaH karRikAraH pItasAlo'sanaH smftaH .
+daRqotpalaH sahadevA sallakI syAd gajapriyA .. 199 ..
+nirguRqI sinduvAraH syAnmandAraH pAriBadrakaH .
+tAmbUlI nAgavallI syAd gUvAkaH pUga ucyate .. 200 ..
+vAnIro vaYjulaH SIto vidulo vetasaH smftaH .
+gokzuraH sTalaSfNgAwaH SvadaMzwrA syAttrikaRwakaH .. 201 ..
+picavyo bAdaraH proktaH karpAsastUlakaM picuH .
+koSAtakI pawolI syAd girikarRyaparAjitA .. 202 ..
+kaTyate kfzRalA guYjA tApicCaH kAkatuRqikA .
+kimpAkaH syAnmahAkAla ozWI vimbI ca tuRqikA .. 203 ..
+tvacisAraSca yo vaMSo veRutvaksAramaskarAH .
+svananti ye'nilodDUtA veRavaste tu kIcakAH .. 204 ..
+nIlA JiRwI BavedvARaH pItA sahacarI Bavet .
+mAlatI kaTyate jAtirmAgaDI yUTikA taTA .. 205 ..
+hemapuzpamiha nAgakesaraM,
+kesaraM ca vakulaM pracakzate .
+kovidAramapi kAYcanArakaM,
+mallikAM vicakilaM vicakzaRAH .. 206 ..
+varRapuzpamamalAnakaM taTA,
+kiNkirAtamuditaM kuraRwakam .
+;p{0026}
+oqrapuzpamaBiDIyate japA,
+saptalA ca navamAlikA smftA .. 207 ..
+banDUkaM banDujIvaM syAtpunnAgaH suraparRikA .
+atimuktakamicCanti vAsantIM mADavIM latAm .. 208 ..
+ervAruScirBawaH prokto vAlukI karkawI taTA .
+karkAruraTa kUzmARqastumbyalAbUSca dugDikA .. 209 ..
+araRyamawavI sattraM kAntAraM kAnanaM vanam .
+vipinaM gahanaM ceti nAtiBinnArTamizyate .. 210 ..
+tawopakaRWe yA jAtA vanarAjI mahIBftAm .
+upatyakAM tu tAmAhuruparizwAdaDityakAm .. 211 ..
+nagarAnnAtidUreRa yaH sadBiruparopitaH .
+taruzaRqaH sa ArAmastaTopavanamucyate .. 212 ..
+vijYeyaM pramadavanaM nfpastu yasmin,
+SudDAntEH saha ramate gfhopakaRWe .
+udyAnaM svayamaparEH samaM ca lokE-
+ranyezAM viBavavatAM ca puzpavAwI .. 213 ..
+mAtaNgadviradadvipAH karigajastamberamAnekapAH,
+kumBIkuYjaravAraReBaradinaH sAmodBavaH sinDuraH .
+tulyArTAH kaTitA harirmfgapatiH paYcAnanaH kesarI,
+haryakzo naKarAyuDo mfgaripuH siMhaSca kaRWIravaH .. 214 ..
+Badro mando mfgaSceti vijYeyAstriviDA gajAH .
+vanapracArasArUpyasattvaBedopalakzitAH .. 215 ..
+;p{0027}
+mUrDapiRqO smftO kumBO kumBayorantaraM viduH .
+karawaH syAtkawo gaRqo vamaTuH karasIkaraH .. 216 ..
+dAnaM mado vizARO ca daSanO skanDa Asanam .
+apANgadeSo niryARaM karRamUlaM tu cUlikA .. 217 ..
+avagraho lalAwaM syAdArakzaH kumBayoraDaH .
+dantayoruBayormaDyaM pratimAnaM pracakzyate .. 218 ..
+karAgraM puzkaraM proktamaNguliH karRikA matA .
+pecakaH pucCamUlaM tu padmaM syAd vindujAlakam .. 219 ..
+lagnaH praBinno mattaH syAdupAtto madavarjitaH .
+tiryagdantaprahArastu gajaH pariRato mataH .. 220 ..
+sajjitaH kalpito jYeyo bahUnAM GawanA GawA .
+cUzA kakzyA varatrA syAdAlAnaM stamBa ujyate .. 221 ..
+pAdakarma yataM proktaM yAtamaNkuSavAraRam .
+uBayaM vItamAKyAtaM BedaH sTUloccayo gateH .. 222 ..
+karIrI dantamUlaM syAdvArI ca gajabanDanam .
+nigaqaH pAdabanDaSca hiYjIraH SfNKalo'ndukaH .. 223 ..
+kalaBaH karipotaH syAdaNkuSaH sfRirucyate .
+OpavAhyo rAjavAhyaH sannAhyaH samarocitaH .. 224 ..
+vyAlo duzwagajaH prokto hastinI tu vaSA smftA .
+;p{0028}
+ADoraRA hastipakA hastyArohA nizAdinaH .
+gajAjIvAstu SAstrajYErmahAmAtrA iti smftAH .. 225 ..
+kolaH kroqaH SUkaraH syAdvarAhaH,
+potrI daMzwrI GfzwiruktaH kiriSca .
+vyAGro dvIpI puRqarIkastarakzuH,
+SArdUlaH syAccitrakAyo mfgAriH .. 226 ..
+mahizaH sEriBa ukto raktAkzaH kAsaro lulAyaSca .
+vADrIRasaSca KaqgI gaRqaka iti kaTyate sadBiH .. 227 ..
+fkzAcCaBallaBAllUkaBallUkASca samAH smftAH .
+araRyaSvA buDErjYeyaH koka IhAmfgo vfkaH .. 228 ..
+gomAyurBUrimAyaH syAcCfgAlo jambukaH SivA .
+PeraRqaH PeravaH PeruH krozwA ca mfgaDUrtakaH .. 229 ..
+eRaH kuraNgo hariRo mfgaH syAt
+sAraNga fzyaH pfzato ruruSca .
+nyaNkustaTA raNkuriti prasidDA,
+vAtapramISambarakfzRasArAH .. 230 ..
+balImuKo markawako vanOkAH,
+plavaNgamaH syAtplavagaH plavaNgaH .
+hariH kapiH kISa ime ca SabdAH,
+SAKAmfgo vAnara ityaBinnAH .. 231 ..
+;p{0029}
+golANgUla iti proktaH kfzRavaktrastu markawaH .
+kapeH krIqAdikaM kiYcitkApeyamiti kaTyate .. 232 ..
+SalalaH SallakaH SvAvittatsUcI SalalaM Salam .
+vyAGrAdayo vanacarAH paSavaH SvApadAH smftAH .. 233 ..
+goDA muSalikA proktA gODerAstatsutA matAH .
+sarawaH kfkalAsaH syAtpratisUryaSayAnakaH .. 234 ..
+AKurvfzo mUzakaH syAdunduraH KanakastaTA .
+CucCundarI ca vijYeyA vidvadBirganDamUzikA .. 235 ..
+oturviqAlo mArjAro vfzadaMSaSca kaTyate .
+jAhako gAtrasaNkocI maRqalI ca buDEH smftaH .. 236 ..
+patanpataNgaH patagaH patatrI,
+pattrI SakuntiH SakuniH SakuntaH .
+vayo vihAyo vihago vihaNgo,
+vihaNgamaH pattraraTo garutmAn .. 237 ..
+SakunaH Kago nagOkAH pakzI virvizkirastaTA vikiraH .
+aRqajanIqajavAjidvijASca kaTitAH samAnArTAH .. 238 ..
+tanUruhaM garutpattraM patatraM CadanaM CadaH .
+picCaM vAjastaTA pakzaH pakzamUlaM tu pakzatiH .. 239 ..
+peSIkoSaH smfto'RqaSca kulAyo nIqa ucyate .
+caYcuScaYcUstaTA trowirqayanaM gagane gatiH .. 240 ..
+;p{0030}
+kekI SiKI SiKaRqI pracalAkI varhiRaH kalApI ca .
+sarpASano mayUraH SiKAvalaH SyAmakaRWaSca .. 241 ..
+vARI kekA SiKA cUqA candrako mecakaH smftaH .
+pracalAkaH SiKaRqaSca kalApo varha ucyate .. 242 ..
+anyaBftaH parapuzwaH kalakaRWaH kokilaH pikaH proktaH .
+kalaviNkaScawakaH syAd gfhabaliBuk nIlakaRWaSca .. 243 ..
+krOYcaH kruN syAtKaYjanaH KaYjarIwaH
+kokaScakraScakravAko raTANgaH .
+dArvAGAwaH sArasaH puzkarAKyaH,
+proktA sadBiH sArasI lakzmaRA ca .. 244 ..
+arizwaH karawaH kAko balipuzwaH sakftprajaH .
+ekadfgbaliBuk DvANkzaSciraYjIvI ca vAyasaH .. 245 ..
+ulUkaH kOSikaH proktA DvAqkzArAtirniSAwanaH .
+kAkolo mOkalirdroRaH kfzRakAko vanASrayaH .. 246 ..
+kfkavAkustAmracUqaH kukkuwaScaraRAyuDaH .
+kikidIviH smftaScAzaH Sakunto BAsa ucyate .. 247 ..
+BfNgaH kaliNgo DUmyAwaH sAraNgaScAtako mataH .
+vyAGrAwastu BaradvAjaH SukaH kIra udAhftaH .. 248 ..
+AwiH SarArirAtiH syAdutkroSaH kuraro mataH .
+dAtyUho jalaraNkuH syAtkoyazwiH SiKarI smftaH .. 249 ..
+;p{0031}
+vako vakowo vijYeyo balAkA visrakaRWikA .
+AtAyI SakuniScillo madguH syAjjalavAyasaH .. 250 ..
+haMsAH SvetacCadAH proktAScakrANgA mAnasOkasaH .
+vAralA haMsakAntA syAdvaralA varawA taTA .. 251 ..
+AtAmrE rAjahaMsASca DArtarAzwrAH sitetarEH .
+malinErmallikAKyASca kaTyante caraRAnanEH .. 252 ..
+pakzErADUsarErhaMsAH kalahaMsA iti smftAH .
+procyante prAcikAH SyenAScawikAH kzudrapakzikAH .. 253 ..
+jIvaYjIvakapiYjalacakorahArItavaYjulakapotAH .
+kAraRqavakAdambakrakarAdyAH pakzijAtayo jYeyAH .. 254 ..
+maDukaramaDupamaDuvrataSilImuKaBramaraBfNgapuzpalihaH .
+indindirAlizawcaraRacaYcarIkAlino dvirePAH syuH .. 255 ..
+JillIkA cIrI syAtsaraGA maDumakzikA BavetkzudrA .
+lUtorRanABamarkawajAlikakfmayaSca tulyArTAH .. 256 ..
+pataNgaH SalaBaH proktaH Kadyoto dyotiriNgaRaH .
+hAlahalaScAYjanikA jyezWo syAd gfhagoDikA .. 257 ..
+grAmaH saMvasaTo jYeyo grAmADAnaM ca Kewakam .
+grAmIRAstu nigadyante grAmyA grAmeyakA iti .. 258 ..
+grAmAntikamupaSalyaM paryantaH parisaraH kawaH proktaH .
+avaDirmaryAdA syAdAGAwaH sIma sImA ca .. 259 ..
+;p{0032}
+aDvA panTAH padDatirekapadI vartma vartanI saraRiH .
+ayanaM padavI mArgaH padyA ca nigadyate nigamaH .. 260 ..
+grAmayorantaraM dIrGaM prAntaraM parikIrtyate .
+Goza ABIrapallI syAtpakkaRaH SavarAlayaH .. 261 ..
+vrajaH syAd gokulaM gozWaM govfndaM goDanaM Danam .
+gomAn gomI ca gosvAmI govindo'Dikfto gavAm .. 262 ..
+ukzAnaqvAnvalIvardaH kakudmAnvfzaBo vfzaH .
+fzaBaH sOraBeyo gOrvAqaveyo'Ta SAkvaraH .. 263 ..
+tarRakaH smaryate vatso damyo vatsataraH smftaH .
+ArzaByaH sa ca vijYeyaH zaRQatve yasya yogyatA .. 264 ..
+mahokzaH syAdukzataro vfdDokzastu jaradgavaH .
+DuraM vahati yo Duryo DOreyaH sa ca kaTyate .. 265 ..
+sTUrI syAtpfzWavAhyastu skanDikaH skanDavAhakaH .
+aMsakUwastu kakudaM sAsnA syAd galakambalaH .. 266 ..
+nIcakI ca SirodeSaH skanDadeSo vahaH smftaH .
+nasyoto nastitaH proktaH zoqan zaqdaSanaH smftaH ..
+BagnaSfNgastu kUwaH syAdvizARaM SfNgamucyate .. 267 ..
+aGnyA gOrmAheyI suraBirbahulA ca sOraBeyI ca .
+usrArjunI ca rohiRyuktAnaquhI buDEranaqvAhI .. 268 ..
+vehadvfzaBopagatA prazWOhI garBiRI vaSA banDyA .
+DenurnavaprasUtA vazkayaRI prOQavatsA syAt .. 269 ..
+;p{0033}
+avatokA sravadgarBA BadrA gOrgomatallikA .
+acaRqI sUratA proktA vatsakAmA tu vatsalA .. 270 ..
+UDaH syAdApInaM pInoDnI pIvarastanI proktA .
+SrezWA ca nEcikI syAddroRaduGA pracuradugDA ca .. 271 ..
+kAlyopasaryA prajane prasidDA,
+parezwukA ca pracuraprasUtiH .
+vijAyate yA prativatsaraM gOH,
+samAMsamIneti nigadyate'sO .. 272 ..
+gfzwiH sakftprasUtA syAtpaliknI bAlagarBiRI .
+gavyaM gosamBavaM sarvaM karIzaM gomayaM smftam .. 273 ..
+UDasyaM kzIraM syAddugDaM stanyaM payaSca pIyUzam .
+daDisAraM navanItaM bruvate hEyaNgavInaM ca .. 274 ..
+takramarizwamudaSviddaRqAhatakAlaSeyamaTitAni .
+drapsaM daDyaGanaM syAtsarpirGftamAjyamAGAraH .. 275 ..
+SInaM styAnaM SftaM pakvaM vilInaM drutamucyate .
+manTA manTaSca manTAno vESAKaH KajakastaTA .. 276 ..
+sandAnaM dAmanI dAma paSUnAM banDanaM matam .
+ajaH proktaH staBo vastaSCAgaSCagalakaSCagaH .. 277 ..
+varkaraH kaTyate sadBiH sarvo'pi taruRaH paSuH .
+tUvaraH SfNgahInastu pumAnavyaYjanaSca yaH .. 278 ..
+;p{0034}
+avirUrRAyuraBro huqururaRo vfzRimezameRQAH syuH .
+avisoQamavimarIsaM syAdavidUsaM ca dugDamaveH .. 279 ..
+dAserakaH kramelaka uzwro mayaravaRakaraBaSfNKalakAH .
+bAleyaScakrIvAn KaragardaBarAsaBASca tulyArTAH .. 280 ..
+kOleyakaH sArameyo BazaRaH SvA ca kurkuraH .
+Sunako mfgadaMSaSca buDEH SAlAvfko mataH .. 281 ..
+mfgavye kuSalaH SvA ca viSvakadruriti smftaH .
+alarko sogito jYeyaH SunakI saramocyate .. 282 ..
+paSUnAM zawkasaMKyAyAM zaqgavaM smaryate buDEH .
+dvitve ca goyugaM tezAM nAmoccoraRapUrvakam .. 283 ..
+nIvfjjanapado deSa upavartanamizyate .
+jano lokaH prajA proktA vizayo grAmasaMKyayA .. 284 ..
+pattanaM syAdaDizWAnaM nigamaH puwaBedanam .
+nagaraM nagarI draNgaH sTAnIyaM pUH purI puram .. 285 ..
+skanDAvAra iti prAjYE rAjaDAnI nigadyate .
+SAKAnagaramAKyAtaM taTopanagaraM buDEH .. 286 ..
+videhA miTilA proktA kASirvArARasI smftA .
+avantyujjayinI jYeyA kanyakubjA mahodayA .. 287 ..
+hastinaKaH parikUwaM ca kaTyate gopuraM puradvAram .
+vapraM SAlaM prAkAramAhurararaM kapAwaM ca .. 288 ..
+;p{0035}
+pratolI viSiKA raTyA muKaM niHsaraRaM smftam .
+SfNgAwakaH paTAM SlezaH saMsTAnaM tu catuzpaTam .. 289 ..
+gfhaBUmistu vAstuH syAdvAwa Avezwako vftiH .
+gfhasTAnaM smftaM rAjYAmupakAryopakArikA .. 290 ..
+AvAsAvasaTaM gfhaM ca BavanaM sTAnaM niSAntaM kulaM,
+saMstyAyo nilayo nikAyyamuwajaM gehaM kuwaM mandiram .
+DizRyaM DAma niketanaM ca sadanaM pastyaM ca vAstu kzayaH
+SAlA veSma niveSanodavasite prokte ca sadmOkasI .. 291 ..
+SaraRamagAraM nivasanamAlaya ekArTavAcakAH SabdAH .
+apavarakaM garBagfhaM saMjavanaM syAccatuHSAlam .. 292 ..
+gfhamizwakAdiracitaM prAsAdo devatAnarendrARAm .
+AyatanaM devAnAmanyezAM DanavatAM harmyam .. 293 ..
+suDADavalitaM sODaM kuwwimaM badDaBUmikam .
+indrakoSastamaNgaH syAdawwaScAwwAlako mataH .. 294 ..
+pAkasTAnaM rasavatI kaTyate tanmahAnasam .
+uSanti SayanasTAnaM vAsAgAraM viSAradAH .. 295 ..
+AveSanaM SilpiSAlA vAjiSAlA tu mandurA .
+paRyavikrayaSAlA syAdApaRo vipaRistaTA .. 296 ..
+karmaSAlA ca kArURAmanvAsanamudAhftam .
+prapA pAnIyaSAlA syAtsattraSAlA pratiSrayaH .. 297 ..
+;p{0036}
+upaGna ASrayaH prokto munInAM sTAnamASramaH .
+maWaSca vratinAM sTAnaM maRqapaH syAjjanASrayaH .. 298 ..
+veSmEkadeSaH praGaRaH praGARaH syAdalindakaH .
+ajiraM prANgaRaM proktaM vedikA ca vitardikA .. 299 ..
+dvArdvAraM balajaM jYeyamargalA pariGaH smftaH .
+uttaraNgaM mataM tiryak dvArasyopari dAru yat .. 300 ..
+buDErvandanamAlA tu toraRaM parikIrtyate .
+ArohaRaM syAtsopAnaM niHSreRiraDirohiRI .. 301 ..
+gfhAvagrahaRI proktA dehalI tu manIziBiH .
+saMmArjanI varDanI syAtsaNkaro'vakaraH smftaH .. 302 ..
+AcCAdanaM syAdvalaBI gfhARAM,
+gopAnasI dAru ca vakrasaMsTam .
+nIvraM valIkaM pawalA tamAhuH,
+kapotapAlI ca viwaNkasaMjYA .. 303 ..
+vAtAyano gavAkzaSca jAlakaM jAlamucyate .
+kakzAntaraM prakozWaM ca candraSAlA Sirogfham .. 304 ..
+svastiko varDamAnaSca nandyAvartAdayastaTA .
+vicCandakaviSezAH syuramI BUpativeSmanAm .. 305 ..
+parivAraH parikaraH parispandaH parigrahaH .
+taTopakaraRaM proktaM parivarhaH paricCadaH .. 306 ..
+;p{0037}
+paryaNkaH SayanaM SayyA talpaM ca talinaM smftam .
+apASrayastu vidvadBiH kaTyate mattavAraRaH .. 307 ..
+praveRyAstaraRaM varRaH paristomaH kuTaH kuTA .
+navataM ceti tulyArTAH pracCadaScottaracCadaH .. 308 ..
+apawI kARqapawaH syAtpratisIrA javanikA tiraskariRI .
+ucCIrzakamupaDAnaM DIrErupavarhamAKyAtam .. 309 ..
+candrodayo vitAnaM syAdullocaH kadakastaTA .
+vyaYjanaM tAlavfntaM ca vizwaraH pIWamAsanam .. 310 ..
+vetrAsanaM taTAsandI kaNkataM keSamArjanam .
+pAdukAnupadInA syAdupAnatpAdarakzaRam .. 311 ..
+darvI tardUSca KajikA kaTyate dAruhastakaH .
+pewAM vadanti maYjUzAM kuSUlaM DAnyakozWakam .. 312 ..
+ambarIzo Baved BrAzwraH kanduH svedanikA smftA .
+cullyaSmantakamudDmAnaM smftADiSrayaRI buDEH .. 313 ..
+aNgAraSakawIM prAhurhasantIM ca hasantikAm .
+uKA sTAlI caruH kumBI piWaraM kuRqamucyate .. 314 ..
+kawAhaH karparo jYeyo BfNgAraH kanakAlukA .
+SAlAjiro varDamAnaH SarAvaH smaryate buDEH .. 315 ..
+;p{0038}
+koSikA mallikA proktA piDAnaM syAdudaYcanam .
+GawaH karIraH kalaSaH kuwaH kumBo nipaH smftaH .. 316 ..
+karkarI karakaH prokto varDanI ca galantikA .
+gargarI manTanI proktA maRikaH syAdaliYjaraH .. 317 ..
+DAnyAmlamAranAlaM sanDAnaM kAYjikaM ca sOvIram .
+aBizavamavantisomaM tuzodakaM SuktamicCanti .. 318 ..
+anDaH kUraM BaktaM didIvirannaM taTOdano BissA .
+aSanaM syAdAhAraH pUpApUpO ca pUpalikA .. 319 ..
+yavAgUruzRikA SrARA taralA ca vilepikA .
+kzEreyI pAyasaM proktaM paramAnnaM ca sUriBiH .. 320 ..
+mizwAnnaM vyaYjanaM jYeyaM vezavAra upaskaraH .
+daDimaRqo Bavenmastu karamBo daDisaktavaH .. 321 ..
+dADikaM saMskftaM daDnA sArpizaM sarpizA smftam .
+lavaRodakasaMsidDamudalAvaRikaM matam .. 322 ..
+aNgArezu vipakvaM mAMsaM BUtirBarUwakaM Bfzwam .
+uKyamuKAsaMsidDaM SUle SUlyaM BawitraM ca .. 323 ..
+kilAwaH kUrcikA ceti kzIrasya vikftI uBe .
+PARitavikftirgOqI matsyaRqI KaRqaSarkarAH .. 324 ..
+;p{0039}
+valBanamaByavahAraH pratyavasAnaM ca jemanaM jagDiH .
+KAdanamaSanaM BakzaRamAhAro BojanaM svadanam .. 325 ..
+paryyAptamupasampannaM tfptiH sOhityamucyate .
+viGaso BaktaSezaM syAdBuktocCizwaM tu PelikA .. 326 ..
+amatraM BAjanaM pAtraM sTAlaM tulyArTamizyate .
+galvarkaScAnutarzaSca cazakaH sarakaH smftaH .. 327 ..
+ApAnaM pAnagozWI syAtsapItiH sahapAnakam .
+upadaMSAvadaMSO ca cakzaRaM sampracakzate .. 328 ..
+maDvAsavaH SIDu surA prasannA,
+parisrutA syAnmadirA madizWA .
+kAdambarI svAdurasA ca SuRqA,
+ganDottamA mADavakaSca hAlA .. 329 ..
+kalyaM kaSyaM taTA madyaM mEreyaM kApiSAyanam .
+mADvIkamAsavaH proktaH parisrudvAruRI maDu .. 330 ..
+manuzyo mAnuzo martyo manujo mAnavo naraH .	
+pumAnpaYcajano nA ca puruzaH pUruzaSca viw .. 331 ..
+DIro DImAn labDavarRo vipaScid,
+vfdDo vidvAn prAptarUpo'BirUpaH .
+sUriH prAjYaH paRqitaH sanmanIzI,
+jYo dozajYaH kovidaH syAtprabudDaH .. 332 ..
+;p{0040}
+buDaH suDIH kftI kfzwiH kavirvyakto viSAradaH .
+vicakzaRaSca meDAvI saMKyAvAnmatimAnmataH .. 333 ..
+prekzA prajYA pratiBA DIrDizaRA SemuzI manIzA ca .
+budDirmatiSca meDA saMKyA saMvittirupalabDiH .. 334 ..
+caturaH syAtkzetrajYaH kftahastaH kftamuKaSca kftakarmA .
+dakzaH kuSalo'BijYo nizRAtaH SikzitaH pravIRaSca .. 335 ..
+vEDeyo bAliSo bAlo jaqo jAlmo yaTodgataH .
+mUQo mando vivarRaSca mUrKaH syAnmAtfSAsitaH .. 336 ..
+arvARamaRakamapasadamavamamavadyaM nikfzwamapakfzwam .
+aDamaM celaM kARqaM KewaM pApaM ca rePasaM prAhuH .. 337 ..
+EkAgArikataskaradasyupratiroDakAH parAskandI .
+cOro malimlucaH syAtparimozI pAripanTikaH stenaH .. 338 ..
+paSyato yo haratparTaM sa cOraH paSyatoharaH .
+dravyaM hyapahftaM loptraM steyaM cOryamiti smftam .. 339 ..
+pAwaccaraH pawacOro badDo nadDaSca saMyataH .
+kzemaNkaro rizwatAtiH SivatAtiH SivaNkaraH .. 340 ..
+paravAMstu parADIno niGnaH paravaSastaTA .
+paratantraH parAyattaH paracCandaSca gfhyakaH .. 341 ..
+kaWoraH kaWinaH krUraH kakKawaH karkaSo dfQaH .
+ucyate bahulaH sTUlaH pInaH pIvA ca pIvaraH .. 342 ..
+;p{0041}
+aryaH parivfQaH svAmI praBurnetA ca nAyakaH .
+aDiBUraDipaH proktA hyaDISo'DipatistaTA .. 343 ..
+tapasvI saMyataH SAnto munirliNgI yatirvratI .
+rajoharaRaDArI ca SvetavAsAH sitAmbaraH .. 344 ..
+nagnAwo digvAsAH kzapaRaH SramaRaSca jIvako jEnaH .
+AjIvo malaDArI nirgranTaH kaTyate sadBiH .. 345 ..
+durjanaH piSunaH kzudro nIcaH karRejapaH KalaH .
+dozagrAhI puroBAgI dvijihvo matsarI mataH .. 346 ..
+kadaryahInakInASakimpacAnamitampacAH .
+kfpaRakzullakaklIvakzudrA ekArTavAcakAH .. 347 ..
+kzudradaridrAkiYcanadurviDaduHsTASca durgatAH proktAH .
+itaraprAkftapAmarapfTagjanA varvarASca tulyArTAH .. 348 ..
+dARqAjinikaH kuhakaH kArpawiko jAlikaSca kOsftikaH .
+DUrto vyaMsaka ukto mAyAvI mAyiko mAyI .. 349 ..
+AdyUnaH syAdOdariko Bakzako Gasmaro'dmaraH .
+tamasecanakaM prAhustfptiryasya na jAyate .. 350 ..
+parAnnaH parapiRqAdaH parajAtaH parEDitaH .
+sarvAnnInaH sarvaBakzo mAMsAdI SOzkalaH smftaH .. 351 ..
+;p{0042}
+ucyate pravaRaH prahvastatparaSca parAyaRaH .
+vyutpannaH prahataH kzuRRaH saMskftaSca nigadyate .. 352 ..
+loluBaM lolupaM lolaM lAlasaM lampawaM viduH .
+pratUrRastvaritastUrRa utsukaH prasftaH smftaH .. 353 ..
+SUro vIraSca vikrAnto BawaScAraBawo Bavet .
+daritaScakito BItastrasto BIruSca kAtaraH .. 354 ..
+kzuBitaH SaNkitaSceti nAtinAnArTavAcakAH .
+mahotsAho mahodyogo mahecCaH syAnmahAmanAH .. 355 ..
+udAttaSca taTodIrRo mahAtmodAra ucyate .
+AQyaH samfdDo DanavAnina ISo DanISvaraH .. 356 ..
+aByAgArikamicCanti kuwumbavyApftaM janAH .
+pAnTo'Dvago'DvanInaH syAdaDvanyaH paTikastaTA .. 357 ..
+jaNGAlo javano vegI pATeyaM SambalaM smftam .
+AveSikaH prAGuRaka AganturatiTiH smftaH .. 358 ..
+AtiTeyaM taTAtiTyamAtiTeyI ca kaTyate .
+arTI mArgaRakaH prokto yAcakaSca vanIpakaH .. 359 ..
+aDyezaREzaRA yAcYA yAcanA prArTanA smftA .
+kzudvAnbuBukzitaH psAto jiGatsuH kzuDitastaTA .. 360 ..
+;p{0043}
+aSanAyA buBukzA psA jiGatsAkzutkzuDAH samAH .
+kopanaH kroDanaH kroDI rozaRaH syAdamarzaRaH .. 361 ..
+kopaH kroDastaTAmarzo rozaH pratiGa ucyate .
+tfzitastarzitaH proktaH pipAsuSca pipAsitaH .. 362 ..
+udanyA tarzatfwtfzRApipAsASca samAH smftAH .
+tfzRako garDano gfDnurlipsurlubDo'BilAzukaH .. 363 ..
+tfzRABilAzo lipsASA DanAyA garDanocyate .
+aDaro hInavAdI syAtprasaktaH prasftaH smftaH .. 364 ..
+dAso dAserakaScewo BujizyaH kiNkaro mataH .
+SlakzRo maDuravAk proktaH sTUlalakzo bahuvyayI .. 365 ..
+priyavAgdAnaSIlaSca vadAnyaH parikIrtitaH .
+Bavedakzigato dvezyaH praRAyyo'saMmato mataH .. 366 ..
+cakzuzyaH suBago jYeyo vallaBo dayitaH priyaH .
+gehenardI geheSUraH piRqISaraSca kaTyate .. 367 ..
+sTAnasTo yo parAn dvezwi gozWaSvaM taM vidurbuDAH .
+asO paYcajanInaH syAdyo BARqAdirato naraH .. 368 ..
+vEraNgiko virAgArho DanavAnastimAnmataH .
+prezyaH proktaH pariskandaH karmaSUraSca karmaWaH .. 369 ..
+alaNkarmIRa ityuktaH karmaSIlastu yaH pumAn .
+uttAlastvarito jYeyo viSrabDaH sTira ucyate .. 370 ..
+;p{0044}
+tIkzRopAyena yo'nvicCetsa AyaHSUliko mataH .
+aruntudaH syAdvyaTako viyAto Dfzwa ucyate .. 371 ..
+SarArurGAtako hiMsro nfSaMsaH krUrakarmakft .
+sADuH sajjana AryaH syAdgfhameDI gfhADipaH .. 372 ..
+kuSAgrIyamatiH proktaH sUkzmadarSI ca yaH purAn .
+cidrUpaH syAtsahfdayaH sahastaH SikzitAyuDaH .. 373 ..
+samuKaH sa Kalu prokto yo vakti pratiBAnvitaH .
+nIlArAgaH sa vijYeyaH sTirapremA ca yaH pumAn .. 374 ..
+kzaRamAtrAnurAgI ca haridrArAga ucyate .
+SAlI SreyAnaDfzwo ca proktO SAlInaSAradO .. 375 ..
+dUrArTAnarTasandarSI dIrGadfzwiH prakIrtitaH .
+pratyutpannamatirjYeyastatkAlotpannaDIrnaraH .. 376 ..
+yadBavizyo dEvaparo yadvadaH syAdanuttaraH .
+ajYo mAtfmuKaH prokto durmuKo muKaraH smftaH .. 377 ..
+kadvado garhyavAdI syAtkawvaraH kutsito Bavet .
+prakARqodDO praSaMsAyAmAkzepe hatakaH smftaH .. 378 ..
+ahaMyuH syAdahaNkArI SuBaMyuH SuBasaMyutaH .
+yaTAkAmI svaruciH syAtsvacCando niravagrahaH .. 379 ..
+anvezwAnupadI proktaH pratiBUrlagnakaH smftaH .
+rogAdunmukta ullAGaH kalyo vArtto nirAmayaH .. 380 ..
+jEvAtfkaH syAdAyuzmAn balavAnaMsalo mataH .
+jAbAlaH syAdajAjIvaH kamraH kAmI ca kAmukaH .. 381 ..
+;p{0045}
+veSyApatirBujaNgaH syAdviwaH pallavakaH smftaH .
+vihasto vyAkulaH proktaH kuRWo mandaH kriyAsu yaH .. 382 ..
+kriyAvAnkarmasUdyukto dIrGasUtro jaqakriyaH .
+nikfto vipralabDaH syAtsamunnadDo'tigarvitaH .. 383 ..
+pratIkzyaH kaTyate pUjyaH pUjito'pacito Bavet .
+IrzyAluH kuhanaH prokto jAro hyupapatiH smftaH .. 384 ..
+saralo dakziRo jYeyo vidagDaSCeka ucyate .
+utpaSyamunmuKaM vidyAnnyubjaM vidyAdaDomuKam .. 385 ..
+AsIna upavizwaH syAdUrDvaM UrDvandamaH sTitaH .
+kzIvo mattaH kzamaH SaktaH pragalBaH prOQa ucyate .. 386 ..
+utka utkazWitaH prokto viklavo vihvalaH smftaH .
+alasaH SItako mando jaqo jihmaSca manTaraH .. 387 ..
+pogaRqo vikalANgaH sTAllohalo'vyaktavAgBavet .
+kitavaH syAddyUtakAro dyUtamakzavatI Bavet .
+akzo durodaraM proktaM saBiko dyUtakArakaH .. 388 ..
+parIkzakaH kAraRiko gfhyaH pakza udAhftaH .
+aBijAtaH kulInaH syAtkucaraH kuwilASayaH .. 389 ..
+nizAdino gajArohA aSvArohAstu sAdinaH .
+raTinaH syandanArohA nAvArohAstu nAvikAH .. 390 ..
+;p{0046}
+brAhmaRo vAqavo vipro BUmidevo dvijottamaH .
+agrajanmA dvijanmA ca zawkarmA somapA dvijaH .. 391 ..
+brAhmaRaH kzatriyo vESyastrayo varRA dvijAtayaH .
+SUdrasturIyavarRaH syAttadBedAsvantyajAH smftAH .. 392 ..
+brahmacAryAdayo vede proktAScatvAra ASramAH .
+SUdro'gfhasTa eva syAtkzatriyo na yatirBavet .. 393 ..
+brahmacArI BavedvarRI gfhasTaH snAtakastaTA .
+vEKAnaso vAnaprasTaH karmasaMnyAsiko yatiH .. 394 ..
+anUcAnaH sarvavedaH SrotriyaSCAndaso mataH .
+praKyAtAtpiturutpanna AmuzyAyaRa izyate .. 395 ..
+anvavAyo'nvayo vaMSo gotraM cABijanaH kulam .
+caritraM caritaM SIlaM cAritraM ca samaM smftam .. 396 ..
+vfttADyayanasampattirizyate brahmavarcasam .
+brahmacaryaM buDAH prAhuH samastendriyasaMyamam .. 397 ..
+saMjYeya upasaNgrAhyo yo'BivAdyo yaTAviDi .
+upasaNgrahaRaM cApi prAhuH santo'BivAdanam .. 398 ..
+nivfttendriyalOlyastu SrAntaH SAntaSca kaTyate .
+tapaHkleSasaho dA hyantarvARiSca SAstravit .. 399 ..
+aDyApaka upADyAyo vyAKyA vivaraRaM smftam .
+SizyAntevAsinO CAtraH SEkzaH prATamakalpikaH .. 400 ..
+viDno'ntarAyaH pratyUho vyavAyaSca prakIrtitaH .
+sAkalyavacanaM prAjYEH pArAyaRamudAhftam .. 401 ..
+;p{0047}
+AmnAyaH sampradAyaH syAtpAramparyaM gurukramaH .
+prayataH syAdanucCizwaH saMSitaSca suniScitaH .. 402 ..
+sAMvatsaro jyotiziko jYAnI mOhUrtikastaTA .
+kArtAntikastu dEvajYa AdeSI gaRakaH smftaH .. 403 ..
+vrAtyaH saMskArahInaH syAdavakIrRI kzatavrataH .
+SiSvidAno durAcArastyaktAgnirvIrahA dvijaH .. 404 ..
+DarmaDvajo liNgavfttirasvADyAyo nirAkftiH ..
+SastrAjIvaH kARqaspfzwo brahmabanDurdvijo'DamaH .. 405 ..
+jAtimAtropajIvI ca kaTyate brAhmaRabruvaH .
+abrahmaRyamavaDyaM syAd brahmaRyaM brahmaRe hitam .. 406 ..
+upavItaM brahmasUtraM prakziptaM dakziRe kare .
+prAcInAvItamanyasminnivItaM kaRWalambitam .. 407 ..
+AcamanamupasparSanamAplavanaM snAnamizyate savanam .
+nirRiktaM prakzAlitamAhurDOtaM ca tulyArTam .. 408 ..
+pArASarI vratI BikzurmaskarI pArirakzikaH .
+parivrAjakastapasvI karmandI tApasaH smftaH .. 409 ..
+vEkakzamuttarAsaNgaH proktA vfhatikA taTA .
+paryastikA parikaraH paryaNkaSceti kaTyate .. 410 ..
+kakzApawaH syAtkOpInaM kuRqikA ca kamaRqaluH .
+AzAQo vratinAM daRqo vratinAmAsanaM vfzI .. 411 ..
+;p{0048}
+fzistrikAladarSI syAnmunirvAcaMyamo mataH .
+prAcetasastu vAlmIkirmEtrAvaruRa ucyate .. 412 ..
+ukto'gastiragastyo lopAmudrApatiSca GawayoniH .
+sAtyavateyaH pArASaryo dvEpAyano vyAsaH .. 413 ..
+yAgo yajYaH kratuH stomaH saptatanturmaKo'DvaraH .
+vitAnaM saMstaro barhiH savaH sattraM ca kaTyate .. 414 ..
+nirmanTakAzWamaraRiH praRIto'gniSca saMskftaH .
+vedI parizkftA BUmiH pAtramuktaM srugAdikam .. 415 ..
+havyapAkaScaruH proktaH sAnnAyyaM havirucyate .
+Sfte kzIre daDikziptamAmikzA kaTyate buDEH .. 416 ..
+upAkftastu vijYeyo mantreRa prokzitaH paSuH .
+hutaM vazawkftaM jYeyaM yajYAnto'vaBfTaH smftaH .. 417 ..
+bfhaspatisavenezwaM yenAsO sTapatirBavet .
+sarvavedAstu vijYeyo dattasarvasvadakziRaH .. 418 ..
+viSrARanaM vihApitamaMhatirapavarjanaM vitaraRaM ca .
+nirvapaRaM ca sparSanamutsargaH syAtpradeSanaM dAnam .. 419 ..
+yazwA ca yajamAnaH syAdAdezwA dIkzito vratI .
+ijyASIlo yAyajUko yajvA syAdAsutIvalaH .. 420 ..
+rAjA rAjanyo rAw prajApatiH kzatriyo nfpaH kzattram .
+mUrDABiziktaBUpatipArTivanaradevalokapAlAH syuH .. 421 ..
+;p{0049}
+yenezwaM rAjasUyena sa samrAw parikIrtitaH .
+cakravartI sArvaBOmo maDyamo maRqaleSvaraH .. 422 ..
+AtapatraM BavecCatraM cAmaraM tu prakIrRakam .
+hEmaM sihAsanaM rAjYAM smftaM BadrAsanaM buDEH .. 423 ..
+dvAsTo dOvArikaH kzattA daRqI vetraDarastaTA .
+utsArako dvArapAlaH pratihAro buDEH smftaH .. 424 ..
+apasarpaScaraScAraH praRiDirgUQapUruzaH .
+yaTArTavarRo mantrajYaH spaSo heraka ucyate .. 425 ..
+mantrI budDisahAyaH syAdamAtyaH sacivastaTA .
+sOvastika iti proktaH puroDASca purohitaH .. 426 ..
+mahAmAtraH praDAnaM syAdaDyakzo'DikftaH smftaH .
+sOvidaH sOvidallaSca sTApatyaH kaYcukI mataH .. 427 ..
+mitraM saKA vayasyaSca suhftsnigDaSca kaTyate .
+anujIvI sahAyaH syAtsevako'nucaro'nugaH .. 428 ..
+prAqvivAko'kzadfk sTeyo nyAyo'kza iti kaTyate .
+antaHpurezvaDikftaH smfto'ntarvaMSiko naraH .. 429 ..
+klIvo varzaDaraH zaRQaH zaRqakaSca napuMsakaH .
+uBayavyaYjanaM powA tftIyAprakftiH smftAH .. 430 ..
+ArAlikaH sUpakAraH sUdaH syAdvallavastaTA .
+pOrogavastu vijYeyaH sUdADyakzo manIziBiH .. 431 ..
+;p{0050}
+vEhAsikaH kelikilo buDErvAntiko mataH .
+parihAso dravo narma keliH krIqA ca Kelanam .. 432 ..
+rakzivargo hyanIkasTaH senAnIrvAhinIpatiH .
+arTAgamo BavedAyo BAgaDeyo baliH karaH .. 433 ..
+upadA prABUtaM proktamupagrAhyamupAyanam .
+laYcotkocamupAdAnamupacArastaTAmizam .. 434 ..
+praboDakA mAgaDavandisUtA,
+vEtAlikA maNgalapAWakASca .
+acCowanaM syAnmfgayA mfgavyaM,
+pApardDirAKewaka ityaBinnam .. 435 ..
+arvA ganDarvo'SvaH saptirvAjI turaNgamasturagaH .
+tArkzyo haristuraNgo yuyurukto Gowako hayo vAhaH .. 436 ..
+guRadeSakftAstezAM saMjYAH syuranekaDA loke .
+karkaH SvetaH SoRo rakto hemaSca kfzRavarRo'SvaH .. 437 ..
+mallikAkzaH sitErnetrEH kfzRErindrAyuDo mataH .
+SrIvfkzakI sa vijYeyaH SrIvfkzo yasya lAYCanam .. 438 ..
+AjAneyAH kulInAH syuH pArasIkA vanAyujAH .
+kAmbojA vANlikAH proktAH sEnDavAH sinDupArajAH .. 439 ..
+SUlako durvinIto'SvaH potaH proktaH kiSorakaH .
+arvatI vaqavA vAmI prasUtA vAjinI smftA .. 440 ..
+;p{0051}
+lUnaM pucCaM tu lANgUlaM vAlahastaSca vAlaDiH .
+proTa ityucyate GoRA maDyaM kaSyaM KuraH SaPaH .. 441 ..
+paryARaM syAtpalyayanaM KalInaM kavikaM smftam .
+carmadaRqaH kaSA proktA valgAraSmikuSAH smftAH .. 442 ..
+raMhastaraH syadaH syAtprasaro vego rayo javo vAjaH .
+pAMSuH kzodo reRuScUrRaM DUlI rajaSca tulyArTAH .. 443 ..
+anaH SatANgaH SakawaH syandanaH kaTyate raTaH .
+gantrI kambalivAhyastu kUvarI ca nigadyate .. 444 ..
+yogyAraTo vEnayiko hyaDvanyaH pAriyAnikaH .
+karRIraTaH pravahaRaM qayanaM ceti kaTyate .. 445 ..
+devatArTo devaraTo yudDArTaH sAmparAyikaH .
+krIqAraTaH puzparaTo jetA jEtraraTaH smftaH .. 446 ..
+cakraM raTANgamAKyAtaM kUvaraM ca yuganDaram .
+cakraDArA praDirnemirnABiScakrasya piRqikA .. 447 ..
+apaskaro raTANgaH syAdaRirakzAgrakIlikA .
+niyantA prAjitA kzattA dakziRasTaSca sAraTiH .. 448 ..
+savyezWaH kaTyate sUto varUTaM raTagopanam .
+vAhanaM DoraRaM yugyaM yAnaM pattramiti smftam .. 449 ..
+;p{0052}
+SivikA yApyayAnaM syAdvesaro'Svataro mataH .
+padAtapattipAdAtapadAtikapadAtayaH .
+padgaSca padagaSceti kaTyante pAdacAriRaH .. 450 ..
+dUzyaM sTulaM pawakuwI guRalayanI keRikA ca nirdizwA .
+DruvakaH SivakaH SaNkuH puzpalakaH kIlakaH proktaH .. 451 ..
+yAtrA prayARaM prasTAnaM niveSaH SiviraM smftam .
+avaskandaH prapAtaSca sOptikaM ca nigadyate .. 452 ..
+saNgrAmaH samitiH samicca samaraM saMKyaM samIkaM raRaM,
+yudDaM yutpraDanaM mfDaM samudayaH saMyatkaliH saMyugam .
+dvandvAyoDanasamprahArakalahAkrandAhavAByAgamAH,
+saMsPowapravidAraRapraharaRAnIkAjayaH saNgaraH .. 453 ..
+samparAyaH samAGAtaH praGAtaSca samAhvayaH .
+janyaM syAdaBisampAtaH sammardo vigrahastaTA .. 454 ..
+aBiyAtirarAtiramitraripU,
+pratipakzavipakzaviroDyarayaH .
+ahito'sahanaSca jiGAMsuriti,
+praTitAH paripanTiparAsuhfdaH .. 455 ..
+;p{0053}
+pratyarTI paryavasTAtA dvezI vErI ca SAtravaH .
+SatruH sapatno BrAtfvyaH pratyanIko dvizanmataH .. 456 ..
+pftanA senA DvajinI patAkinI vAhinI balaM sEnyam .
+cakraM camUrvarUTinyanIkinI syAdanIkaM ca .. 457 ..
+vEjayantI patAkA ca ketuH syAtketanaM DvajaH .
+asyoccUlAvacUlAKyAvUrDvADomuKakUrcakO .. 458 ..
+sannAhaH kavacaM varma tanutrARamuraSCadaH .
+jagaraH kaNkawo mAWI daMSanaM jAlikA smftA .. 459 ..
+KewakaM PalakaM carma proktamAvaraRaM buDEH .
+varmitaH syAtkavacitaH sannadDo daMSitastaTA .. 460 ..
+sarvABisAramicCanti sarvasannahanaM buDAH .
+yatsenayABiniryARaM smftaM tadaBizeRanam .. 461 ..
+hetiH SastraM praharaRamAyuDamastraM caturviDaM tacca .
+muktAmuktamamuktaM karamuktaM yantramuktaM ca .. 462 ..
+SaktyAdi pARimuktaM syAdamuktaM kzurAdikam .
+muktAmuktaM tu yazwyAdi yantramuktaM SarAdikam .. 463 ..
+astraM DanurizvAsaM kodaRqaM Danva kArmukaM cApam .
+bARAsanaM druRA syAnmOrvI jyA siYjinI guRo jIvA .. 464 ..
+tURIramupAsaNgastURaM tURI nizaNga izuDiSca .
+bARASrayaH kalApaH kArmukakowirBavedawaniH .. 465 ..
+kaNkapattraSaramArgaRabARAScitrapuNKaviSiKezukalambAH .
+sAyakapradarakARqapfzatkAH pattriRaH KagaSilImuKaropAH .. 466 ..
+;p{0054}
+sarvAyasastu bARaH prakzveqana ezaRaSca nArAcaH .
+tIrItadbaladaRqAsanAdayaH kARqaBedAH syuH .. 467 ..
+pattrapAlI BavedvAjaH kartarI puNKa ucyate .
+veDyaM lakzyaM SaravyaM ca nimittaM ca samaM viduH .. 468 ..
+arDacandrakzuraprAdi DArAgraM muKamucyate .
+ArAgraM tu muKaM tezAM puzpapattrAdiBedataH .. 469 ..
+bARamuktirvyavacCedo dIptirvegasya tIvratA .
+aByAsaH kaTyate yogyA SramasTAnaM KalUrikA .. 470 ..
+laGuhastaH SIGraveDI kftapuNKastu SikzitaH .
+sa BavedaparAdDezuryasya lakzyAccyutaH KagaH .. 471 ..
+nistriMSaH karabAlaH KaqgaH kOkzeyakaH kfpARaH syAt .
+rizwirasicandrahAsO taravArirmaRqalAgraM ca .. 472 ..
+koSaH pratyAkAraH KaqgapiDAnaM tsarurBavenmuzwiH .
+asiputrikAsiDenuH kzurikA pattraM ca SastrikA jYeyA .. 473 ..
+paraSvaDaH kuWAraH syAtparaSuH svaDitistaTA .
+niSAtaM niSitaM DOtaM tejitaM ca samaM smftam .. 474 ..
+prAso nigaditaH kunto mudgaro druGaRaH smftaH .
+krakacaM karapattraM syAtpariGaH pariGAtanaH .. 475 ..
+yazwipawwisaduHsPowamuKaRqISaNkuSaktayaH .
+BindamAlagadAdaRqacakrAdyAH SastrajAtayaH .. 476 ..
+;p{0055}
+mAraRaM niSaraRaM nivarhaRaM,
+sUdanaM nirasanaM niSumBanam .
+GAtanaM praSamanaM pramApaRaM,
+varjanaM viSasanaM pravAsanam .. 477 ..
+nirvApaRanirvAsanakadanavyApAdanAni tulyAni .
+nirgranTanamAlamBaH pramayA hiMsA ca saMjYapanam .. 478 ..
+nazwo gfhItadik proktaH kAndiSIko BayadrutaH .
+praskannaH patito jYeyo jitakASI jitAhavaH .. 479 ..
+SudDAntamavaroDaSca rAjYo'ntaHpuramucyate .
+kftABizekA mahizI Bawwinya itarAH smftAH .. 480 ..
+rAmA vAmA vAmanetrA puranDrI,
+nArI BIrurBAminI kAminI ca .
+yozA yozidvAsitA varRinI strI,
+syAtsImantinyaNganA sundarI ca .. 481 ..
+abalA mahilA lalanA pramadA ramaRI nitambinI vanitA .
+dayitA pratIpadarSinyuktA kAntA vaDUrvaSA yuvatiH .. 482 ..
+kumArI kaTitA kanyA kiYcitprOQA suvAsinI .
+varyA patiMvarA proktA nagnA proktA ca kOwavI .. 483 ..
+adfzwarajasaM nArIM nagnikAM bruvate buDAH .
+vaDUwI ca ciraRwI ca dvitIyavasasO striyO .. 484 ..
+ardDavfdDA tu yA nArI sA kAtyAyanikA smftA .
+punarBUrdiDizUH proktA vfzasyantI ratArTinI .. 485 ..
+;p{0056}
+pativatnI jIvatpatirjIvatokA ca jIvasUH .
+rahitA patiraputrAByAM nirvIretyaBiDIyate .. 486 ..
+viSvastA viDavA proktA puzpahInA ca nizkalA .
+SramaRA BikzukI muRqA vayasyAlI saKI smftA .. 487 ..
+avIrudakyA ca rajasvalA syAt,
+AtreyikA puzpavatI ca nArI .
+rAkA BavejjAtarajAstu kanyA,
+naSyatprasUtiH kaTitA ca BinduH .. 488 ..
+muKyA nArI varArohA varastrI mattakASinI .
+strI vidagDA ca mattA ca vARinItyaBiDIyate .. 489 ..
+rUpAjIvA veSyA gaRikA paRyANganA taTA kzudrA .
+rAjakulapratibadDA vArastrI vAramuKyA ca .. 490 ..
+gARikyaM gaRikAnAM ca samUhaH kaTyate buDEH .
+asiknyantaHpuraprezyA dUtI saYcArikA smftA .. 491 ..
+kuwwinI SamBalI cundI sEranDrI ganDakArikA .
+powA vowA taTA cewI dAsI syAtkuwwahArikA .. 492 ..
+pAYcAlikA putrikA syAtkAzWadantAdinirmitA .
+smftA lepyamayI strI tu buDEraYjalikArikA .. 493 ..
+dArAH kzetraM kalatraM ca BAryA sahacarI vaDUH .
+saDarmacAriRI patnI jAyA ca gfhiRI gfhAH .. 494 ..
+;p{0057}
+upayAmaH pariRayanaM pARigrahaRaM vivAha udvAhaH .
+kulabAlikA kulastrI pativratA sucaritA satI sADvI .. 495 ..
+pAMSulA banDukI svEriRyasatI puMScalItvarI .
+DarziRI kulawA proktA tvavinItABisArikA .. 496 ..
+kAntaH syAtkamitA patirvarayitA BartA ca BoktA Davo,
+rucyABIkavarABikASca ramaRaH prARADinATo'nugaH .
+sUnuH santatirAtmajaSca tanujaH putraH prasUtiH sutaH,
+tuk tokaM tanayaSca nandana iti prAjYErapatyaM smftam .. 497 ..
+ApannasattvA gurvI syAdantarvatnI ca garBiRI .
+dohadaM dOhfdaM SradDA lAlasA ca samAH smftAH .. 498 ..
+sUtimAso vEjanano garBo BrURa iti smftaH .
+arizwagfhamicCanti sUtikABavanaM buDAH .. 499 ..
+vijAtA ca prajAtA ca prasUtA strI nigadyate .
+garBASayo jarAyuH syAdulvaM ca kalalaM smftam .. 500 ..
+kanyAputrastu kAnIno nAweraH syAnnawIsutaH .
+banDuko banDakIputro gopyo dIsIsutaH smftaH .. 501 ..
+bAlaH pAko'rBako garBaH potaSca pfTukaH SiSuH .
+SAvo qimBaSca vijYeyo vawurmARavako mataH .. 502 ..
+pravayAH sTaviro vfdDo yAtayAmaSca kaTyate .
+jarA tu visrasA proktA dArakastaruRo yuvA .. 503 ..
+;p{0058}
+ambA savitrI jananI ca mAtA;
+vaptA ca tAto janakaH pitA ca .
+snuzA janI putravaDUrvaDUH syAt,
+prajAvatI BrAtfvaDUH smftA ca .. 504 ..
+duhitA tanayA putrI jAmAtA duhituH patiH .
+dOhitrastatsuto naptA sa na pOtraSca kaTyate .. 505 ..
+agrajaH pUrvajo jyezWaH kanizWo'varajo'nujaH .
+BrAtfvyo BrAtfputraH syAd BrAtrIyo BrAtfjastaTA .. 506 ..
+DAtrI syAdupamAtA BaginI jAmiH svasA ca vijYeyA .
+tatputraH svasrIyo jAmeyo BAgineyaH syAt .. 507 ..
+samAnodaryasodaryasagarBAH sodarAH samAH .
+BrAtfvargasya yA jAyA yAtarastAH parasparam .. 508 ..
+AtmIyaH svajano banDurApto jYAtiSca bAnDavaH .
+sanABayaH sapiRqASca sagotrASca samAH smftAH .. 509 ..
+tanustanUH saMhananaM SarIraM,
+kalevaraM vigrahadehakAyAH .
+aNgaM vapurvarzma puraM ca piRqaM,
+kzetraM ca gAtraM ca GanaSca mUrtiH .. 510 ..
+aMhriH pAdaScaraRaH pARiH SayapaYcaSAKakarahastAH .
+kAmANkuSAH kararuhAH punarnavAH pARijA naKA naKarAH .. 511 ..
+;p{0059}
+kAYcIpadaM kalatraM jaGanaM jaGanaM SroRI kakudmatI jYeyA .
+ArohaSca nitambaH kawI kawIraM trikasTAnam .. 512 ..
+gudaH pAyurapAnaM syAtkawiproTO sPijO putO .
+kukundarO samAcazwe jano jaGanakUpakO .. 513 ..
+Bago yonirupasTaSca varANgaM smaramandiram .
+SiSnaH SePo'Ta meQraSca tulye mehanaSePasI .. 514 ..
+jAnuH syAdazWIvAn prasftA jaNGA ca Guwako gulPaH .
+UruH sakTi picaRqaM jaWarodaratundakukzigarBAH syuH .. 515 ..
+aNgulyaH karaSAKAH karRaH SrotraM SrutiH SravaH SravaRam .
+grIvA DamanirmanyA SiroDarA kanDarA galaH kaRWaH .. 516 ..
+reKAtrayANkitA grIvA kmbugrIveti kaTyate .
+avalagnaM vilagnaM ca maDyamaM maDyamucyate .. 517 ..
+muRqottamANgamastakaramOliSiraHSIrzamUrDakAni syuH .
+tuRqaM vadanaM vaktraM lapanaM muKamAsyamAnanaM ca samam .. 518 ..
+dfgdfzwinetralocanacakzurnayanAmbakekzaRAkzIRi .
+aSrURi vAzparodananayanajalASrAsrunAmAni .. 519 ..
+nayanopAntamapANgaH kanInikA nayanamaDyatArA ca .
+kUrpaM BruvoSca maDyaM sfkva syAdozWaparyantaH .. 520 ..
+;p{0060}
+siqGinI nAsikA nAsA GrARaM GoRA ca kaTyate .
+rasajYA rasanA jihvA tAlu kAkudamucyate .. 521 ..
+doH pravezwo Bujo bAhurBujA ca smaryate buDEH .
+gaRqo gallaH kapolaSca hanustulyArTavAcakAH .. 522 ..
+muzko'RqaM vfzaRaH koSaH saNgrAho muzwirucyate .
+jatru vakzoM'sayoH sanDirUrusanDiSca vaNkzaRaH .. 523 ..
+roma tanUruhamuktaM nayanagataM pakzma muKagataM SmaSru .
+aDaro dantacCada ozWa ucyate dantavAsaSca .. 524 ..
+ozWasyADaScibukaM lalAwamalikaM BujAgramaMsaM ca .
+kakzAM ca bAhumUlaM GAwAmavawuM kfkAwikAmAhuH .. 525 ..
+urasijakucavakzoruhapayoDarAH stanasamAnanAmAni .
+uktAH kucamuKacUcukavfntAni SiKA ca tulyAni .. 526 ..
+BujamaDyamuro vakzo hfdayasTAnaM ca vatsamicCanti .
+ekArTAH kaTyante daSanadvijadantaradaradanAH .. 527 ..
+kroqamaNkastaTotsaNgaH prAgBAgo vapuzaH smftaH .
+pfzWaM syAtpaScimo BAgaH kawO ca kawiSIrzakO .. 528 ..
+jIvasTAnaM Bavenmarma pAdAgraM prapadaM matam .
+sImantaH kaTyate strIRAM keSamaDye tu padDatiH .. 529 ..
+keSAH SirasijamUrDajakacacikuraSiroruhAH smftA vAlAH .
+tadbanDaviSezAH syurveRI DammillakuntalakavaryaH .. 530 ..
+;p{0061}
+hastaH pakzaH pASaH keSezu bahutvavAcakAH SabdAH .
+alakaM kuwilAH keSA BramarakamuktaM lalAwasTam .. 531 ..
+bAlAnAM tu SiKA proktA kAkapakzaH SiKaRqikA .
+palitaM pARqurAH keSA vratinAM tu jawA sawA .. 532 ..
+maRibanDaH pARimUlaM kaPaRiH kUrparaH smftaH .
+tayormaDyaM prakozWaH syAtprakARqaH kUrparAMsayoH .. 533 ..
+cetaScittaM manaH svAntaM hfdayaM mAnasaM samam .
+ekAyanaM taTEkAgramekatAnaM ca tadgatam .. 534 ..
+ADistu mAnasI pIqA vAYCato'rTo manoraTaH .
+KamakzamindriyaM sroto hfzIkaM karaRaM smftam .. 535 ..
+maDyANgulIkUrparayormaDye prAmARikaH karaH .
+badDamuzwikaro ratniraratniH sakanizWikaH .. 536 ..
+sampiRqitANgulirmuzwiH prasftiH kuYcitANguliH .
+prasAritANguliH pARiH kaTyate pratalastalaH .. 537 ..
+prAdeSaH syAtpradeSinyA tAlo maDyamayA Bavet .
+gokarRo'nAmayA prokto vitastiH syAtkanizWayA .. 538 ..
+Akalpo maRqanaM vezaH pratikarma prasADanam .
+BUzaRaM syAdalaNkAro nepaTyABaraRe taTA .. 539 ..
+samAlaBanamicCanti carcAM mArzwiM ca sUrayaH .
+sTAsakaM hastavimbaM syAtparizkAraSca BUzaRam .. 540 ..
+tilakaM tamAlapattraM citrakamuktaM viSezakaH puRqram .
+racitA lalAwapawwe lalAwikA kaTyate reKA .. 541 ..
+;p{0062}
+BujaSiKarastanamaRqalakapolakaRWezu viracitA kuSalEH .
+anulepanena leKA nigadyate patravallIti .. 542 ..
+kuNkumaM GusfRaM varRaM proktaM lohitacandanam .
+kASmIrajaM ca vidvadBiH kAleyaM jAguqaM smftam .. 543 ..
+candanaM syAnmalayajaM SrIKaRqaM rohaRadrumaH .
+mfganABirmfgamadaH proktA kastUrikA buDEH .. 544 ..
+karpUro GanasAraH syAtkAkatuRqo'garuH smftaH .
+tAmbUlaM kramukaM proktamaNgarAgo vilepanam .. 545 ..
+upasaMvyAnaM pariDAnamantarIyaM ca nivasanaM tulyam .
+prAvaraRaM saMvyAnaM pracCAdanamuttarIyaM ca .. 546 ..
+arDorukaM varastrIRAM vAsaScaRqAtakaM smftam .
+pariDAnAMSukagranTiH proktA nIvI taToccayaH .. 547 ..
+celaM cIraM vAsaH karpawamAcCAdanaM nivasanaM ca .
+ambaramaMSukamuktaM vastraM sicayaH pawaH powaH .. 548 ..
+caturviDaM tu vijYeyaM tvaksUtrakfmiromajam .
+pattrorRaM DOtakOSeyaM dukUlaM kzOmamizyate .. 549 ..
+kArpAsaM vAdaraM proktaM vastrasyAnto mato'YcalaH .
+ahataM syAnnavaM vAso jIrRamuktaM pawaccaram .. 550 ..
+DOtamudgamanIyaM ca vartirvastirdaSAH sicaH .
+ekArTA AvikOraBrarallakorRAyukambalAH .. 551 ..
+;p{0063}
+kaYcuko vAravARaH syAtkUrpAsaSca nicolakaH .
+sragmAlA mAlyamAKyAtaM keSamaDye tu garBakaH .. 552 ..
+praBazwakaM SiKAlambi turo nyastaM lalAmakam .
+tiryagvakzasi vikziptaM vEkakzakamudAhftam .. 553 ..
+grIvAyAM lambitaM prAjYEH prAlambakamiti smftam .
+ApIqaH SeKarottaMsAvataMsAH Sirasi srajaH .
+karRapUre'pi dfSyete taTottaMsAvataMsakO .. 554 ..
+jatuyAvakalAkzA'laktakAH samAH sikTakaM maDUcCizwam .
+kajjalamaYjanamaBihitamAdarSo darpaRo mukuraH .. 555 ..
+tAqaNkastAqapattraM syAtkuRqalaM karRavezwanam .
+karRAlaNkaraRaM sarvaM karRiketyaBiDIyate .. 556 ..
+keyUramaNgadaM proktaM bAhumUlaviBUzaRam .
+AvApaH parihAryaH syAtkawako valayaM taTA .. 557 ..
+kaNkaRaM hastasUtraM ca viduH pratisaraM buDAH .
+grIvAlaNkaraRaM sarvaM grEveyakamitIzyate .. 558 ..
+aNgulyABaraRaM proktamaNgulIyakamUrmikA .
+kaTyate'Ngulimudro ca BavedyA liKitAkzarA .. 559 ..
+kalApaH saptakI kAYcI meKalA rasanA taTA .
+kawisUtraM sArasanaM kiNkiRI kzudraGaRwikA .. 560 ..
+siYjinI pAdakawakastulAkowistu nUpuram .
+maYjIraM haMsakaM strIRAM caraRABaraRaM smatam .. 561 ..
+;p{0064}
+devacCandaH SatayazwirarDo mARavakaH smftaH .
+hAro gucCArDagucCO ca gopucCaSca BavetkramAt .. 562 ..
+ekAvalyekayazwiH syAtkaTyate sA ca kazWikA .
+proktA nakzatramAlA ca saptaviMSatimOktikA .. 563 ..
+hArAmaDyasTitaM ratnaM nAyakaM taralaM viduH .
+cUqAmaRiM ca vidvAMso vadanti Sirasi sTitam .. 564 ..
+AhuH kirIwamuzRIzaM kowIraM mukuwaM samam .
+rAQA SoBA viBUzA syAdaBiKyA suzamAH samAH .. 565 ..
+niBAlanaM niSAmanaM niDyAnamavalokanam .
+IkzaRaM darSanaM dfzwirdyotanaM ca samaM smftam .. 566 ..
+kawAkzo dfzwivikzepa Izacca hasitaM smitam .
+hrIrlajjApatrapA vrIqA trapA mandAkzamucyate .. 567 ..
+AliNganamupagUhanamAhuH pariramBaRaM parizvaNgam .
+ASlezamaNkapAlIM kroqIkaraRaM ca tulyArTam .. 568 ..
+saMveSanaM niDuvanaM samprayogo raho ratiH .
+surataM mohanaM proktaM maRitaM ratakUjitam .. 569 ..
+AryA BUmispfSo vESyA UKyASca viSaH smftAH .
+jIvanaM vfttirAjIvo vArttA ceti nigadyate .. 570 ..
+paRyAjIvA vaRijaH prApaRikA nEgamASca vEdehAH .
+dvEguRiko vArDuziko vfdDyAjIvaH kusIdikaH proktaH .. 571 ..
+;p{0065}
+apamityakamudDAra fRaM syAtparyudaYcanam .
+vfdDiH kalAntaraM proktaM kusIdaM vfdDijIvanam .. 572 ..
+parivfttirvinimayo vEmeyaSca nigadyate .
+prakrayaH kxptikaM proktaM BAwako'vakrayaH smftaH .. 573 ..
+kzetrAjIvaH kfzikaH kfzIvalaH karzakaH kuwumbI ca .
+sItyaM sasyaM proktaM vapraM kzetraM ca kedAram .. 574 ..
+halaM syAllANgalaM sIraH PAlaH kuSika ucyate .
+yoktraM tu raSmirAbanDaH SamyA ca yugakIlakaH .. 575 ..
+kaTito lozwako lozwaH kowISaM lozwaBedanam .
+SambAkftaM dvisItyaM syAtsItA lANgalapadDatiH .. 576 ..
+godAraRaM ca kuddAlaM lavitraM dAtramucyate .
+pratodaH prAjanaM totraM lUnaM dAtamiti smftam .. 577 ..
+KalevAlI BavenmeWiH KalaDAnyaM KalaM smftam .
+buSaH kaqaNgaraH proktaH kaRaH syAtkzudrataRqulaH .. 578 ..
+DAnyaSUkaM ca kiMSAruH kaRiSaM DAnyaSIrzakam .
+nAlaM kARqaM kzupo gucCo vrIhiH stambakariH smftaH .. 579 ..
+raktaSAlirmahASAliH kalamASceti SAlayaH .
+uddAlaH kaTitaH prAjYEH kodravaH koradUzakaH .. 580 ..
+;p{0066}
+maNgalyako masUraH syAtsidDArTaH sarzapaH smftaH .
+AsurI rAjIkA ceti kaTyate rAjasarzapaH .. 581 ..
+priyaNguH kaTyate kaNguratasI syAdumA kzumA .
+kalAyaH KaRqiko jYeyaH sAtInaSca maniziBiH .. 582 ..
+jartilaH kaTyate sadBiraraRyapraBavastilaH .
+tilapiYjastilapejastaTA zaRQatilaH smftaH .. 583 ..
+tfRaDAnyaM tu nIvAraH SyAmAkaH SyAmako Bavet .
+vallA nizpAvakAH proktA AQakI tuvarI smftA .. 584 ..
+BfzwaM DAnyaM lAjAH pfTukAScipiwASca kuwwitAste syuH .
+BfzwA yavAstu DAnA darapakvA kaTyate'ByUzaH .. 585 ..
+SUdro'ntyavarRo vfzalaH padyaH pajjaSca kaTyate .
+leKakaH syAllipikaraH kAyasTo'kzarajIvakaH .. 586 ..
+ABIraH syAnmahASUdro gopAlo vallavastaTA .
+tvazwA ca kAzWataw takzA raTakAraSca varDakiH .. 587 ..
+nAqinDamaH kalAdaH suvarRakAraSca muzwiko jYeyaH .
+vEkawiko maRikAro DmAkAro lohakAraH syAt .. 588 ..
+kzuramardI divAkIrtiScaRqilo nApitaH smftaH .
+mAlAkArastu vijYeyo mAlikaH prAtihArikaH .. 589 ..
+kumBakAraH kulAlaH syAttantuvAyaH kuvindakaH .
+saMvAhako'NgamardI syAttunnavAyaSca sOcikaH .. 590 ..
+;p{0067}
+lepakaH palagaRqaH syAdraNgAjIvastu citrakft .
+karma lepyAdikaM sarvaM pustakarma smftaM buDEH .. 591 ..
+SElAlI SElUzaH kuSIlavaScAraRaH kfSASvI ca .
+jAyAjIvo Barato nawastaTA syAnnawI kzudrA .. 592 ..
+SilpinaH kAravaH proktAH prakftiSca manIziBiH .
+nirRejakaH syAdrajakaH kalpapAlastu SORqikaH .. 593 ..
+kEvarto DIvaro dAso matsyabanDI tu jAlikaH .
+AnAyaH kaTyate jAlaM kuveRI matsyabanDanI .. 594 ..
+vEtaMsikaH sOnikaH syAtkOwiko mAMsavikrayI .
+sUnA syAd GAtanasTAnaM kfpARIlI ca kartarI .. 595 ..
+carmakftpAdukAkAro nadDrI vadDrI ca kTyate .
+mfgayurlubDako vyADo buDErvAgurikaH smftaH .. 596 ..
+SulvA rajjurvarAwaSca vawastantrIrguRaH smftaH .
+pASaH syAdbanDanagranTirvAgurA mfgajAlikA .. 597 ..
+antAvasAyI caRqAlo nizAdaSca janaNgamaH .
+SvapacaH pakvaSaScEva mAtaNgaH plavakaH smftaH .. 598 ..
+kirAtAH SabarA nizwyAH pulindA nAhalA BawAH .
+mAlA mlecCAdayo BillAH kaTyante hyantajAtayaH .. 599 ..
+rogo ruk vyADirAkalyaM gado mAndyamapAwavam .
+Ama Amaya AtaNka upatApo rujA smftA .. 600 ..
+;p{0068}
+kzavaTuH kaTyate kAso vepaTuH kampa ucyate .
+davaTuH paritApaH syAd glAniSca klamaTuH smftaH .. 601 ..
+rAjayakzmA kzayaH SozaH SoPaH SvayaTurizyate .
+kilAsaM kaTyate siDma pAmA kacCUH KasaH smftaH .. 602 ..
+kaRqUtiH kaRqUyA kaRqUH kaRqUyanaM taTA KarjUH .
+jAgaryA jAgaraRaM prajAgaro jAgarA ca vijYeyA .. 603 ..
+piwakaH sPowako gaRqaH SvitraM kuzWaM ca pARquram .
+SlIpadaM pAdavalmIkaH pfzWagranTirgaquH smftaH .. 604 ..
+keSaGnamindraluptaM syAdarSaSca gudakIlakaH .
+mAyuH pittaH kaPaH SlezmA pratiSyAyaSca pInasaH .. 605 ..
+vAtakI vAtarogI syAtsAtisAro'tisArakI .
+siDmaSlezmArSasaMyogAtsiDmalaH Slezmalo'rSasaH .. 606 ..
+dadruRo dadrurogI syAnnaHkzudraH kzudranAsikaH .
+klinne yasyAkziRI pillaScillaScullaSca sa smftaH .. 607 ..
+picaRqilo vfhatkukzistundilodarilO ca saH .
+KalatiH SipivizwaH syAdEndraluptika eva ca .. 608 ..
+anDo hyaneqamUkaH syAdeqo vaDira ucyate .
+jaqaH kawaH smfto mUkaH kallamUkastvavAkSrutiH .. 609 ..
+KaYjaH paqgustaTA SroRaH kuRirvikalapARikaH .
+tuRqirunnatanABiH syAdvigro vigatanAsikaH .. 610 ..
+;p{0069}
+gaqulaH kaTyate kubjaH KarvaSAKastu vAmanaH .
+pfSniH svalpaSarIraH syAtkirAtaH sa ca kaTyate .. 611 ..
+AyurvedI BizagvEdyo dozajYaH syAccikitsakaH .
+upacaryA cikitsA syAnnidAnaM heturucyate .. 612 ..
+jANguliko vizaBizak vyAlagrAhyAhituRqikaH .
+BEzajyaM BezajaM jAyuragadastantramOzaDam .. 613 ..
+sinDUtTaM mARimanTaM ca sEnDavaM lavaRottamam .
+kfzRopakulyA vEdehI mAgaDI pippalI kaRA .. 614 ..
+SuRWI nAgaramuktA mahOzaDaM viSvaBezajaM viSvA .
+maDukaM yazwimaDu syAdamftA vatsAdanI guqUcI ca .. 615 ..
+ArdrakaM SfNgaveraM syAdajAjI jIrakaH smftaH .
+vellajaM maricaM proktamUzaRaM ca manIziBiH .. 616 ..
+sOvarcalastu rucakaH kustumburu ca DAnyakam .
+trikawu tryUzaRaM vyozaM hiNgu rAmaWa ucyate .. 617 ..
+harItakyaBayA paTyA DAtrI cAmalakI SivA .
+kalirakzo viBItaH syAttritayaM triPalA smftA .. 618 ..
+eqagajaH prapunAwo dadruDnaScakramardakaH proktaH .
+SatamUlikA tvaBIrurnidigDikA kaRwakArikA vyAGrI .. 619 ..
+;p{0070}
+purAKyo mahizAkzaSca guggulaH syAtpalaNkazaH .
+mahArajanamicCanti kusumBaM ca sumeDasaH .. 620 ..
+hiNgulaM haMsapAdaM ca kuruvindaM nigadyate .
+sAraGaM mAkzikaM kzOdraM maDu puzparasastaTA .. 621 ..
+uSIraM vIraRImUlaM hrIveraM vAlakaM jalam .
+mustakaH kuruvindaH syAd gundrA ca jaladAhvayaH .. 622 ..
+;c{iti SrIBawwahalAyuDakftAyAmaBiDAnaratnamAlAyAM BUmikARqaM dvitIyaM samAptam .. 2 ..}
+;p{0071}
+;k{pAtAlakARqam}
+;c{tftIyaM pAtAlakARqam}
+vaqavAmuKaM pAtAlaM vErocananiketanam .
+taTADoBuvanaM proktaM nAgaloko rasAtalam .. 623 ..
+nimnamagADo gartaH SvaBraM SuziraM vapA bilaM vivaram .
+antaramavawucCidraM nirvyaTanaM ranDrarokakuharadarAH .. 624 ..
+nirayo durgatiScEva narakaH parikIrtitaH .
+nArakA jantavaH pretA yAtyAScEvAtivAhikAH .. 625 ..
+yAtanA kAraRA proktA kArA banDanamucyate .
+AbADA vedanA duHKamartiH pIqA vyaTA taTA .. 626 ..
+vfjinaM duritaM duzkftamaGamaMhaH kilvizaM tamaH kalkam .
+enaH kalmazamaSuBaM pApaM syAtpAtakaM pApmA .. 627 ..
+niDanaM nASo mutyurmaraRaM paYcatvamatyayaH kAlaH .
+saMsTA syAddizwAnto nimIlanaM dIrGanidrA ca .. 628 ..
+parAsurupasampannaH pramItaH saMsTito mftaH .
+pretaH paretaSca taTA kuRapaH Savamucyate .. 629 ..
+;p{0072}
+kabanDaH kaTyate ruRqaH kzatamIrmamarurvraRaH .
+asfgDarAjinaM carma kfttistvak parikIrtitA .. 630 ..
+palalaM jANgalaM mAMsaM palaM piSitamAmizam .
+kravyaM tarasamekArTaM visraM syAdAmaganDikam .. 631 ..
+kzatajaM lohitamasraM ruDiramasfk SoRitaM ca raktaM syAt .
+asTIni DAtukIkasakulyAni Bavanti tulyAni .. 632 ..
+SarIrasyAsTi kaNkAlaM taTA syAdasTipaYcaram .
+Siraso'sTi karowiH syAtkapAlaM SakalaM ca tat .. 633 ..
+SAKAsTi nalakaM proktaM pfzWasyAsTi kaseru ca .
+kaRqarA syAnmahAsnAyuH snasA snAyuH SirA smftA .. 634 ..
+mastizkaM mastakasneho vapA medo vasA smftA .
+antraM purItatkaTitaM kAlaKaRqaM yakfnmatam .. 635 ..
+bukkaM syAdagramAMsaM ca tilakaM kloma kaTyate .
+kfmiH kIwastu nIlaNguH pulakaSca samaH smftaH .. 636 ..
+ucyate varca uccAro varcasko'vaskaraH Sakft .
+gUTaM kIwaM ca viw vizWA purIzaM SamalaM malam .. 637 ..
+SukraM vIryaM balaM bIjamindriyaM reta ucyate .
+SmaSAnaM syAtpitfvanaM citA cityA ca kaTyate .. 638 ..
+krandataM ruditaM proktaM vilApaH paridevanam .
+apasnAnaM mftasnAnaM nivApaH pitftarpaRam .. 639 ..
+;p{0073}
+vizaDaradandaSUkapavanASanasarpasarIsfporugavyAla-
+BujagaBujaNgakumBInasapannaganAgaBoginaH .
+ahiPaRaBftpfdAkukAkodarakaYcukicakrigUQapAd,
+dvirasanakAdraveyadarvIkaradfkSrutayo BujaNgamAH .. 640 ..
+ASIvizo dIrGapfzWaH kuRqalI jihmagaH smftaH .
+PaRaH PaRA PawA proktA vizaM syAdgaralaM garaH .. 641 ..
+aheH SarIraM BogaH syAdASIrdaMzwrABiDIyate .
+Bavettilitso gonAso vAhaso'jagaraH SayuH .. 642 ..
+alagardo jalavyAlo rAjilo quRquBaH smftaH .
+ahIraRI syAddvimuKo rAjasarpaSca sarpaBuk .. 643 ..
+nirlvayanI nirmokaH kaYcuka uktA BujaNgamuktA tvak . .
+vamrIkUwaM nAkurvalmIko vAmalUraSca .. 644 ..
+upajihvopadIkA ca vamrI syAdupadehikA .
+alaM vfScikalANgUlaM druta AliSca vfScikaH .. 645 ..
+brahmaputraH SOlkikeyo dAradaSca pradIpanaH .
+rasaH sOrAzwrakaH kzveqastIkzRaSca vizamucyate .. 646 ..
+;p{0074}
+SfNgiko vatsanABaSca kAlakUwo halAhalaH .
+kAkolo visPuliNgaSca tadBedAH syuranekaDA .. 647 ..
+ApastoyaM GanarasapayaH puzkaraM meGapuzpaM,
+kaM pAnIyaM salilamudakaM vAri vAH SambaraM ca .
+arRaH pATaH kuSajalavanaM kzIramamBo'mbu nIraM,
+proktaM prAjYErBuvanamamftaM jIvanIyaM dakaM ca .. 648 ..
+atalasparSamagADaM gamBIraM syAd gaBIramasTAgam .
+nAvA tAryaM nAvyaM drAgBftakaM tatkzaRodDftaM toyam .. 649 ..
+prAleyamavaSyAyastuhinaM SiSiraM himaM tuzAraM ca .
+mihikA syAnnIhAro himasaMGAto himAnI ca .. 650 ..
+romAYcaH pulakaH syAtkaRwakamudGuzaRamullakasanaM ca .
+romodgamaromavikAraromaharzAH samAnArTAH .. 651 ..
+ratnAkaraH sarasvAnudaDirudanvAnsaritpatirakUpAraH .
+pArAvArastoyaniDirarRavajalarASisAgarasamudrAH .. 652 ..
+vIcI BaNgastaraNgaH syAttanmahattve ca kaTyate .
+UrmirutkalikollolaH kallolo laharI taTA .. 653 ..
+maryAdA kUladeSo'sya velA vfdDiSca vAriRaH .
+velAvanaM tu vijYeyamupakaRWe'sya yadvanam .. 654 ..
+sAMyAtrikaH potavaRik potaH pravahaRaM smftam .
+kUpako guRavfkzaH syAnniryAmaH karRaDArakaH .. 655 ..
+;p{0075}
+antarjalacaraM sattvaM krUraM yAdo'BiDIyate .
+avahAraH smfto grAhaH kumBIro nakra ucyate ..
+kacCapaH kamaWaH kUmastadBAryA ca qulI smftA .. 656 ..
+vEsAriRo visAraH pfTuromA jalacaro Jazo matsyaH .
+timiranimizaSca mInaH SakalI SalkI ca vijYeyaH .. 657 ..
+sahasradaMzwraH pAWInaH prozWI ca SaParI smftA .
+nalamInaScilicimaH kulIraH karkawo mataH .. 658 ..
+SAlaH SakulaH kuliSo rAjIvo rohitaSca pallavakaH .
+SfNgImadguravAgusanandyAvartAdayo mahAmatsyAH .. 659 ..
+matsyaviSezo makaraH karimakaro Bavati tadviSezastu .
+cIrillitimitimiNgilAdayo mahAmatsyAH .. 660 ..
+kzudrARqo matsyasaMGAtaH potADAnaM ca kaTyate .
+gaRqUpadaH kiYculako jalOkAH syurjalOkasaH .. 661 ..
+maRqUkaH plavako BekaH SAlUro darduro hariH .
+plavaNgamaH plavagaH syAdvarzABUstadvaDUH smftA .. 662 ..
+yAvanto dfSyante narakarituragAdayaH sTale jIvAH .
+tAvantaH salilezvapi jalapUrvAste tu vijYeyAH .. 663 ..
+uktA muktA mOktikaM SOktikeyaM,
+muktAsPowaH SuktirAKyAyate ca .
+;p{0076}
+kambuH SaNKaH kzullakAH kzudraSaNKAH,
+SambUkAste syuH kapardo varAwaH .. 664 ..
+sinDuH sravantI tawInI taraNgiRI,
+nadI DunI nirJariRI ca nimnagA .
+kUlaNkazA SEvalinI sarasvatI,
+samudrakAntA hradinI taTApagA .. 665 ..
+srotaH srotasvinI karzUH kulyA dvIpavatI sarit .
+roDo vaprastu vijYeyo Bidya udDayo nadaH smftaH .. 666 ..
+tIraM kUlaM tawaM kacCaH prapAto roDa ucyate .
+arvAkkUlamapAraM syAtparaM pAramiti smftam .. 667 ..
+pAtraM tu kUlayormaDyamAvartaH payasAM BramaH .
+pUraH syAdamBaso vfdDiH Peno qiRqIra ucyate .. 668 ..
+oGaH pravAho veRI ca DArA sroto rayaH smftaH .
+samBedaH saNgamo nadyoH saMvedyaSca nigadyate .. 669 ..
+sEkataM pulinaM dvipaM sikatA vAlukA smftA .
+maDye dvIpamantarIpaM hradastoyASayo mataH .. 670 ..
+cakrARi puwaBedAH syuH seturvaraRa ucyate .
+AtarastarapaRyaM ca talpaM syAduqupaH plavaH .. 671 ..
+tarIrnOrmaNginI beqA nOdaRqaH kzepaRI smftA .
+aritraM kowipAtraM syAtpulindo maNga ucyate .. 672 ..
+;p{0077}
+BAgIraTI surasaridvizRupadI jAhnavI tayA gaNgA .
+mandAkinI tripaTagA saridvarA tridaSadIrGikA proktA .. 673 ..
+godAvarI ca godA kAlindI dinakarAtmajA yamunA .
+SoRo hiraRyabAhurmekalakanyA ca narmadA revA .. 674 ..
+veSantaH palvalaM tallaM kAsAraH sarasI saraH .
+AKAto devaKAtaH syAtKAtA puzkariRI Bavet .. 675 ..
+ADAraSca taqAgaM syAdAlI pAlI ca kaTyate .
+pariKA dIrGikA proktA KAtA yA paritaH puram .. 676 ..
+parIvAho jalocCavAsa utsaH prasravaRaM smftam .
+vipruzo bindavaH proktAH pfzataH pfzatAstaTA .. 677 ..
+picCilaM syAdvijapilaM paNkaH SAdo nizadvaraH .
+jambAlaH kardamaH prokto buDEricikilastaTA .. 678 ..
+sahasrapattraM SatrapattramambujaM
+kuSeSayaM tAmarasaM saroruham .
+visaprasUnaM kamalaM mahotpalaM,
+sarojamabjaM nalinaM ca puzkaram .. 679 ..
+rAjIvamaravindaM ca padmaM paNkajamizyate .
+raktaM kokanadaM proktaM puRqarIkaM sitAmbujam .. 680 ..
+sOganDikaM ca kahlAraM syAdindIvaramutpalam .
+nIlotpalaM kuvalayaM kEravaM kumudaM viduH .. 681 ..
+;p{0078}
+karRikA bIjakoSaH syAtkiYjalkaM kesaraM smftam .
+mfRAlaM syAdvisaM kando visinI nalinI Bavet .. 682 ..
+kumudvatI kumudinI buDEH kEraviRI smftA .
+SevAlaM SEvalaM proktaM jalaSUkaM ca nIlikA .. 683 ..
+anDuH kUpaH praDirnemiScurI cuRQI ca cUtakaH .
+nipAnamudapAnaM ca vApyAhAvaSca kaTyate .. 684 ..
+udGAwakaM GawIyantraM pAdAvarto'raGawwakaH .
+pAnaM tu sAraRiH proktA praRAlI jalapadDatiH .. 685 ..
+;c{iti SrIBawwahalAyuDakftAyAmaBiDAnaratnamAlAyAM pAtAlakARqaM tftIyaM samAptam .. 3 ..}
+;p{0079}
+;k{sAmAnyakARqam}
+;c{caturTaM sAmAnyakARqam}
+nikaranikAyanivahavisaravrajapuYjasamUhasaYcayAH,
+samudayasArTayUTanikurambakadambakapUgarASayaH .
+cayasamavAyavfndasandohasamAjavitAnasaMhati-
+prakaraGanOGasaMGasaMGAtavrAtakulotkarAH smftAH .. 686 ..
+pawalaM pewakaM cakraM cakravAlaM ca maRqalam .
+jAlaM jAtaM taTA vyUhavArastomASca te smftAH .. 687 ..
+sUkzmaleSalavaSlakzRakzudradaBrakaRARavaH .
+kiYcinmAtratanustokahrasvAlpatruwayaH samAH .. 688 ..
+prAgryaM prAgraharaM pravekamaparaM varyaM vareRyaM varaM,
+SrezWaM prezWamanuttamaM ca maDuraM maYju priyaM maYjulam .
+hfdyaM hAri manoharaM ca ruciraM kAntaM paraM sundaraM,
+sOmyaM sADu ca valgu cAru suzamaM vAmaM SuBaM peSalam .. 689 ..
+;p{0080}
+agryaM praDAnaM pramuKaM purogaM,
+muKyaM parArDyaM pravaraM pravarham .
+agresaraM sattamamuttamaM ca,
+grAmaRyamagraRyamudAharanti .. 690 ..
+SaNkA vitarkaH sandehaH saMSayArekaviBramAH .
+vicikitsA vikalpaSca BrAntirekArTavAcakAH .. 691 ..
+samIpaM sanIqaM samaryAdamArAt,
+sadeSaM saveSaM sasImopakaRWam .
+taTAByarRamaByagramaByASamAhu-
+rbuDAH sanniDAnAntike sannikfzwam .. 692 ..
+AsannaM saviDaM pArSvamupAntamapadAntaram .
+viprakfzwaM paraM dUramArAd vyavahitaM smftam .. 693 ..
+sadfk samAnaH sadfSaH sadfkzaH,
+praKyaH prakASaH pratimaH prakAraH .
+tulyaH samaH sanniBa ityaBinnAH,
+SabdAH prayogezu gavezaRIyAH .. 694 ..
+lolaM capalaM cawulaM pracalaM taralaM pariplavamaDIram .
+pAriplavaM ca DIrAScalAcalaM caYcalaM ca kaTayanti .. 695 ..
+vakraM vfjinaM BaNguramAvidDaM vellitaM nataM jihmam .
+BugnamarAlaM kuwilaM vyAkuYcitamUrmimatkaTitam .. 696 ..
+;p{0081}
+drAk capalaM laGu maNkzu srAk tUrRaM tvaritamASu SIGramaram .
+ahnAya satvaraM ca kzipraM drutamaYjasA Jawiti .. 697 ..
+satataM santatamaniSaM nityamajasraM ca SaSvadaSrAntam .
+aviratamanavarataM syAdekArTamanAratamasaktam .. 698 ..
+vfhaduru guru vistIrRaM puru pfTu pfTulaM mahadviSAlaM ca .
+vyUQaM vipulaM rudraM varizWamekArTamuddizwam .. 699 ..
+yugmaM yugaM ca yugalaM dvandvaM dvitayaM yamaM yamalam .
+strIpuMsostu yugmaM miTunaM parikaTyate sadBiH .. 700 ..
+prAjyaM BUri praBUtaM ca pracuraM bahulaM bahu .
+purujaM puzkalaM puzwamadamramaBiDIyate .. 701 ..
+AcitaM nicitaM vyAptaM CannaM kIrRaM ca saNkulam .
+AkulaM BaritaM pUrRaM nAtinAnArTavAcakAH .. 702 ..
+pratyAKyAtaM pratikziptaM pratyAdizwaM nirAkftam .
+nirastamapavidDaM ca prAjYAH parihftaM viduH .. 703 ..
+atyAkAraH pariBavo nikAraSca parABavaH .
+anAdaraScABiBavastiraskAraSca kaTyate .. 704 ..
+GoraM pratiBayaM BImaM dAruRaM syAdBayAnakam .
+ABIlaM BIzaRaM BIzmaM BEravaM ca BayAvaham .. 705 ..
+saKyaM sAptapadInaM sOhArdaM sOhfdaM taTA snehaH .
+mEtrI prItirajaryaM saBAjanaM saNgataM proktam .. 706 ..
+;p{0082}
+AdiragraM purA pUrvaM praTamaM prAk puraH smftam .
+upajYopakramAramBO paScAcca caramaM Bavet .. 707 ..
+rahaH pracCannamekAntaM niHSalAkamupahvaram .
+upAMSu vijanaM proktaM rahasyaM guhyamucyate .. 708 ..
+kEtavaM kapawaM kUwaM vyAjacCadmopaDicCalam .
+mizaM niBaM ca nirdizwaM vyapadeSaSca sUriBiH .. 709 ..
+icCA vAYCA spfhA kANkzA kAmanepsA rucistaTA .
+ASaMsA ceti tulyArTA niScitaM niyataM smftam .. 710 ..
+jIrRaM jaratpurARaM pratnaM pratanaM purAtanaM proktam .
+navyaM navaM navInaM syAnnUtanamaBinavaM nUtnam .. 711 ..
+nivftaM vezwitamuktaM parivfttaM valayitaM parikziptam .
+AvarhitamunmUlitamutpAwitamudDftaM ca samam .. 712 ..
+kftsnaM samagraM sakalaM samastaM,
+sarvaM ca viSvaM niKilAKile ca .
+KaRqArDanemAH SakalaM ca BittaM,
+sAmItyasampUrRasamAnasaMjYAH .. 713 ..
+avakIrRamavaDvastaM tyaktamutsfzwamujJitam .
+anAdftamavajYAtamapahastitamizyate .. 714 ..
+AgUH saNgarasanDApratiSravAH saMSravaH pratijYA ca .
+helA syAdavahelaM rIQAvajYAvalIQA ca .. 715 ..
+;p{0083}
+mUlIkarma proktaM saMvananaM kAmarRaM vaSIkaraRam .
+vipratisAro'nuSayaH paScAttApo'nutApaH syAt .. 716 ..
+kzAmaM SAtaM kfSaM kzIRaM pelavaM talinaM tanu .
+nirantaraM GanaM sAndraM bahulaM viraletaram .. 717 ..
+niviqaM nivirISaM ca dfQaM gAQaM pracakzate .
+kAmaM prakAmaM paryAptaM nitAntaM BfSamucyate .. 718 ..
+atyarTamatimaryAdamativelaM ca kaTyate .
+vyavaDAnaM tiroDAnamantarDirapavAraRam .. 719 ..
+parasparaM miTaH proktamanyonyamitaretaram .
+kOtUhalaM vinodaH syAtkOtukaM ca kutUhalam .. 720 ..
+AlI SreRyAvalI paNktirvITI rAjI ca kaTyate .
+kzOraM ca BadrAkaraRaM muRqanaM vapanaM smftam .. 721 ..
+darpo mado'valepo mAno garvo BavedahaNkAraH .
+AveSaH saMvegaH saMramBaH samBramastaTAwopaH .. 722 ..
+prARaH sTAma balaM dyumnamojaH Suzma taraH sahaH .
+pratApaH pOruzaM tejo vikramaH syAtparAkramaH syAtparAkramaH .. 723 ..
+anukroSaH kfpA SUkaM dayA ca karuRA GfRA .
+pratikzaRamaBIkzaRaM ca BUyaH syAdasakfnmuhuH .. 724 ..
+AtaNko BayamASaNkA darastrAsaSca sADvasam .
+marzaH kzamA titikzA ca kzAntiruktA sahizRutA .. 725 ..
+;p{0084}
+vERavo laguqo ramBo daRqo yazwiSca kaTyate .
+gatirvIKA vihAraH syAtparisarpaH parikramaH .. 726 ..
+aRiraSristaTA kowiraSraH koRaSca kaTyate .
+kaSmalaM malinaM mlAnaM malImasamudAhftam .. 727 ..
+BftirBftyA ca karmaRyA vetA mUlyaM ca vetanam .
+lipirAleKyaleKA syAllipirleKAkzarasya ca .. 728 ..
+kalpanaM kartanaM proktaM varDanaM CedanaM taTA .
+vyatyayaH syAdviparyAso vEparItyaM viparyayaH .. 729 ..
+apahnavo'palApaH syAdapajYAnamapAtyayaH .
+SranTanaM granTanaM gumPaH sandarBo racanA smftA .. 730 ..
+udvartanamutsAdanamAhuH sotprAsahasitamupahasitam .
+utpiYjalamAkulakaM syAdanupadamanvaganvakzam .. 731 ..
+gOraH SvetaH sitaH SuBrO valakzo Davalo'rjunaH .
+hariRaH pARquraH pARquravadAtaSca pARqaraH .. 732 ..
+aruRaH SoRo rakto mAYjizWaH pAwalastaTA tAmraH .
+lohita ityekArTAH kaviBiH SabdAH prayajyatante .. 733 ..
+asitaM Siti kfzRaM ca kAlaM nIlaM ca mecakam .
+SyAmaM tu SyAmalaM rAmaM pAlASaM haritaM harit .. 734 ..
+hariH kadruH kaqAraSca puNgalaH parikIrtitaH .
+pItaM hAridramAKyAtaM SyAvaM tu kapiSaM smftam .. 735 ..
+;p{0085}
+piNgaH piSaNga ityukto baBruH kapilaH piNgalaH .
+sAraNgaH Sabalo varRaH kalmAzaH kfzRapARquraH .. 736 ..
+piYjaraH pItaraktaH syAdDUsaraH stokapARquraH .
+raktaSyAmo BavedDUmro DUmalaH sa ca kaTyate .. 737 ..
+SyenI kumutapatrABA SukABA hariRI smftA .
+japAkusumasaMkASA lohinI parikIrtitA .. 738 ..
+paripAwyAnupUrvI syAdupaSAyo'nupAtyayaH .
+anukramaSca paryAyo viSAyaH parikIrtitaH .. 739 ..
+IrzyA syAtkuhanA damBo miTyAcaryA ca kukkuwiH .
+kusftirnikftirmAyA SAmbarI paTakalpanA .. 740 ..
+citrakirmIrakalmAzaSabalonmiSrakarburAH
+karambaH kavaraH SAraH sampfktaH KacitaH samAH .. 741 ..
+AyallakamutkaRWA syAdutkalikA ratiSca raRaraRakam .
+OtsukyaM hflleKo virahaviyogO ca tulyArTO .. 742 ..
+pratikUlaM pratilomaM pratIpamuktaM prasavyamekArTam .
+apavAritaM ca pihitaM saMvItaM saMvftaM sTagitam .. 743 ..
+AhuH pratIkamavayavamapaGanamaNgaM taTEkadeSaM ca .
+ulvaRamudDatamudBawamuktawamiti nAtinAnArTAH .. 744 ..
+samAjaH saMsadAsTAnI saBA syAtparizatsadaH .
+citramadButamAScaryaM vismayaScodyamucyate .. 745 ..
+;p{0086}
+preNKolitaM taralitaM preNKitaM lulitaM smftam .
+yuktaM syAducitaM nyAyyaM prAptamOpayikaM taTA .. 746 ..
+AhitaM nihitaM nyastamAropitamiti smftam .
+badDaM pinadDamAmuktamapinadDaM ca kaTyate .. 747 ..
+vaYcanaM cAtisanDAnaM vyalIkaM syAtpratAraRam .
+vipralamBo visaMvAdo vipralApaSca kIrtitaH .. 748 ..
+vyalIkamaparADaH syAdAgo mantuSca vipriyam .
+praRatiH syAdanunayaH praRipAtaSca sAntvanam .. 749 ..
+udGAta uktaH prastAvo vAraScAvasaraH kzaRaH .
+vadantyupanataM prAjYA upasannamupasTitam .. 750 ..
+prAMSUccamunnataM tuNgamudagraM dIrGamAyatam .
+ayantritaM syAduddAmamucCfNKalamanargalam .. 751 ..
+viSadaM prakawaM spazwaM prakASaM sPuwamizyate .
+tatkzaREkapade tulye sadyaH sapadi ca smfte .. 752 ..
+viSaNkawaM viSAlaM syAtkarAlaM vikawaM taTA .
+nistalaM vartulaM vfttaM sTapuwaM vizamonnatam .. 753 ..
+avagAho jaladroRI nirvedaH Keda ucyate .
+pramAdo'navaDAnaM syAdatyADAnamatikramaH .. 754 ..
+nirveSa upaBogaH syAdABogaH paripUrRatA .
+avagItaM muhurdfzwamupalabDaM ca yadBavet .. 755 ..
+;p{0087}
+vAmaM savyaM viduH prAjYA apasavyaM ca dakziRam .
+pratikUlAnukUlArTe apazWu tvanapazWu ca .. 756 ..
+viparitaM parAcInamapAcInaM parANmuKam .
+smftaM kOsIdyamAlasyamupaDA tu parIkzaRam .. 757 ..
+vivaDo vIvaDo BAraH paryAhAraSca kaTyate .
+kAcaM Sikyamiti proktaM BArayazwirvihaNgikA .. 758 ..
+sOzWavaM syAdavazwamBo haWaH prasaBamucyate .
+pragraho grahako vandI paRo'kzezu glahaH smftaH .. 759 ..
+prAyaH syAdBojanatyAgaH saMnyAso'naSanaM smftam .
+moGaM muDA'PalaM banDyaM nataM namraM ca banDuram .. 760 ..
+smftaM vaRijyaM vARijyaM vaRijyA ca samaM trayam .
+yudDArTe dve prayujyete dOrmadyaM ca karIrakam .. 761 ..
+AkUtaM syAdaBiprAyo vyAkUtirBaNgirucyate .
+sTaRqilaM saMskftA BUmirayanaM sTAnamucyate .. 762 ..
+pratyagramuktaM sadyaskamupAgramupasarjanam .
+dolA preNKolanaM preNKA utsavaH syAnmahaH kzaRaH .. 763 ..
+gavalaM mAhizaM SfNgaM dftiScarmaprasevakaH .
+samudgaH sampuwo jYeyo vaqiSaM matsyabanDanam .. 764 ..
+;p{0088}
+kfte pratikftaM prAjYEH pratiniryAtanaM smftam .
+sapattrAkaraRaM proktaM yatparasyAtipIqanam .. 765 ..
+samAsaH syAtsamAhAraH saMkzepaH saNgrahastaTA .
+vyAsaH prapaYco vistAraH sa ca Sabdasya vistaraH .. 766 ..
+unnaM klinnaM smftaM nunnaM kziptaM tunnaM ca pIqitam .
+pannaM tu patitaM proktaM sannaM SAntaM ca sUriBiH .. 767 ..
+nyaYcitaM syAdaDaHkziptaM kziptamUrDvamudaYcitam .
+kAcitaM sajjitaM proktaM rUzitaM guRqitaM smftam .. 768 ..
+vizkamBaH pratibanDo viSramBaH kaTyate ca viSvAsaH .
+sammardaH syAtparimala upamardo viprakAraH syAt .. 769 ..
+upADirDarmacintA syAnniHSoDyamanavaskaraH .
+kupriyaM ca jaGanyaM syAnniHSezaM nyakzamizyate .. 770 ..
+upakAro Baved droho doza AdInavo mataH .
+kazAyaM tuvaraM proktaM suruNgA sanDirucyate .. 771 ..
+asOmyaM yadBaveccakzuracakzustatpracakzate .
+avahitTaM ca SabdajYA AkArasya nigUhanam .. 772 ..
+saMstavaH syAtparicayaH prasAdaH praRayaH smftaH .
+pravAraRaM mahAdAnaM saNgalpaH karma mAnasam .. 773 ..
+anAyAsArTakaM PARwamantargaqu nirarTakam .
+svAcCandyaM nirnimittaM ca yadfcCetyaBiDIyate .. 774 ..
+;p{0089}
+AdyamAdimamantyaM syAdantimaM cAgryamagrimam .
+maDyamaM maDyamIyaM ca maDyandinamudAhftam .. 775 ..
+namasyA vandanA proktA tapasyA niyamasTitiH .
+parivrajyA vratAdAnaM vrajyA'wyA ca gatiH smftA .. 776 ..
+riktaM tucCamasAraM tu Palgu vyuzwiH PalaM smftam .
+kalilaM gahanaM proktaM SlaTaM SiTilamucyate .. 777 ..
+svatantravfttirvyutTAnamaByutTAnaM ca gOravam .
+saMsTAnaM saMniveSaH syAdAsTAnaM nfpateH saBA .. 778 ..
+saNkaTAnyonyasaNgItiH pratipattiH pragalBatA .
+ucyata Urja utsAho BfkuwirBrukuwistaTA .. 779 ..
+upajApo BavedBedaH sAma sAntvamiti smftam .
+taTeti pratyayaH SradDA saMskAro vAsanA smftA .. 780 ..
+smftamAsTitamAkrAnAtaM pratIzwaM patadAhftam .
+pracCAditaM syAtsaMvItaM praSastaM saMskftaM smftam .. 781 ..
+unmATaH kUwayantraM syAdavapAto'vawaH smftaH .
+DarmaH svaBAvaH AtmA syAdavekzA pratijAgaraH .. 782 ..
+smftaM paruzamasnigDamAcArAtikramaH kriyA .
+uccaRqamapralambaM syAnmAQiH pattraSirA smftA .. 783 ..
+;p{0090}
+ahamahamikA tu sA syAdyatkriyata sparDayADikaM kiYcit .
+yatra vfTABiniveSastAmAhopuruzikAM viduH prAjYAH .. 784 ..
+siMhanAdo Bavet kzveqA gaRqUzo muKapUraRam .
+praBAvatAM vadantyAryAH praButAM praBavizRutAm .. 785 ..
+paraBAgo guRotkarzaH sparDA saMharza ucyate .
+AyAmaH smfta AnAhaH pariRAho viSAlatA .. 786 ..
+;c{iti SrIBawwahalAyuDakftAyAmaBiDAnaratnamAlayAM sAmAnyakARqaM caturTaM samAptam .. 4 ..}
+;p{0091}
+;k{anekArTakARqam}
+;c{paYcamamanekArTakARqam}
+eko'rTo bahuBiH SabdEH kaTitaH kaTyate'DunA .
+ekasyEva tu Sabdasya bahuzvarTezu vartanam .. 787 ..
+rudre'pi KaRqaparaSurvESravaRe'pyekakuRqalaH proktaH .
+dvAre'pi pratihAraH prAkArAgre'pi kapiSIrzam .. 788 ..
+paryApte'pi kftaM syAdAhavanIyAdizu trizu tretA .
+sandehe'pi dvAparamAhuH kalahe'pi kaliSabdam .. 789 ..
+senAyAmapi kawakaM prARidyUtaM vadanti yudDe'pi .
+rakzasyapi puRyajanaM mfdBARqe'pyuzwrikAmAryAH .. 790 ..
+SvetaM rajate'pyuktaM rajataM hAre Sare'pi kiMSAruH .
+damBe'pi gahvaraM syAdupahvaraM sanniDAne'pi .. 791 ..
+nayanacCade'pi vartma pratigrahaH sEnyapfzWaBAge'pi .
+SlezmaRyapi KewaH syAjjAmiH kulabAlikAyAM ca .. 792 ..
+ganDo leSe'pyuktaH karuRApratipAdane tapasvI ca .
+maRibanDakanizWakayormaDyaviBAge'pi karaBaH syAt .. 793 ..
+;p{0092}
+cintAyAmapi carcA jagatI rAjapraDAnaloke'pi .
+fturaNganArajasyapi vikawaM SrezWe'pi nirdizwam .. 794 ..
+kavace'pi vAravARaM jImUtaM parvate'pi kaTayanti .
+vyUhaM racanAyAmapi dArvAGAwe'pi Satapattram .. 795 ..
+karaRaM kAye'pi syAduzRIzo mUrDavezwane'pyuktaH .
+mAtrA paricCade'pi kzudraH krUre SrutO nigamaH .. 796 ..
+vfjinaH keSe'pyuktaH sTARuH kIle'pi kuYjare nAgaH .
+gaYjo BARqAgAre gomuKamupalepane'pi syAt .. 797 ..
+tejasyapi DAma syAdADAre'pyASayo GawA gozWyAm .
+kulyA kulastriyAmapi tAro muktAguRe'pyuktaH .. 798 ..
+karmavipAke'pi daSAgatI smfte kAnane'pi davadAvO .
+cUqASiKe Sirasyapi hastinyAM DenukAgaRike .. 799 ..
+pratipatpratipattAvapi SAdaH Sazpe GfRA jugupsAyAm .
+utAlamunnate'pi SrezWe'pi nigadyate suraBiH .. 800 ..
+saMvartaH parivartaSca hAyane kaTyate'mbare nAkaH .
+parimARe'pi prasTaH sarvAtmani sarvasannAhaH .. 801 ..
+patnyAmapi dvitIyA darBe'pi pavitramavaDiravawe'pi .
+prakftAvapi praDAnaM vivakzitaM SoBane'pi syAt .. 802 ..
+atimAtre'pyativelaM kAye'pyutseDa izyate sadBiH .
+pfzWAsTanyapi vaMSaH kadalI karivEjayantyAM ca .. 803 ..
+;p{0093}
+jAlaM kapawe'pyuktaM kapAlamuktaM GawAdiSakale'pi .
+rizwaM pApASuBayorarizwamaSuBe'pi nirdizwam .. 804 ..
+vyAse'pi vigrahaH syAnmAnaviSeze'pi pOruzavyAmO .
+helA prastAve'pi pragraha AbanDane'pyuktaH .. 805 ..
+kuYjarakare'pi SuRqA grAvA SEle BavaSca saMsAre .
+bAle'pi bAliSaH syAtkalaDOtaM SAtakumBe'pi .. 806 ..
+SAKAyAmapi pariDirvasatirjEnASrame'pi nirdizwA .
+anvezaRe'pi mArgo Badro vfzaBe vake DvANkzaH .. 807 ..
+maRidoze'pi trAso vatsaH saMvatsare'pi nirdizwaH .
+vAmaH pratikUle'pi proktO Sukle'pi SucirAmO .. 808 ..
+hyastanadine'pi kalyaM netraM mUle rajasyapi parAgaH .
+BrURo garBiRyAmapi BUtirviBave balaH kAke .. 809 ..
+girisAnunyapi vapraM talpaM dArezu cakzuzi jyotiH .
+cOryAdAvapi hiMsA prasaraH praRaye'pi nirdizwaH .. 810 ..
+saMGAte'pi grAmo BUtendriyaSabdavizayakaraRAnAm .
+zaRqaSca pAdapAnAM skanDaH karinaraturaNgARAm .. 811 ..
+nandyAvartaH saralaH SAlaH kAko Davo'YjanastilakaH .
+padmaspandanamokzA vfkzaviSeze'pi dfSyante .. 812 ..
+kawutiktakazAyAstu sOraBye'pi prakIrtitAH .
+SoBArTe'pi prayujyante lakzmISrIkAntiviBramAH .. 813 ..
+;p{0094}
+AryaH syAtsOvidalle'pi vrIhAvapyaRurizyate .
+caRqAle'pi divAkIrtirvivasvAn devatAsvapi .. 814 ..
+snehe'pyapahnavaH prokto dveze'pyanuSayaH smftaH .
+surate'pi vyavAyaH syAnnEgamaSca ftAvapi .. 815 ..
+durgamArge'pi kAntAraM gfhavAwyAM ca nizkuwaH .
+rUpaM mfge'pi vijYeyaM baBruH syAnnakule'pi ca .. 816 ..
+antardehe'pi kozWaH syAccatvaraM prANgaRe'pi ca .
+duScarmaRyapi nirdizwaH Sipivizwo manIziBiH .. 817 ..
+saMstaraH prastahe'pyukto hanO kuYjo raRe spaSaH .
+garjanmeGe'pi parjanyaH sanDA syAdavaDAvapi .. 818 ..
+vyavasTAyAM ca saMsTA syAtsaMvittAvapi vedanA .
+yAtrA syAdanuvfttO ca saMjYAyAM ca samAhvayaH .. 819 ..
+klIvo vikramahIne'pi samaye'pi kawaH smftaH .
+kalaNkaM lAYCane doze'pyadriH prokto ravAvapi .. 820 ..
+samitiH saNgatisaBayoH kakudaM SfNge viduH praDAne'pi .
+waNkaH syAdaBimAne prastaraGawanopakaraRe ca .. 821 ..
+saNkete cEtanye ca sUriBiH kaTyate taTA saMjYA .
+daRqo damane sEnye kutapo darBe'parAhRe ca .. 822 ..
+kAruRye'pyanuzaNgaH syAtprokto guhye'pyavaskaraH .
+vedikA'NgulimudrAyAM lAkzAyAM ca kfmistaTA .. 823 ..
+;p{0095}
+nIvI paripaRe'pyuktA kawideSe'pi meKalA .
+pratyavAye'pi viSleze viDuraM smaryate buDEH .. 824 ..
+nidAnamavasAne'pi svAminyapi BavedinaH .
+jaWaraH kaWine'pyuktaH prAjYEH pariRate'pi ca .. 825 ..
+kAle kalpe'pi viDirGanAGanaH SakravarzukAmbudayoH .
+atyayaSabdaH prAjYEH kfcCre cAtikrame ca nirdizwaH .. 826 ..
+udare jale kfpIwaM sambADaH saNkawe Bage'pyuktaH .
+pArzRiH pratyAsAre ca raRasya ca paScime BAge .. 827 ..
+ratiBuktayoH samBogaH paTideye strIDane ca SulkaM syAt .
+vaMSANkure karIraM vfkzaviSeze'pi kaTayanti .. 828 ..
+anUkamanvaye SIle gotraM nAmni taTAnvaye .
+pulAkaM BaktasikTe ca kzudraDAnye ca kaTyate .. 829 ..
+akArye guhye kOpInaM kIlAlaM ruDire jale .
+kukUlaM SaNkumadgarte tuzAgnO ca nigadyate .. 830 ..
+cEtyaM budDARqake'pyuktaM devatAyatane taTA .
+Cattrake vfkzajAtO ca SilInDraM smaryate buDEH .. 831 ..
+arTavyayasahe vyAlastaTA hiMsrapaSO smftaH .
+potramityucyate prAjYErhalaSUkarayormuKam .. 832 ..
+mandasvacCandayoH svEraM kakzaH syAtkacCavIruDoH .
+kareRurgajahastinyoH pIluSca gajavfkzayoH .. 833 ..
+;p{0096}
+SalAkAyuDayoH SalyaM bADA duHKanizeDayoH .
+sTURAstabDatvayoH stamBa ilA vAgaDnyayorapi .. 834 ..
+arcanAmUlyayorarGo visargo muktivarcasoH .
+munikukkuwayordakzaH sanDiH saMSlezaranDrayoH .. 835 ..
+avaSyaBfSayorvAQaM dAyAdastuksapiRqayoH .
+kulInaSrezWayorjAtyaM kowirutkarzasaMKyayoH .. 836 ..
+braDnastaRqugiriSayoH sTitiH sTAnavyavasTayoH .
+vIkASaH sPuwarahasoH kAzWA kAlaprakarzayoH .. 837 ..
+nadIsamudrayoH sinDurdeSaparvatayormaruH .
+mETunaM kaTyate sadBiH sambanDagrAmyaDarmayoH .. 838 ..
+prahvabanDanayoH prADvaM mohaH syAnmOQyamUrCayoH .
+vyavasTAne'mBaso velA raviH parvatasUryayoH .. 839 ..
+agnyutpAtO DUmaketU SvaSuryO SyAladevarO .
+divyArTasaMgrahO koSO narendrO nfpavArttikO .. 840 ..
+Aqambaro gajAnAM pawaharave garjite prapaYce ca .
+grahaSabdaH sUryAdizu BUtAdizvaBiniveze ca .. 841 ..
+avyaktaH paramAtmani mUrKe spazwetare ca nirdizwaH .
+kakzA guhyapiDAne kAYcyAM gehe prakAzWe ca .. 842 ..
+pratiyatnaH saMskAre lipsopagrahaRayoSca nirdizwaH .
+aBihAraH sannAhe syAdaBiyoge parasvaharaRe ca .. 843 ..
+;p{0097}
+dAnaviSeze labDO dAyo BAgArhapitryarikTe ca .
+lipisaMKyAyAM SAstre dravye ca granTaSabdamicCanti .. 844 ..
+dyUtAkzasAriPalakAstrayo'pyAkarzasaMjYakAH .
+saMsargABiBavAkroSezvaBizaNgaH prakIrttitaH .. 845 ..
+tvAzwre tamasi SatrO ca vftraSabdastrizu smftaH .
+manyurdEnye kratO kope nAqIsvargakzitizviqA .. 846 ..
+uktAnAmapyanuktAnAM SabdAnAmiha saMgrahaH .
+kaSabdaH suKavAyvambubrahmamastakavAcakaH .. 847 ..
+pratyayAH SapaTajYAnahetuviSvAsaniScayAH .
+vistAre kadake SUnye vitAnaM syAtkratO kzaRe .. 848 ..
+dehAvayavamAsArDapatatragfhaBittizu .
+parigrahe samIpe ca pakzaH zawsu nigadyate .. 849 ..
+agniDanaraSmiratnatridaSaviSezezu Bavati vasuSabdaH .
+cezwAtmajanmasattABiprAyezvaBihito BAvaH .. 850 ..
+kAlaviSeze'vasare'vyApAre pAratantrye ca .
+maDye taTotsave ca kzaRaSabdaH kaTyate sadBiH .. 851 ..
+AcAre nayanAdO dyUtaviSeze taTA raTAvayave .
+akzaM viBItake'pi prayuYjate paYcasu prAjYAH .. 852 ..
+nizWA kleSe'vasAne ca vyavasTotkarzayorvrate .
+SrezWe sTAmni Dane Sukre majjYi sAra udAhftaH .. 853 ..
+;p{0098}
+digdfzwidIDitisvargavajravAgvARavArizu
+BUmO paSO ca goSabdo vidvadBirdaSasu smftaH .. 854 ..
+BUzAyAM lANgUle praDAnaSfNgapraBAvapuRqrezu .
+DvajalakzmaturaNgezu ca navasu lalAmaM pracakzate prAjYAH .. 855 ..
+arkamarkawamaRqUkavizRuvAsavavAyavaH .
+turaNgasiMhaSItAMSuyamASca harayo daSa .. 856 ..
+pfTivyAdizu BUtezu SarIrezu rasAdizu .
+lohezu ca smfto DAtuH svaBAve gErikAdizu .. 857 ..
+dviradakarAgre padme KaqgaPale vyomni vAdyaBARqamuKe .
+agade jale ca tIrTe puzkaramazwAsu nirdizwam .. 858 ..
+caturviDezu jIvezu pfTivyAdizu paYcasu .
+atIte devayonO ca BUtaSabdaM pracakzate .. 859 ..
+SuklAdO brAhmaRAdO ca SoBAyAmakzare vrate .
+gItakrame stutO veze varRaSabdaM pracakzate .. 860 ..
+SfNgArAdizu navasu ca lavaRAdizu zawsu pArade rAge .
+niryAsavIryaguRaDAtuvizaGftAdO rasaH proktaH .. 861 ..
+yonO jalAvatAre ca mantrAdyazwAdaSasvapi .
+puRyakzetre taTA pAtre tIrTa syAddarSanezu ca .. 862 ..
+;p{0099}
+akArAdizu varRezu zaqjAdizu ca saptasu .
+udAttAdizu vijYeyaH prARinAM ca svane svaraH .. 863 ..
+sattvAdInAM sAmyAvasTAM prakftiM vadanti tattvajYAH .
+pOrAmAtyAdIni ca kAraRakArusvarUpARi .. 864 ..
+sattvAdO rUpAdO SOryAdO tantuzu prayogajYAH .
+guRaSabdaM siYjinyAM prayojayantyapraDAne'pi .. 865 ..
+upakaraRe karaRe ca draviRe liNge ca yAtanAyAM ca .
+senANge saMsidDO sADanaSabdaprayogaH syAt .. 866 ..
+aBiDeyABiprAyaprayojanadravyanavAcakezvarTaH .
+prastAve saMGAte kutsAyAmAyuDe jale kARqam .. 867 ..
+vedADyAtmabrAhmaRahiraRyagarBezu kaTyate brahma .
+prakftiguRe sattAyAM sTAmani BUte ca sattvaM syAt .. 868 ..
+irASabdo buDErjYeyo Buvi vAcyaSane'mBasi .
+nimezAdO yame varRe kAlo mftyO ca kIrtyate ..
+kAlasaNketakAcArasidDAntAH samayAH samAH .. 869 ..
+tantraM tantuzu mantrezu sidDAntaparicCadapraDAnezu .
+utsAhanasUcanayoH prakASane ganDanaM proktam .. 870 ..
+vastre maDye taTA Cidre vyavaDAne'ntarAtmani .
+avakASe bahiryoge viSeze'vasare'ntaram .. 871 ..
+;p{0100}
+prAgeva nAmaparyAye nipAtAH ke'pi kIrtitAH .
+kaTyante kecidanye'pi dizwyA syAnmaNgalAdizu .. 872 ..
+cirAya cirarAtrAya dIrGakAle prayujyate .
+ciraM cirAccireReti vA vikalpopamAnayoH .. 873 ..
+paritaH sarvato vizvak samantAcca samantataH .
+pratyakzasadfSoH sAkzAdvArttAsamBAzayoH kila .. 874 ..
+Socane sampraharze ca hantaSabdaH prayujyate .
+I duHKaBAvane kroDe pratyakze sanniDAvapi .. 875 ..
+pfTagvinAntareRarte vyatirekArTavAcakAH .
+pratyAramBe muhuH prokto huM sampraSnavitarkayoH .. 876 ..
+itiha syAtsampradAye pretyAmutra BavAntare .
+sAkaM sArDaM samaM satraM sahArTe samprakIrtitAH .. 877 ..
+aDarastAdaDarataH syAdaDastAdaDo'Dare .
+ata ityucyate hetO nindAyAM vismaye vata .. 878 ..
+samayAnikazASabdO sAmIpye kIrtitO buDEH .
+tarkaniScayayornUnaM kaccitsyAtpraSnakAmayoH .. 879 ..
+Aho utAho sandehe nu svitpraSnavitarkayoH .
+vartamAne ca yukte ca sAmprataM sampracakzate .. 880 ..
+prakASe samBave prAduH praDAnasadfSoH prati .
+hi syAdviSezaRe hetO tu syAdBede'vaDAraRe .. 881 ..
+;p{0101}
+ayi praSne sAnunaye satye SIGre taTAYjasA .
+IzatkiYcinmanAk proktAH kiYcanastokavAcakAH .. 882 ..
+tUzRIM jozaM BavenmOne sma syAtsaMsmaraRAdizu .
+aNgetyAmantraRe haM ho Bo Bo iti ca kaTyate .. 883 ..
+anekArTe BavennAnA nanu praSne'vaDAraRe .
+AkasmikArTe sahasA tatkAle ca nigadyate .. 884 ..
+vistAre'NgIkftAvUrI kaTyata urarI taTA .
+asaMSaye BavedadDA sahArTAntikayoramA .. 885 ..
+aTAnantarakalyARasampraSnAdizu kaTyate .
+aTo iti taTA prokto nAmAByupagamAdizu .. 886 ..
+sadA sanA ca nityatve svasti syAnmaNgalAdizu .
+itiSabdaH smfto hetO prakArAdisamAptizu .. 887 ..
+;c{iti SrIBawwahalAyuDakftAyAmaBiDAnaratnamAlAyAmanekArTakARqaM paYcamaM samAptam .. 5 ..}
+

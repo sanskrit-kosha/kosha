@@ -1,0 +1,474 @@
+;METADATA
+;title{ekAkzaranAmamAlA}
+;author{malaDArigacCIyaSrIsuDAkalaSamuni:}
+;bookFullName{anekArTaratnamaYjUzAyAM SrIsamayasundarasandfbDAzwalakzArTItyAdi nAnA ratnAni}
+;bookSeriesDetails{SrezWi lAlaBAi jEnapustakodDAre granTANkaH 81}
+;editor{sUryapuravAstavyaSrIyutarasikadAsatanujaH kApaqiyetyupAhvo hIrAlAlaH}
+;editorQualifications{em. e. ityupADiviBUzitaH saBAzyasawIkatattvArTADigamasUtrAdigranTAnAM saMSoDako nyAyakusumAYjalyAdigranTAnAM vivecanAtmakaBAzAntarakartA''rhatadarSanadIpikAyAH praRetA ca .}
+;publisher{jIvanacandra sAkaracandra jahverIdvArA SrezWi devacanda lAlaBAi jEnapustakodDArasaMsTA}
+;pressDetails{rAmacandra yesU SeqagedvArA nirRayasAgarAKyayanttrAlaye mudrayitvA prakASitaH}
+;publicationYear{1933 A.D.}
+;dataEntryBy{Dr. Dhaval Patel}
+;dataEntryEmail{drdhaval2785@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{Dr. Dhaval Patel}
+;annotatorEmail{drdhaval2785@gmail.com}
+;version{1.0.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{https://github.com/sanskrit-kosha/kosha/}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{ENSK}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. SRKKF for funding. 2. Acharya Shri KailasaSagarsuri Gyanmandir for providing us the scanned book to digitize. 3. Dr. Dhaval Patel for spending time to digitize, proofread and anontate the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{homo}
+;pagenum{true}
+;linenum{true}
+;chapterArrangements{} (Explanation - kanda holds varga which holds subvarga.)
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{page}
+;version0.0.1{15 March 2019}
+;version0.0.2{15 March 2019}
+;version0.0.3{15 March 2019}
+;version0.0.4{12 May 2019}
+;version0.1.0{12 May 2019}
+;version0.2.0{12 May 2019}
+;version0.2.1{12 May 2019}
+;version0.2.2{12 May 2019}
+;version0.3.0{12 May 2019}
+;version0.3.1{12 May 2019}
+;version0.3.2{19 May 2019}
+;version0.3.3{19 May 2019}
+;version0.3.4{25 May 2019}
+;version0.3.5{25 May 2019}
+;version0.3.6{25 May 2019}
+;version1.0.0{25 May 2019}
+;CONTENT
+;p{0119}
+;c{ka-pariSizwam}
+;c{malaDArigacCIyaSrIsuDAkalaSamunipraRItA ekAkzaranAmamAlA}
+;preface{
+SrIvardDamAnamAnamya sarvAtiSayasundaram .
+;l{0005}
+‘ekAkzaranAmamAlAM' kIrtayAmi yaTASrutam .. 1 ..
+}
+$a;pu
+#SArNgaDArin
+$a;a
+#asvalpArTa
+aH puMlliNgaH SArNgaDAriRyasvalpArTe'vyayaH punaH .
+$A;pu
+#viraYci
+$A;a
+#vAkya
+#smaraRa
+viraYcAvASca pulliNga A vAkye smaraRe'vyayaH .. 2 ..
+$AH;a
+#santApa,avyaya,kruD
+$Am;a
+#avaDfti,smfti
+AH santApe'vyaye kruDyAmavyayo'DftO smftO .
+$i;pu
+#kAma
+$i;a
+#kopokti,Keda
+iH kAme pulliNga i vA'vyayaH kopoktiKedayoH .. 3 ..
+;l{0010}
+$I;strI
+#padmA
+$I;a
+#pratyakza,duHKaBAvana,prakopa,sanniDi
+$u;pu
+#vfzaDvaja
+IH padmAyAmavyayastvI pratyakze duHKaBAvane .
+prakope sanniDO cEva pulliNga urvfzaDvaje .. 4 ..
+$u;pu
+#dozokti,mantraRa,apyarTa
+$u;a
+#vyaya,praSna,aNgIkfti,roza
+$U;pu
+#rakzaRa
+dozoktO mantraRe'pyarTe tvavyayastvaM vyayastaTA .
+praSne cANgIkftO rozo pulliNga Ustu rakzaRe .. 5 ..
+$U;a
+#prakopokti,praSna
+$f;strI
+#devamAtf
+UmavyayaH prakopoktO praSne frdevamAtari .
+;l{0015}
+$f;a
+#kutsA,vacana
+avyaya f tu kutsAyAM vacane'pi taTEva ca .. 6 ..
+$F;pu
+#aja,dAnavAYCA
+$x;strI
+#devamAtf
+kustvaje dAnavAYCAyAM xSca syAd devamAtari .
+$X;strI
+#vArAhI
+$e;pu
+#vizRu
+$E;pu
+#vfzaDvaja
+XrvArAhyAM Bavedestu vizRAvEstu vfzaDvaje .. 7 ..
+$o;pu
+#UrDvaliNga
+$o;a
+#AhUti
+$O;pu
+#ananta
+orUrDvaliNga AhUtAvavyayaH syAdananta OH .
+$O;a
+#samboDana
+$O;
+#parabrahman,Siva
+samboDane cAvyaya O parabrahmaRyamaH Sive .. 8 ..
+;l{0020}
+$ka;pu
+#sUrya,mitra,vAyu,agni,brahman,Atman,yama,kekin,prakASa,vaktra
+$ka;klI
+#nIra,sura,mUrDan
+kaH sUryamitravAyvagnibrahmAtmayamakekizu .
+prakASavaktrayoScApi kaM nIrasura(Ka)mUrDasu .. 9 ..
+$ku;pu
+#BU,kutsita,Sabda,pApIyas,nivAraRa,IzadarTa
+$kim;klI
+#kutsana,kzepa,praSna,vitarka,AScarya,nindA
+kurBUkutsitaSabdezu pApIyasi nivAraRe .
+IzadarTe ca kiMSabdaH kutsane kzepapraSnayoH .. 10 ..
+$kim;klI
+#vitarka,AScarya,nindA
+$kiyat;klI
+#vitarka,AScarya,nindA
+vitarkAScaryanindAsu kiMSabdaH syAt kiyAnapi .
+;l{0025}
+$Ka;klI
+#indriya,svarga,SUnya,BUpa,AkASa,suKa
+KamindriyasvargaSUnyaBUpAkASasuKezu ca .. 11 ..
+;p{0120}
+$Ka;klI
+#saMvid,SUnyaKaRqa
+$Ka;pu
+#BAskara
+saMvidi SUnyaKaRqe ca vartate KaSca BAskare .
+$ga;pu
+#ganDarva,gaReSa,gIta,gAtf
+$ga;klI
+#gAtf
+go ganDarve gaReSe ca gIte gaM gaSca gAtari .. 12 ..
+$go;strI
+#vARI,bARa,BU,raSmi,vajra,svarga,akzi,vAri,diS,Denu,SrutESvarI,gaReSa
+gOrvARIbARaBUraSmivajrasvargAkzivArizu .
+diSi DenO SrutESvaryAM gaReSe vA'pi gOH smftaH .. 13 ..
+;l{0005}
+$Gu;pu
+#kumBa,hanana,Goza,antarBAva,kiNkiRI
+GuH kumBe hanane GozAntarBAvakiNkiRIzvapi .
+$Na;pu
+#vizaya,BErava
+$ca;pu
+#taru,candra,cora
+No vizaye BErave ca castarO candracorayoH .. 14 ..
+$cu;pu
+#cakora
+$ca;a
+#anyonyArTa,vikalpArTa,samAsa,pAdapUraRa
+cuScakore samAKyAtaScakAraH punaravyayaH .
+anyonyArTe vikalpArTe samAse pAdapUraRe .. 15 ..
+$ca;a
+#pakzAntara,samUhArTa,hetu,avaDfti,anvAnvaya,tulyayogitA
+pakzAntare samUhArTe hetAvavaDftAvapi .
+;l{0010}
+anvAnva(ca)ye taTA tulyayogitAyAM ca kIrtitaH .. 16 ..
+$Ca;pu
+#sUrya,Cedaka,saMvaraRa
+CaH sUrye Cedake KyAtastaTA saMvaraRe Bavet .
+$Ca;klI
+#Candas,taqit,nirmala
+CaM ca Candasi taqiti nirmale ca taTA smftaH .. 17 ..
+$ja;pu
+#jetf,janana,vigata
+$ji;pu
+#jetf
+jaSca jetari janane vigate jistu jetari .
+$jU;pu
+#vihAyas,javana,piSAcI,vigata
+jUrvihAyasi javane piSAcyAM vigate'pi ca .. 18 ..
+;l{0015}
+$Ja;pu
+#naktaM gAyane,nazwa,GarGaraDvaninAman,cAruvAk,cora,vyUhita,gUQarUpaka
+Jo naktaM gAyane nazwe GarGaraDvaninAmani .
+cAruvAkcarayorJastu vyUhite gUQarUpake .. 19 ..
+$wa;pu
+#pfTivI,Dvani,vAyu,karaNka
+$wa;klI
+#BU,cakora,abda
+$Wa;pu
+#GaRwa,SUnya,bfhadDvani
+waH pfTivyAM DvanO vAyO karake waM punarBuvi .
+cakore'bde taTA Wastu GeRwe SUnye bfhadvanO .. 20 ..
+$Wa;pu
+#candrasya maRqala,rudra,vfzANka,Dvani,bandivfnda
+$qa;pu
+#yAminIpatimaRqala
+candrasya maRqale rudre'To vfzANke DvanAvapi .
+;l{0020}
+bandivfnde taTA qaH syAt yAminIpatimaRqale .. 21 ..
+$Qa;pu
+#QakkA
+$QA;strI
+#nirguRa,Dvani
+Qo QakkAyAM samAKyAtastaTA QA nirguRe DvanO .
+$Ra;pu
+#prakawa,nizPala,prastuta,jYAna,banDa
+RaH prakawe nizPale ca prastute jYAnabanDayoH .. 22 ..
+$ta;pu
+#taskara,yudDa,kroqa,pucCa
+$tA;strI
+#SrI
+takArastaskare yudDe kroqe pucCe ca tA SriyAm .
+$tu;pu
+#pUrva,nivftti,pUrvasmAd avaDAraRa
+tuH syAt pUrve nivfttO ca pUrvasmAdavaDAraRe .. 23 ..
+;l{0025}
+$tu;pu
+#vilakzaRa,vikalpArTa
+$Ta;pu
+#BayarakzaRa,BUDara,BAra
+$da;pu
+#dAna,dAyaka
+vilakzaRe vikalpArTe To Baved BayarakzaRe .
+$ka;klI
+BUDare ca taTA BAre do dAne dAyake'pi ca .. 24 ..
+$dA;pu
+#dAna,dAtf,Ceda,banDa
+dAne dAtari dA kecid vidurdA CedabanDayoH .
+$da;klI
+#kalatra
+$Da;klI
+#DIra,Danada,Dana
+daM kalatraM taTA DaM ca DIre ca Danade Dane .. 25 ..
+;p{0121}
+$Da;pu
+#citra,aSvavAra
+$DI;strI
+#budDi,izuDi
+Dastu citre'SvavAre ca DIrbudDAvizuDAvapi .
+$Df;pu
+#guhyakeSa,viraYci
+$DU;pu
+#BAra,kampa
+guhyakeSe viraYcO DA taTA DUrBArakampayoH .. 26 ..
+$DU;pu
+#DurA,kampana
+$na;pu
+#budDO,jYAna,banDa
+DUrte DurA kampane ca no budDO jYAnabanDayoH .
+$naH;a
+#asmAn,asmaByam,asmAkam
+asmAnamaByamamAkamezAM sTAne BaveYca naH .. 27 ..
+;l{0005}
+$no;a
+#nizeDArTa
+$na;a
+#nizeDArTa
+$nf;pu
+#nara
+nizeDArTe'vyayo no ca nakArastu narastu nA .
+$ni;pu
+#Sruta,netf
+$nu;pu
+#stuti
+$nO;a
+#?
+niH Srute netari KyAtO nuH stutAvavyayastu nO .. 28 ..
+$ni;pu
+#kzaya,nityArTa,BfSArTa,ASraya,rASi,kOSala,banDana,mokza,dAnakarman
+niH syAt kzaye ca nityArTe BfSArTASrayarASizu .
+kOSale banDane mokze saMSaye dAnakarmaRi .. 29 ..
+$ni;a
+#aDoBAva,uparama,sanniDAna
+aDoBAvoparamayoH sanniDAne'vyayo mataH .
+;l{0005}
+$nu;a
+#praSna,vitarka,vikalpa,anuSaya
+nuH praSne ca vitarke ca vikalpe'nuSaye'vyayaH .. 30 ..
+$nO;strI
+#taraRI
+$pa;pu
+#pAna,pavana,paTan,prOQa,varRaka
+$pA;strI
+#pAtf,Srute
+taraRyAM nOstaTA KyAtaH paH pAne pavane paTi .
+prOQe ca varRake paSca pA pAtari taTA Srute .. 31 ..
+$Pa;pu
+#nizPala,jalpa,puzkara,BayarakzaRa,JaYJAvAta,Pala,Pena
+$PU;pu
+PUtkAra
+PakAro nizPale jalpe puzkare BayarakzaRe .
+JaMJAvAte Pale Pene PUtkAre PUstaToditaH .. 32 ..
+;l{0005}
+$ba;pu
+#varuRa,padma,kalaha,vigati
+bakAro varuRe padme kalahe vigatO taTA .
+$Ba;pu
+#Ali,Sukra,dIptO
+$BI;pu
+#Baya
+BaScAliSukrayorBAve BaSca dIptO Baye ca BIH .. 33 ..
+$Ba;klI
+#DizRya
+$BU;pu
+#BU,sTAna
+$ma;pu
+#candra,viDi,Siva
+BaM DizRye BUrBuvi sTAne maScandre tu viDO Sive .
+$mU;pu
+#mOli,banDana
+$mA;a
+#mAna,vAraRa
+mOlO ca banDane mUH syAt mA mAne vAraRe'vyayaH .. 34 ..
+$mA;
+#asmacCabde dvitIyAyAm
+$me;
+#mama
+asmacCabde dvitIyAyAM mA ca zazWyAM ca me punaH .
+;l{0005}
+$mA;strI
+#mAtf,lakzmI
+$ya;pu
+#vAta,yama
+mA mAtari taTA lakzmyAM yastu vAte yame'pi ca .. 35 ..
+$ya;klI
+#DAtf,paSu
+$yA;strI
+#yAna,yAtf,SrI,KawvANga
+$ra;pu
+#kAma,tIkzRa,vESvAnara,nara
+DAtaryapi paSO yaM syAt yA yAne yAtari SriyAm .
+KawvANge'pi ca raH kAme tIkzRe vESvAnare nare .. 36 ..
+$ra;pu
+#rAma,vajra,Sabda
+$rA;
+#dravya,kanaka,ASraya,nIrada
+$ru;pu
+#sUrya,rakzaRa
+rAme vajre ca Sabde syAt rA dravye kanake punaH .
+ASraye nIrade ca syAt ruH sUrye rakzaRe'pi ca .. 37 ..
+;l{0005}
+$ru;pu
+#Baya,Sabda
+$rI;strI
+#BrAnti
+$la;pu
+#calana
+Baye Sabde ca rI BrAntO lakAraScalane punaH .
+$lA;
+#dAna
+$lU;
+#lavana
+$la;pu
+#viqOjas
+$lO;pu
+#viqOjas
+lA dAne lUSca lavane laSca lOSca viqOjasi .. 38 ..
+$la;pu
+#amfta,diSA
+$lI;pu
+#Sleza,valaya
+laScAmfte diSAyAM ca lIH Sleze valaye taTA .
+$va;pu
+#vAta,varuRa,rudra,sAntvana
+vo vAte varuRe rudre sAntvane vA'vyayaH punaH .. 39 ..
+;p{0122}
+$va;a
+#padArTa,upamAna,vikalpa,samuccaya
+padArTa upamAne ca vikalpe ca samuccaye .
+$vi;
+#SrezWa,atIta,nAnArTa
+$vE;a
+#hetu,pAdapUraRa
+viH SrezWe'tIte nAnArTe vE hetO pAdapUraRe .. 40 ..
+$vaH;
+#yuzmAn,yuzmaByam,yuzmAkam
+$vAm;
+#yuvAm,yuzmAByAm,yuvayoH
+dvitIyAyAScaturTyASca zazWyA yuzmadbahutvake .
+vaScAsAM tu viBaktInAM dvitve vAM kaTito buDEH .. 41 ..
+;l{0005}
+$vi;pu
+#AkASa,vihaga
+$Sam;a
+#Sreyas,suKa
+AkASe vihage viSca SaM Sreyasi suKe'vyayaH .
+$SA;strI
+#SAnta,sAsnA
+$SI;pu
+#Saya,hiMsana
+SA tu SAnte ca sAsnAyAM SIH Saye hiMsane'pi ca .. 42 ..
+$Su;pu
+#candra
+$za;pu
+#sadAra
+$zU;pu
+#izwa,prasava
+SuScandre zaH sadAraH syAt taTezwe prasave tu zUH .
+$sa;pu
+#sUrya,parokza
+$sa;klI
+#SaNkA
+saH sUrye ca parokze ca saM SaNkA vA'vyayastu saH .. 43 ..
+$sa;a
+#saNgArTa,SoBanArTa,prakfzwArTa,samarTa
+saNgArTe SoBanArTe ca prakfzwArTasamarTayoH .
+;l{0010}
+$sa;a
+#praTamAntatad
+$sA;strI
+#smfti,lakzmI
+praTamAntatadaH sTAne smftO lakzmyAM ca socyate .. 44 ..
+$ha;pu
+#SUlin,kara,nIra,kroDagarBapraBAzaRa,nivAsa
+$ha;a
+#sambudDi,pAdapUraRa
+haH SUlini kare nIre kroDagarBapraBAzaRe .
+nivAse'TAvyayo haH syAt sambudDO pAdapUraRe .. 45 ..
+$hA;a
+#Soka,duHKa,vizAda
+avyayo hA smftaH Soke taTA duHKavizAdayoH .
+$hi;a
+#hetu,pAdapUrti,viSeza,avaDAraRa
+hi hetO pAdapUrtO ca viSeze cAvaDAraRe .. 46 ..
+;l{0015}
+$hi;a
+#sPuwa,dAna
+$hI;
+#duHKahetu,vismaya,vizAda
+$ham;a
+#anunaya,kopaBAzaRa
+sPuwe dAne'TAvyayo hI duHKahetO ca vismaye .
+vizAde cAvyayo haM tvanunaye kopaBAzaRe .. 47 ..
+$hum;a
+#paripraSna,vitarka
+$hO;a
+#vacana
+humavyayaH paripraSne vitarke vacane tu hO .
+$he;a
+#kutsA,hetu,samboDana
+$hO;a
+#samboDana
+he kutsAyAM taTA he tu hetO samboDane tu hO .. 48 ..
+$kza;pu
+#rAkzasa,kzetra
+rAkzase kzastaTA kzetre
+;end{
+SabdA ye dvyakzarAdayaH .
+;l{0020}
+svarAntA vyaYjanAntASca jYeyA granTAntarAt tu te .. 49 ..
+malaDArigacCaBartuH sUreH SrIrAjaSeKarasya guroH .
+SizyaH suDAkalaSa ityekAkzaramAlikAmatanot .. 50 ..
+}

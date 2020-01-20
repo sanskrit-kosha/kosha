@@ -1,0 +1,133 @@
+;METADATA
+;title{ekAkzarakoza}
+;author{puruzottamadeva}
+;bookFullName{SrImadamarasiMhaviracitaM nAmaliNgAnuSAsanam amarakozaH anekArTaDvanimaYjarIdvirUpakozEkAkzarakozESca samupabfMhitaH ratnapraBA''KyasaMskftavyAKyayA hindIwippaRyAdiBiSca viBUzitaH}
+;bookSeriesDetails{cOKambA suraBAratI granTamAlA}
+;editor{Dr. Brahmananda Tripathi}
+;editorQualifications{sAhityAyurvedAcAryaH, M.A., Ph.D, D.Sc.A.Y.}
+;publisher{cOKambA suraBAratI prakASana, ke 37/117, gopAlamandira lena, poswa bAksa naM0 129, vArARasI - 221001}
+;pressDetails{SrIjI mudraRAlaya, vArARasI}
+;publicationYear{1982 A.D.}
+;dataEntryBy{Dr. Dhaval Patel}
+;dataEntryEmail{drdhaval2785@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{EKPD}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. SRKKF for funding. 2. Acharya Shri Kailasasagarasuri Gyanmandir for providing us the scanned book to digitize. 4. Dr. Dhaval Patel for spending time to type and proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{homo}
+;pagenum{true}
+;linenum{false}
+;chapterArrangements{none}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{07 January 2020}
+;version0.0.2{07 January 2020}
+;version0.0.3{07 January 2020}
+;version0.0.4{07 January 2020}
+;version0.1.0{07 January 2020}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+﻿;p{0268}
+akAro vAsudevaH syAdAkArastu pitAmahaH .
+pUjAyAmapi mANgalye AkAraH parikIrtitaH .. 1 ..
+ikAra ucyate kAmo lakzmIrIkAra ucyate .
+ukAraH SaNkaraH prokta UkAraScApi lakzaRe .. 2 ..
+rakzaRe cApi UkAra UkAro brahmaRi smftaH .
+fkAro devamAtA syAdfkAro danujaprasUH .. 3 ..
+xkAro devajAtInAM mAtA sadBiH prakIrtitA .
+XkAraH smaryate pUrvErjananI SabdakovidEH .. 4 ..
+ekAra ucyate vizRurEkAraH syAnmaheSvaraH .
+okArastu Baved brahmA OkAronanta ucyate .. 5 ..
+aM syAcca paramaM brahma aH syAccEva maheSvaraH .
+kaH prajApatiruddizwo ko'rkavAyvanalezu ca .. 6 ..
+kaScA'tmani mayUre ca kaH prakASa udAhftaH .
+kaM Siro jalamAKyAtaM kaM suKaM ca prakIrtitam .. 7 ..
+pfTivyAM kuH samAKyAtaH kuH Sabde'pi prakIrtitaH .
+Kamindriye KamAkASe KaH svarge'pi prakIrtitaH .. 8 ..
+sAmAnye ca taTA SUnye KaSabdaH parikIrtitaH . 
+go gaReSaH samuddizwo ganDarvo gaH prakIrtitaH .. 9 ..
+gaM gItaM gA ca gATA syAd gOSca DenuH sarasvatI .
+GA GaRwA'Ta samAKyAtA Go GanaSca prakIrtitaH .. 10 ..
+GaRwISe hanane Garme GurGoRA GUrDvanAvapi . 
+NakAro BEravaH KyAto NakAro vizayaspfhA .. 11 ..
+caScandramAH samAKyAto BAskare taskare mataH .
+nirmalaM CaM samAKyAtaM tarale CaH prakIrtitaH .. 12 ..
+Cedake CaH samAKyAto vidvadBiH SabdakovidEH .
+jakAro gAyane prokto jayane jaH prakIrtitaH .. 13 ..
+;p{0269}
+jetA jaSca prakaTitaH sUriBiH SabdaSAsane .
+ravo JakAraH kaTitaH nazwe SaYcocyate buDEH .. 14 ..
+JakAraSca taTA vAyO nepaTye samudAhftaH .
+YakAro gAyane prokto YakAro JarJaraDvanO .. 15 ..
+wo DaritryAM ca karake wo DvanO ca prakIrtitaH .
+WakAro janatAyAM syAt Wo DanO ca SaWe'pi ca .. 16 ..
+Wo maheSaH samAKyAto WaSca SUnye prakIrtitaH .
+bfhadDanO ca WaH proktastaTA candrasya maRqale .. 17 ..
+qakAraH SaNkare trAse DvanO BIme nirucyate .
+QakAraH kIrttitA QakkA nirguRe nirDane mataH .. 18 ..
+RakAraH sUkare jYAne niScaye nirRaye'pi ca .
+takAraH kIrtitaScore kroqapucCe prakIrtitaH .. 19 ..
+Siloccaye TakAraH syAt TakAro BayarakzaRe .
+dakAro'Bre kalatre ca Cede dAne ca dAtari .. 20 ..
+DaM Dane saDane DaH syAt viDAtari manAvapi . 
+DizaRA DIH samAKyAtA DUScEva BAravittayoH .. 21 ..
+netA taSca samAKyAtastaraRO naH prakIrtitaH . 
+nakAraH sOgate budDO stutO nastu prakIrtitaH .. 22 ..
+naSabdaH svAgate banDO vfkze sUrye ca kIrtitaH .
+paH kuberaH samAKyAtaH paScime ca prakIrtitaH .. 23 ..
+pavane paH samAKyAtaH paH syAt pAne ca pAtari .
+kaPe vAte PakAraH syAt taTA'hvAne prakIrtitaH .. 24 ..
+PUtkAro'pi ca PaH proktastaTA nizkalaBAzaRe . 
+bakAro varuRaH proktaH kalaSe baH Pale'pi ca .. 25 ..
+vakzaHsTale ca baH prokto gadAyAM samudAhftaH .
+nakzatre BaM buDAH prAhurBavane BaH prakIrtitaH .. 26 ..
+dIptirBAH syAcca BUrBUmirBIrBayaM kaTitaM buDEH .
+maH SivaScandramA veDA mA lakzmISca prakIrtitA .. 27 ..
+mA ca mAtari mAne ca banDane maH prakIrtitaH .
+yaSo yaH kaTitaH prAjYEryo vAyuriti SabditaH .. 28 ..
+;p{0270}
+yAne yAtari yastyAge kaTitaH SabdavediBiH .
+raSca rAme'nile vahnO BUmAvapi Dane'pi ca .. 29 ..
+indriyenDanaroDe ca rurBaye ca prakIrtitaH .
+lo dIptO dyAM laSca BUmO Baye cA''hlAdane'pi ca .. 30 ..
+lo vAte lavaRe ca syAllo dAne ca prakIrtitaH .
+laH Sleze cASaye cEva pralaye sADane'pi laH .. 31 ..
+mAnase varuRe cEva vakAraH sAntvane'pi ca . 
+viSca pakzI nigadito gaganaM parikIrtitam .. 32 ..
+SaM suKaM SaNkaraH SreyaH SaSca sImni nigadyate .
+Sayane SaH samAKyAto hiMsAyAM So nigadyate .. 33 ..
+zaH kIrtito buDEH SrezWe zaSca gamBIralocane .
+upasarge parokze ca zakAraH parikIrtitaH .. 34 ..
+saH kope vAraRe saH syAttaTA SUlini kIrtitaH .
+sA ca lakzmIrbuDEH proktA gOrI sA ca sa ISvaraH .. 35 ..
+haH kope vAraRe haSca taTA SUlI prakIrtitaH .
+hiH padyAvaraRe prokto hiH syAdDetvavaDAraRe .. 36 ..
+kzaH kzetre vakzasi prokto buDEH kzaH SabdaSAsane .
+kziH kzetre kzatrarakze ca nfsiMhe ca prakIrtitaH .. 37 ..
+AgameByo'BiDAneByo DAtuByaH SabdaSAsanAt .
+evamekAkzaraM nAmABiDAnaM kriyate mayA .. 38 ..
+;c{..ityekAkzarakozaH samAptaH ..}
+;c{ekAkzarIyakozasya brahmAnandatripAWinA .}
+;c{kftaH susaNgrahaH SreyAn praBavet paWatAmayam ..}
+
