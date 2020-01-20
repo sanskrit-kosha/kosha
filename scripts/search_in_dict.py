@@ -84,7 +84,7 @@ def search_in_all(query):
 	for code, fullname in dictcodes.items():
 		result = search_in_dict(query, code)
 		if len(result) > 0:
-			output[fullname] = result
+			output[code] = result
 	return output
 
 
@@ -103,6 +103,19 @@ class DC(Resource):
 	@api.expect(get_parser, validate=True)
 	def get(self):
 		result = dictcode_to_dict()
+		return jsonify(result)
+
+
+@api.route('/' + apiversion + '/dictslp')
+class DS(Resource):
+	"""Return the dictcode and full form of all dictionaries in slp1."""
+
+	get_parser = reqparse.RequestParser()
+
+	@api.expect(get_parser, validate=True)
+	def get(self):
+		with codecs.open('dictcode_slp.json', 'r', 'utf-8') as fin:
+			result = json.load(fin)
 		return jsonify(result)
 
 
@@ -129,15 +142,9 @@ class QD(Resource):
 	@api.expect(get_parser, validate=True)
 	def get(self, query, kosha):
 		result = search_in_dict(query, kosha)
-		return jsonify(result)
+		return jsonify({kosha: result})
 
 
 if __name__ == "__main__":
 	app.run(debug=True)
-	"""
-	query = sys.argv[1]
-	query = preprocess(query)
-	result = search_in_all(query)
-	print(result)
-	"""	
 
