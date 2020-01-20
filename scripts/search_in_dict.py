@@ -79,7 +79,7 @@ def search_in_dict(query, code):
 
 def search_in_all(query):
 	output = {}
-	with codecs.open('dictcode.json', 'r', 'utf-8') as fin:
+	with codecs.open('workingdicts.json', 'r', 'utf-8') as fin:
 		dictcodes = json.load(fin)
 	for code, fullname in dictcodes.items():
 		result = search_in_dict(query, code)
