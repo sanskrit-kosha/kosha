@@ -6,4 +6,5 @@ docs/deccan_order.ods
 scripts/log.txt
 scripts/*.pyc
 scripts/.python-version
+scripts/__pycache__/*.pyc
 
