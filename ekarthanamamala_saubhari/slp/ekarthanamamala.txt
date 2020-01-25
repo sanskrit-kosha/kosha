@@ -1,0 +1,306 @@
+;METADATA
+;title{ekArTanAmamAlA}
+;author{sOBari}
+;bookFullName{Ekārthanāmamālā-Dvyakṣaranāmamālā of Saubhari}
+;bookSeriesDetails{Sources of Indo-Aryan Lexicography - 12}
+;editor{Ekanath Dattatreya Kulkarni}
+;editorQualifications{M.A., Ph.D., Assistant Editor, Dictionary of Sanskrit on Historical Principles and Lecturer in Sanskrit and Comparative Philology, Deccan College Post-Graduate and Research Institute, Poona}
+;publisher{Dr. S. M. katre, Decan College Post-Graduate and Research Institute, Poona}
+;pressDetails{M. N. Chapekar, Aryasamskriti Mudranalay, Poona 2.}
+;publicationYear{1955 A.D.}
+;dataEntryBy{Dr. P. Srinivas, Lecturer in Vyakarana, S.V.V.V.S.College, Bowenpally, Secunderabad, A.P.500011 as part of Sansknet Project - retrieved from https://www.wilbourhall.org/sansknet/index.html}
+;dataEntryEmail{}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{ENMS}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. Sansknet project for providing us the data in custom font. 2. Dr. Dhaval Patel for proof reading the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{homo}
+;pagenum{true}
+;linenum{true}
+;chapterArrangements{kanda}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{25 February 2019}
+;version0.0.2{25 January 2020}
+;version0.0.3{25 January 2020}
+;version0.0.4{25 January 2020}
+;version0.1.0{25 January 2020}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+﻿;p{0001}
+;c{sOBarikftA ekArTanAmamAlA .}
+;c{.. SrIgaReSAya namaH ..}
+praRamya suDiyAM nATaM devadevaM ramApatim .
+ekArTanAmamAlAM tu kurve cetaHprasAdanIm .. 1 ..
+aH kfzRaH SaMkaro brahmA SakraH somo'nilo'nalaH .
+sUryaH prARo yamaH kAlo vasantaH praRavaH suKI .. 2 ..
+;l{0005}
+AH svayaMBUriBo vAjI KedaH SaMkaravAsavO .
+pArijAtaH samaH prAjYo nivAsaScaRakaH sutaH .. 3 ..
+iH kAmaH sTARurindro'rko varuRaH pAdapo dvipaH .
+SuciH SrImAnajo bAlo viraYciH kfttikAsutaH .. 4 ..
+IrISvaro BavecCatruH puruzaH karuRo'ruRaH .
+;l{0010}
+aprajAH suprajAH SaNkurmukuro nakulo'kulaH .. 5 ..
+urgOrIpatiruH kAlaH seturnATaH parAyaRaH .
+nArado'rko'nilaH pASI mArkaRqeyo'Ta rAvaRaH .. 6 ..
+UH pareto'RqajastvazwA vivasvAnagnisAraTiH .
+vahnirniSAkaraH pUrRo daridrI saramADipaH .. 7 ..
+;p{0002}
+;l{0015}
+frniftirnalo nAkaH KagarAqaTa vAsukiH .
+SAlaH pitfsvasuH putro'ditirditirumA ramA .. 8 ..
+FrnizeDo BavaH pUzA varuRo'mararAqajaH .
+karI tarurnaraH pApmA vidvAnaTa ramApatiH .. 9 ..
+lfrmlecCo'ruRavarRaH syAtklIbaH pApI parAjitaH .
+;l{0020}
+vItarAgo'Ta pAKaRqI kamalaM maraRaM ca lf .. 10 ..
+lFrmahAtmA suro bAlo BUpaH stomaH kaTAnakaH .
+mUrKaH SiSno gudaH kakzA keSaH pAparato naraH .. 11 ..
+eH kumAro'suro'rAtirjYAtIyo'hita udDataH .
+AtmA Sezo vivasvAMSca kftArTo maDvariH SaraH .. 12 ..
+;l{0025}
+EH krUro DaraRInATaH pUro mAro'maro'suraH .
+kulAlo rADaraH prAjYo mandaH putro'TavA naraH .. 13 ..
+orveDA jYo Druvo'gastyo garuqo'go'kzayo'suraH .
+AKuH kARo'Ta mArjAraH sADuH saNgaH parASaraH .. 14 ..
+OH SvA yuvA naro nArI BAvaH sUkzmaH prajApatiH .
+;p{0003}
+;l{0030}
+sTUlo jAraH kalAvAMSca suKI durgA ratiH kaviH .. 15 ..
+aM suKaM kaSmalaM duHKaM pUrRaM dUraM gataM varam .
+aH prAgukto jinAdyezu vizRuBftyena yaH stutaH .. 16 ..
+ko brahmA kA mahI durgA kiH sugrIvo ramApatiH .
+AKaRqalo'Ta sUryo'gnirvyADaH karzaka ityapi .. 17 ..
+;l{0035}
+kIrgajasturago vyAlo jAro jIvaH pipIlikA .
+DarA ramA ca dviw ruw ca puruzaH pAwalaSca gOH .. 18 ..
+kuH pfTvI kuH kucaH kUlaM kUH kftyA BUrapi smftA .
+keH prARo'rko madaH sAraH klIbaH kEH praRataH SuciH .. 19 ..
+koH kurkuro janaH SyAvaH SyAnaH SokaSca kOrvfzaH .
+;l{0040}
+kaM SiraH kaM suKaM toyaM payo duHKaM vizaM Bayam .. 20 ..
+kaH prAgukto'Ta KaH sUryaH KomA kzmA kamalA ca gIH .
+KiH kAmaH KIrgudo DAtA KurvahniH KUrbfhaspatiH .. 21 ..
+KeH prARaH KErBavo BrAtA putraH KoH KaYja ucyate .
+KOH sureSo'gnirISo'rkaH KaM vyoma ca Kamindriyam .. 22 ..
+;l{0045}
+KaH prAgukto'Ta gaH prIto BavaH SrIpatiruttamaH .
+gA kzmomA ca ramA girDIrgIH SrImAnaTa budDimAn .. 23 ..
+;p{0004}
+gIrvARI gIH surA patnI suDA guH prARa AsavaH .
+guH kAntirmadano BIrurgUSca setuH saKA raviH .. 24 ..
+guruH purIzaM gUH SvAdo geH pApI janavaYcakaH .
+;l{0050}
+gEH palASo'pyaSoko'gniH sUryo gordvipadaH karI .. 25 ..
+gOrvajraM gOH praBA BUmirvARI toyaM trivizwapam .
+Denurbasto vfzo diggOrnetraM lajjA gurU ramA .. 26 ..
+indriyaM SrIrumA gaM ca vAditraM SaraRaM varam .
+gaH prAgukto'Ta GaH sUnurvahniH pUzA nfpo gajaH .. 27 ..
+;l{0055}
+GA ramA ca SacI durgA BUmirGirDftaDarmakaH .
+GIH kumAro'marAcAryo GurmUQo'karuRaH PaRI .. 28 ..
+GUrBUmirGUH surADISo gudaH saMkarzaRo'malaH .
+GeH SaNKaH kurkuraH kIlo GEH sUryaH saramAsutaH .. 29 ..
+GorGozo GOH surAvAsaH pApmA GaM pApamucyate .
+;l{0060}
+GaH prAgukto'Ta NaH prARasturago NA DarA ramA .. 30 ..
+NirbIBatsurnfgaH sUkzmo NIrBUpaH kfkalAsapaH .
+NuH sUkaro'Ta NUrvyADro NeH sUto NEH parASaraH .. 31 ..
+NoSca siMho'Ta NOH sUryo'ruRo vahniH kalAniDiH .
+NaM vitAnaM suKaM brahma sarpistoyaM vizaM payaH .. 32 ..
+;p{0005}
+;l{0065}
+NaH prAgukto'Ta caScaYcuScaraRo'rcirmuKo raviH .
+cA kadrUraditiH kanyA ciH pUzA mAza eva ca .. 33 ..
+cI mazirdantipatnI syAccuH kAlo'Ta paviH SaraH .
+BIruScUrmArgaRo'pi syAtpakzI BUmijarAqraviH .. 34 ..
+ceH kfzRo'rkasturAzAw ca cEH somo vinatAsutaH .
+;l{0070}
+coH pAKaRqI ca cOrDenuranaqvAnagnirudDataH .. 35 ..
+caM caritraM suKaM duHKaM kaSmalaM BramaRaM payaH .
+caH prAgukto'Ta CaH somaH CA ca ruw CiH kulAlakaH .. 36 ..
+CI CaviSCuH SukaSCUrBUSCeH pASI CEH surAlayaH .
+CoH pUrRo'laMkfto vAyuSCOH samIrastarurnagaH .. 37 ..
+;l{0075}
+CamarcirBUtalaM svaH syAtkUwaM kUlaM muKaM kulam .
+CaH prAgukto'Ta jo jAro jA yonirjiH sadASivaH .. 38 ..
+jIrjizRuH karuRo yUkA jurvizRurjUH kulAlajaH .
+jeH SunIjo'Ta jEH pUzA vahnirjoH kamalAsanaH .. 39 ..
+jOrjAro'jo yuvA jaM ca jAtaM rajatameva ca .
+;l{0080}
+jaH prAgukto'Ta Jo hasto JA yonirJiH kalA kapiH .. 40 ..
+JIH karI JurBfgurJUSca DruvaH saMGo'maro'ruRaH .
+;p{0006}
+JeScarmakfdBavaH somo romA rAmo'Ta JErguruH .. 41 ..
+JoH karRo JOH smfto nAko JaM mETunamiti smftam .
+JaH prAgukto'Ta YaScAgnirYA jarA rASireva ca .. 42 ..
+;l{0085}
+YiH samrAq jYAnavfdDo'gnirYIH pAKaRqI surApriyaH .
+YuH sunetrA YUH suvAsA YeH kArtasvarasaMniBaH .. 43 ..
+YEH kfzRA YoH palASaH syAd YOrgOH pAKaRqavAkkarI .
+pUrvA DruvA ca YaM sarpiH paraM brahma nigadyate .. 44 ..
+YaH prAgukto'Ta waH plIho mUtrakfcCro'Ta pippalaH .
+;l{0090}
+wAsUyA wiH kareRurBUH saramA wIrDarADaraH .. 45 ..
+wuH kaNkaRo'Ta cUqaH syAwwUrnanandA svasA ca BIH .
+weH kARazwErdviqanDaH syAwwEH proto naBasI hayaH .. 46 ..
+woH pareto guruH SizyaH wOrvinIto davo vfzaH .
+waM netraM SravaRaM pAtraM BramaRaM maraRaM taTA .. 47 ..
+;l{0095}
+waH prAgukto'Ta WaH sUnurjYAnI maDvarireva ca .
+vAcAlaH SUnya AsAraH WA SUnyA nAsiketyapi .. 48 ..
+;p{0007}
+WiH kumAro'marArAtizWIH kuwumbyaTa putravAn .
+WuH kadambo yamastvazwA WUH prajYA Dftireva ca .. 49 ..
+WeH samAso'pi WErvyAsaH WoH samazWOSca gOtamaH .
+;l{0100}
+WaM jYAnaM vivaraM SUnyamamftaM SAradaM payaH .. 50 ..
+WaH prAgukto'Ta qaH sATo qA kzmA ca saramA ramA .
+qirgOrI qI SivA DAtrI quScandro qUH kalApavAn .. 51 ..
+qerDarmo qErvfzaH karRo qoH pApI purUzADamaH .
+qOrDenuSca karo jAro qaM netraM ca payastaTA .. 52 ..
+;l{0105}
+qaH prAgukto'Ta QaH SvAdaH SvA mArjArastaTA KaraH .
+QA nABirQirgudo meQro QrIrDUmo vahnirutkawaH .. 53 ..
+QuH kUrmaH sUkaro vyAlo QUH kuco QeH kuraNgajaH .
+QErmAro QoH suKI varyo QOrBUmirQaM payo varam .. 54 ..
+QaH prAgukto'Ta Ro nakro RA nABirRirvfko'jaraH .
+;l{0110}
+RIH svargo RuH kareRurBUrRUH kAlindI sawA jarA .. 55 ..
+RermArjAro viqaNgaSca REH SfgAlI harItakI .
+RoH sarzapo'Ta ROrmAyA RaM darSanamiti smftam .. 56 ..
+taH suvezo'Ta tA nArI tirmUzaka umeSvaraH .
+;p{0008}
+tIrnadI jalaDiH proktastuH sAraNgo rameSvaraH .. 57 ..
+;l{0115}
+tUrmlecCasteH karI nakrastEH kalApI ditiH prasUH .
+toH sUrye viGnakftsvAmI tOH svargo BUstaTA garaH .. 58 ..
+AcAryo yajamAnaSca taM tfRaM jalameva ca .
+taH prAgukto'Ta TaH sUryo gaReSo vinatAsutaH .. 59 ..
+TA DaritrI praBA gaNgA TirgodA yamunA taTA .
+;l{0120}
+TIH samudro vraRo revA TuH sAkzI TUH parASaraH .. 60 ..
+TervyAsasTEH SukaH proktaH TorDarmo gADiputrakaH .
+TOH SaNKasTaM vizaM karma bahulaM sUkzmameva vA .. 61 ..
+TaH prAgukto'Ta do dAtA dA dAtrI DaraRI SuBA .
+dirdAnI diH suDAnATo durdaridrI karo'varaH .. 62 ..
+;l{0125}
+dUrduHKI deH smftA jAyA dErmatsyo vAmanarzaBaH .
+dorhastaScaraRaH SiSno dOH svargaH prARa AtmajaH .. 63 ..
+daM dAnaM SaraRaM karma BavyaM nyUnamakilbizam .
+daH prAgukto'Ta Do DAtA vizRurvA girijAtmajaH .. 64 ..
+DA DaritrI ramA gOrI DirDarmo DIrvfkAsuraH .
+;l{0130}
+DustanurDUH karo BAro Dervfzo DESca rAvaRaH .. 65 ..
+;p{0009}
+DoH pApI vfzaRaH pUzA DOrDarmaH pfTivI girA .
+DaM DanaM DUnanaM dAnaM DAraRaM karaRaM suKam .. 66 ..
+DaH prAgukto'Ta no'BAvo nAstIti pumAngarimA taTA .
+nirdurgatiSca nI rAgo nurdeho nUH kalatravAn .. 67 ..
+;l{0135}
+neH samo nEH kuraNgo'gnirnOstariH puruzo'maraH .
+naM netramaYjanaM SrotraM karaRaM kAraRaM suKam .. 68 ..
+naH prAgukto'Ta paH pApI pUzA vfzaRa AtmajaH .
+pAparRA piH pavitro'gniH pI smftA'Ta pipIlikA .. 69 ..
+puH putraH pUH puraM dehaH peH peSI pESca gAlavaH .
+;l{0140}
+poH pOtraH pOH pumAnBUmiH paM prIRanamfRaM payaH .. 70 ..
+paH prAgukto'Ta Po mAGaH PA PUtkAravatI vizA .
+PuH kArtiko'Ta PUH sarpo vAsavaH SaraRAgataH .. 71 ..
+PeH PAlguno'Ta PEH SaNKaH PoH kAlaH POH PaRISvaraH .
+gargo droRo raRo bARaH PaM Palgu cAru ca smftam .. 72 ..
+;l{0145}
+PaH prAgukto'Ta bo bimbo bA smftA narmadAsarit .
+biH pUpo bIrbawuH pAdo beH sAkzI bEH kaRo raRaH .. 73 ..
+;p{0010}
+boH prARo bOH saridgaNgA baM balaM bahulaM smftam .
+baH prAgukto'Ta BaH somo BA kAntirmadirendirA .. 74 ..
+BiH patnI BISca BItiH syAdBurBujaMgo'Ta BUrmahI .
+;l{0150}
+jAtA jAtaSca BeH kAntirBOrbrahmA varuRo yamaH .. 75 ..
+BEH prahAro'Ta BIruH syAdboH kaMso BO ramApatiH .
+BaM nakzatraM BayaM brahma BaraRaM DaraRaM payaH .. 76 ..
+BaH prAgukto'Ta maH stomaH somo rAmo raRo gajaH .
+mA jAlanDrI vyaTA lakzmIrmAtA mAH mAsa IritaH .. 77 ..
+;l{0155}
+miH karRo mIrmahAbAhurmurmAtA mUrmahAbalaH .
+meH sAraNgo'Ta mEH pUzA sAraTiH praRato varaH .. 78 ..
+moH patnI mOH surAvAso maM galaM malinaM palam .
+maH prAgukto'Ta yaH puYjaH sudevIsUnurISvaraH .. 79 ..
+yA yoniryiSca saMgrAmo yIrgajaH sAraTirdrumaH .
+;l{0160}
+yuH sarpe yUH smftA yUkA yeH sArTo yESca vAsavaH .. 80 ..
+yoH pAdo yOH kaRaH svargo yaM yatnaM karuRaM maDu .
+yaH prAgukto'Ta raH kAmo vahniH sUryo'Ta toyaDiH .. 81 ..
+rA lakzmI rAH samfdDiH syAdriH karpUro maheSvaraH .
+rIH kAmo nfgapatnyagnI rurmfgo rUH prajApatiH .. 82 ..
+;p{0011}
+;l{0165}
+reH Kedo vApi saMbudvI rEH kfzRo varRa ucyate .
+ro rozo rOrBavaH svargo raM ratnaM rodanaM Danam .. 83 ..
+raH prAgukto'Ta laScoro lakzmaRo lalanA ca lA .
+liH sarpo lI DarA lurBUrlU rudro garuqo'ruRaH .. 84 ..
+lerlavo lEH kuSo rAmI lormatsyo lOH prajApatiH .
+;l{0170}
+laM lakzmaRaM suKaM nAma rakzaH SrotraM vaco vizam .. 85 ..
+laH prAgukto'Ta vaH paNguH suKI vA tridaSaprasUH .
+viH pakzI garuqaH sUryo jalaDiH soma ucyate .. 86 ..
+vIrvizRurvuH padAtiH syAdvUH saMGo gaja ucyate .
+veH pArijAto vEH sAro voH kAlo vOH suKAvahaH .. 87 ..
+;l{0175}
+vaM suKaM vasanaM raktaM vapurvacanamAsuram .
+vaH prAgukto'Ta SaH SaMBuH SA gOrI kamalAlayA .. 88 ..
+SiH pakzI SyaTa sOBAgyaH SiSuH SuH SArkkaro'calaH .
+SUH SUdraH SeH SirIzo'gaH SOH smfto DanDuhA nfpaH .. 89 ..
+SordozaH SOH SiSuH SaNKaH SaM suKaM SaraRaM vapuH .
+;l{0180}
+SaH prAgukto'Ta zaH zaYjo vahniH sUryo raRaH kaRaH .. 90 ..
+pariKA zA KarI SAvA ziH SaNKo vartulaH smftaH .
+zIH putraH zuH KuraH pUraH zUH somo mlecCa eva ca .. 91 ..
+zeH sArTaH zEH KaraH pAraH zordeho malino janaH .
+;p{0012}
+zOH KawvA DaraRI budDiH zaM sasyaM maDu DAraRam .. 92 ..
+;l{0185}
+zaH prAgukto'Ta saH sUryaH sA sItA siH saKAmaraH .
+sIH suKI suH kuWAro'rkaH rUrDarA garBiRI narI .. 93 ..
+seH sAraH sEH SukaH SvAdaH soH somaH sOH sahodaraH .
+saM suKaM SaraRaM kAryaM praDAnaM saraRaM varam .. 94 ..
+saH prAgukto'Ta ho harzo hiraRyAkzo'Ta taskaraH .
+;l{0190}
+hA ganDarvo'Ta hiH sarpo hirnaro harzavAnmfgaH .. 95 ..
+huH smfto nahuzo rAjA hUrvipro heH prasAdakft .
+hErhAso hoSca saMbudDirhOrviraYciH zaqAnanaH .. 96 ..
+haM cOryaM haraRaM pUrRaM BAsuraM BaraRaM Baram .
+haH prAguktaH smftaM lakzaRamuktam tu paraM brahma sanAtanam .. 97 ..
+;l{0195}
+kzaH kzAntaH kzA mahI sItA kzirjyotiH kzIrhutASanaH .
+kzuH kzudro vAsavo vArkaH kzUH pApizWaH praRASanaH .. 98 ..
+kzeH karzako'Ta kzErmUrKo jAraH kzoH kzurako vraRaH .
+kzOH KaYjo DaraRIDartA kzaM kzetraM kzaM payo maDu .. 99 ..
+kzaH prAgukta iyaM mAlA SAbdI sOBariRA kftA .
+;l{0200}
+sA SrutANgirasA cAstu vidDaccetaHprasAdanI .. 100 ..
+;c{.. iti SrIsOBarikftA mAtfkAnAmamAlA (ekArTanAmamAlA) saMpUrRA ..}
+
