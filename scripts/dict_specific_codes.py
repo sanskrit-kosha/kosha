@@ -1,3 +1,4 @@
+from __future__ import division
 import codecs
 import sys
 import re
@@ -55,6 +56,25 @@ def verse_num_anekarthasangraha(filein, fileout):
     fin.close()
     fout.close()
 
+
+def verse_num_ekarthanamamala(filein, fileout):
+    fin = codecs.open(filein, 'r', 'utf-8')
+    fout = codecs.open(fileout, 'w', 'utf-8')
+    verseNum = '0'
+    for line in fin:
+        m = re.search('([0-9]+)\n', line)
+        if m:
+            verseNum = m.group(1)
+        elif '॥' in line:
+            line = line.rstrip()
+            line = line + ' ' + transliterate(verseNum, 'slp1', 'devanagari') + ' ' + '॥\n'
+            fout.write(line)
+        else:
+            fout.write(line)
+    fin.close()
+    fout.close()
+
+
 def verse_num_kriyanighantu(filein, fileout):
     fin = codecs.open(filein, 'r', 'utf-8')
     fout = codecs.open(fileout, 'w', 'utf-8')
@@ -95,9 +115,27 @@ def adjust_nanarthamanjari(filein, fileout):
     fin.close()
     fout.close()
 
+
+def add_linenum(filein, fileout, starting=0):
+	counter = starting
+	fout = codecs.open(fileout, 'w', 'utf-8')
+	fin = codecs.open(filein, 'r', 'utf-8')
+	for line in fin:
+		if not line.startswith(';'):
+			counter += 1
+			if counter % 5 == 0:
+				fout.write(';l{' + '{0:04d}'.format(counter) + '}\n')
+		fout.write(line)
+	fin.close()
+	fout.close()
+
 #convert_shashvatakosha('../anekarthasamuchchaya_shashvata/orig/anekarthasamuchchaya_old.txt', '../anekarthasamuchchaya_shashvata/orig/anekarthasamuchchaya.txt')
 #remove_footnotes_from_anekarthatilaka('../anekarthatilaka_mahipa/orig/anekarthatilaka_with_uncorrected_footnotes.txt', '../anekarthatilaka_mahipa/orig/anekarthatilaka.txt')
 #verse_num_anekarthasangraha('../anekarthasangraha_hemachandra/orig/anekarthasangraha.txt', '../anekarthasangraha_hemachandra/orig/anekarthasangraha_bad.txt')
 #verse_num_kriyanighantu('../kriyanighantu_virapandya/orig/kriyanighantu.txt', '../kriyanighantu_virapandya/orig/kriyanighantu1.txt')
 #verse_num_kriyanighantu('../dvirupadikosha_shriharsha/orig/dvirupadikosha.txt', '../dvirupadikosha_shriharsha/orig/dvirupadikosha1.txt')
-adjust_nanarthamanjari('../nanarthamanjari_raghava/orig/nanarthamanjari_proofread.txt', '../nanarthamanjari_raghava/orig/nanarthamanjari2.txt')
+#adjust_nanarthamanjari('../nanarthamanjari_raghava/orig/nanarthamanjari_proofread.txt', '../nanarthamanjari_raghava/orig/nanarthamanjari2.txt')
+#verse_num_ekarthanamamala('../ekarthanamamala_saubhari/orig/ekarthanamamala.txt', '../ekarthanamamala_saubhari/orig/ekarthanamamala_numbered.txt')
+#verse_num_ekarthanamamala('../dvyaksharinamamala_saubhari/orig/dvyaksharinamamala.txt', '../dvyaksharinamamala_saubhari/orig/dvyaksharinamamala_numbered.txt')
+#add_linenum('../ekarthanamamala_saubhari/orig/ekarthanamamala.txt', '../ekarthanamamala_saubhari/orig/ekarthanamamala_line.txt')
+add_linenum('../dvyaksharinamamala_saubhari/orig/dvyaksharinamamala.txt', '../dvyaksharinamamala_saubhari/orig/dvyaksharinamamala_line.txt', 200)
