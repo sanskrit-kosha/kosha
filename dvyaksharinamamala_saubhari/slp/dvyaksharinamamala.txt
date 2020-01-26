@@ -1,4 +1,54 @@
-;p{0013}
+;METADATA
+;title{dvyakzarInAmamAlA}
+;author{sOBari}
+;bookFullName{Ekārthanāmamālā-Dvyakṣaranāmamālā of Saubhari}
+;bookSeriesDetails{Sources of Indo-Aryan Lexicography - 12}
+;editor{Ekanath Dattatreya Kulkarni}
+;editorQualifications{M.A., Ph.D., Assistant Editor, Dictionary of Sanskrit on Historical Principles and Lecturer in Sanskrit and Comparative Philology, Deccan College Post-Graduate and Research Institute, Poona}
+;publisher{Dr. S. M. katre, Decan College Post-Graduate and Research Institute, Poona}
+;pressDetails{M. N. Chapekar, Aryasamskriti Mudranalay, Poona 2.}
+;publicationYear{1955 A.D.}
+;dataEntryBy{Dr. P. Srinivas, Lecturer in Vyakarana, S.V.V.V.S.College, Bowenpally, Secunderabad, A.P.500011 as part of Sansknet Project - retrieved from https://www.wilbourhall.org/sansknet/index.html}
+;dataEntryEmail{}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{DNMS}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. Sansknet project for providing us the data in custom font. 2. Dr. Dhaval Patel for proof reading the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{homo}
+;pagenum{true}
+;linenum{true}
+;chapterArrangements{kanda}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{26 February 2019}
+;version0.0.2{26 January 2020}
+;version0.0.3{26 January 2020}
+;version0.0.4{26 January 2020}
+;version0.1.0{26 January 2020}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+﻿;p{0013}
 ;c{sOBaripraRItA dvyakzarInAmamAlA}
 ;c{aTa dvyakzarInAmamAlA prakASyate .}
 kvaRitaM paramaM brahma DImahi praRatAH sadA .
