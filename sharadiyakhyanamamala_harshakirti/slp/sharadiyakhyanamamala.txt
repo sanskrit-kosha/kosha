@@ -25,7 +25,7 @@
 ;credits{1. SRKKF for funding. 2. Google OCR for providing us raw OCR data to work with. 3. Dr. Dhaval Patel for spending time to type in and proofread the data.}
 ;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
 ;editorialChanges{}
-;nymic{mixed}
+;nymic{syno}
 ;pagenum{true}
 ;linenum{true}
 ;chapterArrangements{kanda holds varga.}
