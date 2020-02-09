@@ -129,6 +129,52 @@ def add_linenum(filein, fileout, starting=0):
 	fin.close()
 	fout.close()
 
+
+def convert_numbers_to_devanagari(filein, fileout):
+	fout = codecs.open(fileout, 'w', 'utf-8')
+	with codecs.open(filein, 'r', 'utf-8') as fin:
+		data = fin.read()
+		data = transliterate(data, 'slp1', 'devanagari')
+		fout.write(data)
+	fout.close()
+
+
+def prep_koshakalpataru(filein, fileout):
+	fout = codecs.open(fileout, 'w', 'utf-8')
+	fin = codecs.open(filein, 'r', 'utf-8')
+	for lin in fin:
+		lin = lin.lstrip().rstrip()
+		lin = re.sub('^कोषकल्पतरुः ', '', lin)
+		if not re.search('^[a-zA-Z0-9\-]', lin):
+			fout.write(lin + '\n')
+	fin.close()
+	fout.close()
+
+
+def convert_verse_num_to_devanagari(filein, fileout):
+	fout = codecs.open(fileout, 'w', 'utf-8')
+	fin = codecs.open(filein, 'r', 'utf-8')
+	for lin in fin:
+		lin = lin.lstrip().rstrip()
+		m = re.search('॥ ([0-9]+) ॥', lin)
+		if m:
+			lin = transliterate(lin, 'slp1', 'devanagari')
+		fout.write(lin + '\n')
+	fin.close()
+	fout.close()
+
+
+def pad_page_num(filein, fileout):
+	fout = codecs.open(fileout, 'w', 'utf-8')
+	fin = codecs.open(filein, 'r', 'utf-8')
+	for lin in fin:
+		lin = lin.lstrip().rstrip()
+		lin = re.sub(';p\{([0-9]{3})\}', ';p{0\g<1>}', lin)
+		fout.write(lin + '\n')
+	fin.close()
+	fout.close()
+
+
 #convert_shashvatakosha('../anekarthasamuchchaya_shashvata/orig/anekarthasamuchchaya_old.txt', '../anekarthasamuchchaya_shashvata/orig/anekarthasamuchchaya.txt')
 #remove_footnotes_from_anekarthatilaka('../anekarthatilaka_mahipa/orig/anekarthatilaka_with_uncorrected_footnotes.txt', '../anekarthatilaka_mahipa/orig/anekarthatilaka.txt')
 #verse_num_anekarthasangraha('../anekarthasangraha_hemachandra/orig/anekarthasangraha.txt', '../anekarthasangraha_hemachandra/orig/anekarthasangraha_bad.txt')
@@ -138,4 +184,9 @@ def add_linenum(filein, fileout, starting=0):
 #verse_num_ekarthanamamala('../ekarthanamamala_saubhari/orig/ekarthanamamala.txt', '../ekarthanamamala_saubhari/orig/ekarthanamamala_numbered.txt')
 #verse_num_ekarthanamamala('../dvyaksharinamamala_saubhari/orig/dvyaksharinamamala.txt', '../dvyaksharinamamala_saubhari/orig/dvyaksharinamamala_numbered.txt')
 #add_linenum('../ekarthanamamala_saubhari/orig/ekarthanamamala.txt', '../ekarthanamamala_saubhari/orig/ekarthanamamala_line.txt')
-add_linenum('../dvyaksharinamamala_saubhari/orig/dvyaksharinamamala.txt', '../dvyaksharinamamala_saubhari/orig/dvyaksharinamamala_line.txt', 200)
+#add_linenum('../dvyaksharinamamala_saubhari/orig/dvyaksharinamamala.txt', '../dvyaksharinamamala_saubhari/orig/dvyaksharinamamala_line.txt', 200)
+#convert_numbers_to_devanagari('../paramanandiyanamamala_makarandadasa/orig/paramanandiyanamamala.txt', '../paramanandiyanamamala_makarandadasa/orig/paramanandiyanamamala_line.txt')
+#prep_koshakalpataru('../koshakalpataru_vishvanatha/orig/koshakalpataru_vishvanatha_googleocr_adjusted.txt', '../koshakalpataru_vishvanatha/orig/koshakalpataru_prep.txt')
+#convert_verse_num_to_devanagari('../shivakosha_shivadatta/orig/shivakosha.txt', '../shivakosha_shivadatta/orig/shivakosha1.txt')
+#pad_page_num('../shivakosha_shivadatta/orig/shivakosha.txt', '../shivakosha_shivadatta/orig/shivakosha1.txt')
+

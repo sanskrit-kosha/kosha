@@ -38,9 +38,12 @@ def generic_postprocess(text):
 
 
 def specific_postprocess(text, code):
-	if code not in ['DKDD']:
+	if code not in ['DKDD', 'SRMS']:
 		text = re.sub('([^१२३४५६७८९०]) ॥\n', '\g<1> ।\n', text)
 	text = re.sub(r'\n[। ]+\n', '\n', text)
+	if code == 'KKTV':
+		text = re.sub('([।॥]+)[ ]*([१२३४५६७८९०]+)[ ]+([^।॥\n]+)', '\g<1> \g<2> ॥\n\g<3>', text)
+		text = re.sub('([१२३४५६७८९०]+)[ ]+\n', '\g<1> ॥\n', text)
 	return text
 
 
@@ -60,4 +63,5 @@ if __name__ == "__main__":
 	fout = codecs.open(fileout, 'w', 'utf-8')
 	fout.write(data)
 	fout.close()
+
 

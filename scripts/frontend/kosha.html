@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<!--https://codepen.io/mikestreety/pen/yVNNNm-->
+		<link rel="stylesheet" href="kosha.css">
+		<link rel='stylesheet' type='text/css' href='basic.css' />
+		<script src="sanscript.js"></script>
+		<script src="kosha.js"></script>
+	</head>
+	<body>
+		<div id="input" class="frm">
+			Headword: <input type="text" id="headword" autofocus>
+			<br />
+			Input transliteration: <input type="text" id="inTran" value="slp1"> 
+			<br />
+			Output transliteration: <input type="text" id="outTran" value="devanagari">
+			<br />
+			Dictionary: <input type="text" id="dictionary" value="all">
+			<br />
+			<button onclick="getApi()">Submit</button>
+		</div>
+		<br />
+		<div id="tabs" class="tabs"></div>
+	</body>
+</html>
+

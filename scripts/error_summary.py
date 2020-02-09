@@ -94,6 +94,12 @@ class Error:
 			self.doubleDanda = True
 			self.singleDanda = False
 
+	def _check_colon(self, line):
+		if ':' in line:
+			print('Colon found. Check whether visarga needed.')
+			print(self.lastpage, line)
+
+
 if __name__ == "__main__":
 	filein = sys.argv[1]
 	fin = codecs.open(filein, 'r', 'utf-8')
@@ -110,6 +116,8 @@ if __name__ == "__main__":
 		errors._identify_missing_spaces(line)
 		errors._verse_number_mismatch(line)
 		errors._verse_end_check(line)
+		errors._check_colon(line)
+
 	print('Chapter names extracted from txt file')
 	for (chapter, chaptername) in errors.chapters:
 		if chapter == 'k':

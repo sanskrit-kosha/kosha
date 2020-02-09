@@ -1,0 +1,132 @@
+/* Aug 15, 2015
+  Make everything a descendant of #CologneBasic.
+  Then, in disp.php give parent element this id.
+*/
+#CologneBasic {
+	color: black; background-color: white; /*#DBE4ED; */
+  	font-size: 14pt;  
+}
+#CologneBasic td {line-height: 130%; /*150%;*/}
+#CologneBasic .greek {
+ font-family: Gentium, Palatino Linotype, Arial Unicode MS;
+ font-size: 12pt;
+}
+#CologneBasic .g {font-size:smaller;font-style:italic;}
+#CologneBasic .lang {font-size:smaller;font-style:italic;}
+#CologneBasic .hrefdata {font-size:smaller;}
+#CologneBasic .lnum {font-size:smaller;}
+/*.sdata {color:black;font-size:larger;} */ /* for devanagari */
+@font-face { 
+ /*src: url(../fonts/siddhanta.ttf);*/
+ src: url(../fonts/siddhanta.ttf); /* relative to this css file */
+ font-family: siddhanta_deva;
+}
+@font-face { /* for normal text in pwg */
+ src: url(../fonts/oldstandard.otf);
+ font-family: oldstandard;
+}
+@font-face { 
+ src: url(../fonts/oldstandarditalic.otf);
+ font-family: oldstandard_i;
+}
+
+/*#CologneBasic .sdata {color:teal;}*/
+/*#CologneBasic .sdatadeva {color:teal;font-size:larger;}*/
+/* Added '.sdata' in next Aug 20, 2015.  
+ '.sdatadeva' is not used
+*/
+#CologneBasic .sdata_siddhanta,.sdata { 
+ color:teal;  /* was blue */
+ /*font-size:larger;*/
+ font-family: siddhanta_deva;
+}
+
+#CologneBasic .asdata {color:blue;font-size:larger;}
+#CologneBasic .pb {font-size:smaller; }
+#CologneBasic .hom {color:red;}
+#CologneBasic .footnote {font-size:smaller;}
+#CologneBasic .ls {color:gray; font-size:smaller;}
+#CologneBasic .gram {font-weight:bold;}
+#CologneBasic .divm {font-weight:bold;}
+#CologneBasic .wide {font-stretch:wider;}
+
+#CologneBasic p {
+	padding-left: 15pt;
+	padding-right: 5px; /*15pt; */
+}
+
+#CologneBasic table.display {
+  width: 100%;
+  margin-left:     5px;
+  margin-right:    15px; /*5px;*/
+  
+  margin-top: 10px; /* 20px; Dec 5, 2013 */
+  font-size: 14px;  
+  padding-right: 15px ;/*15px;*/ /* 04-18-2017 For AP display, with indenting */
+}
+#CologneBasic td, th {
+  padding-left,padding-right:         15px;
+  padding-top: 5px;
+  text-align:      left;
+}
+
+#CologneBasic plex {
+	color: black;
+	background-color: #36648b;
+	/*font-family: verdana,arial,helvetica,sansserif; */ /*Dec 5, 2013*/
+	font-size: 12pt;
+}
+
+#CologneBasic h1 {
+	font-size: 24pt;
+}
+
+#CologneBasic h2 {
+	font-size: 20pt;
+	padding-left: 15pt;
+	padding-top: 20pt;
+}
+
+#CologneBasic h3 {
+	font-size: 18pt;
+	padding-left: 30pt;
+	padding-top: 20pt;
+}
+
+#CologneBasic a:link {
+        color: black;
+	/* color: #00008b; */
+}
+
+#CologneBasic a:visited {
+	color: #36648b;
+}
+
+#CologneBasic a:active {
+	color: #4876ff;
+}
+
+#CologneBasic a:hover {
+	background-color: #ffffcc;
+	color: #000033;
+}
+/* Jul 18, 2015. font family for capitalization, only SNP */
+@font-face { /* for 'ls' text in pwg */
+ src: url(../fonts/CharterIndoCapital.otf);
+ font-family: charterindocapital;
+}
+#CologneBasic .botcap {
+color:gray; 
+font-family:charterindocapital;
+}
+#CologneBasic .cssshade {
+ background-color:#EAEAEA; /* light gray */
+}
+#CologneBasic .sdata {
+ font-family: siddhanta_deva;
+ /*color:red;*/
+}
+#CologneBasic .displist {
+ font-family: siddhanta_deva;
+ /*color:red;*/
+}

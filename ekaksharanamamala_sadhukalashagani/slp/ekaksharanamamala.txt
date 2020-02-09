@@ -1,6 +1,6 @@
 ;METADATA
 ;title{ekAkzaranAmamAlA}
-;author{malaDArigacCIyaSrIsuDAkalaSamuni:}
+;author{malaDArigacCIyaSrIsuDAkalaSamuniH}
 ;bookFullName{anekArTaratnamaYjUzAyAM SrIsamayasundarasandfbDAzwalakzArTItyAdi nAnA ratnAni}
 ;bookSeriesDetails{SrezWi lAlaBAi jEnapustakodDAre granTANkaH 81}
 ;editor{sUryapuravAstavyaSrIyutarasikadAsatanujaH kApaqiyetyupAhvo hIrAlAlaH}
