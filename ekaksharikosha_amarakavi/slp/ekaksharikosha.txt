@@ -9,7 +9,7 @@
 ;pressDetails{paM0 pfTvInATa BArgava, BArgava BUzaRa presa, gAyaGAwa, kASI}
 ;publicationYear{1944 A.D.}
 ;dataEntryBy{Dr. P. Srinivas, Lecturer in Vyakarana, S.V.V.V.S.College, Bowenpally, Secunderabad, A.P.500011 as part of Sansknet Project - retrieved from https://www.wilbourhall.org/sansknet/index.html}
-;dataEntryEmail{kasturinsahiti@gmail.com}
+;dataEntryEmail{}
 ;proofReadBy{Mr. Pradeep Rastogi}
 ;proofReaderEmail{pkrastogi.lko@gmail.com}
 ;annotatedBy{}
@@ -22,15 +22,15 @@
 ;shortCode{EKKA}
 ;funding{Shree Ramkrishna Knowledge Foundation.}
 ;licence{GNU GPL v3.0}
-;credits{1. Sansknet project for providing us the data in custom font. 5. Mr. Pradeep Rastogi for spending time to proofread the data.}
+;credits{1. Sansknet project for providing us the data in custom font. 2. Mr. Pradeep Rastogi for spending time to proofread the data.}
 ;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
 ;editorialChanges{}
-;nymic{mixed}
+;nymic{homo}
 ;pagenum{true}
-;linenum{true}
-;chapterArrangements{kanda holds varga which holds subvarga.}
-;newVerseNumbersAtChangeOf{varga}
-;newLineNumbersAtChangeOf{varga}
+;linenum{false}
+;chapterArrangements{kanda}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
 ;version0.0.1{19 February 2019}
 ;version0.0.2{16 February 2020}
 ;version0.0.3{16 February 2020}
