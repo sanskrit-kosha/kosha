@@ -1,0 +1,94 @@
+;METADATA
+;title{ekAkzarIkoza}
+;author{amarakavi}
+;bookFullName{mahAkavi DanaYjayaviracitA nAmamAlA - amarakIrtiviracitaBAzyopetA, anekArTaniGaRwuH ekAkzarIkoSaSca}
+;bookSeriesDetails{jYAnapIWa mUrtidevI jEna granTamAlA saMskfta granTANka 6}
+;editor{paM0 SamBunATa tripAWI}
+;editorQualifications{vyAkaraRAcArya, saptatIrTa}
+;publisher{ayoDyAprasAda goyalIya, mantrI, BAratIya jYAnapIWa kASI, durgAkuRqa roqa, banArasa siwI}
+;pressDetails{paM0 pfTvInATa BArgava, BArgava BUzaRa presa, gAyaGAwa, kASI}
+;publicationYear{1944 A.D.}
+;dataEntryBy{Dr. P. Srinivas, Lecturer in Vyakarana, S.V.V.V.S.College, Bowenpally, Secunderabad, A.P.500011 as part of Sansknet Project - retrieved from https://www.wilbourhall.org/sansknet/index.html}
+;dataEntryEmail{kasturinsahiti@gmail.com}
+;proofReadBy{Mr. Pradeep Rastogi}
+;proofReaderEmail{pkrastogi.lko@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{EKKA}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. Sansknet project for providing us the data in custom font. 5. Mr. Pradeep Rastogi for spending time to proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{mixed}
+;pagenum{true}
+;linenum{true}
+;chapterArrangements{kanda holds varga which holds subvarga.}
+;newVerseNumbersAtChangeOf{varga}
+;newLineNumbersAtChangeOf{varga}
+;version0.0.1{19 February 2019}
+;version0.0.2{16 February 2020}
+;version0.0.3{16 February 2020}
+;version0.0.4{16 February 2020}
+;version0.1.0{16 February 2020}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+﻿;c{ekAkzarI-kozaH - amarakaviviracitaH -DanaYjayanAmamAlAyAmupanibadDaH}
+;c{ekAkzarI-kozaH}
+;p{0106}
+viSvABiDAnakoSAni pravilokya praBAzyate .
+amareRa kavIndreREkAkzaranAmamAlikA .. 1 ..
+aH kfzRaH AH svayaMBUriH kAma I SrIrurISvaraH .
+U rakzaRaH f F jYeyO devadAnavamAtarO .. 2 ..
+lfrdevasUrlFrvArAhI BavedervizRurEH SivaH .
+orveDA OranaMtaH syAdaM brahma param aH SivaH .. 3 ..
+ko brahmAtmaprakASArke kaH syAdvAyuyamAgnizu .
+kaM SIrze susuKe kustu BUmO Sabde ca kiM punaH .. 4 ..
+syAtkzepanindayoH praSne vitarke ca Kamindriye .
+svargge vyomni muKe SUnye suKe saMvidi Ko ravO .. 5 ..
+gastu gAtari gaMDarvve gA gItO go vinAyake .
+svarge diSi paSO vajre BUmAvindO jale giri .. 6 ..
+Gastu suGawISe GA kiMkiRyAM ca GurGvanO .
+NaM maYjane No vfzaBe jine caH candracOrayoH .. 7 ..
+caH sUrye kacCape CaM tu nirmale jastu jetari .
+vijaye tejasi vAci piSAcyAM jiH jave'pi ca .. 8 ..
+Jo nazwe rave vAyO Yo gAyane GarGaraDvanO .
+waM pfTivyAM karawe ca Wo DvanO Wo maheSvare .. 9 ..
+SUnye bfhadDvanO caMdramaMqale qaM Sive DvanO .
+Qo Baye nirguRe Sabde QakkAyAM Rastu niScaye .. 10 ..
+jYAne tastaskare kroqapucCayostA punardayA .
+To BItrARe mahIDre daM patnyAM dA dAtfdAnayoH .. 11 ..
+banDe ca DA guhye keSe DAtari DIrmatO .
+DUrBArakaMpaciMtAsu no nare banDubudDayoH .. 12 ..
+nistu netari nuH stutyAM nOH sUrye pastu pAtari .
+pAvane jalayAne ca Po JaMJAjalaPenayoH .. 13 ..
+BAH kAMtO BUrBuvaH sTAne BIrBaye maH Sive viDO .
+caMdre Sirasi mA mAne SrImAtrorvAraRe'vyayam .. 14 ..
+muH puMsirbaMDane yastu mAtariSvani yaM yaSaH .
+yAstu yAtari KawvAMge yAne lakzmyAM ca ro GftO .. 15 ..
+tIvre vESvAnare kAme rAH svarRe jalade DvanO .
+rI Brame rurBaye sUrye la iMdre calanepi ca .. 16 ..
+laM tEle lIH punaH Sleze lI Baye vo maheSvare .
+vaH paScimadiSAsvAmI va ivArTe smare'pyayam .. 17 ..
+SaM SuBe SA tu SoBAyAM SI Sayane Su niSAkare .
+zaH Slizwe punargarBe vimokze zaH parokzake .. 18 ..
+sA lakzmyAM ho nipAte ca huste dAruRi SUlini .
+kzaM kzetrarakzasItyuktA mAlA prAksUrisammatA .. 19 ..
+;c{iti ekAkzarI nAmamAlA samAptA .. Ca ..}
+
+

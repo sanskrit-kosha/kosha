@@ -1,0 +1,94 @@
+;METADATA
+;title{एकाक्षरीकोष}
+;author{अमरकवि}
+;bookFullName{महाकवि धनञ्जयविरचिता नाममाला - अमरकीर्तिविरचितभाष्योपेता, अनेकार्थनिघण्टुः एकाक्षरीकोशश्च}
+;bookSeriesDetails{ज्ञानपीठ मूर्तिदेवी जैन ग्रन्थमाला संस्कृत ग्रन्थाङ्क ६}
+;editor{पं० शम्भुनाथ त्रिपाठी}
+;editorQualifications{व्याकरणाचार्य, सप्ततीर्थ}
+;publisher{अयोध्याप्रसाद गोयलीय, मन्त्री, भारतीय ज्ञानपीठ काशी, दुर्गाकुण्ड रोड, बनारस सिटी}
+;pressDetails{पं० पृथ्वीनाथ भार्गव, भार्गव भूषण प्रेस, गायघाट, काशी}
+;publicationYear{1944 A.D.}
+;dataEntryBy{Dr. P. Srinivas, Lecturer in Vyakarana, S.V.V.V.S.College, Bowenpally, Secunderabad, A.P.500011 as part of Sansknet Project - retrieved from https://www.wilbourhall.org/sansknet/index.html}
+;dataEntryEmail{kasturinsahiti@gmail.com}
+;proofReadBy{Mr. Pradeep Rastogi}
+;proofReaderEmail{pkrastogi.lko@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{EKKA}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. Sansknet project for providing us the data in custom font. 5. Mr. Pradeep Rastogi for spending time to proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{mixed}
+;pagenum{true}
+;linenum{true}
+;chapterArrangements{kanda holds varga which holds subvarga.}
+;newVerseNumbersAtChangeOf{varga}
+;newLineNumbersAtChangeOf{varga}
+;version0.0.1{19 February 2019}
+;version0.0.2{16 February 2020}
+;version0.0.3{16 February 2020}
+;version0.0.4{16 February 2020}
+;version0.1.0{16 February 2020}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+﻿;c{एकाक्षरी-कोषः - अमरकविविरचितः -धनञ्जयनाममालायामुपनिबद्धः}
+;c{एकाक्षरी-कोषः}
+;p{0106}
+विश्वाभिधानकोशानि प्रविलोक्य प्रभाष्यते ।
+अमरेण कवीन्द्रेणैकाक्षरनाममालिका ॥ १ ॥
+अः कृष्णः आः स्वयंभूरिः काम ई श्रीरुरीश्वरः ।
+ऊ रक्षणः ऋ ॠ ज्ञेयौ देवदानवमातरौ ॥ २ ॥
+लृर्देवसूर्लॄर्वाराही भवेदेर्विष्णुरैः शिवः ।
+ओर्वेधा औरनंतः स्यादं ब्रह्म परम् अः शिवः ॥ ३ ॥
+को ब्रह्मात्मप्रकाशार्के कः स्याद्वायुयमाग्निषु ।
+कं शीर्षे सुसुखे कुस्तु भूमौ शब्दे च किं पुनः ॥ ४ ॥
+स्यात्क्षेपनिन्दयोः प्रश्ने वितर्के च खमिन्द्रिये ।
+स्वर्ग्गे व्योम्नि मुखे शून्ये सुखे संविदि खो रवौ ॥ ५ ॥
+गस्तु गातरि गंधर्व्वे गा गीतौ गो विनायके ।
+स्वर्गे दिशि पशौ वज्रे भूमाविन्दौ जले गिरि ॥ ६ ॥
+घस्तु सुघटीशे घा किंकिण्यां च घुर्घ्वनौ ।
+ङं मञ्जने ङो वृषभे जिने चः चन्द्रचौरयोः ॥ ७ ॥
+चः सूर्ये कच्छपे छं तु निर्मले जस्तु जेतरि ।
+विजये तेजसि वाचि पिशाच्यां जिः जवेऽपि च ॥ ८ ॥
+झो नष्टे रवे वायौ ञो गायने घर्घरध्वनौ ।
+टं पृथिव्यां करटे च ठो ध्वनौ ठो महेश्वरे ॥ ९ ॥
+शून्ये बृहद्ध्वनौ चंद्रमंडले डं शिवे ध्वनौ ।
+ढो भये निर्गुणे शब्दे ढक्कायां णस्तु निश्चये ॥ १० ॥
+ज्ञाने तस्तस्करे क्रोडपुच्छयोस्ता पुनर्दया ।
+थो भीत्राणे महीध्रे दं पत्न्यां दा दातृदानयोः ॥ ११ ॥
+बन्धे च धा गुह्ये केशे धातरि धीर्मतौ ।
+धूर्भारकंपचिंतासु नो नरे बन्धुबुद्धयोः ॥ १२ ॥
+निस्तु नेतरि नुः स्तुत्यां नौः सूर्ये पस्तु पातरि ।
+पावने जलयाने च फो झंझाजलफेनयोः ॥ १३ ॥
+भाः कांतौ भूर्भुवः स्थाने भीर्भये मः शिवे विधौ ।
+चंद्रे शिरसि मा माने श्रीमात्रोर्वारणेऽव्ययम् ॥ १४ ॥
+मुः पुंसिर्बंधने यस्तु मातरिश्वनि यं यशः ।
+यास्तु यातरि खट्वांगे याने लक्ष्म्यां च रो घृतौ ॥ १५ ॥
+तीव्रे वैश्वानरे कामे राः स्वर्णे जलदे ध्वनौ ।
+री भ्रमे रुर्भये सूर्ये ल इंद्रे चलनेपि च ॥ १६ ॥
+लं तैले लीः पुनः श्लेषे ली भये वो महेश्वरे ।
+वः पश्चिमदिशास्वामी व इवार्थे स्मरेऽप्ययम् ॥ १७ ॥
+शं शुभे शा तु शोभायां शी शयने शु निशाकरे ।
+षः श्लिष्टे पुनर्गर्भे विमोक्षे षः परोक्षके ॥ १८ ॥
+सा लक्ष्म्यां हो निपाते च हुस्ते दारुणि शूलिनि ।
+क्षं क्षेत्ररक्षसीत्युक्ता माला प्राक्सूरिसम्मता ॥ १९ ॥
+;c{इति एकाक्षरी नाममाला समाप्ता ॥ छ ॥}
+
+
