@@ -170,7 +170,7 @@ vyalIkamapriyAkAryavElakzyapIqanezu ca ..
 pratIko'vayave KyAtaH pratikUlapratIpayoH .
 aSokastaruBede syAdaSokaH SokavarjitaH ..
 turuzkaM sihlakaM proktaM turuzkA mlecCajAtayaH .
-alarko yogitaH SvA syAcCvevatArkaparRapAdapaH ..
+alarko yogitaH SvA syAcCvetArkaparRapAdapaH ..
 nandako harzakaH prokto hariKaqge ca nandakaH .
 ;l{0095}
 mocako muzkake SigrO mocakaH kadalIdalam ..
@@ -281,7 +281,7 @@ valAhakaScAsuranAgaBedayoH .
 sOganDikaM kattfRabARayoH smftaM
 kahlArake ganDakasaMjYakASmani ..
 ;l{0180}
-SaNgAwakaH syAcCEvAlaviSeze [ca] catuzpaTe .
+SfNgAwakaH syAcCEvAlaviSeze [ca] catuzpaTe .
 AkAlikaM kzaRaDvaMsi yasya cAkAlasaMBavaH ..
 ;p{0014}
 pippalakaM stanavfnte taTA sIvanasUtrake .
@@ -2264,7 +2264,7 @@ qimbaH syAdviplavaplIhnorvyApte'pi qimbamizyate .
 SambaH syAnmuzalAgrasTalohamaRqalake pavO ..
 ;l{1670}
 stambo gucCe kuSAdInAmaprakARqadrume'pi ca .
-kambU kuYjaraSambUko kamburvalayaSaNKayoH ..
+kambU kuYjaraSambUkO kamburvalayaSaNKayoH ..
 jambuH sumerunadyAM syAddvIpadrumaviSezayoH .
 kambirmuKe ca vaMSe syAtKajAyAM ca prakIrtitA ..
 ;p{0136}
@@ -3003,7 +3003,7 @@ surASrayaRakaM vAro vArI GawIBabanDanI ..
 DIro DEryavati KyAto DIrO manTaraparvatO .
 DIraM kuNkumamAKyAtaM DIro dakza udAhftaH ..
 ;l{2235}
-tAro'tyuccaDvanitaraRayoH kISamuktAviSudDayo-
+tAro'tyuccaDvanitaraRayoH kISamuktAviSudDyo-
 stAro rUpye sPuritakiraRe nirmale tAramAhuH .
 tArA fkze nayanakanikA budDadevyAM ca tArA
 tArA proktA DizaRavanitA cApi sugrIvapatnI ..
@@ -3543,7 +3543,7 @@ mizaM vyAjo mizaM sparDA SozaH SozaRayakzmayoH .
 kilbizA madirA drohe kaluzaM pApamAvilam ..
 ;p{0217}
 aBIzuH pragrahe BAsi pradozaH kAladozayoH .
-pratyuzo praBAtavasU SElUzO bilvanartakO ..
+pratyuzO praBAtavasU SElUzO bilvanartakO ..
 ;v{zArDaSlokaH}
 ;c{.. zArDaSlokaH ..}
 vizaM hAlAhalaM proktaM proktA cAtivizA vizA .
@@ -3838,7 +3838,7 @@ A pragfhyaM smftO vAkye'nukampAyAM samuccaye .
 I ruzoktAvaKede ca kAmadeve tvanavyayam ..
 f kaTito'ditO svarge tadvad lfdvayamizyate .
 eESabdO tu hehEvadAhvAnAmantraRO smftO ..
-oOSabdO tu hohOvatsaMbudDayAhvAnayoH smftO .
+oOSabdO tu hohOvatsaMbudDyAhvAnayoH smftO .
 ;l{2865}
 nipAtAnAmasatvAdi prAyeRArTAH prakIrtitAH .
 yecitkecitkvacidgranTe mayA prAptAH prakIrtitAH ..
@@ -4053,7 +4053,7 @@ hi hetO syAdviSezArTe ekArTe pUraRe'pi ca .
 hI vizAde vismaye syAdduHKahetvorapi smftaH ..
 hAhA Kede huhu harze ganDarvArTe'mU tvanavyayam .
 ;l{2990}
-he hE vyasto samastO ca hUtO saMboDane smftO ..
+he hE vyastO samastO ca hUtO saMboDane smftO ..
 ;p{0245}
 ho hO cEvaMviDO jYeyO hUtO saMboDane taTA .
 ;vv{haSlokaH}
