@@ -26,6 +26,8 @@ class Error:
 	def __init__(self):
 		self.pages = []
 		self.lastpage = 0
+		self.linenums = []
+		self.lastlinenum = 0
 		self.chapters = []
 		self.comments = []
 		self.numberSeparator = 'v'
@@ -47,6 +49,20 @@ class Error:
 				print(self.lastpage)
 			self.pages.append(pagenum)
 			self.lastpage = pagenum
+
+	# Reference - https://github.com/sanskrit-kosha/kosha/issues/21
+	def _line_num_errors(self, line):
+		if line.startswith(';l{'):
+			(tag, linenum) = extract_tag(line)
+			linenum = int(linenum)
+			#print(pagenum)
+			if (linenum != self.lastlinenum + 5) and self.lastlinenum != 0:
+				print('Line numbering error.')
+				print(linenum)
+				print('can not follow')
+				print(self.lastlinenum)
+			self.linenums.append(linenum)
+			self.lastlinenum = linenum
 
 	def _addchapters(self, line):
 		if re.match(';[akv]+\{', line):
@@ -126,6 +142,7 @@ if __name__ == "__main__":
 		errors._verse_end_check(line)
 		errors._check_colon(line)
 		errors._issue26(line)
+		errors._line_num_errors(line)
 
 	print('Chapter names extracted from txt file')
 	for (chapter, chaptername) in errors.chapters:
