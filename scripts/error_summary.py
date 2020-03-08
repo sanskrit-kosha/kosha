@@ -99,6 +99,14 @@ class Error:
 			print('Colon found. Check whether visarga needed.')
 			print(self.lastpage, line)
 
+	# Reference - https://github.com/sanskrit-kosha/kosha/issues/26
+	def _issue26(self, line):
+		problematicItems = ['श्र्व', 'श्र्च', 'श्र्ल', 'श्रृ', '|']
+		for prblm in problematicItems:
+			if prblm in line:
+				print('Illegal character error. ' + prblm)
+				print(line)
+
 
 if __name__ == "__main__":
 	filein = sys.argv[1]
@@ -117,6 +125,7 @@ if __name__ == "__main__":
 		errors._verse_number_mismatch(line)
 		errors._verse_end_check(line)
 		errors._check_colon(line)
+		errors._issue26(line)
 
 	print('Chapter names extracted from txt file')
 	for (chapter, chaptername) in errors.chapters:
