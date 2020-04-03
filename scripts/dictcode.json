@@ -40,7 +40,6 @@
 "PLDP": "paiyalachchhi_dhanapala",
 "DRSH": "dvirupadikosha_shriharsha",
 "KNVP": "kriyanighantu_virapandya",
-"EKPD": "ekaksharakosha_purushottamadeva",
 "DKPD": "dvirupakosha_purushottamadeva",
 "SBPM": "shabdabhedaprakasha_maheshvara",
 "DKDD": "dharanikosha_dharanidasa",
@@ -55,5 +54,22 @@
 "SRMS": "shabdaratnavali_mathuresha",
 "PTVD": "panchatattvaprakasha_venidatta",
 "LVVV": "lingavisheshavidhi_vararuchi",
-"SSSK": "siddhashabdarnava_sahajakirti"
+"SSSK": "siddhashabdarnava_sahajakirti",
+"SERS": "sundaraikaksharakosha_rajasundaravijayasuri",
+"NSRK": "nanarthashabdaratna_kalidasa",
+"EKVS": "ekaksharanamamalika_vishvashambhu",
+"EKMD": "ekaksharashabdamala_madhava",
+"EKVR": "ekaksharanamamala_vararuchi",
+"EKKU": "ekaksharakosha_agyata",
+"EKNU": "ekaksharanamamala_agyata",
+"EKMK": "ekaksharimatrikakosha_agyata",
+"EKAJ": "ajiradiekaksharanamamala_agyata",
+"ENNT": "natvadiekaksharanamamala_agyata",
+"EKAB": "abhidhanadiekaksharanamamala_agyata",
+"EKPM": "ekaksharakosha_panditamanohara",
+"EKKD": "ekaksharanamamala_kalidasavyasa",
+"EKSS": "ekaksharakoshamala_sushilasuri",
+"EKBP": "ekaksharakoshabhidhana_bhaskarapandita",
+"EKAP": "ekaksharakosha_agyatapandita"
 }
+
