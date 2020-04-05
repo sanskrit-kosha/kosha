@@ -175,6 +175,23 @@ def pad_page_num(filein, fileout):
 	fout.close()
 
 
+def add_shloka_number(filein, fileout):
+	fout = codecs.open(fileout, 'w', 'utf-8')
+	fin = codecs.open(filein, 'r', 'utf-8')
+	counter = 0
+	for lin in fin:
+		lin = lin.rstrip('\n')
+		if lin.endswith('।'):
+			counter += 1
+		if counter % 2 == 0 and counter > 0:
+			verseNum = counter // 2
+			lin = re.sub('।$', '॥ ', lin)
+			lin = lin.replace('॥ ', '॥ ' + transliterate(str(verseNum), 'slp1', 'devanagari') + ' ॥')
+			print(verseNum)
+		fout.write(lin + '\n')
+	fin.close()
+	fout.close()
+
 #convert_shashvatakosha('../anekarthasamuchchaya_shashvata/orig/anekarthasamuchchaya_old.txt', '../anekarthasamuchchaya_shashvata/orig/anekarthasamuchchaya.txt')
 #remove_footnotes_from_anekarthatilaka('../anekarthatilaka_mahipa/orig/anekarthatilaka_with_uncorrected_footnotes.txt', '../anekarthatilaka_mahipa/orig/anekarthatilaka.txt')
 #verse_num_anekarthasangraha('../anekarthasangraha_hemachandra/orig/anekarthasangraha.txt', '../anekarthasangraha_hemachandra/orig/anekarthasangraha_bad.txt')
@@ -189,4 +206,6 @@ def pad_page_num(filein, fileout):
 #prep_koshakalpataru('../koshakalpataru_vishvanatha/orig/koshakalpataru_vishvanatha_googleocr_adjusted.txt', '../koshakalpataru_vishvanatha/orig/koshakalpataru_prep.txt')
 #convert_verse_num_to_devanagari('../shivakosha_shivadatta/orig/shivakosha.txt', '../shivakosha_shivadatta/orig/shivakosha1.txt')
 #pad_page_num('../shivakosha_shivadatta/orig/shivakosha.txt', '../shivakosha_shivadatta/orig/shivakosha1.txt')
-
+#convert_verse_num_to_devanagari('../anekarthanighantu_dhananjaya/orig/anekarthanighantu.txt', '../anekarthanighantu_dhananjaya/orig/anekarthanighantu1.txt')
+#verse_num_ekarthanamamala('../ekaksharikosha_amarakavi/orig/ekaksharikosha.txt', '../ekaksharikosha_amarakavi/orig/ekaksharikosha1.txt')
+add_shloka_number('../panchatattvaprakasha_venidatta/orig/panchatattvaprakasha.txt', '../panchatattvaprakasha_venidatta/orig/panchatattvaprakasha1.txt')
