@@ -1,0 +1,84 @@
+﻿;METADATA
+;title{natvAdiekAkzaranAmamAlA}
+;author{ajYAta}
+;bookFullName{ekAkzarakozasaMgrahaH}
+;bookSeriesDetails{}
+;editor{Editor of 1 to 26 koshas - Pannyas Ramnikvijay, Reeditor - Muni Rajsundarvijay}
+;editorQualifications{}
+;publisher{SrutajYAna saMskArapIWa, vAsaRavALA kampAuRqa, viSvanaMdikara jEna derAsara ke sAmane, BagavAna nagara kA wekarA, aruRa sosAyawI ke pAsa, pAlaqI, ahamadAbAda-7, caMpakaBAI: mo. 9436010323, niraMjana SAha: mo.9825860488, Website - www.rajparivarindia.com, Email - shrutgnan@yahoo.com}
+;pressDetails{jaya jinendra grAPiksa (nitIna SAha - jaya jinendra), 30, svAtI sosAyawI, seMwa Jeviyarsa skUla roqa, navaraMgapurA, ahamadAbAda. jaya jinendra: mo. 9825024204, kuSa: mo. 9925617992}
+;publicationYear{2019 A.D.}
+;dataEntryBy{Mr. Manish Rajpara}
+;dataEntryEmail{rajparamanish11@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{ENNT}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. SRKKF for funding. 2. Muni Rajsundarvijay ji for allowing us to digitize the texts. 3. Mr. Manish Rajpara for spending his valuable time to do data entry of the work. 4. Dr. Dhaval Patel for spending time to proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{homo}
+;pagenum{true}
+;linenum{false}
+;chapterArrangements{kanda}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{16 March 2020}
+;version0.0.2{08 April 2020}
+;version0.0.3{08 April 2020}
+;version0.0.4{08 April 2020}
+;version0.1.0{08 April 2020}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+﻿﻿;p{0055}
+;c{natvAdi-ekAkzaranAmamAlA}
+natvA'bjinIDavaM DyAtvA kamalAkaraBAratIm .
+aBiDAnamanekArTamekAkzaramahaM bruve .. 1 ..
+omaNgIkaraRA-''hvAna-brahma-yAcana-dIptizu .
+aH sUryA-'gnI-ndu-pavana-vizRu-nakzatra-SaNkare .. 2 ..
+A brahmA-'bDya-rka-cApezu iH kAme-ndrA-'bjasamBave .
+IrlakzmI-mOli-jihvAsu uH SamBU-grA-'mareSvare .. 3 ..
+UH suDA-'nanta-jalade frdevAmbA-ravA-'Dvani .
+FrdEtyAmbA-gAna-dAne lfH SlezA-'marasU-Sive .. 4 ..
+lFH sTilA''liNgina(ni) sTARAvervizRu-ravi-mArute .
+EH SaNkare brahma-BUpe orbrahme-ndu-suDAsu ca .. 5 ..
+OH suDA-'nanta-jalade aM BedA-''tmeSa-mArute .
+aH zaqAsye-ndu-cUqe-ndre ko yamA-'gni-divAkare .. 6 ..
+dyotA-''tma-brahma-vAtezu Siro-'mbu-vadanezu kam .
+KaHSUnya-Kaqga-nfpatO SUnyA-''kASe-ndriyezuka(Ka)m .. 7 ..
+go gAtf-gAyane-BAsye Go vAdyA-'mbuDarA-'mbuDO .
+NaH pUjaka-dvija-kAkze caH syAd Bftye-ndu-taskare .. 8 ..
+CaSCanda-Scandra-tarale jo jetf-ravi-padmaje .
+Jo nazwA-'nila-saNgezu YaH prAjYa-pawa-gAyane .. 9 ..
+wo'rdDacandra-rave-lAsu WaH Ke-Se-ndusumaRqale .
+qaH pakze sAravA-kzepe QaH Sabda-gati-nirguRe .. 10 ..
+Ro ganDeBA-''sya-harzezu tastApA-'marza-dasyuzu .
+To BItrARa-giri-vyomni daH siMhA-'si-trilocane .. 11 ..
+Do bAla-pitf-vitteSe no rakzA-kavi-vAride .
+paH SEla-vana-vAsezu PaH kalA-'nila-SAKini .. 12 ..
+bo'mbuBfd-vAyu-kumBezu BaH Sukla-giri-BUpatO .
+maH SivA-''mA-'mbu-Badrezu yo yAna-yama-mArute .. 13 ..
+ro vajrA-'nala-kAmezu lo dIne-ndu-vihaNgame .
+vaH pASi-riRa-vajrezu So'Sva-SUdrA-'mbu-Bartari .. 14 ..
+zaH SUnyA-'rkA-'gni-kInASO(Se) so'sraBuk-siMha-durjane .
+haH kAma-SUra-gamane kzaH kzetrA-'nila-tApase .. 15 ..
+;c{.. iti natvAdi ekAkzaranAmamAlA samAptA ..}
+

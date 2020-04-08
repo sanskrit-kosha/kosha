@@ -1,0 +1,84 @@
+﻿;METADATA
+;title{नत्वादिएकाक्षरनाममाला}
+;author{अज्ञात}
+;bookFullName{एकाक्षरकोषसंग्रहः}
+;bookSeriesDetails{}
+;editor{Editor of 1 to 26 koshas - Pannyas Ramnikvijay, Reeditor - Muni Rajsundarvijay}
+;editorQualifications{}
+;publisher{श्रुतज्ञान संस्कारपीठ, वासणवाळा कम्पाउण्ड, विश्वनंदिकर जैन देरासर के सामने, भगवान नगर का टेकरा, अरुण सोसायटी के पास, पालडी, अहमदाबाद-७, चंपकभाई: मो. 9436010323, निरंजन शाह: मो.9825860488, Website - www.rajparivarindia.com, Email - shrutgnan@yahoo.com}
+;pressDetails{जय जिनेन्द्र ग्राफिक्स (नितीन शाह - जय जिनेन्द्र), ३०, स्वाती सोसायटी, सेंट झेवियर्स स्कूल रोड, नवरंगपुरा, अहमदाबाद. जय जिनेन्द्र: मो. 9825024204, कुश: मो. 9925617992}
+;publicationYear{2019 A.D.}
+;dataEntryBy{Mr. Manish Rajpara}
+;dataEntryEmail{rajparamanish11@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{ENNT}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. SRKKF for funding. 2. Muni Rajsundarvijay ji for allowing us to digitize the texts. 3. Mr. Manish Rajpara for spending his valuable time to do data entry of the work. 4. Dr. Dhaval Patel for spending time to proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{homo}
+;pagenum{true}
+;linenum{false}
+;chapterArrangements{kanda}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{16 March 2020}
+;version0.0.2{08 April 2020}
+;version0.0.3{08 April 2020}
+;version0.0.4{08 April 2020}
+;version0.1.0{08 April 2020}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+﻿﻿;p{0055}
+;c{नत्वादि-एकाक्षरनाममाला}
+नत्वाऽब्जिनीधवं ध्यात्वा कमलाकरभारतीम् ।
+अभिधानमनेकार्थमेकाक्षरमहं ब्रुवे ॥ १ ॥
+ओमङ्गीकरणा-ऽऽह्वान-ब्रह्म-याचन-दीप्तिषु ।
+अः सूर्या-ऽग्नी-न्दु-पवन-विष्णु-नक्षत्र-शङ्करे ॥ २ ॥
+आ ब्रह्मा-ऽब्ध्य-र्क-चापेषु इः कामे-न्द्रा-ऽब्जसम्भवे ।
+ईर्लक्ष्मी-मौलि-जिह्वासु उः शम्भू-ग्रा-ऽमरेश्वरे ॥ ३ ॥
+ऊः सुधा-ऽनन्त-जलदे ऋर्देवाम्बा-रवा-ऽध्वनि ।
+ॠर्दैत्याम्बा-गान-दाने लृः श्लेषा-ऽमरसू-शिवे ॥ ४ ॥
+लॄः स्थिलाऽऽलिङ्गिन(नि) स्थाणावेर्विष्णु-रवि-मारुते ।
+ऐः शङ्करे ब्रह्म-भूपे ओर्ब्रह्मे-न्दु-सुधासु च ॥ ५ ॥
+औः सुधा-ऽनन्त-जलदे अं भेदा-ऽऽत्मेश-मारुते ।
+अः षडास्ये-न्दु-चूडे-न्द्रे को यमा-ऽग्नि-दिवाकरे ॥ ६ ॥
+द्योता-ऽऽत्म-ब्रह्म-वातेषु शिरो-ऽम्बु-वदनेषु कम् ।
+खःशून्य-खड्ग-नृपतौ शून्या-ऽऽकाशे-न्द्रियेषुक(ख)म् ॥ ७ ॥
+गो गातृ-गायने-भास्ये घो वाद्या-ऽम्बुधरा-ऽम्बुधौ ।
+ङः पूजक-द्विज-काक्षे चः स्याद् भृत्ये-न्दु-तस्करे ॥ ८ ॥
+छश्छन्द-श्चन्द्र-तरले जो जेतृ-रवि-पद्मजे ।
+झो नष्टा-ऽनिल-सङ्गेषु ञः प्राज्ञ-पट-गायने ॥ ९ ॥
+टोऽर्द्धचन्द्र-रवे-लासु ठः खे-शे-न्दुसुमण्डले ।
+डः पक्षे सारवा-क्षेपे ढः शब्द-गति-निर्गुणे ॥ १० ॥
+णो गन्धेभा-ऽऽस्य-हर्षेषु तस्तापा-ऽमर्ष-दस्युषु ।
+थो भीत्राण-गिरि-व्योम्नि दः सिंहा-ऽसि-त्रिलोचने ॥ ११ ॥
+धो बाल-पितृ-वित्तेशे नो रक्षा-कवि-वारिदे ।
+पः शैल-वन-वासेषु फः कला-ऽनिल-शाखिनि ॥ १२ ॥
+बोऽम्बुभृद्-वायु-कुम्भेषु भः शुक्ल-गिरि-भूपतौ ।
+मः शिवा-ऽऽमा-ऽम्बु-भद्रेषु यो यान-यम-मारुते ॥ १३ ॥
+रो वज्रा-ऽनल-कामेषु लो दीने-न्दु-विहङ्गमे ।
+वः पाशि-रिण-वज्रेषु शोऽश्व-शूद्रा-ऽम्बु-भर्तरि ॥ १४ ॥
+षः शून्या-ऽर्का-ऽग्नि-कीनाशौ(शे) सोऽस्रभुक्-सिंह-दुर्जने ।
+हः काम-शूर-गमने क्षः क्षेत्रा-ऽनिल-तापसे ॥ १५ ॥
+;c{॥ इति नत्वादि एकाक्षरनाममाला समाप्ता ॥}
+
