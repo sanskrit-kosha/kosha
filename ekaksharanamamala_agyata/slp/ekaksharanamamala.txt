@@ -1,0 +1,156 @@
+﻿;METADATA
+;title{ekAkzaranAmamAlA}
+;author{ajYAta}
+;bookFullName{ekAkzarakozasaMgrahaH}
+;bookSeriesDetails{}
+;editor{Editor of 1 to 26 koshas - Pannyas Ramnikvijay, Reeditor - Muni Rajsundarvijay}
+;editorQualifications{}
+;publisher{SrutajYAna saMskArapIWa, vAsaRavALA kampAuRqa, viSvanaMdikara jEna derAsara ke sAmane, BagavAna nagara kA wekarA, aruRa sosAyawI ke pAsa, pAlaqI, ahamadAbAda-7, caMpakaBAI: mo. 9436010323, niraMjana SAha: mo.9825860488, Website - www.rajparivarindia.com, Email - shrutgnan@yahoo.com}
+;pressDetails{jaya jinendra grAPiksa (nitIna SAha - jaya jinendra), 30, svAtI sosAyawI, seMwa Jeviyarsa skUla roqa, navaraMgapurA, ahamadAbAda. jaya jinendra: mo. 9825024204, kuSa: mo. 9925617992}
+;publicationYear{2019 A.D.}
+;dataEntryBy{Mr. Manish Rajpara}
+;dataEntryEmail{rajparamanish11@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{EKNU}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. SRKKF for funding. 2. Muni Rajsundarvijay ji for allowing us to digitize the texts. 3. Mr. Manish Rajpara for spending his valuable time to do data entry of the work. 4. Dr. Dhaval Patel for spending time to proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{homo}
+;pagenum{true}
+;linenum{false}
+;chapterArrangements{kanda}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{16 March 2020}
+;version0.0.2{08 April 2020}
+;version0.0.3{08 April 2020}
+;version0.0.4{08 April 2020}
+;version0.1.0{08 April 2020}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+;p{0047}
+;c{ajYAtavidvatkftA}
+;c{ekAkzaranAmamAlA}
+akAraM brahmadEvatvaM SvetaM sarvavaSaNkaram .
+sarvajYatvaM manojYatvaM kAmarUpatvamambike ! .. 1 ..
+AkAraM tu parA SaktiH SvetamAkarzasidDidam .
+icCAsidDiM svAtmasidDiM rasasidDiM varAnane ! .. 2 ..
+ikAraM vizRudEvatvaM SAmarakzAkaraM Bavet .
+rUpa-kAntikaraM SrezWaM vareRyaM mohasidDidam .. 3 ..
+IkAraM dEvataM mAyA SAmamohakaraM param .
+vIrARAM vanitAnAM ca vaSIkAraM varAnane ! .. 4 ..
+ukAraM kAladEvatvaM SAmalokavaSaNkaram .
+mAtfkotTApanaM puRyaM krUrarogavinASanam .. 5 ..
+UkAraM pfTivIbIjaM SAmarakzAkaraM param .
+BUta-preta-piSAcAnAM nASanaM ripunASanam .. 6 ..
+fkAraM viDidEvatvaM pItaM sarvArTasidDidam .
+cirAyuzyaM tapaHsidDiM parABogaM varAnane ! .. 7 ..
+fkAraM SivadEvatvaM raktaM sarvavaSaNkaram .
+janma-mftyu-jarA-vyADivarjitaM SrI-jayapradam .. 8 ..
+aSvinIByAM lf lF ca syAd raktaM rogavinASanam .
+tIvrasidDiM BizaksidDimOzaDInAM ca sidDidam .. 9 ..
+ekAraM vIraBadrAKyaM pItaM sarvArTasidDidam .
+nigrahA-'nugrahakaraM BIzaRaM jayavardDanam .. 10 ..
+EMkAraM BAratIvidyAsPawikaM jYAnasidDidam .
+catuHzazwikalAsidDidAyakaM paramaM Sive .. 11 ..
+okAraM SivadEvatvaM jyotirmayamanugraham .
+manovegapradaM SrezWaM SAntaM sarvaPalapradam .. 12 ..
+OkAraM SANkarIvidyAsPawikaM sarvasidDidam .
+sArasvataM viSezeRa SatrURAM kopanASanam .. 13 ..
+aMkAraM bIjarudraM syAd raktaM devavaSaNkaram .
+sarvalokajayaM kAryasidDidaM cittaSudDidam .. 14 ..
+aHkAraM kAlarudraM syAd raktaM pApanikfntanam .
+svaprapaYcopasaMhAraM paramAtmapraboDakam .. 15 ..
+kakAraM brahmaRo bIjaM pItaM vfzwikaraM param .
+saYjIvanamaSezARAM lokAnAM vfdDidAyakam .. 16 ..
+KakAraM jAhnavIbIjaM sPawikaM pApanASanam .
+Boga-mokzapradaM puRyaM Bukti-muktipradAyakam .. 17 ..
+gakAraM tu gaReSaH syAt pItABaM viGnanASanam .
+pUrvA-'parasTitijYAnaM BUlokavijayaM SuBam .. 18 ..
+GakAraM BEravaM vidyAd raktABaM SatrunASanam .
+mahAGoragrahaharaM sArUpya-jayavardDanam .. 19 ..
+NakAraM kAlabIjaM syAt kfzRajIvajayaM param .
+mahABImajagatkzoBa-maraRApattiBaYjanam .. 20 ..
+cakAraM BadrakAlIyaM raktABaM SoBanaM Bavet .
+svecCAkarzaRasidDiH syAt svasTAveSamayatnataH .. 21 ..
+CakAraM BImakAlIyaM raktABaM vErinASanam .
+saNkrameRa trilokaGnaM samare vijayapradam .. 22 ..
+jakAraM jAtavedAKyaM sUrya-sOdAminIpraBam .
+aBicAraM mahAGoramapamftyuBayApaham .. 23 ..
+JakAramardDanArISaM SAmaM raktasamAkulam .
+sarvasOKyakaraM SrezWaM Boga-mokzaPalapradam .. 24 ..
+YakAraM paramAtmIyamavANmanasagocaram .
+sarvajYAnapradaM brahmajYAnadaM SrI-jayapradam .. 25 ..
+wakAraM pfTivIbIjaM SvetaM saMhArakArakam .
+kravyAdAvozaDIvfdDiH pAtAlaniDidarSanam .. 26 ..
+WakAraM candrabIjaM syAt sPawikaM SatrunASanam .
+roga-kzveqaharaM divyaM mahAjvaraharaM param .. 27 ..
+qakAraM SukrabIjaM syAt pItABaM vijayaM Bavet .
+mftasaYjIvanaM cAsya mahAmAyAvaSaM Sive .. 28 ..
+QaMkAraM vEzRavaM vidyAt pItaM sarvArTasidDidam .
+balapradaM jalaM stamBaM pAtAlasyApi darSanam .. 29 ..
+RaMkAraM balaBadrIyaM SvetaM balavivarDanam .
+nityatvaM yudDavIryatvaM ripudarpavinASanam .. 30 ..
+takAraM DanadaM vidyAt pItamESvaryavarDanam .
+yakza-kinnara-sidDAnAM vaSIkAraM jagadvaSam .. 31 ..
+TaMkAraM tu parA SaktiraktaM kAlajayaM Bavet .
+SAntidaM pOzwikaM cEva BAgyamAyuzyavarDanam .. 32 ..
+;p{0048}
+dakAraM durgAbIjaM syAt SAmaM sarvArTasidDidam .
+nigrahA-'nugrahakaraM Boga-mokzEkasADanam .. 33 ..
+DakAraM DarmabIjaM syAt SvetaM puRyavivarDanam .
+sarvadevamayaM divyaM sarvadarSanadarSakam .. 34 ..
+nakAraM nirvikalpaM syAdaprameyABamakzaram .
+vAyuvegaM manovegamicCArUpaM Baved Druvam .. 35 ..
+pakAramagnibIjaM syAd raktaM sarvaharakzaRam .
+strI-puM-napuMsakAdInAM BavedAkarzaRaM Sive .. 36 ..
+PaMkAraM BEravaM vidyAd raktABaM vijayapradam .
+mahAgrahaharaM sarvajvararogavinASanam .. 37 ..
+bakAramaSvinIbIjaM pItaM rogaharaM param .
+OzaDasya mahAvIryaM vfdDidaM jayavardDanam .. 38 ..
+BakAraM BArgavaM jYeyaM jyotizABamanAmayam .
+AyurArogyadaM SrezWamaSezaM SrIvivardDanam .. 39 ..
+makAramISvaraM vidyAjjyotiraktaM suKAvaham .
+vaSyA-''karzaRa-santAna-sidDidAnEkatatparam .. 40 ..
+yakAraM vAyubIjaM syAt kfzRaM balavivarDanam .
+sarvoccAwakara krUraM saNgrAme jayavarDanam .. 41 ..
+rePaM kfSAnubIjaM syAd raktABaM sarvanASanam .
+jaNgamAkarzaRaM yudDe dizwasenAbalaM taTA .. 42 ..
+lakAraM SakrabIjaM syAt pItaM sarvaPalapradam .
+agnistamBaM jalastamBaM svecCAstamBaM viSezataH .. 43 ..
+vakAraM varuRaM vidyAt SvetaM svecCABivfdDidam .
+AkarzaRaM jalaDvAnamaSezaM jvaranASanam .. 44 ..
+SakAraM SaNkaraM vidyAt tejaH-sOBAgyavarDanam .
+anyonyakalahA(d) devavEriRAM nASanaM Bavet .. 45 ..
+zakAraM dvAdaSAdityaM jyotirArogyavarDanam .
+SamanaM sarvarogARAmAyu-rvidyABivarDanam .. 46 ..
+sakAraM BAratIbIjaM SvetaM sArasvatapradam .
+pratividvajjanajayaM varARAM yozitAM vaSam .. 47 ..
+sadASivaM hakAraM syAd DUmraM jYAnArTasidDidam .
+aRimAdyazwasidDiH syAccatuHzazwikalA api .. 48 ..
+LaMkAraM pfTivIbIjaM SAmaM sidDikaraM param .
+saMhared dozarASInAmapi BUdravyadarSanam .. 49 ..
+kzakAraM SrInfsiMhaH syAt sPawikaM mokzasidDidam .
+ripugarvaharaM sarvalokakzoBakaraM param .. 50 ..
+;c{.. iti ajYAtavidvatkftA ekAkzaranAmamAlA samAptA ..}
+
