@@ -1,0 +1,213 @@
+;METADATA
+;title{ekAkzarImAtfkAkoza}
+;author{ajYAta}
+;bookFullName{ekAkzarakozasaMgrahaH}
+;bookSeriesDetails{}
+;editor{Editor of 1 to 26 koshas - Pannyas Ramnikvijay, Reeditor - Muni Rajsundarvijay}
+;editorQualifications{}
+;publisher{SrutajYAna saMskArapIWa, vAsaRavALA kampAuRqa, viSvanaMdikara jEna derAsara ke sAmane, BagavAna nagara kA wekarA, aruRa sosAyawI ke pAsa, pAlaqI, ahamadAbAda-7, caMpakaBAI: mo. 9436010323, niraMjana SAha: mo.9825860488, Website - www.rajparivarindia.com, Email - shrutgnan@yahoo.com}
+;pressDetails{jaya jinendra grAPiksa (nitIna SAha - jaya jinendra), 30, svAtI sosAyawI, seMwa Jeviyarsa skUla roqa, navaraMgapurA, ahamadAbAda. jaya jinendra: mo. 9825024204, kuSa: mo. 9925617992}
+;publicationYear{2019 A.D.}
+;dataEntryBy{Mr. Manish Rajpara}
+;dataEntryEmail{rajparamanish11@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{EKMK}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. SRKKF for funding. 2. Muni Rajsundarvijay ji for allowing us to digitize the texts. 3. Mr. Manish Rajpara for spending his valuable time to do data entry of the work. 4. Dr. Dhaval Patel for spending time to proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{homo}
+;pagenum{true}
+;linenum{false}
+;chapterArrangements{kanda}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{16 March 2020}
+;version0.0.2{08 April 2020}
+;version0.0.3{08 April 2020}
+;version0.0.4{08 April 2020}
+;version0.1.0{08 April 2020}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+﻿;p{0051}
+;c{ekAkzarImAtfkAkozaH}
+SrIgaReSaM maheSAnaM BAratImISvaraM Sivam .
+natvA vakzye mAtfkARAM niGaRwaM bAlabudDaye .. 1 ..
+;c{oM}
+DruvastArastrivfd brahma vedAdistArako'vyayaH .
+praRavaSca trimAtro'pi oMkAro jyotirAditaH .. 2 ..
+;c{aH}
+SrIkaRWaH keSavaScApi nivfttiSca svarAdikaH .
+akAro mAtri(tf)kAdyaSca vAta ityaBiDIyate .. 3 ..
+;c{A}
+nArAyaRastaTA'nanto muravftto gurustaTA .
+vizRuH(zRu)SayyA taTA Sezo dIrGa AkAra eva ca .. 4 ..
+;c{i}
+mADavaH sUkzmaH(kzma)saMjYaSca vidyA dakziRalocanam .
+ganDarvaH pAYcajanyaSca ikAraScamukANkuraH .. 5 ..
+;c{I}
+govindaSca trimUrtISaH SAntiH syAd vAmalocanam .
+nfsiMhAstraM taTA mAyA IkAro'pi sureSvaraH .. 6 ..
+;c{u}
+amareSastaTA vizRurinDikA ca gajANkuSaH .
+dakzakarRaSca vijayI ukAro manmaTADipaH .. 7 ..
+;c{U}
+arvASo(urvISo) dIpikA vAmaSravaRaM maDusUdanaH .
+indracApaH zaRmuKaSca UkAro rakzaRADipaH .. 8 ..
+;c{f}
+devikA dakzanASA ca BAraBUtistrivikramaH .
+devamAtA ripuGnaSca fkArastApanastaTA .. 9 ..
+;c{F}
+atiTISo vAmanaSca mocikA vAmanAsikA .
+dEtyamAtA ca dEvajYa FkArastripurAntakaH .. 10 ..
+;c{lf}
+SrIDaraSca parAsTARurdakzagaRqastrivedakaH .
+ekANGrirvrajradaRqaSca vyomardDirlfsvaraH smftaH .. 11 ..
+;c{lF}
+hfzIkeSo haraH sUkzmo vAmagaRqaH kuberadfk .
+ardDarco nIlacaraRI lFkAraSca trikUwakaH .. 12 ..
+;c{e}
+JaRwISaH padmanABaSca SaktiH sUkzmAmftA BagaH .
+UrdDvozWagaH kAmarUpa ekAraSca trikoRakaH .. 13 ..
+;c{E}
+jYAnAmfto BOtikaScADaro dAmodarastaTA .
+vAgISo varma Bayada EkArastripurastaTA .. 14 ..
+;c{o}
+sadyojAto vAsudeva UrdDvadantastrimAtrakaH .
+ApyAyanImantranATa okAro nAgasaMjYakaH .. 15 ..
+;c{O}
+saNkarzaRI tu graheSo murArirvyApinI taTA .
+aDOdantagato mAyI nfsiMhANgastaTOsvaraH .. 16 ..
+;c{aM}
+akrUro vyomarUpaSca pradyumnaScandrasaMjYakaH .
+anusvArastaTA binduraNkAraSca Siro'vyayaH .. 17 ..
+;c{aH}
+anantaSca mahAseno'nirudDo rasavarRakaH .
+kanyAstananiBaH sargo visargaScAntimasvaraH .. 18 ..
+;c{ka}
+kroDISo DAtfsaMjYaSca cakrI sfzwiH karAdigaH .
+vargAdigaH pAdavezaH kakAraH kAmagaH smftaH .. 19 ..
+;c{Ka}
+kruDardDi-gadi-caRqISAH Kewo dakziRakUrparaH .
+kEwaBAriSca mAtaNgaH saMhAraH KArRakaH smftaH .. 20 ..
+;c{ga}
+smftiH paYcAntakaH SArNgI gaReSo maRibanDagaH .
+gomuKo gajakumBaSca gakAraH siMhasaMjYakaH .. 21 ..
+;c{Ga}
+KaqgI Sivottamo meDA dakziRANgulimUlagaH .
+Gano GanasvaraScEva GakAro NAdimaH smftaH .. 22 ..
+;c{Na}
+SaNKANko rudrakAntiSca dakzANgulyagrasaMsTitaH .
+klIbavaktraSca BadreSo NakAraScAnunAsikaH .. 23 ..
+;c{ca}
+halI kUrmeSvaro lakzmIrvAmabAhvAdigastaTA .
+citraDArI caYcalaSca cakAraH saMsmfto buDEH .. 24 ..
+;c{Ca}
+ekanetraSca muSalI vAmakUrparagodyutiH .
+tribindukastaTA cArI CakAraH SlezmakABiDaH .. 25 ..
+;c{ja}
+sTirAjapannojapajaH SUlI ca caturAnanaH .
+maRibanDagato vAme jakAro janakottamaH .. 26 ..
+;c{Ja}
+sTitiH pASI taTA'jeSo vAmANgulitalasTitiH .
+svastikaH sTARusaMjYaSca JakAro jAntasaMjYakaH .. 27 ..
+;c{Ya}
+vAmANgulyagragaH sidDiraNkuSI SarvasaMjYakaH .
+JAntago hyanunAsaSca YakAraSca niraYjanaH .. 28 ..
+;c{wa}
+jarA mukundaH someSo dakzapAdAdigomuKaH .
+gajANkuSaSca bAlenduramftAdyazwakaH smftaH .. 29 ..
+;c{Wa}
+lANgalISo nandajaSca pAlinI ca kamaRqaluH .
+dakzAjAnugataH sTAyI WakAraH sTaviraH smftaH .. 30 ..
+;p{0052}
+;c{qa}
+nandI kzAntirdArakaSca qAmaro dakzagulPagaH .
+vyAGrapAdaH SuBANGriSca qakArastomaro mataH .. 31 ..
+;c{Qa}
+ESvarI cArdDanArISo naraH SAKAntarAkftiH .
+dakzapAdANgulImUlo Qalo Qakko QakArakaH .. 32 ..
+;c{Ra}
+umAkAnto narakajid ratirdakzapadAgragaH .
+nirvARastriguRAkArastrireKo RaH samIritaH .. 33 ..
+;c{ta}
+vAmorUmUlanilaya AzAQI kAmikA hariH .
+tIvraSca taralo nIlastakAraH kIrttito buDEH .. 34 ..
+;c{Ta}
+daRqISo varadaH kfzRo vAmajAnugataH smaraH .
+SOrI cApi viSAlAkzasTakAraH parikIrtitaH .. 35 ..
+;c{da}
+satyo'trISo hlAdinI ca vAmagulPagatastaTA .
+SUlI kubero dAtA ca dakAro DAdimaH smftaH .. 36 ..
+;c{Da}
+mIneSaH sAtvataH prItirvAmapAdANgulIgataH .
+DaneSo DaraRISaSca DakAro dAntimaH smftaH .. 37 ..
+;c{na}
+SOrI mezeSvarI dIrGA vAmapAdograsaMsTitaH .
+naro nadIno nAdI ca nakAraScAnunAsikaH .. 38 ..
+;c{pa}
+tIkzRaSca lohitaH SUro dakzapArSvaSca pArTivaH .
+padmeSo nAntimaH PAdiH pakAro'pi prakIrttitaH .. 39 ..
+;c{Pa}
+janArdanaH SiKI rOdrI vAmapArSvakftAlayaH .
+PawkAraH procyate sadBiH PakAraH pAntimaH smftaH .. 40 ..
+;c{ba}
+CalagaRqo BUDaraSca BayapfzWagatastaTA .
+suraso vajramuzwiSca bakAro BAdimo mataH .. 41 ..
+;c{Ba}
+viSvamUrttirdviraRqeSo nidrA nABigato'pi ca .
+BrakuwI ca BaradvAjo BakAraSca jayAvahaH .. 42 ..
+;c{ma}
+vEkuRWaSca mahAkAlastandrI jaWarasaMsTitaH .
+mantreSo maRqalo mAnI vizaH sUryo makArakaH .. 43 ..
+;c{ya}
+kzuDA bAlA ca vAyustvag hfdgataH puruzottamaH .
+yamuno yAmuneyaSca yakAro mAntimaH smftaH .. 44 ..
+;c{ra}
+kroDinI ca BujaNgeSI jvAlI ruDira-pAvakO .
+rocizmAn dakziRAMSaSca ruciro rePa IritaH .. 45 ..
+;c{la}
+kriyA kakudgato mAMsaM pinAkI BUrbalAnujaH .
+lampawaH SakrasaMjYaSca vAdyo rAnto lakArakaH .. 46 ..
+;c{va}
+vAlo vAmAMsanilayo medo vArida-vAruRO .
+utkArI jalasaMjYaSca KaqgISo'pi vakArakaH .. 47 ..
+;c{Sa}
+mftyurbako vfzaGnaSca hfdo dakzakarasTitiH .
+SaNkukarRo'sTisaMjYaSca SakAro vidBirIritaH .. 48 ..
+;c{za}
+vfzaH SveteSvaraH pItA majjA hfd vAmabAhugaH .
+zaqAnanaH zakAraSca kIrttitaSca buDEH KaraH .. 49 ..
+;c{sa}
+BfguH SvetastaTA haMso hfdo dakziRapAdagaH .
+samayaH sAmagaH SukraH saNgatiH sArRakaH SaSI .. 50 ..
+;c{ha}
+naBo varAho nakulo hfdo vAmapadasTitaH .
+sadASivo'ruRaprARo hakAraSca hayAnanaH .. 51 ..
+;c{La}
+hfdayAnnABisaMsTAnaH SiveSo vimalo'sitaH .
+laGuprayatnaScopAntyo la(La)kAraH procyate buDEH .. 52 ..
+;c{kza}
+saMvarttako nfsiMhaSca hfdayAnmuKasaMsTitaH .
+anantaH paramAtmA ca vajrakAyo'ntimAkzaraH .. 53 ..
+;c{ .. iti mAtfkAkozaH samAptaH ..}
+
