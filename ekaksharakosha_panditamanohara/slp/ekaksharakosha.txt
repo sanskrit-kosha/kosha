@@ -1,0 +1,120 @@
+﻿;METADATA
+;title{ekAkzarakoza}
+;author{paRqitamanohara}
+;bookFullName{ekAkzarakozasaMgrahaH}
+;bookSeriesDetails{}
+;editor{Editor of 1 to 26 koshas - Pannyas Ramnikvijay, Reeditor - Muni Rajsundarvijay}
+;editorQualifications{}
+;publisher{SrutajYAna saMskArapIWa, vAsaRavALA kampAuRqa, viSvanaMdikara jEna derAsara ke sAmane, BagavAna nagara kA wekarA, aruRa sosAyawI ke pAsa, pAlaqI, ahamadAbAda-7, caMpakaBAI: mo. 9436010323, niraMjana SAha: mo.9825860488, Website - www.rajparivarindia.com, Email - shrutgnan@yahoo.com}
+;pressDetails{jaya jinendra grAPiksa (nitIna SAha - jaya jinendra), 30, svAtI sosAyawI, seMwa Jeviyarsa skUla roqa, navaraMgapurA, ahamadAbAda. jaya jinendra: mo. 9825024204, kuSa: mo. 9925617992}
+;publicationYear{2019 A.D.}
+;dataEntryBy{Mr. Manish Rajpara}
+;dataEntryEmail{rajparamanish11@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{EKPM}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. SRKKF for funding. 2. Muni Rajsundarvijay ji for allowing us to digitize the texts. 3. Mr. Manish Rajpara for spending his valuable time to do data entry of the work. 4. Dr. Dhaval Patel for spending time to proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{homo}
+;pagenum{true}
+;linenum{false}
+;chapterArrangements{kanda}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{16 March 2020}
+;version0.0.2{10 April 2020}
+;version0.0.3{10 April 2020}
+;version0.0.4{10 April 2020}
+;version0.1.0{10 April 2020}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+;p{0058}
+;c{paRqitamanoharakftaH}
+;c{ekAkzarakozaH}
+vANmayIM varadAM devIM natvA ca Sivamavyayam .
+liKAmyekAkzaraM koSaM divyajYAnavivfdDaye .. 1 ..
+akAro vizRuruddizwa AkAraSca maheSvaraH .
+ikAraH kaTyate kAmo lakzmIrIkAra ucyate .. 2 ..
+ukAraH SaMkaraH prokta UkAraScApi rakzaRe .
+fkAro devamAtA syAd FkAraH svarga ucyate .. 3 ..
+lfkAro dEtyamAtA syAd lFkAro danujaprasUH .
+ekAra ucyate vizRurEkAraH syAnmaheSvaraH .. 4 ..
+okArastu Baved brahmA OkAro'nanta ucyate .
+amiti syAtparaM brahma aH syAccEva maheSvaraH .. 5 ..
+kaH prajApatiruddizwaH ko vAyuriti SabditaH .
+ka AtmA ca samAKyAtaH prakASe ka udAhftaH .. 6 ..
+kaM Siro jalamAKyAtaM kaM suKaM ca prakIrttitam .
+pfTivI kuH samAKyAtA kuH kutseti prakIrttitA .. 7 ..
+KamindriyaM samAKyAtaM KamAkASamudAhftam .
+guhye'pi KaM samAKyAtaM KaM suKaM ca prakIrttitam .. 8 ..
+go gaRapatiruddizwo ganDarve gaH prakIrttitaH .
+gItaM gamuktaM yAtA go gOstu paSvAdizu trizu .. 9 ..
+Go GaRwAyAM samAKyAtaH kiNkiRyAdO prakIrttitaH .
+hanane GA samAKyAtA GuH kalO ca prakIrttitaH .. 10 ..
+NakAro BErave prokto NakAro vizayaspfhA .
+caScandramAH samAKyAtastArakASca udAhftAH .. 11 ..
+nirmalaM CaM samAKyAtaM taralaM CaM prakIrttitam .
+Cedane CA samAKyAtA vidvadBiH SabdakovidEH .. 12 ..
+vegini jaH samAKyAto javane jaH prakIrttitaH .
+jetA ca jaH samAKyAtaH sUriBiH SabdaSAsane .. 13 ..
+JaYJAvAte JakAraH syAnnazwe JaH samudAhftaH .
+YakAro gAyane prokto YakAro GarGaraDvanO .. 14 ..
+waMkAre waH pfTivyAM wA wo DvanO ca prakIrttitaH .
+wo maheSvara AKyAtaH SUnye'pi waH prakIrttitaH .. 15 ..
+bfhadDvanO ca WaH proktastaTA candrasya maRqale .
+qakAraH SaMkare jApe DvanO trARe nigadyate .. 16 ..
+QakAraH kIrttitA QakkA nirRaye ca prakIrttitaH .
+RakAraH kaTito DvAne nirRaye RaH prakIrttitaH .. 17 ..
+takAraH sugate budDe kroqapucCe prakIrttitaH .
+Siloccaye TakAraH syAt TakAro BayalakzaRe .. 18 ..
+daM kalatraM buDEH praktaM dA dAne Cedane'pi ca .
+DaM Dane ca DaneSe'bDO Do DAvati nidarSitaH .. 19 ..
+DizaRA DIH samAKyAtA DUrBAra-cintayostaTA .
+nakAraH sugate vfnde naH stutO ca prakIrttitaH .. 20 ..
+nISca netA samAKyAto nOkAyAM nOrudAhftA .
+pUraRe paH samAKyAtaH pA pAne pASca pAtari .. 21 ..
+JaYJAvAte PakAraH syAdakzare'pi prakIrttitaH .
+kope'pi PaH samAKyAtastaTA nizPalaBAzaRe .. 22 ..
+pracetA baH samAKyAtaH kalaSo baH prakIrttitaH .
+pakzI ca birnigadito gamane biH prakIrttitaH .. 23 ..
+nakzatraM BaM buDAH prAhurBramaro BaH prakIrttitaH .
+BA dIptirapi BUrBUmirBo BayaM kaTito buDEH .. 24 ..
+maH SivaScandramA veDA mA lakzmIH kaTitA buDEH .
+mA mAtari ca mAne ca banDane muH prakIrttitaH .. 25 ..
+yaSo yaH kaTitaH SizwEryo vAyuriti SabditaH .
+yAne yAtari tyAge ca yakAraH kaTito buDEH .. 26 ..
+raSca kAme'nile vahnO Sabde ruSca prakIrttitaH .
+Dane rA rirgatiH KyAtA rA dAne'pi prakIrttitaH .. 27 ..
+la indre lavaRe lUH syAllA dAne SlezaRe'pi loH .
+sAntvane varuRe vAte vakAraSca prakIrttitaH .. 28 ..
+;p{0059}
+vadanti SaM buDAH SreyaH SaM ca SAstraM nigadyate .
+SI Sayanamiti prAhurhiMsAyAM SUrnigadyate .. 29 ..
+zakAraH kIrttitaH Kaqge zUSca garBavimocane .
+saH parokze samAKyAtaH sA ca lakzmIrnigadyate .. 30 ..
+sA ca gOrI samAKyAtA sa ISvara udAhftaH .
+satkAra-vAraRe haM syAt taTA SUlini kIrttitaH .. 31 ..
+kzaH kzetre vakzasi proktaH kzakAraH syAcca SAsane .
+ityekAkzarakoSaScAgAt samAptiM manoharaH .. 32 ..
+;c{.. iti paRqitamanoharakfta ekAkzarakozaH samAptaH ..}
+
