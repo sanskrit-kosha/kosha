@@ -1,0 +1,289 @@
+;METADATA
+;title{ekAkzaranAmamAlikA}
+;author{viSvaSamBu}
+;bookFullName{ekAkzarakozasaMgrahaH}
+;bookSeriesDetails{}
+;editor{Editor of 1 to 26 koshas - Pannyas Ramnikvijay, Reeditor - Muni Rajsundarvijay}
+;editorQualifications{}
+;publisher{SrutajYAna saMskArapIWa, vAsaRavALA kampAuRqa, viSvanaMdikara jEna derAsara ke sAmane, BagavAna nagara kA wekarA, aruRa sosAyawI ke pAsa, pAlaqI, ahamadAbAda-7, caMpakaBAI: mo. 9436010323, niraMjana SAha: mo.9825860488, Website - www.rajparivarindia.com, Email - shrutgnan@yahoo.com}
+;pressDetails{jaya jinendra grAPiksa (nitIna SAha - jaya jinendra), 30, svAtI sosAyawI, seMwa Jeviyarsa skUla roqa, navaraMgapurA, ahamadAbAda. jaya jinendra: mo. 9825024204, kuSa: mo. 9925617992}
+;publicationYear{2019 A.D.}
+;dataEntryBy{Mr. Manish Rajpara}
+;dataEntryEmail{rajparamanish11@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{EKVS}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. SRKKF for funding. 2. Muni Rajsundarvijay ji for allowing us to digitize the texts. 3. Mr. Manish Rajpara for spending his valuable time to do data entry of the work. 4. Dr. Dhaval Patel for spending time to proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{homo}
+;pagenum{true}
+;linenum{false}
+;chapterArrangements{}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{16 March 2020}
+;version0.0.2{17 March 2020}
+;version0.0.3{17 March 2020}
+;version0.0.4{20 March 2020}
+;version0.1.0{25 May 2020}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+﻿﻿;p{0003}
+;c{viSvaSamBupraRItA}
+;c{ekAkzaranAmamAlikA}
+DyAtvA natvA nirIkzyAntaHkaraRe karmasAkziRam .
+kriyate nUtanA nAmamAlEkAkzaravAcikA .. 1 ..
+yatayo ye paraM pAraM SabdAmBoDergatA matAH .
+ezA tezAmato mAnyA mahABAvamanIziRAm .. 2 ..
+svamevArTaM svayaM rAnti yato'kArAdayaH svarAH .
+svarABAve kakArAdivyaYjanaM vyarTameva hi .. 3 ..
+na kzaratyakzaraM tena svara eva taducyate .
+vyaYjanAni svarAScEva varRaSabdena varRitAH .. 4 ..
+aH Sive keSave vAyO brahma-candrA-'gni-BAnuzu .
+AH svayamBUstaTokte syAdavyayaM kopa-pIqayoH .. 5 ..
+ezAmapatye kAme syAdiH samboDana-kopayoH .
+iH kutsArTe'pi pApe'pi nizeDe nayanaBrame .. 6 ..
+I ramA-madirA-mohe mahAnande SiroBrame .
+strIliNgo'yamuRAdyanto nAto'smAllopanaM supaH .. 7 ..
+IryO yo'tra jasA rUpaM syAdamA rUpamIM SasIH .
+ISabdo dravyaparyAye'vyayaM vfdDEH pradarSitam .. 8 ..
+uH SabdaH SaNkare toye toyaDO DaraRIDare .
+avasAne vitarke'pi vacanAvasare'vyayam .. 9 ..
+etadarTe nizeDe'pi nirRIto dIrGa Urapi .
+UM mAnto'vyayaM kope'pi svArTe'pyUM ca prakIrttitaH .. 10 ..
+rakzArTavAcakAvetO vyAKyAtO laGu-dIrGakO .
+fSabdaH pAvake sUrye Darme dAne Dane pumAn .. 11 ..
+A arO ara etAni araM cArO FMSca Sasi .
+FrdIrGo devamAtA syAd fBavastena te surAH .. 12 ..
+strIliNgo'yaM Dane vahnO vAsave varuRAlaye .
+FH rO ro rUpametasya sanDisAmAnyasADanam .. 13 ..
+lfrhrasvo laGusaMvAde SaktO sarvarzimAtari .
+laGvakzare'pi lf klIbe dIrGalFrdevamAtari .. 14 ..
+vArAhyAM varttate dIrGaH sOdAminyAmidaM dvayam .
+sarpe mantre taTA tantre lfdvayaM lukite tate .. 15 ..
+ke'pi dIrGaM na manyante'nukftermanvate'pare .
+kAmasamboDane syAde tata erbrahmakevale .. 16 ..
+eSabdenoditA caRqI gocare gopatAvayam .
+EH svarRe'pi ca puMliNgaH SamBu-SrIpati-vAyuzu .. 17 ..
+SAradAyAM svare sUrye mUrcCAyAmErapi smftaH .
+oSabdo rakzaRe Seze sUtre puMsi SrutAvapi .. 18 ..
+OH samudre jale'nante pIqane puMsi BAzaRe .
+aM mAnto brahmasaMvAde parabrahmapravAcakaH .. 19 ..
+vyasane vyADite vyADO jYAna-vijYAna-vandane .
+aH sAntaH SaNkare sUrye dAnA-''dAna-pradIptizu .. 20 ..
+sattAyAM kzepaRe Kede taTA''Scarye ca nindake .
+ko brahmA-''tma-prakASA-'rka-keki-vAyu-yamA-'gnizu .. 21 ..
+kaM mOli-suKa-toyezu kaH SabdaH sarvaliNgakaH .
+sarvanAmagaRokto yastasya rUpaM triliNgakam .. 22 ..
+kuH striyAM Buvi kutsAyAmavyayaM ku prakIrttitam .
+kuH kAka-SabdayormAntaH kaM kAntO kAmavAcakaH .. 23 ..
+vAcyaliNgaH KaSabdo'rke vitarke vyomni vedane .
+praSna-nindA-nfpa-kzepa-suKa-SUnyendriye divi .. 24 ..
+;p{0004}
+avasAne'pavarge'pi parabrahmaRyapIritaH .
+gastu gAtari ganDarve Sabda-saNgItayorapi .. 25 ..
+gOrgaReSa-paSu-svarge vajrA-''SA-BUdake'kziRi .
+vARyAM kiraRa-bARA-'sre puMliNgo'yamudIritaH .. 26 ..
+Abanto gA'vanIvAcI gEH pumAn Sabda-gItayoH .
+Ibanto gIrgirO vARyAM DAtuvad gASca gATakaH .. 27 ..
+mAraRe maraRe GAte GaRwAyAM kiNkiRIrave .
+SaktO saBErave deve Go mantre'nyArTavAcakaH .. 28 ..
+puRye pravAhe pAzaRqe GaM ca Gore Duro rave .
+Giridanto Gfte dIptO GA''banto BUmivAcakaH .. 29 ..
+NaH SUnye dAnavAYCAyAM nindAyAmADisAdare .
+sOdAminyAM nade sarpe sidDO talliNgavAcakaH .. 30 ..
+caH puMsi cetane candre cOre'hO cArudarSane .
+idantaSciH striyAM budDO jYAne cAre ca pAvake .. 31 ..
+cAnvAcaya-samAhAretaretara-samuccaye .
+samAsArTe'vyayaM cAyamAbantaScA divi smftaH .. 32 ..
+CaH sUrye somanErmalye Cede svacCe ca jYAtari .
+Candonuvarttini proktaSCA''banto nimnagA-girO .. 33 ..
+COH striyAM lohaDArAyAM COstu puMsi paraSvaDe .
+vAnare hariRe CAge CiH puMsi procyate Cale .. 34 ..
+jo jetA jaM ca jIve'pi jurvege naBasi svake .
+jAyA-jananyorjA''bantaH SayyAyAmapi jAraje .. 35 ..
+striyAM jUrgativAcI syAjjApe SApe'pi jiH pumAn .
+hrasvo dIrGo'pi jfSabdo jarAyAM durgatAvapi .. 36 ..
+jI rePAntastadarTaH strI jUrjuvO juva ityapi .
+prAdurBAve nave jaH syAdapatye jaM ca janmani .. 37 ..
+JaSabdaH svapane SUnye taTordDvakzepaRe'pi JaH .
+vinazwe vivare BfNge striyAM JA taqiti smftaH .. 38 ..
+vane ca Buvane JaM syAdekAnte saNgate ca Jam .
+sravaddravye Bage Boge savilAsA sundarI ca JA .. 39 ..
+akasmAddarSane Soke mUQAsramocane ca JuH .
+UdantaH strIliNgo JiSca sarvaDAtuDvanO ca JIH .. 40 ..
+JIrJirO Jira ityevaMrUpo hAnO jarArTakaH .
+Yo jYAne gAyane dAne GurGuraDvanite ca Yam .. 41 ..
+Yo'rdDendumaRqale mantre vApyAM YA Yistu parvate .
+nizeDe caYcale YuH syAnnirmARe YIriti DvaniH .. 42 ..
+waH sTire tAqane trAse viSvAse'Sve ca puMsyayam .
+wA''banto GawikAvAcI pfTivyAM waM karaNkake .. 43 ..
+BUzAyAM ca maRO meRQre wuH syAd Brazwe wi pakziRi .
+pArastrERe wiSabdo'sti PawAyAM wA jawAsvapi .. 44 ..
+mudro-rmi-mahilAsu strI wIbantaH pawahe'pi wam .
+Wo maheSe mahAmantre mantri-BUpA-''Di-tARqave .. 45 ..
+Asane Sayane SUnye taTA''kASe jalASaye .
+Gawe cakre ca mudrAyAM kuRqale BAgyavat kace .. 46 ..
+WIbanto matsyasaNGAte WA''bantaH karRakoware .
+vilaye vijaye devasevane WuH priyA'rjite .. 47 ..
+naKocCUnakuce kAYcyAM WuH strI kftrimarodane .
+Weredanto vfTAhAsye sUrye tArAsu WOH striyAm .. 48 ..
+vaYcake vezakAre WuzWaM bindO jalabudbude .
+WaSabde'nye'pi santyarTAste nocyante'tivistfteH .. 49 ..
+qo BayaNkaranAdezu candre caYcalayoziti .
+jihvAyAM kuRqalinyAM qA caRqikA-BUtaBAzayoH .. 50 ..
+DAtuvaqqUSca hiMsAyAM vaDe kzepe ca qOrdvayoH .
+qUrquvO quva ityevaM qOrqAvAvaparasya ca .. 51 ..
+;p{0005}
+BrAnte sarvavaDe bAle balahIne vfTAkule .
+puMsi qurvyarTavAcAle sarpe SApe ca qUH striyAm .. 52 ..
+kAlakzepe taTA daRqe qIH puMsi vyomagAmini .
+utpAte jaratkAye quH Pene dAne'lparodane .. 53 ..
+vraRe vA puMsi qaM prAhuH kzudrajantO vfTodite .
+mustApatre kare qI strI qorodanto'ntyaje nari .. 54 ..
+Qo QakkA nirguRe lAsye gomuKe QaM napuMsake .
+QIrnA SunI samAKyAtA pakziBede striyAM QirvA .. 55 ..
+prahAre cAyuDe QaH syAt pAte Qo'pAWi paRqitEH .
+SvApade durjane mUQe vAdyaBede Qa ucyate .. 56 ..
+karRarogepyatisTUle gudavAte DvanO ca QuH .
+prABfte vandanAyAM QA QaH svaBAve vimatsare .. 57 ..
+Ro nirguRe jape yogye duzwe kroqe ca taskare .
+paSupucCe striyAM RA strI bfhanmAne ca RuH pumAn .. 58 ..
+saMpratyaye taTA svArTe RaH koRe cEkacakzuzi .
+kzIre raRe Dane DAnye RIH pumAn RIrRiyO RiyaH .. 59 ..
+same svare caye cAre caraRe RiScoBayAtmakaH .
+taH prete nizPale SAte pOnaHpunye'vyayaM ca tuH .. 60 ..
+raNge rAge tulAdaRqe BAnO tUryaDvanO ca tA .
+pUjAyAM tiH striyAM toke manomAne mahAGane .. 61 ..
+avilambe jale klIbe tastantO tantuvAyake .
+tOSca tOretadarTe'sti tErvasAne vayatyapi .. 62 ..
+tEstAyO tAya ityevaMrUpaM strI-puMsayorapi .
+hrasvadIrGO tu-tU Bede praSne DyAne'vyayaM dvayam .. 63 ..
+To miTyAvAcake SrAnte Soke TA''rabDavastuni .
+nimagne cAtigamBIre TaM stokArTe napuMsakam .. 64 ..
+marudeSapradeSe'pi TAbantaH sTUlayoziti .
+devakUwe kazAye strI dfQe parivfQe'pi TA .. 65 ..
+TuH puMsi parvate droRe vraRe Turnindite pumAn .
+nizWIvane bale BUte TIbanto BAjane Buvi .. 66 ..
+do dAne pUjane kzIRe dAnaSORqe ca pAlake .
+deve dIptO durADarze dorBuje dIrGadeSake .. 67 ..
+dayAyAM damane dIne dandaSUke'pi daH smftaH .
+banDe ca banDane boDe bAle bIje balodite .. 68 ..
+vidoze'pi pumAneza cAlane cIvare vare .
+dA''banto divi gaNgAyAM kule kAlakfte ca dA .. 69 ..
+upadAyAM ca nEvedye nirnATA vanitA ca dA .
+dEH striyAM devakanyAyAM dIbanto devatarpaRe .. 70 ..
+Do viDAtA DanaM Darme Do guhye guhyakeSvare .
+DaScA'SvADAraBUte'pi vahnO vAde'vaDAyake .. 71 ..
+deSaBede Bfte BIte DastaTopari varttate .
+DaM ca zaRQe ca pAruzye DUrvaDUvad Duri smftaH .. 72 ..
+BAre DOrnOvadAdizwA DIrbudDO DAtuvat striyAm .
+DyAne DenO DarAyAM ca DErEdantaH pumAnayam .. 73 ..
+Df tA(nA) patirapi prokto DuSca DUrto'tiDfzwakaH .
+vaYcane DaM ca tatsenA DA striyAM ca taTA'Dike .. 74 ..
+DiH samagre suDAvArdDO lohe DOrapi cezyate .
+DoSabdaH ke nipAtezu prAhuH padavicakzaRAH .. 75 ..
+no nare ca sanATe'pi no'narTe'pi pradarSyate .
+nfSabdo'pi nare nATe nA narO nara ityapi .. 76 ..
+na no iti nipAtO dvO nU dIrGo'pi taToditaH .
+pfcCAyAM nu vitarke'pi ni-rniSabdO taTA'vyayam .. 77 ..
+;p{0006}
+nIbanto lakzmIvAcyaH syAnnIrnetari niyO niyaH .
+nuH stutO dIrGahrasvaH strI nErnOSca taraRO striyAm .. 78 ..
+nUSabdaH pAtake puMsi vAyO klIbe nu vAriRi .
+naM brahmaRi taTA'nante sAnande naM ca nandane .. 79 ..
+paH sUrye SozaRe vahnO pAtAle varuRe'nile .
+paritrARe kzame kzetre nipAte paNkasaNkule .. 80 ..
+uccadeSe sTale paM syAt pUH pavitre puvO puvaH .
+pUH pfTivyAM vaDUvat syAt pOrapi strI yaTA ca nOH .. 81 ..
+pAbantaH pI ca pA lakzmIparyAyO DAtuvacca pAH .
+pASabdArTe pumAneza zazWyAM paH postaTA ca pAm .. 82 ..
+BAnuvat paRqite puH syAt pawahe puruzottame .
+piH puMsi pIqitArAve sAgare sAdare dare .. 83 ..
+Po'pAradarSane deve nyAye jYAne ca nIraDO .
+PaM cAyatana-bIje PaM Pale PaM nizPale DvanO .. 84 ..
+PA''banto mfga-mArIce PA PaRA PaM PaRe ca PA .
+cakravarttini PaM klIbe lABe loBe viparyaye .. 85 ..
+mUrttO qayane PaM cArke mAhendre jAlake ca Pam .
+sagarBA yozitA PI syAt PUrvaDUvad ruzAkule .. 86 ..
+bo dantyOzWyastaTOzWyo'pi varuRe vAruRe vare .
+SozaRe pavane ganDe vAse vfnde ca vAriDO .. 87 ..
+vandane vadane vAde vedanAyAM ca bA striyAm .
+JaYJAvAte taTA mantre sarvamantre'mftAtmakaH .. 88 ..
+bI gatArTe viSezArTe vinipAtitaKAdane .
+janane prajane kAntO tadrUpaM bIrbiyO biyaH .. 89 ..
+bIbanto bI nadInATe bA''banto bA ca vAsane .
+DAtuvad bA ca SabdArTe be bo bO bi Niti smftaH .. 90 ..
+BA BAskare BAsvare'pi BAyAM BA Bogayoziti .
+pitf-BrAtf-pitfvyezu Bo'tiBIte Ba Akule .. 91 ..
+BaM nakzatre Bage Boge BItO BIH strI BiyO BiyaH .
+BUH pumAn vedanAyukte BUrBUmiH strI BuvO BuvaH .. 92 ..
+BA''banto DAtuvaccApi BAzito'rTe BavA-''SayoH .
+vaDUvad BUrdDane BUH strI BU sattAyAM dvayorapi .. 93 ..
+mo mantre mandire mAne sUrye candre Sive viDO .
+mAyAvini vfTAmantre mAraRa-pratidAnayoH .. 94 ..
+maM mOlO moGavfttO maM mA''bantaH strI ramA-'rcayoH .
+Buvi mAne ca mAtrA mA mA nipAto nizeDakaH .. 95 ..
+dIrGa-hrasvO mu-mUSabdO banDanArTe triliNgakO .
+meredantaH pratidAne hiMsAyAM mIrmiyO miyaH .. 96 ..
+DAtuvad mA Dane mAne banDane mOryaTA'sti gOH .
+strI-puMsayormitermiH syAt preraRe mEstaTA raRe .. 97 ..
+yaH sUrye tArake candre yA ramA-mAtf-yAtfzu .
+vAyuvege jale yaM syAd yAcake yo'tikutsane .. 98 ..
+yo yAtari rujAM lagne Sayane yAne ca vAhane .
+yuktO ca yA ca yAtrAyAM yo yaTArTe striyAM ca yA .. 99 ..
+DAtuvad yA ca SabdArTo gamane nirDane'Sane .
+yamAhuryogayogAQyaM yaM sasAre saritpatO .. 100 ..
+raH sUrye'gnO Dane kAme raM jale raNga-vegayoH .
+rA ramA ramaRI bAlA raM tIkzRe karkawe dfQe .. 101 ..
+rESabdo'Ta jale svarRe rADye ranDre ca raM smftam .
+ro nAde vedane Cede rA dAne DAtuvat smftaH .. 102 ..
+ru-rO SabdO pumAMsO dvO SamBuSabdArTavAcakO .
+rI SravaRe rurBaye klIbe rI ca nArI pativratA .. 103 ..
+meroH pariBrame BAnO ruH puMsi rasane striyAm .
+mahendre lo mfte gatyAM lA ca lakzmIrlamambaram .. 104 ..
+liH puMsi lAve Sabde lIrDAtuvallavane trizu .
+laM klIbe lopane'pi syAdapUrRe laM prakIrtitam .. 105 ..
+;p{0007}
+lA dAne DAtuvad laM ca dAnA''dAne la Alaye .
+ASleze laM suKe vAde dfSye lOSceti BAzitaH .. 106 ..
+lUrDAtuvacCedane lOH strI lA lIlA-vilAsayoH .
+upAlamBe taTA lABe loBe'pi lErdayA-''dare .. 107 ..
+SaH sUrye SoBane SIte SaM suKe SA ramA-'mbayoH .
+ASIrvAde ca SIbantaH SaH SaSANke'cCavAriRi .. 108 ..
+raSmO Saste taTA svacCe So maheSe mahArRave .
+zo'tiroze'pavarge zaH prakzare sAnu-veDasoH .. 109 ..
+nAryASleze suKe zaM syAt paRqite'pi zamAdftam .
+zaqUrmirahite zaM syAjjAlake Bezaje ca zam .. 110 ..
+suKa-duHKe same zOrnA zuranitye nfpottame .
+vfzasyantI satI zA strI naBo-nakzatrayorapi .. 111 ..
+saH some somapAne'pi sUrye pakziRi tApase .
+vfze ca saH sadAnande sA SriyAM saM vanaM Danam .. 112 ..
+yOvane'pi samAKyAtaM vastuvfnde samAhftam .
+pUjAyAM su nipAto'sti sUrvaDUvacca mAtari .. 113 ..
+somasUH sUH suvO puMsi prasavArttA nitambinI .
+saM siH puMsi parokze'pi sA ca devI sarasvatI .. 114 ..
+haM harze cEva hiMsAyAM hIre hAre harO ca haH .
+hOstyAge caraRe vyADO kzaH kzaM kzetre kzaye gfhe .. 115 ..
+;c{.. iti viSvaSamBupraRItA ekAkzaranAmamAlikA samAptA [1] ..}
+
