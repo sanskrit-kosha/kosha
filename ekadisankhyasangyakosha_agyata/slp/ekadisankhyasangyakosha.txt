@@ -1,0 +1,156 @@
+;METADATA
+;title{ekAdisaMKyAsaMjYAkoza}
+;author{ajYAta}
+;bookFullName{ekAkzarakozasaMgrahaH}
+;bookSeriesDetails{}
+;editor{Editor of 1 to 26 koshas - Pannyas Ramnikvijay, Reeditor - Muni Rajsundarvijay}
+;editorQualifications{}
+;publisher{SrutajYAna saMskArapIWa, vAsaRavALA kampAuRqa, viSvanaMdikara jEna derAsara ke sAmane, BagavAna nagara kA wekarA, aruRa sosAyawI ke pAsa, pAlaqI, ahamadAbAda-7, caMpakaBAI: mo. 9436010323, niraMjana SAha: mo.9825860488, Website - www.rajparivarindia.com, Email - shrutgnan@yahoo.com}
+;pressDetails{jaya jinendra grAPiksa (nitIna SAha - jaya jinendra), 30, svAtI sosAyawI, seMwa Jeviyarsa skUla roqa, navaraMgapurA, ahamadAbAda. jaya jinendra: mo. 9825024204, kuSa: mo. 9925617992}
+;publicationYear{2019 A.D.}
+;dataEntryBy{Dr. Dhaval Patel}
+;dataEntryEmail{drdhaval2785@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{ESSK}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. SRKKF for funding. 2. Muni Rajsundarvijay ji for allowing us to digitize the texts. 3. Dr. Dhaval Patel for spending time to type and proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{There are two versions of this work in this volume. The present work is the one which is published from page 196 onwards in appendix.}
+;nymic{syno}
+;pagenum{true}
+;linenum{false}
+;chapterArrangements{kanda}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{12 April 2020}
+;version0.0.2{25 May 2020}
+;version0.0.3{25 May 2020}
+;version0.0.4{25 May 2020}
+;version0.1.0{25 May 2020}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+﻿;p{0200}
+;c{[2] ekAdisaMKyAsaMjYAkozaH}
+;k{ekasaMKyAvAcakAH SabdAH}
+;c{1. ekasaMKyAvAcakAH SabdAH-}
+Aditya-meru-candra-prAsAdA dIpa-daRqa-kalaSASca .
+Kaqga-haranetra-Seza-svardaRqA-NguzWa-hastikarAH .. 1 ..
+nAsAvaMSa-vinAyakadanta-patAkA manAMsi SakraSca .
+advEtavadekEkA evAmI sukaviBirvarRyAH .. 2 ..
+;k{dvisaMKyAvAcakAH SabdAH}
+;c{2. dvisaMKyAvAcakAH SabdAH-}
+Buja-dfzwi-pAda-karRa-stanasaMKyA rAmalakzmaRO SfNgam‌ .
+gajadantO prIti-ratI gaNgAgOryO vinAyakaskandO .. 3 ..
+pakza-nadItawa-raTaDurya-KaqgaDArASca BarataSatruGnO .
+rAmasutO ravicandrAvityete dvandvagA vAcyAH .. 4 ..
+;k{trisaMKyAvAcakAH SabdAH}
+;c{3. trisaMKyAvAcakAH SabdAH-}
+Buvana-vali-vahni-vidyA-sanDyA-gajajAti-SamBunetrARi .
+triSiromOli-daSA-kzetrapAla-PaRa-kAla-muni-daRqAH .. 5 ..
+triPalA triSUla-puruzAH palASadala-kAlidAsakAvyAni .
+vedAvasTA kambu-grIvAreKA trikUwakUwAni .. 6 ..
+harahatapura-triyAmAyAmA yajYopavItasUtrARi .
+jEna(?ne)ratna-cCatra-pradakziRA-gupti-SalyAni .. 7 ..
+mudrA-pramARa-gOrava-SivaBavamArgAH SuBetarA leSyAH .
+sarve'pyamI trisaMKyopetAH kAvye nibadDavyAH .. 8 ..
+;k{catuHsaMKyAvAcakAH SabdAH-}
+;c{4. catuHsaMKyAvAcakAH SabdAH-}
+brahmamuKa-veda-hariBuja-suragajarada-varRa-caturikAstamBAH .
+saNGa-samudrASamaGAta(?)-gostanA-''Srama-kazAya-diSaH .. 9 ..
+gajajAti-yAma-senANga-daRqahastA mahAjane vaRijaH .
+daSaraTaputropAya-DyAna-kaTA-'Binaya-rIti-gocaraRAH .. 10 ..
+mAlA-stabaka-karANguli-saMjYA-suraBeda-yojanakroSAH .
+ete salokapAlAH kAvye yojyAScatuHsaNKyAH .. 11 ..
+;k{paYcasaMKyAvAcakAH SabdAH}
+;c{5. paYcasaMKyAvAcakAH SabdAH-}
+smarabARa-pARqavendriya-karANgulI-SamBumuKa-mahAyajYAH .
+vizaya-vyA(ka)raRANga-vrata-vahni-supArSvaPaRiPalA(RA)-
+ScEva .. 12 ..
+paramezWi-mahAkAvya-sTAnaka-tanuvAta-mfgaSiraSca taTA .
+paYcakula-mahABUta-praRAma-paYcottaravimAnAH .. 13 ..
+mahAvrata-marudvfkza-samiti-sTAnakAni ca .
+SastraSramasya cEtAni baDnIyAt‌ paYcasaMKyayA .. 14 ..
+;k{zawsaMKyAvAcakAH SabdAH}
+;c{6. zawsaMKyAvAcakAH SabdAH-}
+rasa-rAga-cakrakoRAstriSironetrA-'ntarARi guRa-tarkAH .
+darSana-gfhamuKa-BUzaRqa-cakriRaH syuriha zaw‌ saMKyAH .. 15 ..
+;k{saptasaMKyAvAcakAH SabdAH}
+;c{7. saptasaMKyAvAcakAH SabdAH-}
+drIpa-ravivAha-pAtAla-SakravAhamuKa-durgati-samudrAH .
+SrIpArSvacihnaPaRiPala(Ra)-tattva-kzetrA-'nalajvAlAH .. 16 ..
+rAjyANga-DAnya-Buvana-svara-kulaparvata-nayAH samaM tAnAH .
+Baya-saptaparRaparRA godAvaryastvamI sapta .. 17 ..
+;k{azwasaMKyAvAcakAH SabdAH}
+;c{8. azwasaMKyAvAcakAH SabdAH-}
+dig‌-deSa-kumBipAlAH kulaparvata-SamBumUrtti-vasavaSca .
+yogANga-vyAkara(Ra)-brahmaSrutyahikulAnyazwO .. 18 ..
+;k{navasaMKyAvAcakAH SabdAH}
+;c{9. navasaMKyAvAcakAH SabdAH-}
+BUKaRqa-kfttarAvaRamuRqa-suDAkuRqa-jEnapadmAni .
+grEveya-rasa-vyAGrIstana-gupti-niDi-grahAstu navasaMKyAH .. 19 ..
+;k{daSasaMKyAvAcakAH SabdAH}
+;c{10. daSasaMKyAvAcakAH SabdAH-}
+rAvaRamuKA-'NgulI-candravAha-yatiDarma-SamBukarRa-diSaH .
+aNgadvArA-'vasTA daSAH punaH saMKyayA daSEva syuH .. 20 ..
+;k{ekAdaSasaMKyAvAcakAH SabdAH}
+;c{11. ekAdaSasaMKyAvAcakAH SabdAH-}
+rudrAkzAstannetrARyaNgopANgAni jinamatoktAni .
+ekAdaSa DruvaM syustaTA jinopAsakapratimAH .. 21 ..
+;k{dvAdaSasaMKyAvAcakAH SabdAH}
+;c{12. dvAdaSasaMKyAvAcakAH SabdAH-}
+guhanetra-rASi-mAsAH saNkrAntyAditya-cakrirAjAnaH .
+cakri-bfhaspatihastAH saBAsado dvAdaSa Bavanti .. 22 ..
+;k{trayodaSasaMKyAvAcakAH SabdAH}
+;c{13. trayodaSasaMKyAvAcakAH SabdAH-}
+praTamajinaBavA-'GozA viSvedevAstrayodaSa Bavanti .
+vidyAsTAna-svara-Buvana-ratna-puruzAnvaya-svapnAH .. 23 ..
+;c{caturdaSasaMKyAvAcakAH SabdAH}
+;c{14. caturdaSasaMKyAvAcakAH SabdAH-}
+jIvA-'jIvopakaraRa-guRamArgala(Ra)-rajju-sUtra-pUrvaBidAm‌ .
+kulakara-piRqaprakfti-srotasvinyaScaturdaSa tu .. 24 ..
+;p{0201}
+;k{paYcadaSa-zoqaSasaMKyAvAcakAH SabdAH}
+;c{15. paYcadaSa-zoqaSasaMKyAvAcakAH SabdAH-}
+paramADArmika-tiTayaScandrakalAH paYcadaSa BavantIha .
+SukrArcizaH SaSikalA vidyAdevyastu zoqaSa BavantIha .. 25 ..
+;c{saptadaSAdisaMKyAvAcakAH SabdAH}
+;c{17,18,19. saptadaSAdisaMKyAvAcakAH SabdAH-}
+saptadaSa saMyamAScAzwAdaSa vidyA-purARAni .
+dvIpAH smftayo jYAtADyayanAnyekonaviMSatigatAni .. 26 ..
+;k{viMSatisaMKyAvAcakAH SabdAH}
+;c{20. viMSatisaMKyAvAcakAH SabdAH-}
+karaSAKA SrIBarturviMSopakAH sakalajananaKA-'NgulyaH .
+daSakanDaranetra-BujAstu saMKyayA viMSatirvAcyA .. 27 ..
+;k{SatasaMKyAvAcakAH SabdAH}
+;c{100. SatasaMKyAvAcakAH SabdANkAH-}
+kamaladala-rAvaRANguli-SatamaKamaKa-jalaDiyojanAni
+syuH .
+SatapatrIpatrA''dimajinasuta-DftarAzwranfpatisutAH .. 28 ..
+japamAlA-maRihArasrajo-'sraruk‌-kIcakAH-
+SatapramitAH .
+ahipatimuKa-gaNgAmuKa-paNkajadala-karendranetrARi .. 29 ..
+;k{sahasrasaMKyAvAcakAH SabdAH}
+;c{1000 . sahasrasaMKyAvAcakAH SabdAH-}
+viSvAmitraSramavarzA-'rjunaBuja-sAmavedaSAKASca .
+puRyanarawWazwa(?dfzwa)candrAH sahasrasaMKyA amI jYeyAH .. 30 ..
+;c{.. ityekAdisaMKyAsaMjYAkozaH samAptaH ..}
+

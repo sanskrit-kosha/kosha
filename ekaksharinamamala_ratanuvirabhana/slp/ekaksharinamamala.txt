@@ -1,0 +1,124 @@
+;METADATA
+;title{ekAkzarInAmamAlA}
+;author{ratanU vIraBAMRa}
+;bookFullName{ekAkzarakozasaMgrahaH}
+;bookSeriesDetails{}
+;editor{Editor of 1 to 26 koshas - Pannyas Ramnikvijay, Reeditor - Muni Rajsundarvijay}
+;editorQualifications{}
+;publisher{SrutajYAna saMskArapIWa, vAsaRavALA kampAuRqa, viSvanaMdikara jEna derAsara ke sAmane, BagavAna nagara kA wekarA, aruRa sosAyawI ke pAsa, pAlaqI, ahamadAbAda-7, caMpakaBAI: mo. 9436010323, niraMjana SAha: mo.9825860488, Website - www.rajparivarindia.com, Email - shrutgnan@yahoo.com}
+;pressDetails{jaya jinendra grAPiksa (nitIna SAha - jaya jinendra), 30, svAtI sosAyawI, seMwa Jeviyarsa skUla roqa, navaraMgapurA, ahamadAbAda. jaya jinendra: mo. 9825024204, kuSa: mo. 9925617992}
+;publicationYear{2019 A.D.}
+;dataEntryBy{Dr. Dhaval Patel}
+;dataEntryEmail{drdhaval2785@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{ENRV}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. SRKKF for funding. 2. Muni Rajsundarvijay ji for allowing us to digitize the texts. 3. Dr. Dhaval Patel for spending time to type and proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{There are two versions of this work in this volume. The present work is the one which is published from page 196 onwards in appendix.}
+;nymic{homo}
+;pagenum{true}
+;linenum{false}
+;chapterArrangements{}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{12 April 2020}
+;version0.0.2{25 May 2020}
+;version0.0.3{25 May 2020}
+;version0.0.4{25 May 2020}
+;version0.1.0{25 May 2020}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+﻿;p{0202}
+;c{[3] kavi ratana vIraBAMRa kfta rAjasTAnIBAzAnibadDa ekAkzarI nAmamAlA}
+;c{.. dohA ..}
+kahata akAra ja viznakUM, puni mahesa mata mAMna .
+A brahmAkUM kahata hE, I juga mA ramA jAMna .. 1 ..
+laGu ukAra saMkara kahyO, dIraGa vizRu sa deza .
+devamAta laGu ri kahE, dIraGa danuja viSeza .. 2 ..
+laGu lfkAra suramAta puni nAgamAta guru hoya .
+e ju kahata he vizRukO, E ju mahesura soya .. 3 ..
+o brahmA ju anaMta OM parabrahma aBimAna .
+kavikula saba hI kahata yUM, aH mahesa ura AMna .. 4 ..
+ka brahmAkUM kahata kavi, vAya sUra puni leza .
+kahata AtamA suza kahUM, ka prakAsa aru leza .. 5 ..
+kaM sira kaM jala kaM ju suKa, ku DaratI Dara citta .
+kUM kusamitakUM jAniyo, bahu viveka Dari citta .. 6 ..
+KaM iMdriya naBa KaM kahyO, KaM ju saraga puni soya .
+kahE su sUnyase KaM sabE, KaM KaMqaga puni hOya .. 7 ..
+GaMwA kiMkini meGasUM, kahata Ga kAra saba koya .
+puni DunihUMsUM GU kahE, dakza gunIjana loya .. 8 ..
+kahata NakAra jUM BEravaha, aru ji visana jiya jAMna .
+puni NakAra svarasUM kahE, catura cora kahu mAMna .. 9 ..
+caMda hi kahata cakAra saba, aru ju cora kaha mAMna .
+soBAsUM saba kahata hE, pakza sabadasUM jAMna .. 10 ..
+CaM niramala saba hI kahE, bahura bIjurI deza .
+CedanahUkUM kahata kavi, puni ju saMbara leza .. 11 ..
+kahata jakAra ju vegasUM, aru ju tejasUM koya .
+pUjAhUMsUM saba kahE, jetA jaya vaha hoya .. 12 ..
+kahata JakAra ju BEravaha, bahura nazwa kahu~ soya .
+puni JakAra vaMcaka kahyO, GaraGara svara hI hoya .. 13 ..
+mUQa rUpa vizayAtamA, aru ju gAyana hi gAya .
+Jarajara svarasUM kahata hE, sabE YakAra banAya .. 14 ..
+wa pfTivIsUM kahata kavi, waM vAyasa bahu jAMna .
+kahata wakAra ju ISvarI, varahu ju svastana mAMni .. 15 ..
+kahata WakAra visAlasUM, puni DanasUM saba koya .
+caMdamaMqala WaM kahata kavi, qa saMkaraDuni hoya .. 16 ..
+QakkAkUM Qa kahata kavi, Dvani nigUQa kaha jAMna .
+puni RakAra kahi jAMnasU, aru ju stuti kahu AMna .. 17 ..
+cora kroDa puni puCi kahu~, kahu~ takAra de citta .
+BayarakzaRa ju TakAra kahu~, silA samUhI mitta .. 18 ..
+veda dAMna dAtArasUM, arU kalitra da mAMni .
+DAM DAta Dana baMDana hi, kahata DakAra su jAMni .. 19 ..
+kahata jAMna viSvAsa puni, aru ju nizeda nakAra .
+nO nAvakahU kahata hE, paMqita samaJa nihAra .. 20 ..
+pavana pAtari pAvana kahu~, kahu~ pakAra nita mitta .
+raRya susupta PakAra kahu~, pragawa ju tina kahuM nitta .. 21 ..
+JaMJAvAya PakAra kahu~, kahu~ PakAra Bayarakza .
+nizwajalA su PakAra kahu~, aru PakAra hI dakza .. 22 ..
+PUMkAre PUM kahata kavi, aPaLa vacana PU Ahi .
+puni bakAra saMgrAma kahi, aru pravesa kahu~ mAMhi .. 23 ..
+Ba nakzatra puni Bramara, Ba dIpata BAnU BUma .
+BayakAraRa BI kahata saba, tA kahUM citta na JUma .. 24 ..
+caMdra rudra sira mA kahata, mA lacCI paramAna .
+mAla mAta azRA...mI, muni baMDana mU jAMni .. 25 ..
+maM jama kAla yakAra kahi, sUra SrezWa mana mAMna .
+jAMna jAta aru tyAga kahuM, buDajana kahata sujAMna .. 26 ..
+kAma anala aru vajra puni, Sabda rUpa Dara citta .
+kahu~ rakAra jala sravanako, rawwana Baya kahuM nitta .. 27 ..
+iMdra lavana data vyAja puni, kahi lakAra parasidDa .
+lI Slezama layasUM kahE, laH nistaka kahu vridDa .. 28 ..
+sAMtvana varanu ravI ta kahuM, kahuM vakAra samaratTa .
+gati naya nara aru SrezWa puni, kahuM vakArake arTa .. 29 ..
+kahata sakAra paroKakUM, puni somA ati SrezWa .
+SaM kalyAnaha kahata hE, saMjukta ti puni SrezWa .. 30 ..
+;p{0203}
+sayanakAja sI kahata kavi, ...vIdo(?)haMsA mAna .
+kahata zakAra paroKakUM, JAla KarI kahuM WAna .. 31 ..
+kahata zakAra ju snehakUM, aru sUlA kahuM mAna .
+haraha hakAra vicitra hE, he saMboDana WAna .. 32 ..
+kahata kzakAra ju kzImakUM, kzamA kzanekA jAMna .
+Ada akAra kzakAra lOM, yaha viDa baranata BAMna .. 33 ..
+viduzana muKa suni taraka zawa, azwAdasa hi purAMna .
+nAmamAla ekAkzarI, BAzI ratanUM BAMna .. 34 ..
+;c{iti SrIGaqoIrA ratanUM vIraBAMRa kfta ekAkzarI nAmamAlA sampUrRA .. saM. 1956 nA varze SrAvaRavadi 3 ravO lizitA SrIgoqIjI praSAdAt‌ ..}
+
