@@ -1,0 +1,208 @@
+;METADATA
+;title{avyayakoSa}
+;author{ajYAta}
+;bookFullName{dvAdaSakoSasaMgrahaH}
+;bookSeriesDetails{}
+;editor{}
+;editorQualifications{}
+;publisher{bAbU vArARasI prasAda}
+;pressDetails{jYAnavApI ke pUrva PAwaka para SrIviSvanATajI ke pAsa SrI3yuta mahArAja SivalAla dubejI ke makAna me CapI . jinako lenA hoya unhone isa CApeKAne ke kArya saMpAdaka bAbU vArARasIprasAda yA kacOrI galI meM BAI pratApasiMhajI ke dukAna para milegI .}
+;publicationYear{1929 V.S.}
+;dataEntryBy{Dr. Dhaval Patel}
+;dataEntryEmail{drdhaval2785@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{AVYK}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. SRKKF for funding. 2. https://jainelibrary.org/ for providing us the scanned book to digitize. 3. Dr. Dhaval Patel for spending time to type and proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{homo}
+;pagenum{true}
+;linenum{false}
+;chapterArrangements{kanda}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{20 May 2020}
+;version0.0.2{20 May 2020}
+;version0.0.3{28 May 2020}
+;version0.0.4{28 May 2020}
+;version0.1.0{29 May 2020}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+;p{0001}
+;c{gaReSAya namaH ..}
+;c{aTa avyayakoSaprAramBaH ..}
+gajAnana namaste'stu kArya(?)viGnahare namaH .
+viSvasyAkahare hAre sarvalokaSivaNkaram .. 1 ..
+SrIyuktaM(?) paramAnandaM vande svAnandavigraham .
+yasya sAnniDyamAtreRa cidAnaMdA(?)yate vapuH .. 2 ..
+avyayArTaprakASaM SrImahAdevaH kftI suDIH .
+sidDAntakOmudIM tattvaboDinIM sumanoramAm .. 3 ..
+purARakAvyakoSAdIn samAlocya gurUktitaH .
+vitpitsUnAM pratanute bAlAnAM boDasidDaye .. 4 ..
+kva ca matsadfSo mandaH kva ceyaM kftiradButA .
+gaNgADarapadAmBojakfpayA kftaye viBuH .. 5 ..
+svaH svarge paraloke syAduccErmahati sUriBiH .
+nIcErmanAkkiMcidIzadetAnyalpe manIziBiH .. 6 ..
+fDaksatye viyoge ca SIGrasAmIpyayorapi .
+lAGavArTe samAKyAtaM nAnA'nekanizeDayoH .. 7 ..
+jozaM mOne suKe ca syAdArAddUrasamIpayoH .
+fte mAkirmakirmAkImantareRa hi rukvinA .. 8 ..
+antarA ca pfTak varje pAdapUrtO tu ka smftam .
+cireRa cirarAnnAya cirasya ca cirAya ca .. 9 ..
+ci(?)raM cirAddIrGakAle proktaM kaM‌ vAri mUrDani .
+puno'jvaDAraRe DIrErviSezApraTamArTayoH .. 10 ..
+avo bahiSca bAhyarTe prAgatItArTakaM matam .
+maDye samIpe samayA tulyArTe vipravatsmftam .. 11 ..
+kfTAmu---DO vyarTe nindABartsanayoSca Dik .
+naktaM rAtrAvuzA dozA niSi -ktAni sUriBiH .. 12 ..
+nAnonananA sambanDe nizeDArTe manIziBiH .
+prAduridDAviretAni prakASe nAmni sUriBiH .. 13 ..
+arDe jugupsite sami pretyAmutra BavAntare .
+sPuwe'vaDAraRe tattve'rcA'dDA proktaM manIziBiH .. 14 ..
+nizeDASaNkayornAma nUnaM tarke'rTaniScaye .
+sanAtsanatsanA nitye kadarTe kutsite ku- .. 15 ..
+SIGrArTakAlaBUyastvADunArTapraSnakezu jyok .
+akasmike vimarSe ca sahasoktaM manIziBiH .. 16 ..
+ahnAya drAk SukaM maMkzu Jawiti JAgiti drute .
+ASu sadyaH sapadyuktaM tvE viSezavikartayoH .. 17 ..
+mOne tu tuzRIM tUzRIkaM proktaM sAyaM niSAmuKe .
+alaM BUzaRaparyAptiSaktivAraRavAcakam .. 18 ..
+;p{0002}
+upAMSu cAprakASe vA uccAraRarahasyayoH .
+proktaM miTo miTo'nyonye sahArTe ca rahasyapi .. 19 ..
+UrDvArTe samakAle ca prabAhukaM pravAhikA .
+anukaM dvE vitarke ca tvaYjasA SEGratattvayoH .. 20 ..
+KyAtAnekArTake sattvA sAkaM sArdDaM samaM saha .
+antike nikazA DIrEH kUpatpraSnapraSaMsayoH .. 21 ..
+vA vikalpopamApAdapUraRe'pi samuccaye .
+anvAcaye samAhAra itaretarayogake .. 22 ..
+sAdfSyA navaklfptyoSca tvavaDAraRasAmyayoH .
+SaSvannitye sahArTe'pi tvADikye cAvaDAraRe .. 23 ..
+viSeze praTamArTe'pi nvEre dAne tvanAdare .
+evAvaDAraRe sAmyArnavaklfptyormanIziBiH .. 24 ..
+yAvattAvacca sAkalye'vaDO mAne'vaDAraRe .
+ivetTamarTayoH sAmyAvaDAraRamate'pi ca .. 25 ..
+amaNgIkAra uktaM jYeraNgIkAre tu cAm smftam .
+pratizeDe vicAre'pi netsamuccayaSaNkayoH .. 26 ..
+maNgalAnantarAramBapraSnakArtsnyADikArake .
+samuccaye pratijYAyAmaTATo ca prakIrtitAH .. 27 ..
+huM kutsanAyAM vArtAyAmalIke'pi kila smftam .
+avarze navaklfptO ca garhAyAM yatra kIrtitam .. 28 ..
+pAdapUrtAvatIte sma pra- cAnunaye tvapi .
+hanta harze'nukampAyAM vAkyAramBavivAdayoH .. 29 ..
+nizeDavAkyAlaNkArajijYAsAnunaye Kalu .
+upakrame ca hiMsAyAM kutsane tvAdaha smftam .. 30 ..
+prAtaH praBAta upaDABede proktA natO namaH .
+antarmaDye ruzoktAvA aho AmantraRe'dBute .. 31 ..
+antardDAne tu sanutaH kriyAmAndye SanE smftam .
+dyatu proktaM prAtilomye pAdapUraRahiMsayoH .. 32 ..
+svAhA devahavirdAne SrEzaqvOzaqvazawsvaDA .
+anyArTe'nyat kzamA kzAntO Sambaw citABimuKyayoH .. 33 ..
+glAnO pratAM samAnArTe praSAntvistArake praSAn .
+balAtkAre cAryahalaM vihasA vipadarTake .. 34 ..
+asUyAyAmupagame svacCande kAmamIritam .
+viSeze praTamArTe vA'vaDAraRasahArTayoH .. 35 ..
+muhuH punaH punaH SaSvadaBIkzRamasakftsamAH .
+sukaM prakAmaM balavadvikalpe'tiSaye samAH .. 36 ..
+nityaM tvajasramaniSaM santataM nityadA samAH .
+sAtatyArTe pfTivyAM BUraM tarikze Buva smftam .. 37 ..
+rodasI dyopfTivyarTe nindAyAM duzwu kIrtitam .
+;p{0003}
+aNgIkAre brahmaRi ca matamotu prakIrtitam .. 38 ..
+praSaMsAyAM vikalpe ca suzWu proktaM manIziBiH .
+nyAyye dve sAmprataM sTAne nASe'stamatinirBare .. 39 ..
+pUjane'pi su ca proktaM sAkzAtpratyakzatulyayoH .
+sAci proktaM tiryagarTa utkarze varaza smftam .. 40 ..
+vitatArTe mfTA miTyA yaTArTaM tu yaTAtaTam .
+haMho'dButArTake proktaM sAdfSye va smftaM buDEH .. 41 ..
+saMvadvarze'vare tvarvAgyaTAsvaM tu yaTAtaTam .
+nizyamaM duzya- garhye tvavaSyaM niScaye smftam .. 42 ..
+Anuzak tvanumAnArTe Suklapakze sudi smftam .
+kfzRapakze vadi proktaM pratyAramBe naha smftam .. 43 ..
+pAdapUrtO prasidDO ha kvacitkAmapravedane .
+pratIcyAM carame paScAt nirdeSArTe taTA hi tu .. 44 ..
+avadattaM pradAne syAtsamyagarTe paSu smftam .
+hetO ca --cet dyudyadi ca pakzAntaraminittayoH .. 45 ..
+paripraSne vitarke ca Bartsane huM prakIrtitam .
+cawu cAwu priye vAkye sAdfSyArTa iva smftam .. 46 ..
+ANIzadarSe'BivyAptO sImADAtvarTayogayoH .
+maryAdAyAM smftaM sadBirA tu smaraRavAkyayoH .. 47 ..
+samboDananizeDArTADikzepezu manIziBiH .
+Astu kope ca pIqAyAmiti vismayajugupsayoH .. 48 ..
+o pyAw pAqaNga he hE Bo I O e E u U BagoH .
+aye dyostviti sambudDO laNGane'tIvanirBare .. 49 ..
+prakarzArTe'pi pUjAyAmiti svitpraSnatarkayoH .
+cAnvAcayo samAhAra itaretarayogake .. 50 ..
+samuccaye pAdapUrtAvAnande vismaye smftam .
+arDANgIkArake satyamasA sahasamIpayoH .. 51 ..
+kutsezadarTe pAke ku kiM pfcCAyAM jugupsane .
+maNgalASIHkzepapuRye svasti proktaM manIziBiH .. 52 ..
+Bede'vaDAraRe pAdapUraRe tu manIziBiH .
+KedAnukampAsantozavismayAmantraRe bata .. 53 ..
+praSnAvaDAranAnujYAnunayAmantraRezvapi .
+viroDoktO nanu proktaM vitarkapraSnayornu ca .. 54 ..
+iti hetuprakaraRAvaDAraRasamAptizu .
+prakarze'dButa Ananda AryAbanDe manIziBiH .. 55 ..
+syAtprabanDacirAtIte vikawAgAmike purA .
+atvarite samAKyAtaM viSezApraTamArTayoH .. 56 ..
+itTaMBUtAKyAnake ca vIpsAlakzaRaBAgake .
+;p{0004}
+aBi proktaM ca vidvadBirvarjane tvapa kIrtitam .. 57 ..
+itTaMBUtAKyAnake ca vIpsAlakzaRaBAgake .
+varjane ca pari proktamupa hIne'Dike buDEH .. 58 ..
+praTame tvarite KyAtaM nikawAgAmike'grataH .
+itTaMBUtAKyAnake ca vIpkzAlakzaRaBAgake .. 59 ..
+pratidAne pratiniDO prati proktaM manIziBiH .
+itTaMBUtAKyAnake ca vIpsAlakzaRaBAgake .. 60 ..
+pratIcyAM carame hIne sAdfSe'nu manIziBiH .
+garhAsamuccaye praSne SaNkAsamBAvanAsvapi .. 61 ..
+garhAsamuccaye praSne SaNkAsamBAvane su ca .
+vikalpa uta saNKyAtameva ityetTamarTayoH .. 62 ..
+sAmye'vaDAraRe proktaM mata eva manIziBiH .
+nAma prakASasamBAvyakroDopagamakutsane .. 63 ..
+urayUrI corarI ca vistAre'NgIkftO trayam .
+samIpo BavataH SIGrasAkalyABimuKe'BitaH .. 64 ..
+tiro'ntarDO tiryagarTe nirniScayanizeDayoH .
+yadvA yaTA taTA sAmye DIrErhO hI ca vismaye .. 65 ..
+dizwyA SamupajozaM vA Anande mAsma vAraRe .
+sakftsahEkavAre syAdahahA'dButaKedayoH .. 66 ..
+avaDAraRahetvoSca patpUrtO kovidEH smftam .
+yattadyatastato hetAvasakalpe tu kiYcana .. 67 ..
+kadAcijjAtu cEkArTe hA vizAdaSugArtizu .
+anukUlyArTakaM prADvaM prasahya tu pragfhya tu .. 68 ..
+hawArTe ca samAKyAte viSezApraTamArTayoH .
+aNgAvaDAraRe proktaM vikalpe kiM kimu dyu ca .. 69 ..
+ahotAho kimuta proktAnyetAni sUriBiH .
+samantatastu pariBiH sarvato vizvagizvapi .. 70 ..
+tadA tadAnIM yugapade kadA sarvadA tadA .
+etarhi sampratIdAnImaDunA sAmprataM taTA .. 71 ..
+uBayedyuScoBayedyuH pare tvahni paredyavi .
+hyo'tIte'nAgate'hniSca paraSvastu pare'hani .. 72 ..
+digdeSakAle pUrvAdO prAgudakpratyayAdayaH .
+adyAtrAhnyaTa pUrve'hnItyAdO pUrvottarA parA .. 73 ..
+SrImadavyayakoSaM hi satAM santozakArakam .
+paWatAmapi mandAnAM jYAnaM Bavati niScitam .. 74 ..
+amba tvatpadapaNkajayostvatkArito'rpito'yaM granTo'taH .
+vitpistUnAM BajatAM jYAnaM BUyAt prasAdate .. 75 ..
+;c{iti avyayakoSaH}
+
