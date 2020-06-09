@@ -1,6 +1,6 @@
 ;METADATA
 ;title{kalpadrukoSaH}
-;author{keSavasvAmin}
+;author{keSava}
 ;bookFullName{Kalpadrukośa of Keśava}
 ;bookSeriesDetails{Gaekwad's Oriental Series No. XLII}
 ;editor{Rāmāvatāra Śarmā}

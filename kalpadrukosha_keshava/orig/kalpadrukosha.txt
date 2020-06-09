@@ -1,6 +1,6 @@
 ;METADATA
 ;title{कल्पद्रुकोशः}
-;author{केशवस्वामिन्}
+;author{केशव}
 ;bookFullName{Kalpadrukośa of Keśava}
 ;bookSeriesDetails{Gaekwad's Oriental Series No. XLII}
 ;editor{Rāmāvatāra Śarmā}
