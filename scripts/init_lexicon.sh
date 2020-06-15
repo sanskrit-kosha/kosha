@@ -1,3 +1,5 @@
+# Usage - bash init_lexicon.sh book_author
+# e.g. - bash init_lexicon.sh abhidhanachintamani_hemchandra
 cd ..
 mkdir $1
 cd $1
