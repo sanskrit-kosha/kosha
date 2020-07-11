@@ -49,7 +49,39 @@
 ;version1.0.0{}
 ;CONTENT
 ﻿;p{0001}
-;c{missing in scan.}
+;k{maNgalAcaraRam}
+vande sadAnandamayaM samantAjjyotiH paraM brahma BavAdisevyam .
+DyAnEkagamyaM jagadekaramyaM yadicCayA kAraRakAryaBAvaH .. 1 ..
+AsIt kzmAtalamaRqale nfpakulEH saMsevitaH SrIyutE-
+rBUpAlaH SulamAna KAna iti yaH kIrtipratApojjvalaH .
+yaddordaRqapratApacaRqadahanEH kalpAntasUryapraBEH
+pratyarTikzitipAlakA raRaBuvi kzoBAkulAH Serate .. 2 ..
+
+tasyEvaM jagadekavIratanujaH KyAto jaganmaRqale
+ISA KAna mahIpatiH sTiramatirvaNgEkaraNgotsavaH .
+dfptErdvAdaSaBUmipEScirataraM tIkzmAMSucaRqapraBEH
+SIlena pratideSapAlanaviDO saMsevyamAno'Bavat .. 3 ..
+
+etasmAdajani pratApamihiraH satkIrtiSItadyuti-
+rdAnaSrIbaliBUpatiH svamahimaSrIvAmadevaH svayam .
+mUCAKAna maSandaellinfpatiH SrImAn mahImaRqalaM
+SAsti dvAdaSaBUmipEH punaridaM BrUBaNgamAtrEH kftI .. 4 ..
+
+tasyAjYAvaSataH suDArasamayIM sacCizyasantozinIM
+nAnAtantravidArasAralalitAM jYAnapradAnojjvalAm .
+DIraH SrImaTureSa eza tanute SrISabdaratnAvalIM
+santaH santu vinoditA nfpasaBaM santozayanto'nayA .. 5 ..
+
+vilokya bahutantrARi SabdaratnAvalImimAm .
+vaNgEreva nibaDnAti prAyaH paryAyavistftEH ..
+kvApi ca pratisaMskAro'nukte SizwaprayogataH .
+parapUrvoBayAvfttisahaSabdAnuSAsanAt ..
+strI puM napuMsakaM jYeyaM rUpaBedena kutracit .
+tadviSezaviDeH kvApi sAhacaryAt kvacidBavet ..
+anuktezvekaliNgezu dvandvaH kila Bavediha .
+uktezu BinnaliNgezu tatrApyeza na dozaBAk ..
+liNgatraye trizviti syAt strIpuMsayordvayoriti .
+nizidDe SezaliNgantu vAcyaliNgaYca kutracit ..
 ;p{0002}
 ;k{svarAdikARqaH}
 ;v{svargavargaprakASaH}
@@ -11118,7 +11150,7 @@ uH Sive U viDO fH syAddevamAtari frdivi ..
 lfradityAM X ditO ca ervizRO ErmaheSvare .
 o brahmaRyOranante ca aM viDO aH pitAmahe ..
 ;p{0300}
-;v{avyayavargaH}
+;v{nAnArTavargaH}
 aTAvyayanAnArTASca kiyantaH kaTitA pare .
 ;vv{a}
 
@@ -11376,6 +11408,7 @@ hIhI hAsye vismaye ca hehE samboDanAKyayoH ..
 haM samboDane ca darpe ca damBapraSne ca kIrtyate .
 ahaha syAtparikleSaKede'dButapraharzayoH .
 ;c{ityanekArTavargaH ..}
+;v{ekArTavargaH}
 aTa ciraM cireRa syAccirAya cirataScirAt .
 cirasya cirarAtrAya dIrGakAlArTakA ime ..
 vAraMvAraM muhuH SaSvadasakfcca punaH punaH .
