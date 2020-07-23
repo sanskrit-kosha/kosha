@@ -1,0 +1,316 @@
+;METADATA
+;title{avyayArRava}
+;author{jayaBawwAraka}
+;bookFullName{Literary Gems from Sanskrit Literature (A Study of Rare Manuscripts)}
+;bookSeriesDetails{}
+;editor{Dr. Siddharth Yeshwant Wakankar}
+;editorQualifications{Deputy Director, Oriental Institute, M.S.U., Baroda}
+;publisher{Bharatiya Kala Prakashan, Delhi (India)}
+;pressDetails{}
+;publicationYear{}
+;dataEntryBy{Dr. Dhaval Patel}
+;dataEntryEmail{drdhaval2785@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{AVJB}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. SRKKF for funding. 2. Dr. Dhaval Patel for spending time to proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{homo}
+;pagenum{true}
+;linenum{false}
+;chapterArrangements{kanda}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{23 July 2020}
+;version0.0.2{23 July 2020}
+;version0.0.3{23 July 2020}
+;version0.0.4{23 July 2020}
+;version0.1.0{23 July 2020}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+;p{0130}
+;c{SrIH}
+;c{avyayArRavaH .}
+;k{praTamaH taraNgaH}
+maheSvarapadAmBojavilasadBfNgamAnasaH .
+jayaBawwArakaH SrImAn sa karotyavyayArRavam .. 1 ..
+ye tvavyayaparIkzArTamanovfttivicitratAH .
+etatparIkzakAste syustaraNgatrayasaMmitam .. 2 ..
+SabdArRavAntarAsaktA ye'vyayAH syurmanoharAH .
+nAnArTakAstAnevAdya kurve'tra bahuvisPuwam .. 3 ..
+araM tvagre ca DArAyAM SiKAyAM maRqale'pi ca .
+AraM parasamUhe syAtparamArTasvarUpayoH .. 4 ..
+adyAnandamanoBAvavikArAkAravastuzu .
+prastutADAraparyAyaparAkAzWASarIrizu .. 5 ..
+aTAnuvAkAdyAramBapraSnakArtsnyAvaDAraRe .
+aho vikAra AScarye vismaye paramAdBute .. 6 ..
+aTo'pyavaDivaraSrezWavastuvEcitryavismfte .
+akaM vikzepa AScarye vikArasvapnayorapi .. 7 ..
+ayan samaste sarveSe sADAraRaviSezayoH .
+AyannavyaTa AmaM tu dravasArasakArasAH .. 8 ..
+AhA vitarke ramBAyAM saMramBe vismaye'pi ca .
+iha prastutaByojyArhavartamAnezu saMmatam .. 9 ..
+;p{0131}
+IhassaMroDasOBAgyavEravEcitra(trya)vAcakaH .
+iLlABiprAyasarvajYaboDakArakaBAjane .. 10 ..
+itTaM pUrvoktapUjArhacarAcaraviSoBane .
+Adi prakaraRe mUlye pUrtihetupravfttizu .. 11 ..
+ati prakfzRa(zwa)caramapraSaMsAtikramAdizu .
+uta prakArAntare ca vitarkapraSnayorapi .. 12 ..
+samuccaye samAhAre sAmAnyajYAnayorapi .
+ataScitre ca hetO ca vikAraparimARayoH .. 13 ..
+astu vistftapIqArGyAsumatIprasavAdizu .
+itassamaste tadBAgAdizu muKye ca mAnase .. 14 ..
+kati kAsArasAmantabahutarkAdike'pi ca .
+virale viSade hetO mohe mAyAvikArayoH .. 15 ..
+kuto vitarke kutsAyAM praSne citraprakArayoH .
+viroDe mAnase cApi cintAsvArasyapUrtizu .. 16 ..
+kaTaM prakAre praSne ca samBrame samBave'pi ca .
+kamaWe kaWine mUle cintAvistArayorapi .. 17 ..
+kamAlasye ca kaRWe ca Siro'mbuyugalAdizu .
+kiM vitarkAnumAnArhapraSnasvAmimahAtmasu .. 18 ..
+kaccitpraSne kAmanAdivArtAvAriDisAnuzu .
+samBAvanAyAM sAmarTye svArasyasaralAdizu .. 19 ..
+tataH paScArDasAmAnyAnantarye ca prakArake .
+tAvacca pAdAlaNkAre vikArapraSnayorapi .. 20 ..
+taTA tu tatprakAre syAtpaScAttApe parigrahe .
+samIcIne manohAre'pyAScarye ca vimohane .. 21 ..
+tasmAditi kvacitkAryakAraRAdO ca kaTyate .
+anvanujYAsamyagarTavAcAlakaWinezu ca .. 22 ..
+punassadArTayossamyagarTe cApi viboDane .
+vikAre vismfte mohe paryAptiviSadAdizu .. 23 ..
+miTo'nyonye rahasye ca vikArapraSnayorapi .
+virale vistfte cApi vilolanaviSAlayoH .. 24 ..
+;p{0132}
+SaSvatsamastapratyakzatulyavEcitryavArizu .
+BedAnukampamohAdivismayAmantraRezu ca .. 25 ..
+sahEkavAre harze ca sambudDO ca sahArTake .
+svastivAcanasAmarTyasADAraRavilolanAH .. 26 ..
+paScAtpratIcyAmAnande carame gehakAlayoH .
+paripAke parADAre PAlaSUlAdike'pi ca .. 27 ..
+suzWu praSaMsane citte sOBAgye sarale'pi ca .
+sahavAse nivAse ca sADAraRavilAsayoH .. 28 ..
+bAQaM cAnumatO dArQye dfQe harzavizAdayoH .
+vAkyAramBe'nuvAke ca pUrRavisPuwayorapi .. 29 ..
+gAQaM manohare PAle dfQe muKye ca Bezaje .
+batAnukampe praSne ca Kede mantre ca vismaye .. 30 ..
+santoze vimuKe Bede gehe janapade'pi ca .
+prati pratiniDO muKye cABimuKye manohare .. 31 ..
+vIpsAyAM lakzaRe BAge kedAre mohane'pi ca .
+prItidAne DAraRe ca vyavahAraviSezayoH .. 32 ..
+yaTABimuKyasAdfSye yogye vIpsAprakArayoH .
+vfTA nirarTake vyADe boDe mADavacitrayoH .. 33 ..
+nanvu saMjYe vilole ca pfcCAnunayaDAraRe .
+vyavahAre BAzaRe cAnujYAyAM ca viboDane .. 34 ..
+nAnA bahuvikAre syAtsADAraRasuduzyayoH .
+manAt(k) svalpe ca nindAyAM vihAre ca paricCade .. 35 ..
+anumAne ca pAdANke pAlane mIlane'pi ca .
+hIne sAdfSyamUlArTapaScAdarTAdike'pi ca .. 36 ..
+kiM nu praSne vitarke ca vikAre viSade'pi ca .
+sAdfSye sarase sAre sADAraRaviSezayoH .. 37 ..
+upahIne'pi cAramBe'pyAcAryakaraRAdike .
+antike vAyucalane'pyAcAre ca tirohite .. 38 ..
+api praSne ca SaNkAyAM paScAdBAge vihAyasi .
+garhaRe kAmane cApi cintane ca samuccaye .. 39 ..
+;p{0133}
+aBi sarvatra saMKyAyAM samAptO sADuBAzaRe .
+sAkalye ca vikAse ca sArasye ca sadAgatO .. 40 ..
+sAmi tvarDe jugupsAyAM vicAre haraRe'pi ca .
+Andolane gurudrohe'pyatisvacCe ca vastuni .. 41 ..
+nAma prakASye kutsAyAM sAmIpye ca tirohite .
+samBAvye'NgIkftO hAnO DigarTe maraRe'pi ca .. 42 ..
+kimu sparSe ca SAKAyAM BAvane ca paricCade .
+samBAvanAyAM mohe ca vikalpe cApi kaTyate .. 43 ..
+kAmaM prakAme praSne cAnunaye ca vicAraRe .
+aye tu BAzaRe harze smaraRe kroDapIqayoH .. 44 ..
+hanta harze ca sAmAnye vikzepe'pi vizAdane .
+vAkyAramBe dayAyAM ca dAne tyAge vihAyasi .. 45 ..
+ityAScarye vizAde ca samAptO sADane'pi ca .
+santozaRe sADuvAde hetO viSadalolayoH .. 46 ..
+garhA vigarhaRe citte vfttO boDe ca nindite .
+samuccaye ca SaNkAyAM praSnasamBAvanAdizu .. 47 ..
+jozaM tu tUzRIkAre syAtsuKe suKitaBAvayoH .
+mozaM vicCedane rikte mohezvAScaryalIlayoH .. 48 ..
+masaM tu maline rAve kArye kAlapravAsayoH .
+alaM gu BUzaRe pUrRe tuzwO niScayakAlayoH .. 49 ..
+paryAptivAraRe SaktO kAryAkAryavicAraRe .
+svaH svarge ca pare loke samAhAre ca sADane .. 50 ..
+kila mAne ca kutsAyAM vArtAsamBAvyayorapi .
+Kalu syAnnalaye vAkyAlaNkAre'nunaye'pi ca .. 51 ..
+jijYAsAyAM ca sAmarTye nizeDe ca tirohite .
+purastvagre praDAne ca praTame ca kfte'Kile .. 52 ..
+praDvaMsane ca nindAyAM vAride ca vidAraRe .
+purO nibanDane mAnye pUrvakAle ca pUrite .. 53 ..
+pUrakArTe'pi saMmohe pUjyAlasyatalezu ca .
+evaM pUrvoktasAmAnyavakzyamARaprakArake .. 54 ..
+;p{0134}
+prAdurjanmani sAmarTye cittABoge'pi sADane .
+prakASane prakAre ca samBAzaRavirAvayoH .. 55 ..
+tirogate vikAre ca vizAde'dButaharzayoH .
+antarDAne tiryagarTe pIqAmohaBayezu ca .. 56 ..
+paristu parito rAve BAve dUzaRaBUzayoH .
+lakzaRe liNgane tyAge paritApe ca rocane .. 57 ..
+ArAttu kaWine dUre parihAre viSoDane .
+samIpe sADuBAve ca sArasye ca tirohite .. 58 ..
+vESoDane parIkzAyAM pArAyaRaviroDayoH .
+paWane paWito BAve pAdapUraRamokzayoH .. 59 ..
+tu dUre maline BAve kuwIre kukkuwe'pi ca .
+sma smite carite sOmye'pyaNgIkAre ca gohfdi .. 60 ..
+divA sUryapraBAyAM syAdiqa mAse ca candrake .
+pfTagviBAvane Bede Bedite mOnacintayoH .. 61 ..
+kadAcidarTe jAtu syAdaKile paritApane .
+ekavArArcitAnandavimalezu ca kaTyate .. 62 ..
+sAkaM sahArTe sAkalye saYcAre cOlakarmaRi .
+BfSaM tu cintAkulite cintane SEtyapEtyayoH .. 63 ..
+prakarzaRe ca prahare praharzAtyarTayorapi .
+aho'pyAScaryakaruRAvilambanavizAdake .. 64 ..
+tarhi praSne cottarArDe vicAre ca vizAdane .
+muhustu punararTe syAdADarAve viloqane .. 65 ..
+sAkzAttulye ca sAkalye pratyakze prakare'pi ca .
+maNkzu SIGre ca sindUre pippalAYjaviloqane .. 66 ..
+satrA sahArTe sAmarTye pravAhe ca paricCade .
+mAyAyAM boDane pakze PAlAkzamaRikuRqale .. 67 ..
+muDApyarTe ca vErAgye jYAne'jYAne ca SaNkare .
+kiYcittvalpArTa AnAye pelave ceti kecana .. 68 ..
+tUzRIM mOne ca boDAyAM saMjYAyAM sAhasAlayoH .
+sadyastatkAlasAmIpyavihAravimalezu ca .. 69 ..
+;p{0135}
+dizwyA dEve dEvaBAve samprAptO pUraRe'pi ca .
+mAsma hIne parityAge viroDo vikale'pi ca .. 70 ..
+yadyaNgIkAraBAvArTarohaRArohaRezu ca .
+duzwu vipre ca patite mUrKe SunakaSePasoH .. 71 ..
+prAkpUrvArDe gatArDe ca prAbalyaSalayorapi .
+marAdapi syAttarale sOmye sOKye'tiBezake .. 72 ..
+yadA tu jAyamAne syAdyajYakarmaviroDayoH .
+yattu nIce'ti cAScarye paricAraRanindayoH .. 73 ..
+evamanye tatra tatra prasidDA api kecana .
+UhyAstaraNgaBAvArTamevaM proktaM mayADunA .. 74 ..
+;c{iti SrImatsamastaSabdAntaraNgavidvicitraBAzAnATaBUzaRaBUpAlAKilasaMsevyamAnapAdAravindajagadvijayapraBAvavirAjitajayaBawwakavirAjaviracite'vyayArRave praTamastaraNgaH ..}
+;k{dvitIyaH taraNgaH}
+samA sADAraRAnujYatIvratvaritavAcakaH .
+aYjasAnumatAcArye pUrake prakawAdike .. 75 ..
+praBAve cAlane mAne suBAve BAvalIlayoH .
+puratastu purArTe syAtpUrvArDe vijaye'pi ca .. 76 ..
+pUrvatassarvakArye syAtpUrvIye praTame'pi ca .
+amAhetyadBute Kede vizAde ca tirohite .. 77 ..
+paritassarvatastiryagA(ga)BiSastO viloqane .
+sAkalye sarvatoBadre sAmAnyAKilayorapi .. 78 ..
+sarvatra sarvatassarvasAkalyAKilavAcakO .
+antaraM tAratamye syAdAlApe vigrahe'pi ca .. 79 ..
+aBitassarvataScitre govfnde niKile'pi ca .
+tIre pravAhe mUlye ca vyavasAyasvarUpayoH .. 80 ..
+aKilaM tu samaste syAtkedArAdO viBAvasO .
+dayArase ca dAkziRye niryAsAdO ca BAzaRe .. 81 ..
+samastaM tattvasArAdO sarvatassaNgate'pi ca .
+saMvAdo sarasAlApe --cAhlAdamehayoH .. 82 ..
+;p{0136}
+pfzWataH pfzWaBAge syAccarame patite mfte .
+kArAdO kaWine mAze mUzake kuwilAkzaRi .. 83 ..
+aBIkzRamaniSe sUkzme tiryagjantO ca Bezaje .
+muhurarDe(rTe) prakarze ca praharze ca sftAvapi .. 84 ..
+purastAtpraTame co(cA)gre cAgri durvfttanindyayoH .
+purArTe pUrvaBAge ca pUrvadeSe'pi viSvapi .. 85 ..
+antaraM maDyame viGne pApAtmani kulAdike .
+vAsudeve surO cApi tintriRIrasa izyate .. 86 ..
+mAlinye pariBAze ca pIqane pApacintane .
+mOrKye mohe'pavAde ca nArake jAlpake'pi ca .. 87 ..
+prasahya tu balAtkAre kAWinye musalAyuDe .
+caRqAle Brazwakftye ca pillake kAlaje'pi ca .. 88 ..
+sAmprataM prastute sAmye SaSvadarTe'pi kAraRe .
+kOwilye vyavahAre ca kOlapatye'pi kaTyate .. 89 ..
+yaTArTaM tu yaTAnyAyye yaTAsve ca yaTAyaTe .
+yAtArTye yAvake loke vandArO pfTule'pi ca .. 90 ..
+viDure kaWine nitye cAlinyAM mUlasADane .
+yaTAyogye yaTArhe ca yaTAkalpana ityapi .. 91 ..
+pratyaye tu prakaraRe prAramBe yogaBogayoH .
+ekArTe pratiGAte ca pOle pUjye ca Bezaje .. 92 ..
+avaSyaM niScaye vinne mohane pratyagAtmani .
+tiryagjantO SmeDasi ca yonO ca madirAgfhe .. 93 ..
+aTakiM tu praSnaBede nirASe nirgate hate .
+vicAre vismfte BAge jalajantO viSoDane .. 94 ..
+anyonyaM mAnuze mAyAcintAsaNkalpakAraRe .
+paraspare ca DArAyAM vicAre ca paricCade .. 95 ..
+pUrvedyuH pUrvadivase gate dine ca candane(ndrake) .
+pAtitye patite cApi mAtApitfviGAtane .. 96 ..
+paredyuH paravAre syAtpare ca paramAtmani .
+mftyuYjaye ca vikawe virADe malinAyasoH .. 97 ..
+;p{0137}
+paraSvastu parArADe pAdArhe ca pare'hani .
+paraSvaTe ca paSuke viSAle dozasamBfte .. 98 ..
+tadAnIM tu tadA kAle tatkAle tAdfSe'pi ca .
+pOlapatye ca pAzaRqe pARqitye'pi ca pAyase .. 99 ..
+idAnIM prastute mUlye daDitTe rAmaRIyake .
+haNkftO hAsyabIBatsavihArAsArapUrtizu .. 100 ..
+yugapat pfTule cEkadA sarvAKilaboDizu .
+sAkalye maline SIte Svete ca maruBUmizu .. 101 ..
+aDunA vartamAnArTe vicAraSaradaBrayoH .
+vihAre prakfte lIne prakftArTe vicAraRe .. 102 ..
+sAmprataM prastute mUle DvanO mAhizyavAsayoH .
+sarase virase vIrye svaBAve kalpane cale .. 103 ..
+antatassaralArTe syAdaDunArTe viSoDane .
+aDe yuktArTa AnAye'Kile cEtye ca pUlane .. 104 ..
+upAMSu tu rahasye syAdviSrARanaviSAlayoH .
+vilokane ca sAmarTye viBAvAdimanojYayoH .. 105 ..
+;c{iti SrImatsamastaSabdAntaraNgavidvicitraBAzAnATaBUzaRaBUpAlAKilasaMsevyamAnapAdAravindajagadvijayapraBAvavirAjitajayaBawwakavirAjaviracite'vyayArRave dvitIyastaraNgaH ..}
+;k{tftIyaH taraNgaH}
+samantatassarvato'rTe svABAve'pi dale'pi ca .
+sEnyavinyAsaBede syAtsAmarTye lokasaMmate .. 106 ..
+antareReti Sabdastu sAkalye SamalAmBasoH .
+maDye ca maraRe Bede nindAyAM kruDi ca priye .. 107 ..
+kila DAnu maruprAyaBUmISAntaPalAdizu .
+SabakAnaM tu SAmbaryAM Sabale SAbare'pi ca .. 108 ..
+yaTAyaTaM yaTAnyAyye yaTAsvaM ca yaTocite .
+yaTocitaM yaTAyogye muKye mANgalyadamBayoH .. 109 ..
+yaTAtaTaM yaTArTe syAdAcAre saMmate marO .
+maraRe DarmaSAstre ca nyAyye mokze prayojane .. 110 ..
+;p{0138}
+cikitsAyAM ca SAntO ca deve dEvye ca dAruRe .
+vEdye vAruRamantrAdO vAsizWe vayasIkfte .. 111 ..
+yaTAnyAyyaM yaTAnyAye yaTArhe kAmamokzayoH .
+yaTArTe yAjake rAjYaBrazwO kzeme ca mArake .. 112 ..
+anantaraM tu SezArTe cikitsAyAM viSoDane .
+vamane vArijAnande vAtApiScelvalo'pi ca .. 113 ..
+paramparA tu sAntatye'pyanUcAre cidAtmani .
+pAramArTikamAnuzyamohadArakavArizu .. 114 ..
+uparyupari cittABoge ca pAzaRqaBUBftO .
+sarvo durge ca santAne santApe vikftAvapi .. 115 ..
+parItakaM mahAsattve pAramArTikaSAlyayoH .
+mOne mAyAvikArAdipUjAdimalinAdike .. 116 ..
+vasaDAraM manojYe syAdvicitre vEdyaSAstrayoH .
+kAnticOryaparIRAmamahArajatakAYcanam .. 117 ..
+cakkaqAraM mahAsattve sOKye sADye ca BUzaRe .
+mAlinye ca manojYe ca vihAraraRayorapi .. 118 ..
+matikaraM mahASApe kope cApi ca tAdfSe .
+cikkaRe cApi SArdUle vilole raRamUrDani .. 119 ..
+sADakandaM vihAre syAdBrazwakftye ca vAriRi .
+cUqAkarmaRi cOle ca sAnnAye ca sadAgatO .. 120 ..
+carvIkftaM tu sApitye sArvajYye carmaRi smftam .
+carmakAre kvacijjYeyaM SArIramalakiwwayoH .. 121 ..
+uYcavAlaM viSaraRe parijAte ca pAdape .
+matsyAkzyAM mOsale citte -- cAti kvacitsmftam .. 122 ..
+gaQaKawwaM viloke syAtsAntatye saMvftAvapi .
+gAmAnayeti saMjYAyAM gAne gaNgAsarijjale .. 123 ..
+SatabAqaM tu SAkunte cAturye SaNkare'pyahO .
+vAcAle'pi ca vAcAwe kutsite pApacintake .. 124 ..
+;c{iti SrImatsamastaSabdAntaraNgavidvicitraBAzAnATaBUzaRaBUpAlAKilasaMsevyamAnapAdAravindajagadvijayapraBAvavirAjitajayaBawwakavirAjaviracite'vyayArRave tftIyastaraNgaH samAptaH ..}
+
