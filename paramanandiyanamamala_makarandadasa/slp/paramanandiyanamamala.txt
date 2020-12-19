@@ -75,7 +75,7 @@ aM veDasi taTA rudre'pyaMkAraH kaTito buDEH .
 kaM jale mastake sOKye kaH svarge smarasUryayoH .. 9 ..
 brahmavAyusuhftkekivahnyudyotamAtmasu .
 kuH pApIyasi mahyAM ca nivAraRakuSabdayoH .. 10 ..
-kimAScarye vitarke ca praSre kzepajugupsayoH .
+kimAScarye vitarke ca praSne kzepajugupsayoH .
 kiyatyaTa KamityuktamindriyAkASayonaye ? .. 11 ..
 candrabimbe varRaKaRqasaMvitsvargasuKezu ca .
 Ko ravO kaTitaM gIte gaM gastu gaRanAyake .. 12 ..
@@ -2222,7 +2222,7 @@ surataM saMprayogaSca saMveSanaM rahoratI .. 200 ..
 saMBogo grAmyaDarmaSca mETunaM kAmakelyapi .
 paSukriyAniDuvane vyavAyo miTunaM ca tat .. 201 ..
 antarvatnyAM garBiRI codariRI garBavatyapi .
-ApannasattbA SradDAlugurvI syAddohadAnvitA .. 202 ..
+ApannasattvA SradDAlugurvI syAddohadAnvitA .. 202 ..
 prasUtikA prajAtA ca jAtApalyA vijAtikA .
 garBe tu garaBastulyO BrURo dohadalakzaRam .. 203 ..
 garBaSayo jarAyUlbe prasave vijananaM smftam .
@@ -2733,7 +2733,7 @@ itTaM SabdAstriDA rUQamiSrayOgikasaMjYakAH .
 sAmastyenABiDAtuM tAnna SaktervAkpatiryataH .. 441 ..
 ;p{0157}
 viSvahemAmarAnantanAmapArAyaRezu ye .
-dfzwAstAn SiSuboDAya paramAnda uktavAn .. 442 ..
+dfzwAstAn SiSuboDAya paramAnanda uktavAn .. 442 ..
 ;c{iti SrIkAyasTaciravArIyamATuravaMSaviBUzaRamaRiSrImadgaQamalANgaja-}
 ;c{SrImatparamAnandanandanandanaviracitAyAM paramAnandIyanAmamAlAyAM}
 ;c{caturTaH paricCedaH samAptaH ..}
@@ -2752,7 +2752,7 @@ tadaNgajaH SrIharidAsanAmA
 baBUva BAgyodayacaRqaBAnuH .
 trayo'Bavan tattanayA guRAQyAH
 paropakArapraTitA jagatyAm .. 4 ..
-parSuramastadAdyo'BUdvitIyaScaturABiDaH .
+parSurAmastadAdyo'BUddvitIyaScaturABiDaH .
 narendracandra ityAKyastftIyaH sodaro'Bavat .. 5 ..
 parSurAmeRa saMprAptaM SrImatsAhisikandarAt .
 sAmrAjyaM yavanapure sadAdAnEkavfttinA .. 6 ..
