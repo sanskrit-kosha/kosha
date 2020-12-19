@@ -1,4 +1,4 @@
-function generateTab(data, outTran) {
+function generateTab(data, outTran, hw) {
 	x = '';
 	var starter = 0;
 	for (dict in data){
@@ -17,8 +17,26 @@ function generateTab(data, outTran) {
 			chapterDetails = block1.dictionary + ', ' + block1.kanda + ', ' + block1.varga + ', ' + block1.adhyaya + ', ' + block1.versenum + ', ' + block1.page;
 			chapterDetails = Sanscript.t(chapterDetails, 'slp1', outTran);
 			verse = block1.verse;
-			verse = Sanscript.t(verse, 'slp1', outTran);
-			x += verse;
+			v = []
+			while((i = verse.indexOf(hw)) != -1) {
+				i = verse.indexOf(hw);
+				j = i + hw.length - 1;
+				s = Sanscript.schemes['slp1']
+				while (i > 0 && s.consonants.includes(verse[i-1]))
+					i--;
+				v.push(Sanscript.t(verse.slice(0, Math.max(0, i)), 'slp1', outTran));
+				while (j < verse.length && s.consonants.includes(verse[j])) {
+					j++;
+				}
+				if (j < verse.length && s.vowels.includes(verse[j]))
+					j++;
+				if (j < verse.length && s.other_marks.includes(verse[j]))
+					j++;
+				v.push('<b>' + Sanscript.t(verse.slice(i, j), 'slp1', outTran) + '</b>');
+				verse = verse.slice(j, verse.length);
+			}
+			v.push(Sanscript.t(verse, 'slp1', outTran));
+			x += v.join('');
 			x += '<br />(' + chapterDetails + ')';
 			x += '<hr></hr>'
 			}
@@ -48,7 +66,6 @@ async function getApi() {
 	console.log(url);
 	const response = await fetch(url);
 	const data = await response.json();
-	x = await generateTab(data, outTran);
+	x = await generateTab(data, outTran, hw);
 	document.getElementById("tabs").innerHTML = x;
 }
-
