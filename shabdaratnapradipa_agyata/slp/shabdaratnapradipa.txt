@@ -94,7 +94,7 @@ mUrDni citte jale kAye muKe brahmaRi mArute .
 kAme kAle suvarRe ca kaH Sabdo draviRe DvanO .. 19 ..
 jIve rAjYi ravO Darme tapasvini turaMgame .
 site pakziviSeze ca haMsaSabdo hare'pi ca .. 20 ..
-raso jalaM raso harzo rasaH SrfNgArapUrvvakaH .
+raso jalaM raso harzo rasaH SfNgArapUrvvakaH .
 rasaH puzpAdiniryAsaH pArado'pi raso vizam .. 21 ..
 kzIre puzparase toye maRqe madye Gfte'sfji .
 saptasvarTezu kIlAlaM kaTayanti manIziRaH .. 22 ..
@@ -605,7 +605,7 @@ pUrvAparoktamaklizwaM hfdgataM svagataM matam .. 35 ..
 spazwaM citrapadaM nAma grAmyamaSlIlamucyate .
 kAYcanaM rajataM proktaM hiraRyAKye kftAkfte .. 36 ..
 Ahate ca smfte rUpye tato'nyat kupyamucyate .
-BUzaRaM kanakaM SrfNgI gavAdyaM pAdabanDanam .. 37 ..
+BUzaRaM kanakaM SfNgI gavAdyaM pAdabanDanam .. 37 ..
 veSyAvAso'pi veSaH syAdAtodyaM murajAdikam .
 arTaprayogamAcAryAH kuSIdaM paricakzate .. 38 ..
 vArdDuzikyaM ca tadvfttistatkriyA ca vikURikA .
@@ -664,7 +664,7 @@ manvAdiDarmaSAstrARi smftayaH smaraRAdapi .
 fgyajuzoraDItI yaH sa hotA'Dvaryurizyate .. 64 ..
 sAnnAyyaM havireva syAdudgAtA sAmato mataH .
 AzAQo vratinAM daRqaH somapITIti somapaH .. 65 ..
-svasaMskArAd dvijo Brazwo vrAtya ityABiDIyate .
+svasaMskArAd dvijo Brazwo vrAtya ityaBiDIyate .
 tyaktAgnirvIrahA prokto dIkzito maKasomapaH .. 66 ..
 yajamAnaH smfto yazwA hutAgnO ca vazawkftam .
 izwApUrtaM DruvaM dAnamanyat pUrvamudAhftam .. 67 ..
