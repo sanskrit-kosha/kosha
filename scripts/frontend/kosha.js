@@ -24,7 +24,7 @@ function generateTab(data, outTran, hw) {
 				s = Sanscript.schemes['slp1']
 				while (i > 0 && s.consonants.includes(verse[i-1]))
 					i--;
-				v.push(Sanscript.t(verse.slice(0, Math.max(0, i-1)), 'slp1', outTran));
+				v.push(Sanscript.t(verse.slice(0, Math.max(0, i)), 'slp1', outTran));
 				while (j < verse.length && s.consonants.includes(verse[j])) {
 					j++;
 				}
