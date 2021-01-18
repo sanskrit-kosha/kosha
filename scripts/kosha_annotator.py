@@ -186,6 +186,7 @@ def annotate_kosha(filein, fileout):
     """Annotate filein and return fileout."""
     fin = codecs.open(filein, 'r', 'utf-8')
     fout = codecs.open(fileout, 'w', 'utf-8')
+    print(fileout)
 
     c1 = 0  # Counter for headwords in basewords. Some confidence.
     c2 = 0  # Counter for headwords not in basewords. Mostly need intervention.
