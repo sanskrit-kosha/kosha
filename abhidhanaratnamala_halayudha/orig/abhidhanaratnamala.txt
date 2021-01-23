@@ -13,7 +13,7 @@
 ;proofReaderEmail{drdhaval2785@gmail.com}
 ;annotatedBy{}
 ;annotatorEmail{}
-;version{0.3.5}
+;version{1.0.0}
 ;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
 ;projectWebPage{http://github.com/sanskrit-kosha/kosha}
 ;emailTo{drdhaval2785@gmail.com}
@@ -44,8 +44,8 @@
 ;version0.3.3{17 January 2021}
 ;version0.3.4{17 January 2021}
 ;version0.3.5{17 January 2021}
-;version0.3.6{}
-;version1.0.0{}
+;version0.3.6{19 January 2021}
+;version1.0.0{19 January 2021}
 ;CONTENT
 ;nymtype{syno}
 ;p{0001}
@@ -4537,3 +4537,5 @@ $इति
 #हेतु,प्रकारादि,समाप्ति
 इतिशब्दः स्मृतो हेतौ प्रकारादिसमाप्तिषु ॥ ८८७ ॥
 ;c{इति श्रीभट्टहलायुधकृतायामभिधानरत्नमालायामनेकार्थकाण्डं पञ्चमं समाप्तम् ॥ ५ ॥}
+;end{}
+

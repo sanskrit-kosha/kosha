@@ -13,7 +13,7 @@
 ;proofReaderEmail{drdhaval2785@gmail.com}
 ;annotatedBy{}
 ;annotatorEmail{}
-;version{0.3.5}
+;version{1.0.0}
 ;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
 ;projectWebPage{http://github.com/sanskrit-kosha/kosha}
 ;emailTo{drdhaval2785@gmail.com}
@@ -44,8 +44,8 @@
 ;version0.3.3{17 January 2021}
 ;version0.3.4{17 January 2021}
 ;version0.3.5{17 January 2021}
-;version0.3.6{}
-;version1.0.0{}
+;version0.3.6{19 January 2021}
+;version1.0.0{19 January 2021}
 ;CONTENT
 ;nymtype{syno}
 ;p{0001}
@@ -176,7 +176,7 @@ kAmaH SambarasUdano maDusaKaH SfNgArayoniH smftaH .. 32 ..
 darpakaH SUrpakArAtiranaNgo vizamAyuDaH .
 AtmaBUrmanasiSayaH puzpaDanvA manoBavaH .. 33 ..
 mApatyamirajaScEva kAmapatnI ratiH smftA .
-#anirudDa,kAma_sUnu,anirudDa,uzAramaRa
+#anirudDa,kAma_sUnu,uzAramaRa
 anirudDaSca tatsUnuruzAramaRa izyate .. 34 ..
 #Aditya,savitf,sahasrakiraRa,pradyotana,BAskara,tigmAMSu,taraRi,dinamaRi,BAsvat,vivasvat,hari,mArtaRqa,tapana,vikartana,ina,pUzan,pataNga,Baga,sUrya,gopati,yama,dinakara,sUra,aMSumAlin,ravi,mihira,virocana,arka,timiraripu,dyumaRi,aMSumat,aMSu,haridaSva,saptASva,praBAkara,BAnumat,BAnu,braDna,haMsa,Kaga,mitra,citraBAnu,aharpati,karmasAkzin,jagaccakzus,dvAdaSAtman,trayItanu
 AdityaH savitA sahasrakiraRaH pradyotano BAskara-
@@ -315,8 +315,8 @@ alAtamulmukaM jYeyamulkA jvAlAsya nirgatA .. 67 ..
 #hiraRyA,kanakA,raktA,kfzRA,supraBA,atiraktA,bahurUpA,arcis_jihvAH
 Bavati hiraRyA kanakA raktA kfzRA supraBA cAnyA .
 atiraktA bahurUpeti sapta saptArcizo jihvAH .. 68 ..
-#eDa,tarpaRa,inDana,eDa,samiD,iDman
-eDastarpaRaminDanamaDaH samidiDma ityaBinnArTAH .
+#eDa,tarpaRa,inDana,eDas,samiD,iDman
+eDastarpaRaminDanameDaH samidiDma ityaBinnArTAH .
 #BUti,Basita,Basman,kzAra,rakzA
 BUtirBasitaM Basma kzAraM rakzA ca nirdizwA .. 69 ..
 #vanavahni,dava,dAva
@@ -1555,7 +1555,7 @@ galvarkaScAnutarzaSca cazakaH sarakaH smftaH .. 327 ..
 ApAnaM pAnagozWI syAtsapItiH sahapAnakam .
 #upadaMSa,avadaMSa,cakzaRa
 upadaMSAvadaMSO ca cakzaRaM sampracakzate .. 328 ..
-#maDu,Asava,SIDu,surA,prasannA,parisrutA,madirA,madizWA,kAdambarI,svAdurasA,SuRqA,ganDottamA,mADavaka,hAlA,kalya,kaSya,madya,mEreya,kApiSAyana,mADvIka,Asava,parisrut,vAruRI,maDu
+#maDvAsava,SIDu,surA,prasannA,parisrutA,madirA,madizWA,kAdambarI,svAdurasA,SuRqA,ganDottamA,mADavaka,hAlA,kalya,kaSya,madya,mEreya,kApiSAyana,mADvIka,Asava,parisrut,vAruRI,maDu
 maDvAsavaH SIDu surA prasannA,
 parisrutA syAnmadirA madizWA .
 kAdambarI svAdurasA ca SuRqA,
@@ -3400,7 +3400,7 @@ aRiraSristaTA kowiraSraH koRaSca kaTyate .
 kaSmalaM malinaM mlAnaM malImasamudAhftam .. 727 ..
 #Bfti,BftyA,karmaRyA,vetA,mUlya,vetana
 BftirBftyA ca karmaRyA vetA mUlyaM ca vetanam .
-#lipi,AleKyaleKA,lipi,leKAkzara
+#lipi,AleKyaleKA,leKAkzara
 lipirAleKyaleKA syAllipirleKAkzarasya ca .. 728 ..
 #kalpana,kartana,varDana,Cedana
 kalpanaM kartanaM proktaM varDanaM CedanaM taTA .
