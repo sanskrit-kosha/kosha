@@ -199,6 +199,22 @@ def add_shloka_number(filein, fileout):
 	fin.close()
 	fout.close()
 
+
+def shabdaratnakara_add_shloka_number(filein, fileout):
+	fout = codecs.open(fileout, 'w', 'utf-8')
+	fin = codecs.open(filein, 'r', 'utf-8')
+	counter = 0
+	for lin in fin:
+		lin = lin.rstrip('\n')
+		if lin.endswith('॥'):
+			counter += 1
+			lin = lin.replace('॥', '॥ ' + transliterate(str(counter), 'slp1', 'devanagari') + ' ॥')
+			print(counter)
+		fout.write(lin + '\n')
+	fin.close()
+	fout.close()
+
+
 #convert_shashvatakosha('../anekarthasamuchchaya_shashvata/orig/anekarthasamuchchaya_old.txt', '../anekarthasamuchchaya_shashvata/orig/anekarthasamuchchaya.txt')
 #remove_footnotes_from_anekarthatilaka('../anekarthatilaka_mahipa/orig/anekarthatilaka_with_uncorrected_footnotes.txt', '../anekarthatilaka_mahipa/orig/anekarthatilaka.txt')
 #verse_num_anekarthasangraha('../anekarthasangraha_hemachandra/orig/anekarthasangraha.txt', '../anekarthasangraha_hemachandra/orig/anekarthasangraha_bad.txt')
@@ -215,4 +231,5 @@ def add_shloka_number(filein, fileout):
 #pad_page_num('../shivakosha_shivadatta/orig/shivakosha.txt', '../shivakosha_shivadatta/orig/shivakosha1.txt')
 #convert_verse_num_to_devanagari('../anekarthanighantu_dhananjaya/orig/anekarthanighantu.txt', '../anekarthanighantu_dhananjaya/orig/anekarthanighantu1.txt')
 #verse_num_ekarthanamamala('../ekaksharikosha_amarakavi/orig/ekaksharikosha.txt', '../ekaksharikosha_amarakavi/orig/ekaksharikosha1.txt')
-add_shloka_number('../panchatattvaprakasha_venidatta/orig/panchatattvaprakasha.txt', '../panchatattvaprakasha_venidatta/orig/panchatattvaprakasha1.txt')
+#add_shloka_number('../panchatattvaprakasha_venidatta/orig/panchatattvaprakasha.txt', '../panchatattvaprakasha_venidatta/orig/panchatattvaprakasha1.txt')
+shabdaratnakara_add_shloka_number('../../shabdaratnakara_vamanabhatta/orig/shabdaratnakara.txt', '../../shabdaratnakara_vamanabhatta/orig/shabdaratnakara1.txt')

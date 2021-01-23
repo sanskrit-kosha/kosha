@@ -85,7 +85,7 @@ class VerseInfo():
         self.kanda = ''
         self.varga = ''
         self.subvarga = ''
-        self.kandaNum = 1
+        self.kandaNum = 0
         self.vargaNum = 1
         self.subvargaNum = 1
         self.pageNum = 1

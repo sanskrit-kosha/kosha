@@ -24,7 +24,7 @@ def timestamp():
 
 
 # Known stopwords.
-stopwords = set(['mata', 'ca', 'vidu', 'sa', 'jYeya', 'tatra', 'smfta', 'tu', 'aTa', 'api', 'strI', 'striyA', 'na', 'taTA', 'syAt', 'puMsi', 'nA', 'trizu', 'astrI', 'nari', 'sA', 'ukta', 'ya', 'puna', 'Bavet', 'klIba', 'sama', 'cATa', 'ityapi','?', 'para', 'astriyA', 'antya', 'prokta', 'asO', 'syu', 'hi', 'zaRQa', 'eva', 'tadvat', 'vA', 'tat', 'yoziti', 'prakIrtita', 'prakIrttita', 'Bavati', 'samO', 'dvaMdva', 'iti', 'sta', 'syAcca', 'Irita', 'yat', 'atra', 'striyO', 'iha', 'yasya', 'tasya', 'yA', 'nigadyata', 'dvO', 'yadi', 'asya', 'tritaya', 'dva', 'yaTA', 'taTA', 'cApyaTa', 'cA', 'ete', 'amI', 'amUni', 'pumAn', 'zaR', 'kramAt', 'sEva', 'napuMsaka', 'samA', 'cEva', 'paryAya', 'kIrtita', 'cAnyatra', 'ity', 'avyaya', 'kaTyata', 'vartata', 'ucyata', 'procyata', 'tri', 'aya', 'napuMs', 'pumAnBavet', 'pu', 'napu', 'pumAnaya', 'puMnapuMsi', 'cezyata', 'pracakzyata', 'striyAmapi', 'tattri', 'trizUcyata', 'tatstriyA', 'tatklIba', 'tatparikIrtita', 'parikIrtita', 'kIrtyata', 'paricakzyata', 'pracakzata', 'cAvyaya', 'puMnapuMsakayorapi', 'klI', 'zaR', 'Irita', 'tadIrita', 'Bedyavat', 'napi', 'striyAmiya', 'nap', '\u200c', 'nap\u200c', 'pumA', 'punastri', 'nfliNgaka', 'dvayoraya', 'stryarTa', 'apaWIt', 'nfSaRqa', 'punardva', 'pulli~Nga', 'aBiDeyavat', 'manvata', 'dfSyata', 'BedyaliNgaka', 'Baved', 'raBasastvAha', 'nfstri', 'napyada', 'brUta', 'ityaya', 'Sabdavittama', 'kezucit', 'punnapuMsaka', 'ityAha', 'abravIt', 'Sabdavit', 'ajayastvAha', 'punnapa', 'nfstrI', 'ityeza', 'smaret', 'vidyAt', 'cApara', 'strIRA', 'pumAYjYeya', 'nfliNga', 'napstri', 'trirnA', 'iya', 'cAnya', 'pumAMstri', 'prAhu', 'Ahu', 'manIziBi', 'strISaRqa', 'cAha', 'eza', 'raBasa', 'dvaya', 'anya', 'tadvat', 'BedyaliNga', 'vijYeya', 'prAha', 'samAsAdi', 'Aha', 'eza', 'ada', 'taTEva', 'samAsAdyatra', 'smfta', 'kecana', 'kecit', 'yadA', 'kaScit', 'jYeya', 'BUmni', 'ceti', 'Sruta', 'KyAta', 'kvacit', 'strIliNga', 'bahuvrIhi', 'samAsAdIni', 'klIbaliNga', 'anA', 'BAzita', 'kaTita', 'apara', 'ityeva', 'kIrtita', 'etat', 'kutracit', 'vE', 'ida', 'viKyAta'])
+stopwords = set(['mata', 'ca', 'vidu', 'sa', 'jYeya', 'tatra', 'smfta', 'tu', 'aTa', 'api', 'strI', 'striyA', 'na', 'taTA', 'syAt', 'puMsi', 'nA', 'trizu', 'astrI', 'nari', 'sA', 'ukta', 'ya', 'puna', 'Bavet', 'klIba', 'sama', 'cATa', 'ityapi','?', 'para', 'astriyA', 'antya', 'prokta', 'asO', 'syu', 'hi', 'zaRQa', 'eva', 'tadvat', 'vA', 'tat', 'yoziti', 'prakIrtita', 'prakIrttita', 'Bavati', 'samO', 'dvaMdva', 'iti', 'sta', 'syAcca', 'Irita', 'yat', 'atra', 'striyO', 'iha', 'yasya', 'tasya', 'yA', 'nigadyata', 'dvO', 'yadi', 'asya', 'tritaya', 'dva', 'yaTA', 'taTA', 'cApyaTa', 'cA', 'ete', 'amI', 'amUni', 'pumAn', 'zaR', 'kramAt', 'sEva', 'napuMsaka', 'samA', 'cEva', 'paryAya', 'kIrtita', 'cAnyatra', 'ity', 'avyaya', 'kaTyata', 'vartata', 'ucyata', 'procyata', 'tri', 'aya', 'napuMs', 'pumAnBavet', 'pu', 'napu', 'pumAnaya', 'puMnapuMsi', 'cezyata', 'pracakzyata', 'striyAmapi', 'tattri', 'trizUcyata', 'tatstriyA', 'tatklIba', 'tatparikIrtita', 'parikIrtita', 'kIrtyata', 'paricakzyata', 'pracakzata', 'cAvyaya', 'puMnapuMsakayorapi', 'klI', 'zaR', 'Irita', 'tadIrita', 'Bedyavat', 'napi', 'striyAmiya', 'nap', '\u200c', 'nap\u200c', 'pumA', 'punastri', 'nfliNgaka', 'dvayoraya', 'stryarTa', 'apaWIt', 'nfSaRqa', 'punardva', 'pulli~Nga', 'aBiDeyavat', 'manvata', 'dfSyata', 'BedyaliNgaka', 'Baved', 'raBasastvAha', 'nfstri', 'napyada', 'brUta', 'ityaya', 'Sabdavittama', 'kezucit', 'punnapuMsaka', 'ityAha', 'abravIt', 'Sabdavit', 'ajayastvAha', 'punnapa', 'nfstrI', 'ityeza', 'smaret', 'vidyAt', 'cApara', 'strIRA', 'pumAYjYeya', 'nfliNga', 'napstri', 'trirnA', 'iya', 'cAnya', 'pumAMstri', 'prAhu', 'Ahu', 'manIziBi', 'strISaRqa', 'cAha', 'eza', 'raBasa', 'dvaya', 'anya', 'tadvat', 'BedyaliNga', 'vijYeya', 'prAha', 'samAsAdi', 'Aha', 'eza', 'ada', 'taTEva', 'samAsAdyatra', 'smfta', 'kecana', 'kecit', 'yadA', 'kaScit', 'jYeya', 'BUmni', 'ceti', 'Sruta', 'KyAta', 'kvacit', 'strIliNga', 'bahuvrIhi', 'samAsAdIni', 'klIbaliNga', 'anA', 'BAzita', 'kaTita', 'apara', 'ityeva', 'kIrtita', 'etat', 'kutracit', 'vE', 'ida', 'viKyAta', 'kramataH'])
 
 
 def readwords(dictionary):
@@ -35,6 +35,10 @@ def readwords(dictionary):
 basewords = readwords('allheadwords.txt')
 # Create a set. Searching for membership in set is very speedy.
 base = set(basewords)
+# wordcost and maxword are used for infer_spaces function.
+# Build a cost dictionary, assuming Zipf's law and cost = -math.log(probability).
+wordcost = dict((k, log((i+1)*log(len(basewords)))) for i,k in enumerate(basewords))
+maxword = max(len(x) for x in basewords)
 
 
 def prep_line(inputline):
@@ -45,6 +49,11 @@ def prep_line(inputline):
     inputline = inputline.replace('izyate', '')
     inputline = re.sub(r"([oe])'", r"\g<1> a", inputline)  # kumAro'zwa
     inputline = inputline.replace(r"A'", r"A a")  # kumAro'zwa
+    inputline = re.sub(r'YS', r'n S', inputline)  # SreyAYSreyAMsaH->SreyAn SreyAMSaH
+    inputline = inputline.replace('ScA', 'H a')  # samudravijayaSCASvasenaH->samudravijayaH aSvasenaH
+    inputline = inputline.replace('SC', 'H C')  # mfgaSCAgaH->mfgaH CAgaH
+    inputline = inputline.replace(r"ATa ", r"A aTa ")  # naradattATa->naradattA aTa
+    inputline = inputline.replace('stva', ' a')  # atihAsastvanusyUtaH->atihAsa anusyUtaH
     inputline = inputline.replace(' ca ', ' ')
     # '+' and '.' is usually used for denoting undecipherable texts.
     inputline = re.sub('[+.]*', '', inputline)
@@ -53,6 +62,9 @@ def prep_line(inputline):
 
 def prep_word(word):
     """Make changes to words after the split."""
+    word = re.sub(r'stataH$', r'', word)  # sumatistataH->sumati
+    word = re.sub(r'ABiD[aA][H]$', r'a', word)  # padmapraBABiDaH->padmapraBa
+    word = re.sub(r'AKy[aA][H]$', r'a', word)  # yaSoDarAKyaH->yaSoDara
     word = re.sub(r'ityapi$', r'', word)  # kurujANgalamityapi->kurujANgalam
     word = re.sub(r'^pumAn', r'', word)  # pumAnvizaye->vizaye
     word = re.sub(r'zu$', r'', word)  # kIrtizu->kIrti
@@ -83,10 +95,13 @@ def prep_word(word):
     word = re.sub(r'ASca$', r'a', word)  # pUjitASca->pUjita
     word = re.sub(r'ScEva$', r'', word)  # plavagaScEva->plavaga
     word = re.sub(r'^trizv', r'', word)  # trizvADAne->ADAne
+    word = re.sub(r'^Baved', r'', word)  # BavedAmalakI->AmalakI
     word = re.sub(r'eva$', r'', word)  # vanameva->vanam
     word = re.sub(r'^apy', r'', word)  # apyaDokzajaH->aDokzajaH
     word = re.sub(r'Sca$', r'', word)  # prARaSca->prARa
     word = re.sub(r'taTA$', r'', word)  # yAtuDAnastaTA->yAtuDAnas
+    word = re.sub(r'yaT[ao]$', r'I', word)  # svAmyaTo->svAmI
+    word = re.sub(r'yaT[ao]$', r'I', word)  # svAmyaTo->svAmI
     word = re.sub(r'^[0123456789.}\]]+$', r'', word)
     word = re.sub(r'EH', r'a', word)  # nAgarEH->nAgara
     word = re.sub(r'AH$', r'a', word)  # KarAH->Kara
@@ -179,21 +194,28 @@ def infer_spaces(s, maxword, wordcost):
         assert c == cost[i]
         out.append(s[i - k:i])
         i -= k
-    return "+".join(reversed(out))
+    # return "+".join(reversed(out))
+    return list(reversed(out))
 
 
-def annotate_kosha(filein, fileout):
+def space_inferre_correctly(lst):
+    for itm in lst:
+        if itm not in base:
+            return False
+    return True
+
+
+def annotate_0(filein, fileout):
     """Annotate filein and return fileout."""
     fin = codecs.open(filein, 'r', 'utf-8')
     fout = codecs.open(fileout, 'w', 'utf-8')
-    print(fileout)
 
     c1 = 0  # Counter for headwords in basewords. Some confidence.
     c2 = 0  # Counter for headwords not in basewords. Mostly need intervention.
     # For each line in input file,
     for inputline in fin:
-        # If it starts with ';', no further intervention is needed.
-        if inputline.startswith(';'):
+        # If it starts with '[;#$]', no further intervention is needed.
+        if re.search('^[;#$]', inputline):
             fout.write(inputline)
         else:
             # Read words from line.
@@ -221,6 +243,8 @@ def annotate_kosha(filein, fileout):
                     # Increment counter.
                     c2 += 1
             # Write the verse as it is in the output file.
+            words = [sanscript.transliterate(a, 'slp1', 'devanagari') for a in words]
+            # fout.write(','.join(words) + '\n')
             fout.write('#' + inputline + '\n')
     # Close files.
     fin.close()
@@ -229,7 +253,53 @@ def annotate_kosha(filein, fileout):
     print(c1, '\t', c2, '\t', (c1 / (c1 + c2)) * 100)
 
 
-def apply_annotation(code):
+def annotate_1(filein, fileout):
+    """Annotate filein and return fileout."""
+    fin = codecs.open(filein, 'r', 'utf-8')
+    fout = codecs.open(fileout, 'w', 'utf-8')
+
+    c1 = 0  # Counter for headwords in basewords. Some confidence.
+    c2 = 0  # Counter for headwords not in basewords. Mostly need intervention.
+    # For each line in input file,
+    for inputline in fin:
+        if re.search(':1', inputline):
+            fout.write(inputline)
+            c1 += 1
+        elif re.search(':2', inputline):
+            # Initialize two lists of OK and suspect words.
+            deva = re.split(':', inputline)[0]
+            # Transliterate to SLP1.
+            word = sanscript.transliterate(deva, 'devanagari', 'slp1')
+            calculated = infer_spaces(word, maxword, wordcost)
+            goodInference = True
+            for calc in calculated:
+                if calc not in base:
+                    goodInference = False
+                if len(calc) < 4:
+                    goodInference = False
+            if goodInference:
+                for calc in calculated:
+                # Write to the output file with tag 3 i.e. inferred words.
+                    deva = sanscript.transliterate(calc, 'slp1', 'devanagari')
+                    fout.write(deva + ':3\n')
+                    # Increment counter.
+                    c1 += 1
+            else:
+                # Write to the output file with tag 2 i.e. suspect words.
+                fout.write(deva + ':2\n')
+                # Increment counter.
+                c2 += 1
+                # Write the verse as it is in the output file.
+        else:
+            fout.write(inputline)
+    # Close files.
+    fin.close()
+    fout.close()
+    # Calculate statistics and display.
+    print(c1, '\t', c2, '\t', (c1 / (c1 + c2)) * 100)
+
+
+def apply_annotation0(code):
     """Apply autoannotation to the dictionary corresponding to given code."""
     # ENSK -> ekaksharanamamala_sadhukalashagani
     fullName = utils.code_to_dict(code)
@@ -243,7 +313,21 @@ def apply_annotation(code):
         os.mkdir(directory)
     fileout = os.path.join(directory, code + '0.txt')
     # Annotate the filein and store in fileout.
-    annotate_kosha(filein, fileout)
+    annotate_0(filein, fileout)
+
+
+def apply_annotation1(code):
+    """Apply autoannotation to the dictionary corresponding to given code."""
+    # ENSK -> ekaksharanamamala_sadhukalashagani
+    fullName = utils.code_to_dict(code)
+    # ekaksharanamamala, sadhukalashagani
+    bookName, author = fullName.split('_')
+    # Read the .txt file
+    filein = os.path.join('..', fullName, 'annotated', code + '0.txt')
+    # Create output file.
+    fileout = os.path.join('..', fullName, 'annotated', code + '1.txt')
+    # Annotate the filein and store in fileout.
+    annotate_1(filein, fileout)
 
 
 if __name__ == "__main__":
@@ -251,8 +335,10 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         code = sys.argv[1]
         print(code)
-        # Only annotate that code.
-        apply_annotation(code)
+        # Annotate level 0.
+        # apply_annotation0(code)
+        # Annotate level 1.
+        apply_annotation1(code)
     # If no code is specified, run on all dictioanries.
     else:
         with codecs.open('workingdicts.json', 'r', 'utf-8') as fin:
@@ -260,5 +346,7 @@ if __name__ == "__main__":
             # For each proofread dictionary,
             for code in codes:
                 print(code)
-                # Apply annotation.
-                apply_annotation(code)
+                # Annotate level 0.
+                # apply_annotation0(code)
+                # Annotate level 1.
+                apply_annotation1(code)

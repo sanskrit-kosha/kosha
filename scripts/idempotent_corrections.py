@@ -34,6 +34,7 @@ def idempotent_corrections(line):
     line = line.replace(';L', ';l')
     line = line.replace(';C', ';c')
     line = line.replace(';c{ ॥', ';c{॥')
+    line = line.replace('“', '"')
     return line
 
 

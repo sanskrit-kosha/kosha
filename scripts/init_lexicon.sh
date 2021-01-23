@@ -10,5 +10,7 @@ mkdir xml
 mkdir html
 mkdir sample
 mkdir json
+mkdir slp
+mkdir cologne
 touch orig/$1_googleocr.txt
 cd ../scripts

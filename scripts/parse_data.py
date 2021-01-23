@@ -5,6 +5,7 @@ import json
 from collections import defaultdict
 import utils
 import lxml.etree as ET
+from indic_transliteration import sanscript
 """
 Usage - python3 parse_data.py dictCode [babylon|md|json|xml|html]
 e.g. python3 parse_data.py ENSK [babylon|md|json|xml|html]
@@ -13,9 +14,14 @@ For dictCodes, see dictcode.json.
 They are 4 letter codes unique to each dictionary.
 """
 
-__version__ = '1.0.0'
+__version__ = '1.1.0'
 __author__ = 'Dr. Dhaval Patel, drdhaval2785@gmail.com'
 __licence__ = 'GNU GPL version 3'
+
+
+def createdir(mydir):
+    if not os.path.exists(mydir):
+        os.makedirs(mydir)
 
 
 def putVerse(verse, wordsOnHand, result):
@@ -44,8 +50,6 @@ def homonymic_list_generator(content):
     """Prepare a list with (headword, meanings, verse, verseNumDetails and pageNumDetails) tuple."""
     # Making it global so that it can be used in other functions too.
     global verseDetails
-    # Initialize a VerseInfo class instance.
-    verseDetails = utils.VerseInfo()
     # Result will store tuples (headword, meaning, verse)
     result = []
     # Initialize blank verse
@@ -66,8 +70,12 @@ def homonymic_list_generator(content):
                 verseDetails.update_verseNum(verse)
                 (verse, wordsOnHand, result) = putVerse(verse, wordsOnHand, result)
             # Extract the headword and gender from headword line.
-            # Typical headword line is `$headword;gender`
-            headword, gender = line.rstrip().lstrip('$').split(';')
+            # Typical headword line is `$headword;gender` or `$headword`
+            gender = ''
+            if ';' in line:
+                headword, gender = line.rstrip().lstrip('$').split(';')
+            else:
+                headword = line.rstrip().lstrip('$')
             # lineType is appended with 'h' for headword.
             lineType.append('h')
         # If the line is a meaning line,
@@ -80,6 +88,10 @@ def homonymic_list_generator(content):
             wordsOnHand.append((headword, meanings))
             # lineType is marked 'm' for meaning.
             lineType.append('m')
+        # Pass the lines having some other markers like ;k for kanda, ;v for varga etc.
+        elif line.startswith(';end'):
+            # Put the last verse, as there will not be any next headword.
+            putVerse(verse, wordsOnHand, result)
         elif line.startswith(';'):
             (tag, value) = utils.extract_tag(line)
             if tag == 'p':
@@ -90,10 +102,6 @@ def homonymic_list_generator(content):
                 verseDetails.update_varga(value)
             if tag == 'vv':
                 verseDetails.update_subvarga(value)
-        # Pass the lines having some other markers like ;k for kanda, ;v for varga etc.
-        elif line.startswith(';end'):
-            # Put the last verse, as there will not be any next headword.
-            putVerse(verse, wordsOnHand, result)
         # Lines which are unmarked are verses.
         # The verses may span more than one line too. Therefore adding them up.
         else:
@@ -104,8 +112,78 @@ def homonymic_list_generator(content):
 
 
 def synonymic_list_generator(content):
-    """Prepare babylon friendly data from synonymic dictionaries."""
-    pass
+    """Prepare a list with (headword, meanings, verse, verseNumDetails and pageNumDetails) tuple."""
+    # Making it global so that it can be used in other functions too.
+    global verseDetails
+    # Result will store tuples (headword, meaning, verse)
+    result = []
+    # Initialize blank verse
+    verse = ''
+    # lineType list holds 'h', 'm', 'v' for headword, meaning and verse lines.
+    lineType = []
+    # Read the content into list of lines.
+    lines = content.split('\n')
+    # A temporary placeholder which will be emptied into result list
+    # whenever the verse is allocated to it.
+    wordsOnHand = []
+    for line in lines:
+        # If the line is headword line,
+        if line.startswith('#'):
+            # If the preceding line was a verse, and current a headword,
+            # time to add to result list
+            if lineType[-1] == 'v':
+                verseDetails.update_verseNum(verse)
+                (verse, wordsOnHand, result) = putVerse(verse, wordsOnHand, result)
+            # Extract the headword and gender from headword line.
+            # Typical headword line is `#headwords;gender` or `#headwords`
+            gender = ''
+            if ';' in line:
+                headwordData, gender = line.rstrip().lstrip('#').split(';')
+            else:
+                headwordData = line.rstrip().lstrip('#')
+            hwlist = headwordData.split(',')
+            # This creation of hwlist and meanings is arbitrary.
+            # In synonymic dictionaries, there is no headword / meaning.
+            # This artificial partition is just to keep the program similar
+            # for synonymic and homonymic as much as possible.
+            headword = hwlist[0]
+            meanings = hwlist[1:]
+            # lineType is appended with 'h' for headword.
+            lineType.append('h')
+            # Store the (headword, meaning) tuples in temporary wordsOnHand list.
+            # They will keep on waiting for the verse.
+            # Once verse is added, and a new headword starts, this will be added to result list.
+            wordsOnHand.append((headword, meanings))
+        # Pass the lines having some other markers like ;k for kanda, ;v for varga etc.
+        elif line.startswith(';end'):
+            # Put the last verse, as there will not be any next headword.
+            putVerse(verse, wordsOnHand, result)
+        elif line.startswith(';'):
+            (tag, value) = utils.extract_tag(line)
+            if tag == 'p':
+                verseDetails.update_pageNum(value)
+            if tag == 'k':
+                verseDetails.update_verseNum(verse)
+                (verse, wordsOnHand, result) = putVerse(verse, wordsOnHand, result)
+                lineType.append('tag')
+                verseDetails.update_kanda(value)
+            if tag == 'v':
+                verseDetails.update_verseNum(verse)
+                (verse, wordsOnHand, result) = putVerse(verse, wordsOnHand, result)
+                lineType.append('tag')
+                verseDetails.update_varga(value)
+            if tag == 'vv':
+                verseDetails.update_verseNum(verse)
+                (verse, wordsOnHand, result) = putVerse(verse, wordsOnHand, result)
+                lineType.append('tag')
+                verseDetails.update_subvarga(value)
+        # Lines which are unmarked are verses.
+        # The verses may span more than one line too. Therefore adding them up.
+        else:
+            verse += line + '<BR>'
+            # Mark lineType 'v' for verse.
+            lineType.append('v')
+    return result
 
 
 def write_to_babylon(dictData, fileout):
@@ -149,7 +227,7 @@ def write_to_json(dictData, fileout):
     # Prepare the output file
     fout = codecs.open(fileout, 'w', 'utf-8')
     hwDict = prepare_hw_dict(dictData)
-    json.dump(hwDict, fout)
+    json.dump(hwDict, fout, indent=4, ensure_ascii=False)
     # Give some summary to the user
     print('JSON generated. Success!')
     print('{} headwords written to JSON file.'.format(len(hwDict)))
@@ -234,6 +312,35 @@ def write_to_html(xmlfile, xsltfile, htmlfile):
     print('HTML generated. Success!')
 
 
+def write_to_cologne(dictData, colognefile):
+    """Create Cologne compliant file for a given dictionary code.
+
+    """
+    # Prepare the output file
+    fout = codecs.open(colognefile, 'w', 'utf-8')
+    counter = 1
+    # For each (headword, meanings, verseNumber, PageNum) tuples,
+    for (hw, meanings, verse, verseNumDetails, pageNumDetails) in dictData:
+        allHeadWords = [hw] + meanings
+        for hw in allHeadWords:
+            hw = sanscript.transliterate(hw, 'devanagari', 'slp1')
+            # Write meta line
+            # <L>1<pc>1-001<k1>a<k2>a
+            metaline = '<L>' + str(counter) + '<pc>' + pageNumDetails + '<k1>' + hw + '<k2>' + hw + '<vn>' + verseNumDetails
+            fout.write(metaline + '\n')
+            # Write text of entry
+            entry = sanscript.transliterate(verse, 'devanagari', 'slp1')
+            fout.write(entry + '\n')
+            fout.write('<LEND>\n')
+            counter += 1
+    fout.close()
+
+    # Give some summary to the user
+    print('Cologne file generated. Success!')
+    print('{} headwords written to cologne file.'.format(counter))
+
+
+
 if __name__ == "__main__":
     # Read the unique code of dictionary from arguments. ENSK
     code = sys.argv[1]
@@ -258,19 +365,29 @@ if __name__ == "__main__":
     xsltfile = 'maketable.xsl'
     # Get filename of html to store the output
     htmlfile = os.path.join('..', fullName, 'html', bookName + '.html')
+    # Get slp file.
+    # slpfile = os.path.join('..', fullName, 'slp', bookName + '.txt')
+    # Get filename of cologne to store the output
+    colognefile = os.path.join('..', fullName, 'cologne', bookName + '.txt')
     # ';CONTENT' is the marker of end of metadata and start of content.
     (metatext, content) = data.split(';CONTENT\n')
     # Read the metadata in a dict
     metadata = utils.prepare_metadata(metatext)
     # decide whether the dictionary is homonymic or synonymic
     nym = metadata['nymic']
+    # Initialize a VerseInfo class instance.
+    verseDetails = utils.VerseInfo()
     if nym == 'homo':
         # Read the data into a list of (headword, meanings, verse) tuples.
         dictData = homonymic_list_generator(content)
     elif nym == 'syno':
-        # Pending to code the function.
         # Read the data into a list of (headword, meanings, verse) tuples.
         dictData = synonymic_list_generator(content)
+    elif nym == 'mixed':
+        # It presumes that synonymic content precedes homonymic content
+        synomymicContent, homonymicContent = content.split(';nymtype{homo}')
+        dictData = synonymic_list_generator(synomymicContent)
+        dictData += homonymic_list_generator(homonymicContent)
 
     # If the user has specified some specific conversion only, do that only.
     if len(sys.argv) > 2:
@@ -295,5 +412,12 @@ if __name__ == "__main__":
     if len(sys.argv) == 2 or conversion == 'json':
         # Create JSON file.
         write_to_json(dictData, jsonfile)
+    # If no restriction specified or html specified,
+    if len(sys.argv) == 2 or conversion == 'cologne':
+        # Create cologne file.
+        write_to_cologne(dictData, colognefile)
 
-    print('Now use `stardict-editor` to convert babylon to stardict files.')
+    print('1. Use `stardict-editor` to convert babylon to stardict files.')
+    print('2. After conversion, put dict.dz, idx, ifo and syn files in stardict folder.')
+    print('3. Put the md files inside ../../kosha-hugo2/content/{dictcode} folder.')
+    print('4. Run ./deploy.sh "your commit message" in kosha-hugo2 repository to generate and upload statically generated hugo website to sanskrit-kosha.github.io/ .')
