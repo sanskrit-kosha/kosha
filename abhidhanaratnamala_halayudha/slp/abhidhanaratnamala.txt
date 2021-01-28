@@ -1174,8 +1174,8 @@ AwiH SarArirAtiH syAdutkroSaH kuraro mataH .
 dAtyUho jalaraNkuH syAtkoyazwiH SiKarI smftaH .. 249 ..
 ;p{0031}
 #baka,bakowa
-#balAkA,visakaRWikA
-vako vakowo vijYeyo balAkA visakaRWikA .
+#balAkA,visrakaRWikA
+vako vakowo vijYeyo balAkA visrakaRWikA .
 #AtAyin,Sakuni,cilla
 #madgu,jalavAyasa
 AtAyI SakuniScillo madguH syAjjalavAyasaH .. 250 ..
@@ -2401,8 +2401,8 @@ Bago yonirupasTaSca varANgaM smaramandiram .
 SiSnaH SePo'Ta meQraSca tulye mehanaSePasI .. 514 ..
 #jAnu,azWIvat
 #prasftA,jaNGA
-#Guwaka,gulPa
-jAnuH syAdazWIvAn prasftA jaNGA ca Guwako gulPaH .
+#GuRwaka,gulPa
+jAnuH syAdazWIvAn prasftA jaNGA ca GuRwako gulPaH .
 #Uru,sakTi
 #picaRqa,jaWara,udara,tunda,kukzi,garBa
 UruH sakTi picaRqaM jaWarodaratundakukzigarBAH syuH .. 515 ..
