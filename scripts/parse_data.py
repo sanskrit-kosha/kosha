@@ -2,6 +2,7 @@ import codecs
 import sys
 import os
 import json
+import shutil
 from collections import defaultdict
 import utils
 import lxml.etree as ET
@@ -14,7 +15,7 @@ For dictCodes, see dictcode.json.
 They are 4 letter codes unique to each dictionary.
 """
 
-__version__ = '1.1.0'
+__version__ = '1.1.1'
 __author__ = 'Dr. Dhaval Patel, drdhaval2785@gmail.com'
 __licence__ = 'GNU GPL version 3'
 
@@ -239,6 +240,11 @@ def write_to_md(dictData, outputDirectory):
     Input - List of (headword, meanings, verse, verseNum, pageNum) tuples.
     Output - Properly formatted xyz.md file for each headword.
     """
+    # Empty the MD folder i.e. outputDirectory
+    # See https://github.com/drdhaval2785/sanskrit-lexica-ocr/issues/36
+    shutil.rmtree(outputDirectory)
+    os.makedirs(outputDirectory)
+    # Prepare headword data
     dic = prepare_hw_dict(dictData)
     for hw in dic:
         fileout = os.path.join(outputDirectory, hw + '.md')
@@ -330,6 +336,7 @@ def write_to_cologne(dictData, colognefile):
             fout.write(metaline + '\n')
             # Write text of entry
             entry = sanscript.transliterate(verse, 'devanagari', 'slp1')
+            entry = entry.replace('<BR>', '\n')
             fout.write(entry + '\n')
             fout.write('<LEND>\n')
             counter += 1
