@@ -1,3 +1,9 @@
+# Document version
+
+v1.0.0
+Date - 29 Jan 2021
+
+
 # Synonymic dictionaries
 
 1. Stem (राम)
@@ -7,9 +13,9 @@
 	2. स्त्री / स्त्री
 	3. पुम् / पु
 	4. नपुम् / क्ली
-	5. स्त्री+पुम् / स्त्रीपु
+	5. स्त्री+पुम् / पुस्त्री
 	6. स्त्री+नपुम् / स्त्रीक्ली
-	7. पुम्+नपुम् / क्लीपु
+	7. पुम्+नपुम् / पुक्ली
 	8. विशेषणम् / वि
 	9. अव्ययम्+नपुम् / अक्ली
 4. vacana
@@ -24,24 +30,32 @@
 2, 5 and 7 are inferred from the metadata encoded. Not verse wise.
 
 # Homonymic dictionaries
+
 1, 2, 3, 4, 6, 7 are applicable.
 5 is not applicable.
 
 1, 3, 4, 6 are explicitly mentioned before each verse.
 2 and 7 are inferred from encoded metadata. Not verse wise.
 
-# Annotate the shlokas of a synonymic dictionary
+
+# Annotate the shlokas of a synonymic dictionary with explicit gender data
+
 ```
-$स्वर्गः;पु
-#स्वर्,अ
-#स्वर्ग,नाक,त्रिदिव,त्रिदशालय,सुरलोक;पु
-#द्यो,दिव्;स्त्री
-#त्रिविष्टप;क्ली
+#स्वर्;अ:स्वर्ग,नाक,त्रिदिव,त्रिदशालय,सुरलोक;पु:द्यो,दिव्;स्त्री:त्रिविष्टप;क्ली
 स्वरव्ययं स्वर्गनाकत्रिदिवत्रिदशालयाः ।
 सुरलोको द्योदिवौ स्त्रियां क्लीबे त्रिविष्टपम् ॥ ६ ॥
 ```
 
+#‌ Annotate the shlokas of a synonymic dictionary without explicit gender data (e.g. Halayudhakosha)
+
+```
+#स्वर्,स्वर्ग,सुरसद्मन्,त्रिदशावास,त्रिविष्टप,त्रिदिव,द्यो,गो,अमर्त्यभुवन,नाक,ऊर्ध्वलोक
+स्वः स्वर्गः सुरसद्म त्रिदशावासस्त्रिविष्टपं त्रिदिवम् ।
+द्यौर्गौरमर्त्यभुवनं नाकः स्यादूर्ध्वलोकश्च ॥ ३ ॥
+```
+
 #‌ Annotate the shlokas of a homonymic dictioanry
+
 ```
 $उपनिषद्;क्ली
 #धर्म,रहस्,वेदान्त

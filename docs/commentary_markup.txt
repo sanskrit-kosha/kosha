@@ -1,0 +1,17 @@
+1. Break of two lines between two commentaries
+2. <ava> and </ava> around the अवतरणिका
+3. <v> and </v> around the श्लोक (verse)
+4. <c> and </c> around the व्याख्या (commentary)
+5. <b> and </b> around the bold letters.
+6. <i>italic</i>
+7. ;p{0001}    ;p{0002} etc before new page satarts.
+8. No need to write header.
+9. We preserve line breaks. 
+
+# Footnote markup
+Mark footnote numbers in text like [^1], ‌‌[^2] etc. 
+
+Write footnote like this
+<f id="1">Footnote 1 content goes here.</f>
+<f id="2">Footnote 2 content goes here.</f>
+
