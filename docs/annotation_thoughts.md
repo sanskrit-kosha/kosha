@@ -29,6 +29,7 @@ Date - 29 Jan 2021
 1,3,4,6 are explicitly mentioned before each verse.
 2, 5 and 7 are inferred from the metadata encoded. Not verse wise.
 
+
 # Homonymic dictionaries
 
 1, 2, 3, 4, 6, 7 are applicable.
@@ -46,6 +47,7 @@ Date - 29 Jan 2021
 सुरलोको द्योदिवौ स्त्रियां क्लीबे त्रिविष्टपम् ॥ ६ ॥
 ```
 
+
 #‌ Annotate the shlokas of a synonymic dictionary without explicit gender data (e.g. Halayudhakosha)
 
 ```
@@ -54,6 +56,7 @@ Date - 29 Jan 2021
 द्यौर्गौरमर्त्यभुवनं नाकः स्यादूर्ध्वलोकश्च ॥ ३ ॥
 ```
 
+
 #‌ Annotate the shlokas of a homonymic dictioanry
 
 ```
@@ -61,6 +64,7 @@ $उपनिषद्;क्ली
 #धर्म,रहस्,वेदान्त
 धर्मे रहसि वेदान्ते बुधैरुपनिषन्मता ।
 ```
+
 
 # Metadata
 
