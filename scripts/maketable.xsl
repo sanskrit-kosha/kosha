@@ -9,23 +9,27 @@
   <table border="1">
     <tr bgcolor="#9acd32">
       <th>Headword</th>
-      <th>Meanings</th>
+      <th>HW Gender</th>
+      <th>Meaning</th>
+      <th>Meaning Gender</th>
       <th>Verse</th>
       <th>Verse Number</th>
       <th>Page Number</th>
     </tr>
-    <xsl:for-each select="root/content/word/meanings/m">
+    <xsl:for-each select="root/content/word/meanings/m/hw">
     <tr>
-      <td><xsl:value-of select="../../headword"/></td>
+      <td><xsl:value-of select="../../../headword/hw"/></td>
+      <td><xsl:value-of select="../../../headword/gender"/></td>
       <td><xsl:value-of select="."/></td>
+      <td><xsl:value-of select="../gender"/></td>
       <td>
-        <xsl:for-each select="../../verse/line">
+        <xsl:for-each select="../../../verse/line">
           <xsl:value-of select="."/>
           <br />
         </xsl:for-each>
       </td>
-      <td><xsl:value-of select="../../verseNumber"/></td>
-      <td><xsl:value-of select="../../pageNumber"/></td>
+      <td><xsl:value-of select="../../../verseNumber"/></td>
+      <td><xsl:value-of select="../../../pageNumber"/></td>
     </tr>
     </xsl:for-each>
   </table>

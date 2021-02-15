@@ -1,6 +1,7 @@
 import codecs
 import sys
 import os
+import re
 import json
 import shutil
 from collections import defaultdict
@@ -8,14 +9,17 @@ import utils
 import lxml.etree as ET
 from indic_transliteration import sanscript
 """
-Usage - python3 parse_data.py dictCode [babylon|md|json|xml|html]
-e.g. python3 parse_data.py ENSK [babylon|md|json|xml|html]
+Usage - python3 parse_data.py dictCode [babylon|md|json|xml|html|cologne]
+e.g. python3 parse_data.py ENSK [babylon|md|json|xml|html|cologne]
 
 For dictCodes, see dictcode.json.
 They are 4 letter codes unique to each dictionary.
+
+The code version corresponds to the version of ../docs/annotation_thoughts.md.
+This code can convert the files conformant to that version of annotation.
 """
 
-__version__ = '1.1.1'
+__version__ = '2.0.0'
 __author__ = 'Dr. Dhaval Patel, drdhaval2785@gmail.com'
 __licence__ = 'GNU GPL version 3'
 
@@ -23,6 +27,21 @@ __licence__ = 'GNU GPL version 3'
 def createdir(mydir):
     if not os.path.exists(mydir):
         os.makedirs(mydir)
+
+
+def unique(lst):
+    """Keep only unique items in the list, preserving the order."""
+    result = []
+    for itm in lst:
+        if itm not in result:
+            result.append(itm)
+    return result
+
+
+class HW():
+    def __init__(self, headword, gender=''):
+        self.hw = headword
+        self.gender = gender
 
 
 def putVerse(verse, wordsOnHand, result):
@@ -74,15 +93,18 @@ def homonymic_list_generator(content):
             # Typical headword line is `$headword;gender` or `$headword`
             gender = ''
             if ';' in line:
-                headword, gender = line.rstrip().lstrip('$').split(';')
+                hw, gender = line.rstrip().lstrip('$').split(';')
+                headword = HW(hw, gender)
             else:
-                headword = line.rstrip().lstrip('$')
+                hw = line.rstrip().lstrip('$')
+                headword = HW(hw)
             # lineType is appended with 'h' for headword.
             lineType.append('h')
         # If the line is a meaning line,
         elif line.startswith('#'):
             # typical meaning line is `#meaning1,meaning2,meaning3,...`
             meanings = line.rstrip().lstrip('#').split(',')
+            meanings = [HW(meaning) for meaning in meanings]
             # Store the (headword, meaning) tuples in temporary wordsOnHand list.
             # They will keep on waiting for the verse.
             # Once verse is added, and a new headword starts, this will be added to result list.
@@ -136,25 +158,31 @@ def synonymic_list_generator(content):
                 verseDetails.update_verseNum(verse)
                 (verse, wordsOnHand, result) = putVerse(verse, wordsOnHand, result)
             # Extract the headword and gender from headword line.
-            # Typical headword line is `#headwords;gender` or `#headwords`
-            gender = ''
-            if ';' in line:
-                headwordData, gender = line.rstrip().lstrip('#').split(';')
-            else:
-                headwordData = line.rstrip().lstrip('#')
-            hwlist = headwordData.split(',')
-            # This creation of hwlist and meanings is arbitrary.
-            # In synonymic dictionaries, there is no headword / meaning.
-            # This artificial partition is just to keep the program similar
-            # for synonymic and homonymic as much as possible.
-            headword = hwlist[0]
-            meanings = hwlist[1:]
-            # lineType is appended with 'h' for headword.
-            lineType.append('h')
-            # Store the (headword, meaning) tuples in temporary wordsOnHand list.
-            # They will keep on waiting for the verse.
-            # Once verse is added, and a new headword starts, this will be added to result list.
-            wordsOnHand.append((headword, meanings))
+            # Typical headword line is `#headwordList1;gender1:headwordList2:gender2` or `#headwordList;gender` or `#headwordList`
+            blocks = line.rstrip().lstrip('#').split(':')
+            updateHeadword = True
+            for itm in blocks:
+                splt = itm.split(';')
+                headwords = splt[0]
+                if len(splt) == 2:
+                    gender = splt[1]
+                else:
+                    gender = ''
+                hwlist = headwords.split(',')
+                # This creation of hwlist and meanings is arbitrary.
+                # In synonymic dictionaries, there is no headword / meaning.
+                # This artificial partition is just to keep the program similar
+                # for synonymic and homonymic as much as possible.
+                headword = hwlist[0]
+                headword = HW(headword, gender)
+                meanings = hwlist[1:]
+                meanings = [HW(meaning, gender) for meaning in meanings]
+                # lineType is appended with 'h' for headword.
+                lineType.append('h')
+                # Store the (headword, meaning) tuples in temporary wordsOnHand list.
+                # They will keep on waiting for the verse.
+                # Once verse is added, and a new headword starts, this will be added to result list.
+                wordsOnHand.append((headword, meanings))
         # Pass the lines having some other markers like ;k for kanda, ;v for varga etc.
         elif line.startswith(';end'):
             # Put the last verse, as there will not be any next headword.
@@ -198,12 +226,14 @@ def write_to_babylon(dictData, fileout):
     fout = codecs.open(fileout, 'w', 'utf-8')
 
     # For each (headword, meanings, verseNumber, PageNum) tuples,
-    for (hw, meanings, verse, verseNumDetails, pageNumDetails) in dictData:
-        allHeadWords = [hw] + meanings
+    for (headword, meanings, verse, verseNumDetails, pageNumDetails) in dictData:
+        allHeadWords = [headword] + meanings
+        allHeadWords = [itm.hw for itm in allHeadWords]
+        allHeadWords = unique(allHeadWords)
         piped = '|'.join(allHeadWords)
         commaed = ', '.join(allHeadWords)
         # Write in babylon format. <BR><BR> is to separate verses.
-        fout.write(piped + '\n' + commaed + '<BR>' + verse + '<BR>verse ' + verseNumDetails + '<BR>page ' + pageNumDetails +'\n\n')
+        fout.write(piped + '\n' + headword.hw + ';' + headword.gender + '<BR>' + commaed + '<BR>' + verse + '<BR>verse ' + verseNumDetails + '<BR>page ' + pageNumDetails + '\n\n')
     fout.close()
 
     # Give some summary to the user
@@ -212,12 +242,12 @@ def write_to_babylon(dictData, fileout):
 
 
 def prepare_hw_dict(dictData):
-    """Return the dict with headword as key and 5 details as value."""
+    """Return the dict with headword as key and 6 details as value."""
     result = defaultdict(list)
-    for (hw, meanings, verse, verseNumDetails, pageNumDetails) in dictData:
-        allHeadWords = [hw] + meanings
+    for (headword, meanings, verse, verseNumDetails, pageNumDetails) in dictData:
+        allHeadWords = [headword] + meanings
         for itm in allHeadWords:
-            result[itm].append((hw, meanings, verse, verseNumDetails, pageNumDetails))
+            result[itm.hw].append((headword.hw, headword.gender, [x.hw for x in meanings], verse, verseNumDetails, pageNumDetails))
     return result
 
 
@@ -253,11 +283,11 @@ def write_to_md(dictData, outputDirectory):
         # Write frontmatter
         fout.write('---\ntitle: "' + hw + '"\n---\n\n')
         # For each (headword, meanings, verseNumber, PageNum) tuples,
-        for (hw, meanings, verse, verseNumDetails, pageNumDetails) in dic[hw]:
+        for (headword, gender, meanings, verse, verseNumDetails, pageNumDetails) in dic[hw]:
             commaed = ', '.join(meanings)
             verse = verse.replace('<BR>', '<br />')
             # Write in babylon format. <BR><BR> is to separate verses.
-            fout.write('# ' + hw + '\n## ' + commaed + '\n' + verse + '<br />verse ' + verseNumDetails + '<br />page ' + pageNumDetails +'\n\n')
+            fout.write('# ' + headword + '; ' + gender + '\n## ' + commaed + '\n' + verse + '<br />verse ' + verseNumDetails + '<br />page ' + pageNumDetails +'\n\n')
         fout.close()
 
     # Give some summary to the user
@@ -280,11 +310,11 @@ def write_to_xml(dictData, metadata, xmlfile):
         fout.write('<' + key + '>' + value + '</' + key + '>\n')
     fout.write('</meta>\n')
     fout.write('<content>\n')
-    for (hw, meanings, verse, verseNumDetails, pageNumDetails) in dictData:
+    for (headword, meanings, verse, verseNumDetails, pageNumDetails) in dictData:
         xmlline = ''
-        xmlline += '<word><headword>' + hw + '</headword><meanings>'
+        xmlline += '<word><headword><hw>' + headword.hw + '</hw><gender>' + headword.gender + '</gender></headword><meanings>'
         for meaning in meanings:
-            xmlline += '<m>' + meaning + '</m>'
+            xmlline += '<m><hw>' + meaning.hw + '</hw><gender>' + meaning.gender+ '</gender></m>'
         xmlline += '</meanings>'
         xmlline += '<verse>'
         lines = verse.split('<BR>')
@@ -318,6 +348,13 @@ def write_to_html(xmlfile, xsltfile, htmlfile):
     print('HTML generated. Success!')
 
 
+def prepare_key1(key2):
+    """Generate key1 after stripping unnecessary items from key2 for Cologne."""
+
+    key1 = re.sub(r'[^a-zA-Z]', '', key2)
+    return key1
+
+
 def write_to_cologne(dictData, colognefile):
     """Create Cologne compliant file for a given dictionary code.
 
@@ -326,18 +363,42 @@ def write_to_cologne(dictData, colognefile):
     fout = codecs.open(colognefile, 'w', 'utf-8')
     counter = 1
     # For each (headword, meanings, verseNumber, PageNum) tuples,
-    for (hw, meanings, verse, verseNumDetails, pageNumDetails) in dictData:
-        allHeadWords = [hw] + meanings
-        for hw in allHeadWords:
+    for (headword, meanings, verse, verseNumDetails, pageNumDetails) in dictData:
+        # Write for Headword, as it also has some gender information.
+        hw = headword.hw
+        hw = sanscript.transliterate(hw, 'devanagari', 'slp1')
+        key2 = hw
+        key1 = prepare_key1(key2)
+        gender = headword.gender
+        gender = sanscript.transliterate(gender, 'devanagari', 'slp1')
+        # Write meta line
+        # <L>1<pc>1-001<k1>a<k2>a
+        metaline = '<L>' + str(counter) + '<pc>' + pageNumDetails + '<k1>' + key1 + '<k2>' + key2 + '<vn>' + verseNumDetails
+        fout.write(metaline + '\n')
+        # Write text of entry
+        fout.write(hw + ';' + gender + '\n')
+        entry = sanscript.transliterate(verse, 'devanagari', 'slp1')
+        entry = entry.replace('<BR>', '\n')
+        fout.write(entry + '\n')
+        fout.write(verseNumDetails + '\n')
+        fout.write('<LEND>\n')
+        counter += 1
+        for meaning in meanings:
+            hw = meaning.hw
+            gender = meaning.gender
             hw = sanscript.transliterate(hw, 'devanagari', 'slp1')
+            key2 = hw
+            key1 = prepare_key1(key2)
             # Write meta line
             # <L>1<pc>1-001<k1>a<k2>a
-            metaline = '<L>' + str(counter) + '<pc>' + pageNumDetails + '<k1>' + hw + '<k2>' + hw + '<vn>' + verseNumDetails
+            metaline = '<L>' + str(counter) + '<pc>' + pageNumDetails + '<k1>' + key1 + '<k2>' + key2 + '<vn>' + verseNumDetails
             fout.write(metaline + '\n')
             # Write text of entry
             entry = sanscript.transliterate(verse, 'devanagari', 'slp1')
             entry = entry.replace('<BR>', '\n')
+            fout.write(hw + ';' + gender + '\n')
             fout.write(entry + '\n')
+            fout.write(verseNumDetails + '\n')
             fout.write('<LEND>\n')
             counter += 1
     fout.close()
@@ -345,7 +406,6 @@ def write_to_cologne(dictData, colognefile):
     # Give some summary to the user
     print('Cologne file generated. Success!')
     print('{} headwords written to cologne file.'.format(counter))
-
 
 
 if __name__ == "__main__":
@@ -377,7 +437,8 @@ if __name__ == "__main__":
     # Get filename of cologne to store the output
     colognefile = os.path.join('..', fullName, 'cologne', bookName + '.txt')
     # ';CONTENT' is the marker of end of metadata and start of content.
-    (metatext, content) = data.split(';CONTENT\n')
+    (metatext, content) = data.split(';CONTENT')
+    content = content.lstrip()
     # Read the metadata in a dict
     metadata = utils.prepare_metadata(metatext)
     # decide whether the dictionary is homonymic or synonymic
