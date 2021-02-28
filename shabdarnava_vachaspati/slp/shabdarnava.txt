@@ -1,0 +1,928 @@
+;METADATA
+;title{SabdArRava}
+;author{vAcaspati}
+;bookFullName{1. Fragments From Three Lost Kośas: I. Vācaspati's Śabdārṇava; 2. Some More Fragments From Vācaspati's Śabdārṇava}
+;bookSeriesDetails{1. Journal of the American Oriental Society, Vol. 85, No. 4 (Oct. - Dec., 1965), pp. 524-543; 2. Journal of the American Oriental Society, Vol. 88, No. 2 (Apr. - June., 1968), pp. 345-347}
+;editor{Robert Birwé}
+;editorQualifications{University of Cologne, Germany}
+;publisher{American Oriental Society}
+;pressDetails{}
+;publicationYear{1965 A.D., 1968 AḌ.}
+;dataEntryBy{Dr. Dhaval Patel}
+;dataEntryEmail{drdhaval2785@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{SRVC}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. SRKKF for funding. 2. Mr. Nagabhushana Rao of www.andhrabharati.com for providing the scanned book to digitize. 3. Dr. Dhaval Patel for spending time to type and proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{syno}
+;pagenum{true}
+;linenum{false}
+;chapterArrangements{none}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{26 February 2021}
+;version0.0.2{26 February 2021}
+;version0.0.3{26 February 2021}
+;version0.0.4{26 February 2021}
+;version0.1.0{26 February 2021}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+﻿;p{0531}
+;c{I. Rāyamukuṭa of AK I.1.6}
+;c{yadAha SabdArRavakAraH -}
+vaktFRAmasvatantratvAt kAvyAdizu darSanAt .
+muKyavacca prasiYcatvAt praTamAlakzaRASritaH .. 1 ..
+;c{II. Hemacandra on Abhidhānacintāmaṇi II.1}
+;c{yadvAcaspatiH -}
+tripizwapaM devaloko BuviH strI dyodivO striyO .. 2 ..
+;c{III. Rāyamukuṭa on AK I.1.10}
+AdityAH pitaro viSve sADyASca vasavo'pi ca .
+Bfgavo'NgirasaSceti svarlokasya paricCadAH .. 3 ..
+;c{iti SabdArRavaH .}
+;c{IV. Rāyamukuṭa on AK I.1.10}
+;c{SabdArRave -}
+satyA jayASca pitaro vEkuRWA harayo'jitAH .
+marIcayaH suSarmARaH svarUpA amftOjasaH ..
+suSAKA rohitAH pArA[H] svaBAvA haritA api .. 4 ..
+;c{iti .}
+;c{V. Sarvānanda on AK I.1.17, Rāyamukuṭa on AK I.1.17, Bhānujīdīkṣita on AK I.1.17}
+viriYco druGaRaH saMjo viriYcirdruhiRo mataH .. 5 ..
+;c{iti SabdArRavaH (vAt) .}
+;c{VI. Rāyamukuṭa on AK I.1.18, Bhānujīdīkṣita on AK I.1.18}
+aTa nArAyaRo vizRurUrDvakarmA narAyaRaH .. 6 ..
+;c{iti SabdArRavaH (vAt) .}
+;c{VII. Rāyamukuṭa on AK I.1.22, Bhānujīdīkṣita on AK I.1.22, Rāmanātha (Borooah AK, p. 35)}
+SOriSrIvatsadEtyArivizvaksenajanArdanAH .
+zaqbinduH SrIpatiH SOrirdEvakinandano'cyutaH .. 7 ..
+;c{VIII. Rāyamukuṭa on AK I.1.27, Bhānujīdīkṣita on AK I.1.27, V. D. Sharma on AK I.1.27}
+brahmasUranirudDaH syAt .. 8 ..
+;c{iti SabdArRavAcca .}
+;p{0532}
+;c{IX. Hemacandra on Abhidhānacintāmaṇi II.136}
+;c{vAcaspatistu -}
+cakraM sudarSano'striyAm .. 9 ..
+;c{ityAha .}
+;c{X. Rāyamukuṭa on AK I.1.35, Bhānujīdīkṣita on AK I.1.35, V. D. Sharma on AK I.1.35}
+DanustvajagavaM yugmamajakAvamajIkavam .. 10 ..
+;c{iti SabdArRavAt .}
+;c{XI. Rāyamukuṭa on AK I.1.36, Bhānujīdīkṣita on AK I.1.36, V. D. Sharma on AK I.1.36}
+umA kAtyAyanI durgA kAlI hEmavatISvarI .
+kAlA kAlaYjarI gOrI ........... .. 11 ..
+;c{iti vAcaspatiH .}
+;c{XII. Rāmanātha (Borooah AK p. 67)}
+vAmeyaH sUryatanayo revanto rudradEvataH .. 12 ..
+;c{iti SabdArRavaH .}
+;c{XIII. Rāyamukuṭa on AK I.1.51, Bhānujīdīkṣita on AK I.1.52, Jñānendrasarasvatī on Uṇ. 676, V. D. Sharma on AK I.1.52}
+striyAM bahuzvapsarasaH syAdekatve'psarA api .. 13 ..
+;c{iti SabdArRavAcca .}
+;c{XIV. Hemacandra on Abhidhānacintāmaṇi II.97, Rāyamukuṭa on AK I.1.51, Jñānavimalagaṇi on Maheśvara's Śabdabhedaprakāśa I.105, Bhānujīdīkṣita on AK I.1.52, V. D. Sharma on AK I.1.52}
+haMso hahAhuhU ca dvO vfzaRASvaSca tumburuH .. 14 ..
+;c{XV. Sarvānanda on AK I.1.52, Rāyamukuṭa on AK I.1.51, Bhānujīdīkṣita on AK I.1.52, V. D. Sharma on AK I.1.52}
+api ganDarvagAnDarvadivyagAyanagAtavaH .. 15 ..
+;c{iti SabdArRavaH (vAt) .}
+;c{XVI. Rāyamukuṭa on AK I.1.53, Bhānujīdīkṣita on AK I.1.54, V. D. Sharma on AK I.1.54}
+;c{iti SabdArRavAt .}
+;c{XVII. Bhānujīdīkṣita on AK I.1.59}
+;c{SabdArRave'pi kfdaDyAye -}
+sadAnnAdakaRAdO ca syAt kravyAdAmamAMsaBuk .
+kravyAdaH kfttavikftapakvamAMsaBugucyate .. 17 ..
+;c{ityukteH .}
+;c{XVIII. Bhānujīdīkṣita on AK I.1.60, Jñānendrasarasvatī on Uṇ. 279, V. D. Sharma on AK I.1.60}
+nErftaH karbaraH kravyAt karburo yAturakzasI .. 18 ..
+;c{iti SabdArRavaH .}
+;c{XIX. Sarvānanda AK I.1.62}
+mArutaH sparSanaH prARaH samIro maruto jagat .. 19 ..
+;c{iti SabdArRavasaMsArAvartO .}
+;c{XX. Bhānujīdīkṣita on AK I.1.70, V. D. Sharma on AK I.1.70}
+vimAnaM tu puzpako'strI nagarI tvalakA praBA .. 20 ..
+;c{iti SabdArRavAt ....}
+;c{XXI. Hemacandra on Abhidhānacintāmaṇi II.106, Jñānavimalagaṇi on Maheśvara's Śabdabhedaprakāśa III.11}
+;c{... vAcaspatiH yadAha -}
+niDiH SevaDirastriyAm .. 21 ..
+;c{XXII. Hemacandra on Abhidhānacintāmaṇi II.107, Bhānujīdīkṣita on AK I.1.71, V. D. Sharma on AK I.1.71}
+padmo'striyAM mahApadmaH SaNKo makarakacCapO .
+mukundakundanIlASca KarvaSca niDayo nava .. 22 ..
+;c{iti SabdArRavaH .}
+;c{XXIII. Bhānujīdīkṣita on AK I.3.1, V. D. Sharma on AK I.3.1}
+;p{0533}
+dik tu striyAM diSA dAntI kakubdevavaDUH paviH .. 23 ..
+;c{iti SabdArRavaH .}
+;c{XXIV. Bhānujīdīkṣita on AK I.3.7, V. D. Sharma on AK I.3.7}
+;c{yadyapi SabdArRave -}
+meGAstu triviDAstatra vahnijA DUmayonayaH .
+niHSvAsajAstu jImUtAste jYeyA jIvarUpiRaH ..
+yajYajAstu GanA GorAH puzkarAvartakAdayaH .. 24 ..
+;c{iti ....}
+;c{XXV. Bhānujīdīkṣita on AK I.3.10, V. D. Sharma on AK I.3.10}
+meGAgnyAdirirammadaH .. 25 ..
+;c{iti SabdArRavaH .}
+;c{XXVI. Hemacandra on Abhidhānacintāmaṇi II.80, Jñānavimalagaṇi on Maheśvara's Śabdabhedaprakāśa III.26, Bhānujīdīkṣita on AK I.3.11, V. D. Sharma on AK I.3.11}
+aTa vfzwirvarzamastrI kecidicCanti varzaRam .. 26 ..
+;c{XXVII. Ujjvaladatta on Uṇ. II.13, Bhaṭṭojīdīkṣita on Uṇ. 170, Bhānujīdīkṣita on AK I.3.13, Jñānendrasarasvatī on Uṇ. 170, V. D. Sharma on AK I.3.13}
+himAMSuScandramAScandraH SaSI cando himadyutiH .. 27 ..
+;c{iti SabdArRavaH (vAt) .}
+;c{XXVIII. Hemacandra on Abhidhānacintāmaṇi II.21, Bhānujīdīkṣita on AK I.3.16, V. D. Sharma on AK I.3.16}
+candrikA candrimA cArvI .. 28 ..
+;c{iti SabdArRavaH .}
+;c{XXIX. Bhānujīdīkṣita on AK I.3.20, V. D. Sharma on AK I.3.20}
+aTAgastyaH kumBayoniragastiH kalaSIsutaH .. 29 ..
+;c{iti SabdArRavaH .}
+;c{XXX. Hemacandra on Abhidhānacintāmaṇi II.23}
+;c{yadvAcaspatiH -}
+sOmyaM mfgaSiro'striyAm .. 30 ..
+;c{XXXI. Bhānujīdīkṣita on AK I.3.26, V. D. Sharma on AK I.3.26}
+SanEScare mandaH .. 31 ..
+;c{iti vAcaspatiH .}
+;c{XXXII. Bhānujīdīkṣita on AK I.3.29, V. D. Sharma on AK I.3.29}
+aTa mArtaRqamArtARqO .. 32 ..
+;c{iti nAmaniDAnAcCabdArRavAcca .}
+;c{XXXIII. Sarvānanda on AK I.3.30}
+helirhaMsaM sahasrAMSustapanastApano raviH .. 33 ..
+;c{iti SabdArRavaH .}
+;c{XXXIV. Bhānujīdīkṣita on AK I.3.33, V. D. Sharma on AK I.3.33}
+dvayormarIciH kiraRo BAnurusraH karaH padam .. 34 ..
+;c{iti SabdArRavaH .}
+;c{XXXV. Bhānujīdīkṣita on AK I.4.3, V. D. Sharma on AK I.4.3}
+sanDyA pitfprasUH sanDA .. 35 ..
+;c{iti SabdArRavaH .}
+;c{XXXVI. Sarvānanda on AK I.4.3, Bhānujīdīkṣita on AK I.4.3, V. D. Sharma on AK I.4.3}
+SarvarI SArvarI SaryA .. 36 ..
+;c{iti SabdArRavaH .}
+;c{XXXVII. Bhānujīdīkṣita on AK I.4.4, V. D. Sharma on AK I.4.4}
+rAtrI rAtristamasvinI .. 37 ..
+;c{iti SabdArRavaH .}
+;c{XXXVIII. Bhānujīdīkṣita on AK I.4.8, V. D. Sharma on AK I.4.8}
+apyamAvasyamAvAsI cAmAmAsyapi amAmasI .. 38 ..
+;c{iti SabdArRavaH .}
+;c{XXXIX. Sarvānanda on AK I.4.14, Bhānujīdīkṣita on AK I.4.14, V. D. Sharma on AK I.4.14}
+tatra mArge sahaH sahAH .. 39 ..
+;c{iti SabdArRavaH .}
+;c{XL. Hemacandra on Abhidhānacintāmaṇi II.25}
+;c{yadvAcaspatiH -}
+pUrvaPalgunI yonidevatA .. 40 ..
+;c{XLI. Sarvānanda on AK I.4.16, Bhānujīdīkṣita on AK I.4.16, V. D. Sharma on AK I.4.16}
+syAdAzAQe tvazAQakaH .. 41 ..
+;c{iti SabdArRavaH .}
+;c{XLII. Hemacandra on Abhidhānacintāmaṇi II.70}
+;c{yadvAcaspatiH -}
+vasante tvastriyAmizyaH .. 42 ..
+;c{XLIII. Bhānujīdīkṣita on AK I.5.1, V. D. Sharma on AK I.5.1}
+prajYA SradDA DarA jYaptiH paRqA saMvedanaM vidA .. 43 ..
+;c{iti SabdArRavAt .}
+;c{XLIV. Bhānujīdīkṣita on AK I.5.12, V. D. Sharma on AK I.5.12}
+;c{SabdArRave tu -}
+kastUrikAyAmAmodaH karpUre muKavAsanaH .
+bakule syAtparimalaScampake suraBistaTA .. 44 ..
+;c{iti .}
+;c{XLV. Bhānujīdīkṣita on AK I.5.13, V. D. Sharma on AK I.5.13}
+;p{0534}
+;c{SabdArRave tu -}
+Svetastu samapIto'sO raktetarajapAruciH .
+valakzastu sitaSyAvaH kadalIkusumopamaH ..
+arjunastu sitaH kfzRaveSavAn kumudacCaviH .. 45 ..
+;c{ityuktam .}
+;c{XLVI. Bhānujīdīkṣita on AK I.5.13, V. D. Sharma on AK I.5.13}
+pARqustu pItaBAgArDaH ketakIDUlisanniBaH .. 46 ..
+;c{iti SabdArRavaH .}
+;c{XLVII. Bhānujīdīkṣita on AK I.5.13, V. D. Sharma on AK I.5.13}
+DUsarastu sitaH pItaleSavAn bakulacCaviH .. 47 ..
+;c{iti SabdArRavaH .}
+;c{XLVIII. Bhānujīdīkṣita on AK I.5.14, V. D. Sharma on AK I.5.14}
+;c{SabdArRave tu -}
+mecakaH kfzRanIlaH syAdatasIpuzpasanniBaH .. 48 ..
+;c{ityuktam .}
+;c{XLIX. Bhānujīdīkṣita on AK I.5.16, V. D. Sharma on AK I.5.16}
+;c{SabdArRave tu -}
+sitapItaharidraktaH kaqArastfRavahnivat .
+ayaM tUdriktapItANgaH kapilo goviBUzaRaH ..
+haritAMSe'Dike'sO tu piSaNgaH padmaDUlivat .
+piSaNgastvasitAveSAt piNgo dIpaSiKAdizu ..
+piNgalastu paracCAyaH piNge SuklANgaKaRqavat .. 49 ..
+;c{iti}
+;c{L. Bhānujīdīkṣita on AK I.6.1, V. D. Sharma on AK I.6.1}
+brahmARI vacanaM vAcA jalpitaM gaditaM‌ girA .. 50 ..
+;c{iti SabdArRavaH .}
+;c{LI. Mallinātha on Meghadūta II.54}
+uktirABAzaRaM vAkyamAdeSo vacanaM vacaH .. 51 ..
+;c{iti SabdArRave .}
+;c{LII. Hemacandra on Abhidhānacintāmaṇi II.164}
+;c{yadvAcaspatiH -}
+SikzA varRavivecikA .. 52 ..
+;c{LIII. Hemacandra on Abhidhānacintāmaṇi II.164}
+;c{yadvAcaspatiH -}
+sidDarUpaH prayogo yEH karmaRAmavagamyate .
+te kalpA lakzaRArTAni sUtrARiti pracakzate ..
+;c{... yadAha [vAcaspatiH] -}
+prakftipratyayopADinipAtAdiviBAgaSaH .
+padAnvAKyAnakaraRaM SAstraM vyAkaraRaM viduH .. 53 ..
+;c{LIV. Hemacandra on Abhidhānacintāmaṇi II.208}
+;c{vAcaspatistu -}
+pawahastvAnako'striyAm .. 54 ..
+;c{ityAha .}
+;c{LV. Hemacandra on Abhidhānacintāmaṇi II.208, Bhānujīdīkṣita on AK I.7.6, V. D. Sharma on AK I.7.6}
+dvayostu koRo vIRAdervAdanaM SArikA ca sA .. 55 ..
+;c{LVI. Hemacandra on Abhidhānacintāmaṇi II.195}
+;c{vAcaspatistu -}
+hallIsako'striyAm .. 56 ..
+;c{ityAha .}
+;c{LVII. Hemacandra on Abhidhānacintāmaṇi II.183}
+;c{yadvAcaspatiH -}
+nAwyaDarmI tu striyAM nAwye yaTAgamam .. 57 ..
+;c{LVIII. Hemacandra on Abhidhānacintāmaṇi II.243, Bhānujīdīkṣita on AK I.7.11, V. D. Sharma on AK I.7.11}
+strIBUmikAM tu yaH prAptaScatvArastasya vAcakaH .
+BrakuMsaSca BrukuMsaSca BrUkuMsaSca BfkuMsavat .. 58 ..
+;c{LIX. Bhānujīdīkṣita on AK I.7.13, V. D. Sharma on AK I.7.13}
+;c{atra viSezaH SabdArRave -}
+gaRikAnucarErajjuketi nAmnA nfpeRa sA .
+yuvarAjastu sarveRa kumAro BartfdArakaH ..
+BawwArako vA devo vA vAcyo Bftyajanena saH .
+brAhmaRena tu nAmnEva rAjannityfziBiH sa ca ..
+vayasya rAjanniti vA vidUzaka imaM vadet .
+aBiziktA tu rAjYAsO devItyanyA tu BoginI ..
+BawwinItyaparEranyA nIcErgOsvAminI sA .. 59 ..
+;c{iti .}
+;c{LX. Bhānujīdīkṣita on AK I.7.14, V. D. Sharma on AK I.7.14}
+Arye mArizamArzakO .. 60 ..
+;c{iti SabdArRavaH .}
+;c{LXI. Bhānujīdīkṣita on AK I.7.15, V. D. Sharma on AK I.7.15}
+nirvahaRaM tu nizWA strI saMhAraSca samApane .. 61 ..
+;c{iti SabdArRavaH .}
+;c{LXII. Sarvānanda on AK I.7.16, Bhānujīdīkṣita on AK I.7.16, V. D. Sharma on AK I.7.16}
+aNgahArastvaNgahAriH .. 62 ..
+;c{iti SabdArRavaH .}
+;c{LXIII. Bhānujīdīkṣita on AK I.7.19, V. D. Sharma on AK I.7.19}
+tatra hAso haso hAsyaM GarGaraM hAsikA striyAm .. 62 ..
+;c{iti SabdArRavaH .}
+;c{LXIV. Bhānujīdīkṣita on AK I.7.19, V. D. Sharma on AK I.7.19}
+;p{0535}
+vikfto vEkftaH .. 64 ..
+;c{iti SabdArRavAt .}
+;c{LXV. Mallinātha on Raghuvaṃśa X.46}
+saMkzoBo Bayacakitam .. 65 ..
+;c{iti SabdArRave .}
+;c{LXVI. Bhānujīdīkṣita on AK I.7.21, V. D. Sharma on AK I.7.21}
+syAdartanamftIyA ca garhA cATa BayaM BiyA .
+trAsottrAsO daro BItamAtaNko BISca sADvasam .. 66 ..
+;c{iti SabdArRavAt .}
+;c{LXVII. Bhānujīdīkṣita on AK I.7.24, V. D. Sharma on AK I.7.24}
+asUyA tvaByasUyA .. 67 ..
+;c{iti SabdArRavaH .}
+;c{LXVIII. Bhānujīdīkṣita on AK I.7.26}
+kroDo BAmaH kruDA ruzA .. 68 ..
+;c{iti SabdArRavaH .}
+;c{LXIX. Bhānujīdīkṣita on AK I.7.29, V. D. Sharma on AK I.7.29 and Trikāṇḍaśeṣa III.5.17}
+cintA tu smftirADyAnaM smaraRaM saspfhe punaH .
+utkaRWotkalike tasminnaBiDyA tUBayorapi .. 69 ..
+;c{iti SabdArRavaH .}
+;c{LXX. Bhānujīdīkṣita on AK I.7.32}
+lIlA kelirvilAsaSca SfNgAraBAvajA kriyA .. 70 ..
+;c{iti SabdArRavAt .}
+;c{LXXI. Hemacandra on Abhidhānacintāmaṇi IV.263}
+;c{yadvAcaspatiH -}
+mezaSfNgaM tvaviSfNgAkftiH .. 71 ..
+;c{LXXII. Hemacandra on Abhidhānacintāmaṇi IV.265}
+ete sarve'pi puMklIbaliNgAH .. 72 ..
+;c{iti vAcaspatiH .}
+;c{LXXIII. Bhānujīdīkṣita on AK I.9.3, V. D. Sharma on AK I.9.3}
+prasUtijamamAnasyaM kfcCraM kazwaM kalAkalam .. 73 ..
+;c{iti vAcaspatiH .}
+;c{LXXIV. Bhānujīdīkṣita on AK I.10.3, V. D. Sharma on AK I.10.3}
+sarilaM saliraM salilam .. 74 ..
+;c{iti vAcaspatiH .}
+;c{LXXV. Bhānujīdīkṣita on AK I.10.5, V. D. Sharma on AK I.10.5}
+nAraM GanarasaH pumAn .. 75 ..
+;c{iti SabdArRavaH .}
+;c{LXXVI. Sarvānanda on AK I.10.21}
+jalokA raktapAnaqI striyAM BUmni jalOkasaH .. 76 ..
+;c{iti SabdArRavaH .}
+;c{LXXVII. Hemacandra on Abhidhānacintāmaṇi IV.160, Ujjvaladatta on Uṇ. IV.188, Jñānavimalagaṇi on Maheśvara's Śabdabhedaprakāśa III.58, Jñānendrasarasvatī on Uṇ. 628}
+;c{vAcaspatistu -}
+kAsArastvalpasarasi sarasI tu mahAsaraH .. 77 ..
+;c{iti viSezamAha .}
+;c{LXXVIII. Bhānujīdīkṣita on AK I.10.28, V. D. Sharma on AK I.10.28}
+veSantaH palvalo'strI .. 78 ..
+;c{iti vAcaspatiH .}
+;c{LXXIX. Sarvānanda on AK 1.10.33, Bhānujīdīkṣita on AK I.10.34, V. D. Sharma on AK I.10.34}
+tApI tu tapatI sEtyA candraBAgA tu candrakA .
+cAndraBAgA SAradA tu kaSmIrezu sarasvatI .. 79 ..
+;c{iti SabdArRavaH .}
+;c{LXXX. Ujjvaladatta on Uṇ. IV.38, Bhaṭṭojīdīkṣita on Uṇ. 478, Jñānendrasarasvatī on Uṇ. 478, Bhānujīdīkṣita on AK I.10.38, V. D. Sharma on AK I.10.38}
+SevalaM SEvalo na strI SEvalo jalanIlikA .. 80 ..
+;c{iti SabdArRavaH / vAcaspatiH .}
+;c{LXXXI. Ujjvaladatta on Uṇ. I.150, Bhaṭṭojīdīkṣita on Uṇ. 148, Bhānujīdīkṣita on AK II.1.3, Jñānendrasarasvatī on Uṇ. 148, V. D. Sharma on AK II.1.3}
+pfTivI pfTavI pfTvI DarA sarvaMsahA rasA .. 81 ..
+;c{iti SabdArRavaH .}
+;c{LXXXII. Bhānujīdīkṣita on AK II.1.3}
+vIciH paNktirmahiH kelirityAdyA hrasvadIrGayoH .. 82 ..
+;c{iti vAcaspatiH .}
+;c{LXXXIII. Bhānujīdīkṣita on AK II.1.18, V. D. Sharma on AK II.1.18}
+DanvantarasahasraM tu kroSaH kroSadvayaM punaH .
+gavyUtaM strI tu gavyUtirgorutaM gomataM ca tat .. 83 ..
+;p{0536}
+;c{LXXXIV. Sarvānanda on AK II.1.18, Bhānujīdīkṣita on AK II.1.18, V. D. Sharma on AK II.1.18}
+dvAByAM DanuHsahasrAByAM gavyUtiH puMsi BAzitaH .. 84 ..
+;c{iti SabdArRavaH .}
+;c{LXXXV. Hemacandra on Abhidhānacintāmaṇi IV.38}
+;c{vAcaspatistu -}
+syAt sTAnIyaM tvatilambo grAmo grAmaSatAzwake .
+tadarDaM tu droRamuKaM tacca karvawamastriyAm ..
+karvawArDe karvuwikaM syAttadarDe tu kArvawam .
+tadarDe pattanaM tacca pattanaM puwaBedanam ..
+nigamastu pattanArDe tadarDe tu niveSanam .
+karvawAdaDamo draNgaH pattanAduttamaSca saH ..
+udraNgaSca niveSaSca sa eva draNga ityapi .. 85 ..
+;c{iti viSezamAha .}
+;c{LXXXVI. Hemacandra on Abhidhānacintāmaṇi IV.69}
+;c{vAcaspatistu -}
+kuqyamastriyAm .. 86 ..
+;c{iti puMsyapyAha .}
+;c{LXXXVII. Bhānujīdīkṣita on AK II.2.4, V. D. Sharma on AK II.2.4}
+gehamastrI SAlAsaBe striyAm .. 87 ..
+;c{iti vAcaspatiH .}
+;c{LXXXVIII. Bhānujīdīkṣita on AK II.2.5, V. D. Sharma on AK II.2.5}
+niSAntaM sadanaM vastyamagAraM mandiraM puram .. 88 ..
+;c{iti vAcaspatiH .}
+;c{LXXXIX. Bhānujīdīkṣita on AK II.2.5, V. D. Sharma on AK II.2.5}
+kulodavasitaM pastyam .. 89 ..
+;c{iti vAcaspatiH .}
+;c{XC. Hemacandra on Abhidhānacintāmaṇi IV.63}
+;c{yadvAcaspatiH -}
+ATarvaRaM SAntigfhaM SAntigfhakamapyadaH .. 90 ..
+;c{iti .}
+;c{XCI. Bhānujīdīkṣita on AK II.2.17, V. D. Sharma on AK II.2.17}
+kapAwaSca kavAwaSca trizu syAdararaM na nA .. 91 ..
+;c{iti vAcaspatiH .}
+;c{XCII. Hemacandra on Abhidhānacintāmaṇi IV.162}
+;c{vAcaspatistu -}
+sariH strI nirJaro JaraH usrastvastrI .. 92 ..
+;c{iti .}
+;c{XCIII. Bhānujīdīkṣita on AK II.4.9, V. D. Sharma on AK II.4.9}
+vallI tu velliH saraRe .. 93 ..
+;c{iti vAcaspatiH .}
+;c{XCIV. Hemacandra on Abhidhānacintāmaṇi III.292}
+;c{vAcaspatistu -}
+aTa majjA dvayoH .. 94 ..
+;c{iti ....}
+;c{XCV. Hemacandra on Abhidhānacintāmaṇi IV.192, Jñānavimalagaṇi on Maheśvara's Śabdabhedaprakāśa I.86}
+;c{... vAcaspatiH, yadAha -}
+guluYCo'strI .. 95 ..
+;c{iti .}
+;c{XCVI. Hemacandra on Abhidhānacintāmaṇi IV.191, Jñānavimalagaṇi on Maheśvara's Śabdabhedaprakāśa IV.3}
+;c{vAcaspatistu -}
+puzpo'strI .. 96 ..
+;c{iti .}
+;c{XCVII. Mallinātha on Meghadūta I.1}
+CAyAvfkzo nameruH syAt .. 97 ..
+;c{iti SabdArRave .}
+;c{XCVIII. Hemacandra on Abhidhānacintāmaṇi IV.197}
+;c{yadvAcaspatiH -}
+PalaM tvetasya parkawam .. 98 ..
+;c{XCIX. Bhānujīdīkṣita on AK II.4.34, V. D. Sharma on AK II.4.34}
+kumBolUKalaM kumBaM kumBoluH KalakaM varam .. 99 ..
+;c{iti vAcaspatiH .}
+;c{C. Bhānujīdīkṣita on AK II.4.35, V. D. Sharma on AK II.4.35}
+rAjAdanaM prasarako rAjAtanaH .. 100 ..
+;c{iti vAcaspatiH .}
+;c{CI. Bhānujīdīkṣita on AK II.4.38, V. D. Sharma on AK II.4.38}
+nAgaraNge tu nAraNgo nAryaNgastakravAsanaH .. 101 ..
+;c{iti vAcaspatiH .}
+;c{CII. Bhānujīdīkṣita on AK II.4.43, Jñānendrasarasvatī on Uṇ. 460, V. D. Sharma on AK II.4.43}
+tintiqI tvamblikA ciYcA tintiqikA kapipriyA .. 102 ..
+;c{iti vAcaspatiH .}
+;c{CIII. Bhānujīdīkṣita on AK II.4.54, V. D. Sharma on AK II.4.54}
+alipriyA viSAlAgrApyamoGA pAwalirdvayoH .. 103 ..
+;c{iti vAcaspatiH .}
+;c{CIV. Bhānujīdīkṣita on AK II.4.63, V. D. Sharma on AK II.4.63}
+BaRqiro BaRqilo nA .. 104 ..
+;c{iti vAcaspatiH .}
+;p{0537}
+;c{CV. Sarvānanda on AK II.4.67, Raghunātha (R. Sharma, Kalpadrukośa of Keśava, GOS no. 42, Introduction p. xv, note 4)}
+kfzRapAkaPalaH kfzRaPalapAko vanAlakaH .
+kfzRapAkaH pAkakfzRaH PalakfzRo varAlakaH ..
+pAkakfzRaPalaH pAkaPalakfzRaH karAmbukaH .
+PalapAkaH pAkaPalaH polaH kfzRaPalo'vaSaH .. 105 ..
+;c{iti SabdArRavaH .}
+;c{CVi. Bhānujīdīkṣita on AK II.4.70, Raghunātha (R. Sharma, Kalpadrukośa of Keśava, GOS no. 42, Introduction p. xvi, note 1), V. D. Sharma on AK II.4.70}
+mallikA SataBIruSca gavAkzI BadramallikA .
+SItaBIrurmadayantI BUpAdI tfRaSUnyakam .. 106 ..
+;c{CVII. Sarvānanda on AK II.4.78, Bhānujīdīkṣita on AK II.4.78}
+DUsturastu purImoho DUstUraH kanakAhvayaH .
+DustUro mAtulaScAsya Pale mAtulaputrakaH .. 107 ..
+;c{CVIII. Bhānujīdīkṣita on AK II.4.87, V. D. Sharma on AK II.4.87}
+... SukaSimbistu markawI .
+SukaSimbA ca ... .. 108 ..
+;c{iti vAcaspatiH .}
+;c{CIX. Bhānujīdīkṣita on AK II.4.106, V. D. Sharma on AK II.4.106}
+kfmiGnaM taRqulaM moGA .. 109 ..
+;c{iti vAcaspatiH .}
+;c{CX. Bhānujīdīkṣita on AK II.4.108, V. D. Sharma on AK II.4.108}
+sarvAnuBUtiH saralA tripuwA recanI sarA .. 110 ..
+;c{iti vAcaspatiH .}
+;c{CXI. Bhānujīdīkṣita on AK II.4.108, V. D. Sharma on AK II.4.108}
+tripuwI mahatI SvASA .. 111 ..
+;c{iti vAcaspatiH .}
+;c{CXII. Bhānujīdīkṣita on AK II.4.109, V. D. Sharma on AK II.4.109}
+maDuyazwI ca yazwI ca yazwImaDukameva ca .. 112 ..
+;c{CXIII. Bhānujīdīkṣita on AK II.4.112, V. D. Sharma on AK II.4.112}
+gopI SyAmA gopavallI gopAlikA ca sA .. 113 ..
+;c{iti vAcaspatiH .}
+;c{CXIV. Mallinātha on Meghadūta I.21 and Śiśupālavadha VI.30}
+droRaparRI snigDakandA kandalI BUmikandalI .. 114 ..
+;c{iti SabdArRave (vaH) .}
+;c{CXV. Bhānujīdīkṣita on AK II.4.116, V. D. Sharma on AK II.4.116}
+vanakarpAsikAyAM tu sahA candanabIjikA .
+BAradvAjI mahAvIryA kuzWalA kuzWanASinI .. 115 ..
+;c{iti vAcaspatiH .}
+;c{CXVI. Bhānujīdīkṣita on AK II.4.118, V. D. Sharma on AK II.4.118}
+agnijvAlA lANgalikI .. 116 ..
+;c{iti vAcaspatiH .}
+;c{CXVII. Bhānujīdīkṣita on AK II.4.128, V. D. Sharma on AK II.4.128}
+duzkulInA DanaharI virokaH kroDamUrcCitaH .. 117 ..
+;c{iti vAcaspatiH .}
+;c{CXVIII. Bhānujīdīkṣita on AK II.4.131, Raghunātha (R. Sharma, Kalpadrukośa of Keśava, GOS no. 42, Introduction p. xvi, note 1), V. D. Sharma on AK II.4.131}
+daSapUraM daSapuraM plavanaM jIvitAhvayam .. 118 ..
+;c{iti vAcaspatiH .}
+;c{CXIX. Bhānujīdīkṣita on AK II.4.133, V. D. Sharma on AK II.4.133}
+spfkkA tu brAhmaRI devI marunmAlA latA laGuH .
+samudrAntA vaDUH kowivarzA laNkopikA marut ..
+munirmAlyavatI mAlA mohanA kuwilA latA .. 119 ..
+;c{CXX. Sarvānanda on AK II.4.137}
+brAhmI vayaHsTA matsyAkzI brahmA tat somavallarI .. 120 ..
+;c{iti SabdArRavaH .}
+;c{CXXI. Bhānujīdīkṣita on AK II.4.156, V. D. Sharma on AK II.4.156}
+alAbustu piRqaPalA tumbistumbI mahAPalA .
+tumbA tu vartulAlAbUrnimbacUrRA tu lAbUkA .. 121 ..
+;c{iti vAcaspatiH .}
+;p{0538}
+;c{CXXII. Bhānujīdīkṣita on AK II.4.157, V. D. Sharma on AK II.4.157}
+kalambI tu SataparvA kalambUrvAsu vIruDaH .. 122 ..
+;c{iti vAcaspatiH .}
+;c{CXXIII. Bhānujīdīkṣita on AK II.4.162, V. D. Sharma on AK II.4.162}
+sarastu muYjo bARAKyo gundrastejanakaH SaraH .. 123 ..
+;c{iti vAcaspaterdantyAdiSca .}
+;c{CXXIV. Hemacandra on Abhidhānacintāmaṇi IV.260, Bhānujīdīkṣita on AK II.4.156, V. D. Sharma on AK II.4.156}
+;c{yadvAcaspatiH -}
+puRqrekzO puRqrakaH sevyaH puRqrako'tiraso maDuH .
+SvetakARqo BIrukastu harito maDuro mahAn ..
+SUnyeSvarastu kAntAraH kozakArastu vaMSakaH .
+SataGorastvIzatkzAraH pItacCAyo'Ta tApasaH ..
+sitanIlo'Ta nepAlo vaMSaprAyo mahAbalaH .
+anvarTastu dIrGapatro dIrGaparvA kazAyavAn ..
+kAzwekzustu hrasvakARqo DanagranTirvanodBavaH .
+nIlaGorastu suraso nIlapItalarAjivAn ..
+anUpasamBavaH prAyaH KarnawI tvikzubAlikA .
+karaNkaSAliH SAkekzuH sUcipatro guqekzavaH .. 124 ..
+;c{iti .}
+;c{CXXV. Bhānujīdīkṣita on AK II.4.165}
+lAmajjakaM laGulayamavadAhezwakApaTe .
+avadAnamindraguptamavadAhezwakApaTe .. 125 ..
+;c{iti vAcaspatiH .}
+;c{CXXVI. Hemacandra on Abhidhānacintāmaṇi IV.261, Jñānavimalagaṇi on Maheśvara's Śabdabhedaprakāśa I.53}
+;c{vAcaspatistu -}
+aTAstrI yavaso GAsaH .. 126 ..
+;c{iti .}
+;c{CXXVII. Hemacandra on Abhidhānacintāmaṇi IV.218}
+;c{yadvAcaspatiH -}
+ketakastu dvayoH .. 127 ..
+;c{iti .}
+;c{CXXVIII. Bhānujīdīkṣita on AK II.5.5, V. D. Sharma on AK II.5.5}
+KarozwrakapijambUkavAyasAjambaro yamaH .. 128 ..
+;c{iti vAcaspatiH .}
+;c{CXXIX. Hemacandra on Abhidhānacintāmaṇi III.294}
+;c{vAcaspatirapi -}
+tatrAjinaM mfgayonirmfgASca priyakAdayaH .
+mfgaprakaraRe te'Ta proktA ajinayonayaH .. 129 ..
+;c{iti .}
+;c{CXXX. Sarvānanda on AK II.5.12, Bhānujīdīkṣita on AK II.5.12, V. D. Sharma on AK II.5.12}
+kundurundururunduraH .. 130 ..
+;c{iti SabdArRavaH .}
+;c{CXXXI. Bhānujīdīkṣita on AK II.5.12}
+BadramUzika AsandI kundurundururunduraH .
+mUzako vajradaSanaH kramaH‌ kARqo bileSayaH .. 131 ..
+;c{iti vAcaspatiH .}
+;c{CXXXII. Mallinātha on Meghadūta I.32, Kirātārjunīya VIII.31 and Śiśupālavadha XII.44}
+cakrANgaH‌ sAraso haMsaH .. 132 ..
+;c{iti SabdArRave .}
+;c{CXXXIII. Sarvānanda on AK II.5.24}
+BUzite parito yasya locane kfzRarAjiBiH .
+kfzRaM ca tArakAmAtraM mallikAkzaH sa ucyate .. 133 ..
+;c{ityaSvaBedo haMsaBedaSca . etacCabdArRava uktam .}
+;c{CXXXIV. Hemacandra on Abhidhānacintāmaṇi IV.399}
+;c{yadvAcaspatiH -}
+balAkastu balAhakaH .. 134 ..
+;c{CXXXV. Bhānujīdīkṣita on AK II.5.35, V. D. Sharma on AK II.5.35}
+;c{yadvAcaspatiH -}
+kapotalAvatittirAH .. 135 ..
+;c{iti vAcaspatiH .}
+;c{CXXXVI. Mallinātha on Meghadūta II.7}
+viSezAH kAminIkAntABIrubimbADarANganAH .. 136 ..
+;c{iti SabdArRave .}
+;c{CXXXVII. Bhānujīdīkṣita on AK II.6.11, V. D. Sharma on AK II.6.11}
+viSvastAviDave tulye viSastApatinI ca sA .. 137 ..
+;c{iti SabdArRavaH .}
+;c{CXXXVIII. Mallinātha on Meghadūta I.26}
+vArastrI gaRikA veSyA paRyastrI rUpajIvinI .. 138 ..
+;c{iti SabdArRave .}
+;c{CXXXIX. Sarvānanda on AK II.6.29, Ujjvaladatta on Uṇ. II.99, Bhaṭṭojīdīkṣita on Uṇ. 255}
+nanandA tu svasA patyurnanAndA ca sA .. 139 ..
+;c{iti SabdArRavaH .}
+;c{CXL. Sarvānanda on AK II.6.32, Bhānujīdīkṣita on AK II.6.32, V. D. Sharma on AK II.6.32}
+devfdevaradevAnaH .. 140 ..
+;c{iti SabdArRavaH .}
+;p{0539}
+;c{CXLI. Mallinātha on Meghadūta I.25}
+vilAsI kAmukaH kAmI strIparo ratilampawaH .. 141 ..
+;c{iti SabdArRave .}
+;c{CXLII. Bhānujīdīkṣita on AK II.6.38, V. D. Sharma on AK II.6.38}
+SAlmalI mETilI mEtrI dampatI ca sA .. 142 ..
+;c{iti vAcaspatO ... uktam .}
+;c{CXLIII. Hemacandra on Abhidhānacintāmaṇi III.126}
+;c{yadvAcaspatiH -}
+viviDAn yaH‌ karotyADIn vyADiH sa hi nirucyate .. 143 ..
+;c{CXLIV. Hemacandra on Abhidhānacintāmaṇi III.295}
+;c{vAcaspatistu -}
+godo'strI mastuluNgakam .. 144 ..
+;c{iti .}
+;c{CXLV. Hemacandra on Abhidhānacintāmaṇi III.269, Sarvānanda on AK II.6.66, Bhānujīdīkṣita on AK II.6.66, V. D. Sharma on AK II.6.66}
+antraM purItadastriyAm .. 145 ..
+;c{CXLVI. Hemacandra on Abhidhānacintāmaṇi III.295, Jñānavimalagaṇi on Maheśvara's Śabdabhedaprakāśa III.47}
+;c{...vAcaspatiH . yadAha -}
+aTa snAyurna nA tantrIH .. 146 ..
+;c{iti .}
+;c{CXLVII. Sarvānanda on AK II.6.67, Bhānujīdīkṣita on AK II.6.67, V. D. Sharma on AK II.6.67}
+atra piYCoqakaM netramalaM dUzI ca dUzikA .. 147 ..
+;c{CXLVIII. Hemacandra on Abhidhānacintāmaṇi III.268}
+;c{vAcaspatistu -}
+kukzistu jaWarADAre .. 148 ..
+;c{iti .}
+;c{CXLIX. Sarvānanda on AK II.6.80, Bhānujīdīkṣita on AK II.6.80, V. D. Sharma on AK II.6.80}
+kaPoRistu bAhumaDye kawmaraH kaPaRirdvayoH .. 149 ..
+;c{iti SabdArRavaH .}
+;c{CL. Bhānujīdīkṣita on AK II.6.82}
+aNgulo nA yavamAnam .. 150 ..
+;c{iti vAcaspatiH .}
+;c{CLI. Hemacandra on Abhidhānacintāmaṇi III.252}
+;c{vAcaspatistu -}
+grIvAmUle tu kaRWo'strI .. 151 ..
+;c{iti ....}
+;c{CLII. Hemacandra on Abhidhānacintāmaṇi III.245, Jñānavimalagaṇi on Maheśvara's Śabdabhedaprakāśa I.91}
+;c{vAcaspatistu -}
+nakro nAsA vikURikA .. 152 ..
+;c{iti ....}
+;c{CLIII. Hemacandra on Abhidhānacintāmaṇi III.237}
+;c{yadvAcaspatiH -}
+SravaH pEYjUzamastriyAm .. 153 ..
+;c{CLIV. Bhānujīdīkṣita on AK II.6.96, V. D. Sharma on AK II.6.96}
+SiKARqakaSiKaRqakO .. 154 ..
+;c{iti vAcaspati-suBUtI .}
+;c{CLV. Hemacandra on Abhidhānacintāmaṇi III.331}
+... protaH .. 155 ..
+;c{klIbe vAcaspatiH .}
+;c{CLVI. Sarvānanda on AK II.6.124}
+vahlikezu ca vahlIkAH .. 156 ..
+;c{iti SabdArRavaH .}
+;c{CLVII. Bhānujīdīkṣita on AK II.6.124, V. D. Sharma on AK II.6.124}
+kASmIrajaM vahniSiKaM bAhlIkaM pItanaM varam .. 157 ..
+;c{iti vAcaspatiH .}
+;c{CLVIII. Bhānujīdīkṣita on AK II.6.126, V. D. Sharma on AK II.6.126}
+... rAjArhaM vaMSikaM natam .
+vanadrumaH paramado vaMSakaM lohanAmakam .. 158 ..
+;c{iti vAcaspatiH .}
+;c{CLIX. Hemacandra on Abhidhānacintāmaṇi III.489}
+;c{vAcaspatistu -}
+yUpAgraM tarma na striyAm .. 159 ..
+;c{iti .}
+;c{CLX. Bhānujīdīkṣita on AK II.8.28, V. D. Sharma on AK II.8.28}
+yOtakaM yOtukaM ca tat .. 160 ..
+;c{iti vAcaspaterumaDyamapi .}
+;c{CLXI. Hemacandra on Abhidhānacintāmaṇi III.343}
+;c{yadvAcaspatiH -}
+viniyogastvasya hastiraTaprAvaraRAdizu .. 161 ..
+;c{iti .}
+;c{CLXII. Bhānujīdīkṣita on AK II.8.48, V. D. Sharma on AK II.8.48}
+aTa DOritakaM DOryaM DoraRaM DOritaM ca tat .. 162 ..
+;c{iti vAcaspatiH .}
+;p{0540}
+;c{CLXIII. Bhānujīdīkṣita on AK II.8.73, V. D. Sharma on AK II.8.73}
+prajYAlaprajYIlO tulyO jaNGAlajaNGilAdayaH .. 163 ..
+;c{iti vAcaspatiH .}
+;c{CLXIV. Hemacandra on Abhidhānacintāmaṇi III.463, Jñānavimalagaṇi on Maheśvara's Śabdabhedaprakāśa II.7}
+;c{yadvAcaspatiH -}
+mahAsamaratUrye tu pawahAqambarAvuBO .. 164 ..
+;c{CLXV. Hemacandra on Abhidhānacintāmaṇi III.67}
+;c{yadvAcaspatiH -}
+PARitamastriyAm .. 165 ..
+;c{CLXVI. Hemacandra on Abhidhānacintāmaṇi III.63}
+;c{yadvAcaspatiH -}
+temane tu nizWAno'strI .. 166 ..
+;c{CLXVII. Sarvānanda on AK II.9.54}
+(aTa pezwazapizwanavaM) saptadinAvaDi .. 167 ..
+;c{iti SabdArRavaH .}
+;c{CLXVIII. Hemacandra on Abhidhānacintāmaṇi III.546}
+;c{yadvAcaspatiH -}
+gaRanIyaM tu gaReyam .. 168 ..
+;c{iti .}
+;c{CLXIX. Hemacandra on Abhidhānacintāmaṇi III.536}
+;c{yadAha vAcaspatiH -}
+azwAdaSaBya ekAdyAH saNKyAH saNKyeyagocarAH .
+UnaviMSatyAdikAstu sarvAH saNKyeyasaNKyayoH .. 169 ..
+;c{CLXX. Hemacandra on Abhidhānacintāmaṇi IV.113}
+;c{yadvAcaspatiH -}
+tArahemni tu saMSlizwe GanagolakamastriyAm .. 170 ..
+;c{iti .}
+;c{CLXXI. Hemacandra on Abhidhānacintāmaṇi IV.131}
+;c{vAcaspatistu -}
+aTAstrI hIrakaH .. 171 ..
+;c{iti ....}
+;c{CLXXII. Hemacandra on Abhidhānacintāmaṇi IV.134}
+;c{yadvAcaspatiH -}
+sPawikAstu trayastezAmAkASasPawiko varaH .
+dvO kzIratOlasPawikAvAkASasPawikasya tu ..
+dvO BedO sUryakAntaSca candrakAntaSca tatra ca .. 172 ..
+;c{iti .}
+;c{CLXXIII. Hemacandra on Abhidhānacintāmaṇi IV.129}
+;c{yadvAcaspatiH -}
+hIrakaM mOktikaM svarRaM rajataM candanAni ca .
+SaNKaSca carma ca vastraM cetyazwO ratnasya jAtayaH .. 173 ..
+;c{CLXXIV. Hemacandra on Abhidhānacintāmaṇi IV.109}
+;c{... vAcaspatiH, yadAha -}
+... hAwakamastriyAm .
+hAwakAkarasamBUtaM palASakusumacCaviH .. 174 ..
+;c{CLXXV. Hemacandra on Abhidhānacintāmaṇi IV.111}
+;c{vAcaspatistu -}
+BUrirazwApado'striyAm .. 175 ..
+;c{iti ....}
+;c{CLXX. Hemacandra on Abhidhānacintāmaṇi IV.113}
+;c{vAcaspatistu -}
+pittalaM tvAramastriyAm .. 176 ..
+;c{iti ....}
+;c{CLXXVII. Sarvānanda on AK II.9.100, Bhānujīdīkṣita on AK II.9.99, V. D. Sharma on AK II.9.99}
+pAratastu manAkpARquH sUtastu rahito malAt .
+pAradastu manAkSItaH sarve tulyaguRAH smftAH .. 177 ..
+;c{iti SabdArRavaH .}
+;c{CLXXVIII. Bhānujīdīkṣita on AK II.9.100}
+girijaM girijAbIjamamalaM gavalaDvajam .. 178 ..
+;c{iti vAcaspatiH .}
+;c{CLXXIX. Bhānujīdīkṣita on AK II.10.12, V. D. Sharma on AK II.10.12}
+raNgAvatArI SElUzo nawo BarataBAratO .. 179 ..
+;c{iti vAcaspatiH .}
+;c{CLXXX. Bhānujīdīkṣita on AK II.10.22, V. D. Sharma on AK II.10.22}
+kukkurastu SuniH SvAnaH kapilo maRqalaH SunaH .. 180 ..
+;c{iti vAcaspatiH .}
+;c{CLXXXI. Bhānujīdīkṣita on AK II.10.25, V. D. Sharma on AK II.10.25}
+steyaM stEnyaM ca cOrye syAccOrikAcorike striyAm .. 181 ..
+;c{iti vAcaspatiH .}
+;c{CLXXXII. Sarvānanda on AK II.10.34, Bhānujīdīkṣita on AK II.10.33, V. D. Sharma on AK II.10.33}
+mUzA tvAvartanI mUzI .. 182 ..
+;c{iti SabdArRavaH .}
+;c{CLXXXIII. Bhānujīdīkṣita on AK II.10.33, V. D. Sharma on AK II.10.33}
+veDanI tu lAsPowanyAM sPowanI vfzadaMSikA .. 183 ..
+;c{iti vAcaspatiH .}
+;c{CLXXXIV. Hemacandra on Abhidhānacintāmaṇi IV.280}
+;c{yadvAcaspatiH -}
+pOttikaBrAmarakzOdradAlOddAlakamAkzikam .
+arGyaM CAtrakamityazwO jAtayo'sya pfTagguRAH ..
+;p{0541}
+tatra pOttikamuttaptaGftABaM vizakIwajam .
+BrAmaraM tu BramarajaM pARquraM guruSItalam ..
+kzOdraM tu kapilaM dAhi kzudrAnItaM malAvaham .
+dAlaM tu dalajaM sevyaM durlaBaM rUkzavAlakam ..
+uddAlakaM tu SAlAkaM vizajidmaDurAmlakam .
+mAkzikaM tu maDu jyezWaM virUkzaM tElavarRakam ..
+arGyaM tu pUjyamApARqu manAk tiktaM savAlakam .
+CAtraM tvekAntamaDuraM sarvArGyaM rAjasevitam .. 184 ..
+;c{CLXXXV. Bhānujīdīkṣita on AK III.2.26, V. D. Sharma on AK III.2.26}
+Avegastu tvarA tvariH .. 185 ..
+;c{iti vAcaspatiH .}
+;c{CLXXXVI. Bhānujīdīkṣita on AK III.2.32, V. D. Sharma on AK III.2.32}
+moho vIjyA jugupsA ca hfRIyA hfRiyA GfRA .. 186 ..
+;c{iti vAcaspatiH .}
+;c{CLXXXVII. Mallinātha on Meghadūta I.65 and Śiśupālavadha XIII.31}
+aMSukaM vastramAtre syAt pariDAnottarIyayoH .
+sUkzmavastre nAtidIptO ... .. 187 ..
+;c{iti SabdArRave .}
+;c{CLXXXVIII. Mallinātha on Meghadūta I.33}
+piRqe maRO mahAratne guwikA badDapArade .. 188 ..
+;c{iti SabdArRave .}
+;c{CLXXXIX. Mallinātha on Meghadūta II.8, II.28 and Raghuvaṃśa XIII.64}
+SaNkA BayavitarkayoH .. 189 ..
+;c{iti SabdArRave .}
+;c{CXC. Mallinātha on Meghadūta I.38 and Śiśupālavadha XVII.38}
+suKahetO suKe suKam .. 190 ..
+;c{iti SabdArRave .}
+;c{CXCI. Mallinātha on Meghadūta I.39 and Kumārasaṃbhava I.5}
+udvegaH stimite kleSe Baye'manTaragAmini .. 191 ..
+;c{iti SabdArRave (vaH) .}
+;c{CXCII. Mallinātha on Meghadūta II.45}
+citrAdiraYjakadravye lAkzAdO praRayecCayoH .
+sAraNgAdO ca rAgaH syAd druRye raYjane pumAn .. 192 ..
+;c{iti SabdArRave .}
+;c{CXCIII. Mallinātha on Meghadūta I.43}
+sundare'DikaBAgye ca durdinetaravAsare .
+turIyAMSe SrImati ca suBagaH ... .. 193 ..
+;c{iti SabdArRave .}
+;c{CXCIV. Mallinātha on Meghadūta I.24}
+ketakImukulAgrezu sUciH syAt .. 194 ..
+;c{iti SabdArRave .}
+;c{CXV. Mallinātha on Meghadūta II.1}
+murajA tu mfdaNge syAd QakkAmurajayorapi .. 195 ..
+;c{iti SabdArRave .}
+;c{CXCVI. Mallinātha on Meghadūta I.2 and Raghuvaṃśa V.44}
+utKAtakeliH SfNgAdyErvaprakrIqA nigadyate .. 196 ..
+;c{iti SabdArRave (vaH) .}
+;c{CXCVII. Mallinātha on Meghadūta I.36}
+gaRastu gaRanAyAM syAdgaReSe pramaTe caye .. 197 ..
+;c{iti SabdArRave .}
+;c{CXCVIII. Mallinātha on Meghadūta II.6}
+ratnAdiBirvAlukAdO guptErdrazwavyakarmaBiH .
+kumArIBiH kftA krIqA nAmnA guptamaRiH smftA ..
+rAsakrIqA guQamaRirguptakelistu lAyanam .
+picCakandukadaRqAdyEH smftA dESikakelayaH .. 198 ..
+;c{iti SabdArRave .}
+;c{CXCIX. Mallinātha on Meghadūta I.24 and Śiśupālavadha IV.40}
+mftAvavasite ramye samAptAvanta izyate .. 199 ..
+;c{iti SabdArRave .}
+;c{CC. Mallinātha on Meghadūta I.19 and Śiśupālavadha XIV.71}
+muhUrtamalpakAle syAd GawikAdvitaye'pi ca .. 200 ..
+;c{iti SabdArRave .}
+;c{CCI. Mallinātha on Meghadūta I.35 and I.65}
+nA BAvaBede strI nftye lalitaM trizu sundare .
+astriyAM pramadAgAre krIqite jAtapallave .. 201 ..
+;c{iti SabdArRave .}
+;c{CCII. Mallinātha on Meghadūta I.59}
+tOryatrikaM tu saNgItaM nyAyAramBe prasidDake .
+tUryARAM tritaye ca ... .. 202 ..
+;c{iti SabdArRave .}
+;c{CCIII. Mallinātha on Meghadūta II.21}
+sampAtaH patane vege praveSe vedasaMvide .. 203 ..
+;c{iti SabdArRave .}
+;p{0542}
+;c{CCIV. Mallinātha on Meghadūta II.2}
+sImantamastriyAM mastakeSavITyAmudDftam .. 204 ..
+;c{iti SabdArRave .}
+;c{CCV. Mallinātha on Meghadūta I.19}
+BaktirnizevaRe BAge racanAyAm .. 205 ..
+;c{iti SabdArRave .}
+;c{CCVI. Mallinātha on Meghadūta II.38}
+sanATaM praBumityAhuH sahite cittatApini .. 206 ..
+;c{iti SabdArRave .}
+;c{CCVII. Mallinātha on Meghadūta II.18 and Kumārasambhava VIII.1}
+tarugulmalatAdInAmakAle kuSalEH kftam .
+puzpAdyutpAdakaM dravyaM dohadaM syAttu tatkriyA .. 207 ..
+;c{iti SabdArRave .}
+;c{CCVIII. Bhānujīdīkṣita on AK II.6.11, V. D. Sharma on AK II.6.11}
+praRAdastu pumAMstAraSabde ca SravaRAgame .
+anurAgakfte Sabde praRAdaH sItkftaM nFRAm .. 208 ..
+;c{iti SabdArRave .}
+;c{CCIX. Mallinātha on Meghadūta II.46}
+darSanaM samaye SAstre dfzwO svapne'kzRi saMvidi .. 209 ..
+;c{iti SabdArRave .}
+;c{CCX. Mallinātha on Meghadūta II.25}
+praDAnanagarI rAjYAM rAjaDAnIti kaTyate .. 210 ..
+;c{iti SabdArRave .}
+;c{CCXI. Mallinātha on Meghadūta I.1 and I.40}
+snigDaM tu masfRe sAndre ramye klIbe ca tejasi .. 211 ..
+;c{iti SabdArRave .}
+;c{CCXII. Mallinātha on Meghadūta I.21}
+... aTa sTalakadambake .
+nIpaH syAt pulake .... .. 212 ..
+;c{iti SabdArRave .}
+;c{CCXIII. Mallinātha on Meghadūta II.4}
+vittADipaH kuberaH syAt praBO DanikayakzayoH .. 213 ..
+;c{iti SabdArRave .}
+;c{CCXIV. Mallinātha on Meghadūta I.23}
+kakuBaH kuwaje'rjune .. 214 ..
+;c{iti SabdArRave .}
+;c{CCXV. Mallinātha on Meghadūta II.38}
+garBo'pavarake'ntasTe garBo'gnO kukziRo'rBake .. 215 ..
+;c{iti SabdArRave .}
+;c{CCXVI. Mallinātha on Meghadūta I.57}
+saMramBaH saNkrame kope .. 216 ..
+;c{iti SabdArRave .}
+;c{CCXVII. Hemacandra on Abhidhānacintāmaṇi III.309}
+;c{vAcaspatistu -}
+nidAGe'pi kuNkumaH suKaH syAt .. 217 ..
+;c{iti .}
+;c{CCXVIII. Mallinātha on Meghadūta I.10}
+vAmastu vakre ramye syAt savye vAmagate'pi ca .. 218 ..
+;c{iti SabdArRave .}
+;c{CCXIX. Mallinātha on Meghadūta I.11}
+sahAyastu sayAtraH syAt .. 219 ..
+;c{iti SabdArRave .}
+;c{CCXX. Mallinātha on Meghadūta I.9}
+hfdayaM jIvite citte vakzasyAkUtahfdyayoH .. 220 ..
+;c{iti SabdArRave .}
+;c{CCXXI. Mallinātha on Meghadūta I.48 and Śiśupālavadha XI.30}
+Saro bARe bARatfRe .. 221 ..
+;c{iti SabdArRave .}
+;c{CCXXII. Mallinātha on Meghadūta II.8}
+citraM liKitarUpAQyaM syAdAleKyaM tu yatnataH .. 222 ..
+;c{iti SabdArRave .}
+;c{CCXXIII. Mallinātha on Meghadūta I.11 and Śiśupālavadha VI.32}
+kadalyAM ca SilInDraH syAt .. 223 ..
+;c{iti SabdArRave .}
+;c{CCXXIV. Mallinātha on Meghadūta I.1, Kumārasambhava IV.15, Śiśupālavadha IV.29 and XV.81}
+gurustu gIzpatO SrezWe gurO pitari durBare .. 224 ..
+;c{iti SabdArRave (vaH) .}
+;c{CCXXV. Mallinātha on Meghadūta I.66}
+dukUlaM sUkzmavastre syAduttarIye'sitAMSuke .. 225 ..
+;c{iti SabdArRave .}
+;c{CCXXVI. Mallinātha on Meghadūta I.42}
+tfRe'mbuje nalaM nA tu rAjYi nAle tu na striyAm .. 226 ..
+;c{iti SabdArRave .}
+;c{CCXXVII. Mallinātha on Meghadūta I.14, Bhānujīdīkṣita on AK II.4.61, V. D. Sharma on AK II.4.61}
+vAnIre kaviBede syAnniculaH sTalavetase .. 227 ..
+;c{iti SabdArRave (vAt) .}
+;p{0543}
+;c{CCXXVIII. Raghunātha (R. Sharma, Kalpadrukośa of Keśava, GOS no. 42, Introduction p. xvi, note 3)}
+kozo divyaDane'pi syAt kuqmalAsipiDAnayoH .
+panasAdiPalasyAntaH kozaH Sabdasya saNgrahaH .. 228 ..
+;c{iti mUrDanyAnte SabdArRavaH .}
+;c{CCXXIX. Mallinātha on Meghadūta I.60}
+viSezo'vayave dravye drazwavyottamavastuni .. 229 ..
+;c{iti SabdArRave .}
+;c{CCXXX. Bhānujīdīkṣita on AK I.6.615, V. D. Sharma on AK I.6.15}
+nIcamAkzAraRaM yaH sa AkroSo mETunaM prati .. 230 ..
+;c{iti SabdArRavaH .}
+;c{CCXXXI. Mallinātha on Meghadūta I.29}
+SfNgArAdO jale vIrye suvarRe vizaSukrayoH .
+tiktAdAvamfte cEva niryAse pArade DvanO ..
+AsvAde ca rasaM prAhuH ... .. 231 ..
+;c{iti SabdArRave .}
+;c{CCXXXII. Sarvānanda on AK III.5.15}
+;c{taTAca SabdArRavaH -}
+AKUtTaSalaBotTAdi tat tadutTAnamadvayoH .. 232 ..
+;c{CCXXXIII. Hemacandra on Abhidhānacintāmaṇi IV.127}
+;c{vAcaspatistu -}
+hiNgulastvastriyAm .. 233 ..
+;c{iti .}
+;c{PART 2}
+;p{0346}
+;c{CCXXXIV. Ujjvaladatta on Uṇ. IV.188}
+devA viMSatirevEte surUpAH sutapASca te .. 234 ..
+;c{iti SabdArRavaH .}
+;c{CCXXXV. Ujjvaladatta on Uṇ. III.117}
+tapasaScandramAH .. 235 ..
+;c{iti SabdArRavaH .}
+;c{CCXXXVI. Ujjvaladatta on Uṇ. IV.41}
+SambukaH Sambuko jYeyaH pUrvaH kAntastu sarvadA .
+kakAreRa vinA Sezo dfSyate granTavistare .. 236 ..
+;c{iti SabdArRavaH .}
+;c{CCXXXVII. Ujjvaladatta on Uṇ. III.134, Jñānendrasarasvatī on Uṇ. 414}
+pAriBadre tu mandArurmandAraH pArijAtakaH .. 237 ..
+;c{iti SabdArRavaH .}
+;c{CCXXXVIII. Ujjvaladatta on Uṇ. IV.41}
+BAlUkaH .. 238 ..
+;c{iti SabdArRavaH .}
+;c{CCXXXIX. Ujjvaladatta on Uṇ. IV.138}
+alirmaDukaro'li ca .. 239 ..
+;c{iti SabdArRavaH .}
+;c{CCXL. Ujjvaladatta on Uṇ. II.7}
+hiraRyaM draviRaM dyumnaM rikTaM fkTaM DanaM vasu .. 240 ..
+;c{iti SabdArRavaH .}
+;c{CCXLI. Ujjvaladatta on Uṇ. II.103 and III.92}
+lozwaM daliH strI lozwurnA sa mahAn daraRirdvayoH .. 241 ..
+;c{iti SabdArRavaH .}
+;c{CCXLII. Ujjvaladatta on Uṇ. IV.119}
+sampAtirvAruRiH KyAto jawAyuSca jawAyuzi .. 242 ..
+;c{iti SabdArRavaH .}
+;c{CCXLIII. Ujjvaladatta on Uṇ. I.2}
+jawAyuH syAd vihagendro jawAyuraruRAgrajaH .. 243 ..
+;c{iti SabdArRavaH .}
+;c{CCXLIV. Ujjvaladatta on Uṇ. V.57}
+ISvaraH SaNkare proktaH pArvatyAmISvarI ca .. 244 ..
+;c{iti SabdArRavaH .}
+;c{CCXLV. Ujjvaladatta on Uṇ. IV.124}
+AvArirhawwaveSmasu .. 245 ..
+;c{iti SabdArRavaH .}
+;c{CCXLVI. Ujjvaladatta on Uṇ. I.2}
+uzA rAtristadante ca vARasyApi sutA taTA .. 246 ..
+;c{iti vAcaspatiH .}
+;c{CCXLVII. Ujjvaladatta on Uṇ. III.22}
+tanurDenururuScaYcuH priyaNguH sarayuH kuquH .. 247 ..
+;c{iti vAcaspatikoSaH .}
+;c{CCXLVIII. Ujjvaladatta on Uṇ. IV.129}
+SAlipAlI striyAmuBe .. 248 ..
+;c{iti vAcaspatiH .}
+

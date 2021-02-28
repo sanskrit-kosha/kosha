@@ -1,0 +1,928 @@
+;METADATA
+;title{शब्दार्णव}
+;author{वाचस्पति}
+;bookFullName{1. Fragments From Three Lost Kośas: I. Vācaspati's Śabdārṇava; 2. Some More Fragments From Vācaspati's Śabdārṇava}
+;bookSeriesDetails{1. Journal of the American Oriental Society, Vol. 85, No. 4 (Oct. - Dec., 1965), pp. 524-543; 2. Journal of the American Oriental Society, Vol. 88, No. 2 (Apr. - June., 1968), pp. 345-347}
+;editor{Robert Birwé}
+;editorQualifications{University of Cologne, Germany}
+;publisher{American Oriental Society}
+;pressDetails{}
+;publicationYear{1965 A.D., 1968 AḌ.}
+;dataEntryBy{Dr. Dhaval Patel}
+;dataEntryEmail{drdhaval2785@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{SRVC}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. SRKKF for funding. 2. Mr. Nagabhushana Rao of www.andhrabharati.com for providing the scanned book to digitize. 3. Dr. Dhaval Patel for spending time to type and proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{syno}
+;pagenum{true}
+;linenum{false}
+;chapterArrangements{none}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{26 February 2021}
+;version0.0.2{26 February 2021}
+;version0.0.3{26 February 2021}
+;version0.0.4{26 February 2021}
+;version0.1.0{26 February 2021}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+﻿;p{0531}
+;c{I. Rāyamukuṭa of AK I.1.6}
+;c{यदाह शब्दार्णवकारः -}
+वक्तॄणामस्वतन्त्रत्वात् काव्यादिषु दर्शनात् ।
+मुख्यवच्च प्रसिञ्चत्वात् प्रथमालक्षणाश्रितः ॥ १ ॥
+;c{II. Hemacandra on Abhidhānacintāmaṇi II.1}
+;c{यद्वाचस्पतिः -}
+त्रिपिष्टपं देवलोको भुविः स्त्री द्योदिवौ स्त्रियौ ॥ २ ॥
+;c{III. Rāyamukuṭa on AK I.1.10}
+आदित्याः पितरो विश्वे साध्याश्च वसवोऽपि च ।
+भृगवोऽङ्गिरसश्चेति स्वर्लोकस्य परिच्छदाः ॥ ३ ॥
+;c{इति शब्दार्णवः ।}
+;c{IV. Rāyamukuṭa on AK I.1.10}
+;c{शब्दार्णवे -}
+सत्या जयाश्च पितरो वैकुण्ठा हरयोऽजिताः ।
+मरीचयः सुशर्माणः स्वरूपा अमृतौजसः ॥
+सुशाखा रोहिताः पारा[ः] स्वभावा हरिता अपि ॥ ४ ॥
+;c{इति ।}
+;c{V. Sarvānanda on AK I.1.17, Rāyamukuṭa on AK I.1.17, Bhānujīdīkṣita on AK I.1.17}
+विरिञ्चो द्रुघणः संजो विरिञ्चिर्द्रुहिणो मतः ॥ ५ ॥
+;c{इति शब्दार्णवः (वात्) ।}
+;c{VI. Rāyamukuṭa on AK I.1.18, Bhānujīdīkṣita on AK I.1.18}
+अथ नारायणो विष्णुरूर्ध्वकर्मा नरायणः ॥ ६ ॥
+;c{इति शब्दार्णवः (वात्) ।}
+;c{VII. Rāyamukuṭa on AK I.1.22, Bhānujīdīkṣita on AK I.1.22, Rāmanātha (Borooah AK, p. 35)}
+शौरिश्रीवत्सदैत्यारिविष्वक्सेनजनार्दनाः ।
+षड्बिन्दुः श्रीपतिः शौरिर्दैवकिनन्दनोऽच्युतः ॥ ७ ॥
+;c{VIII. Rāyamukuṭa on AK I.1.27, Bhānujīdīkṣita on AK I.1.27, V. D. Sharma on AK I.1.27}
+ब्रह्मसूरनिरुद्धः स्यात् ॥ ८ ॥
+;c{इति शब्दार्णवाच्च ।}
+;p{0532}
+;c{IX. Hemacandra on Abhidhānacintāmaṇi II.136}
+;c{वाचस्पतिस्तु -}
+चक्रं सुदर्शनोऽस्त्रियाम् ॥ ९ ॥
+;c{इत्याह ।}
+;c{X. Rāyamukuṭa on AK I.1.35, Bhānujīdīkṣita on AK I.1.35, V. D. Sharma on AK I.1.35}
+धनुस्त्वजगवं युग्ममजकावमजीकवम् ॥ १० ॥
+;c{इति शब्दार्णवात् ।}
+;c{XI. Rāyamukuṭa on AK I.1.36, Bhānujīdīkṣita on AK I.1.36, V. D. Sharma on AK I.1.36}
+उमा कात्यायनी दुर्गा काली हैमवतीश्वरी ।
+काला कालञ्जरी गौरी ........... ॥ ११ ॥
+;c{इति वाचस्पतिः ।}
+;c{XII. Rāmanātha (Borooah AK p. 67)}
+वामेयः सूर्यतनयो रेवन्तो रुद्रदैवतः ॥ १२ ॥
+;c{इति शब्दार्णवः ।}
+;c{XIII. Rāyamukuṭa on AK I.1.51, Bhānujīdīkṣita on AK I.1.52, Jñānendrasarasvatī on Uṇ. 676, V. D. Sharma on AK I.1.52}
+स्त्रियां बहुष्वप्सरसः स्यादेकत्वेऽप्सरा अपि ॥ १३ ॥
+;c{इति शब्दार्णवाच्च ।}
+;c{XIV. Hemacandra on Abhidhānacintāmaṇi II.97, Rāyamukuṭa on AK I.1.51, Jñānavimalagaṇi on Maheśvara's Śabdabhedaprakāśa I.105, Bhānujīdīkṣita on AK I.1.52, V. D. Sharma on AK I.1.52}
+हंसो हहाहुहू च द्वौ वृषणाश्वश्च तुम्बुरुः ॥ १४ ॥
+;c{XV. Sarvānanda on AK I.1.52, Rāyamukuṭa on AK I.1.51, Bhānujīdīkṣita on AK I.1.52, V. D. Sharma on AK I.1.52}
+अपि गन्धर्वगान्धर्वदिव्यगायनगातवः ॥ १५ ॥
+;c{इति शब्दार्णवः (वात्) ।}
+;c{XVI. Rāyamukuṭa on AK I.1.53, Bhānujīdīkṣita on AK I.1.54, V. D. Sharma on AK I.1.54}
+;c{इति शब्दार्णवात् ।}
+;c{XVII. Bhānujīdīkṣita on AK I.1.59}
+;c{शब्दार्णवेऽपि कृदध्याये -}
+सदान्नादकणादौ च स्यात् क्रव्यादाममांसभुक् ।
+क्रव्यादः कृत्तविकृतपक्वमांसभुगुच्यते ॥ १७ ॥
+;c{इत्युक्तेः ।}
+;c{XVIII. Bhānujīdīkṣita on AK I.1.60, Jñānendrasarasvatī on Uṇ. 279, V. D. Sharma on AK I.1.60}
+नैरृतः कर्बरः क्रव्यात् कर्बुरो यातुरक्षसी ॥ १८ ॥
+;c{इति शब्दार्णवः ।}
+;c{XIX. Sarvānanda AK I.1.62}
+मारुतः स्पर्शनः प्राणः समीरो मरुतो जगत् ॥ १९ ॥
+;c{इति शब्दार्णवसंसारावर्तौ ।}
+;c{XX. Bhānujīdīkṣita on AK I.1.70, V. D. Sharma on AK I.1.70}
+विमानं तु पुष्पकोऽस्त्री नगरी त्वलका प्रभा ॥ २० ॥
+;c{इति शब्दार्णवात् ...।}
+;c{XXI. Hemacandra on Abhidhānacintāmaṇi II.106, Jñānavimalagaṇi on Maheśvara's Śabdabhedaprakāśa III.11}
+;c{... वाचस्पतिः यदाह -}
+निधिः शेवधिरस्त्रियाम् ॥ २१ ॥
+;c{XXII. Hemacandra on Abhidhānacintāmaṇi II.107, Bhānujīdīkṣita on AK I.1.71, V. D. Sharma on AK I.1.71}
+पद्मोऽस्त्रियां महापद्मः शङ्खो मकरकच्छपौ ।
+मुकुन्दकुन्दनीलाश्च खर्वश्च निधयो नव ॥ २२ ॥
+;c{इति शब्दार्णवः ।}
+;c{XXIII. Bhānujīdīkṣita on AK I.3.1, V. D. Sharma on AK I.3.1}
+;p{0533}
+दिक् तु स्त्रियां दिशा दान्ती ककुब्देववधूः पविः ॥ २३ ॥
+;c{इति शब्दार्णवः ।}
+;c{XXIV. Bhānujīdīkṣita on AK I.3.7, V. D. Sharma on AK I.3.7}
+;c{यद्यपि शब्दार्णवे -}
+मेघास्तु त्रिविधास्तत्र वह्निजा धूमयोनयः ।
+निःश्वासजास्तु जीमूतास्ते ज्ञेया जीवरूपिणः ॥
+यज्ञजास्तु घना घोराः पुष्करावर्तकादयः ॥ २४ ॥
+;c{इति ...।}
+;c{XXV. Bhānujīdīkṣita on AK I.3.10, V. D. Sharma on AK I.3.10}
+मेघाग्न्यादिरिरम्मदः ॥ २५ ॥
+;c{इति शब्दार्णवः ।}
+;c{XXVI. Hemacandra on Abhidhānacintāmaṇi II.80, Jñānavimalagaṇi on Maheśvara's Śabdabhedaprakāśa III.26, Bhānujīdīkṣita on AK I.3.11, V. D. Sharma on AK I.3.11}
+अथ वृष्टिर्वर्षमस्त्री केचिदिच्छन्ति वर्षणम् ॥ २६ ॥
+;c{XXVII. Ujjvaladatta on Uṇ. II.13, Bhaṭṭojīdīkṣita on Uṇ. 170, Bhānujīdīkṣita on AK I.3.13, Jñānendrasarasvatī on Uṇ. 170, V. D. Sharma on AK I.3.13}
+हिमांशुश्चन्द्रमाश्चन्द्रः शशी चन्दो हिमद्युतिः ॥ २७ ॥
+;c{इति शब्दार्णवः (वात्) ।}
+;c{XXVIII. Hemacandra on Abhidhānacintāmaṇi II.21, Bhānujīdīkṣita on AK I.3.16, V. D. Sharma on AK I.3.16}
+चन्द्रिका चन्द्रिमा चार्वी ॥ २८ ॥
+;c{इति शब्दार्णवः ।}
+;c{XXIX. Bhānujīdīkṣita on AK I.3.20, V. D. Sharma on AK I.3.20}
+अथागस्त्यः कुम्भयोनिरगस्तिः कलशीसुतः ॥ २९ ॥
+;c{इति शब्दार्णवः ।}
+;c{XXX. Hemacandra on Abhidhānacintāmaṇi II.23}
+;c{यद्वाचस्पतिः -}
+सौम्यं मृगशिरोऽस्त्रियाम् ॥ ३० ॥
+;c{XXXI. Bhānujīdīkṣita on AK I.3.26, V. D. Sharma on AK I.3.26}
+शनैश्चरे मन्दः ॥ ३१ ॥
+;c{इति वाचस्पतिः ।}
+;c{XXXII. Bhānujīdīkṣita on AK I.3.29, V. D. Sharma on AK I.3.29}
+अथ मार्तण्डमार्ताण्डौ ॥ ३२ ॥
+;c{इति नामनिधानाच्छब्दार्णवाच्च ।}
+;c{XXXIII. Sarvānanda on AK I.3.30}
+हेलिर्हंसं सहस्रांशुस्तपनस्तापनो रविः ॥ ३३ ॥
+;c{इति शब्दार्णवः ।}
+;c{XXXIV. Bhānujīdīkṣita on AK I.3.33, V. D. Sharma on AK I.3.33}
+द्वयोर्मरीचिः किरणो भानुरुस्रः करः पदम् ॥ ३४ ॥
+;c{इति शब्दार्णवः ।}
+;c{XXXV. Bhānujīdīkṣita on AK I.4.3, V. D. Sharma on AK I.4.3}
+सन्ध्या पितृप्रसूः सन्धा ॥ ३५ ॥
+;c{इति शब्दार्णवः ।}
+;c{XXXVI. Sarvānanda on AK I.4.3, Bhānujīdīkṣita on AK I.4.3, V. D. Sharma on AK I.4.3}
+शर्वरी शार्वरी शर्या ॥ ३६ ॥
+;c{इति शब्दार्णवः ।}
+;c{XXXVII. Bhānujīdīkṣita on AK I.4.4, V. D. Sharma on AK I.4.4}
+रात्री रात्रिस्तमस्विनी ॥ ३७ ॥
+;c{इति शब्दार्णवः ।}
+;c{XXXVIII. Bhānujīdīkṣita on AK I.4.8, V. D. Sharma on AK I.4.8}
+अप्यमावस्यमावासी चामामास्यपि अमामसी ॥ ३८ ॥
+;c{इति शब्दार्णवः ।}
+;c{XXXIX. Sarvānanda on AK I.4.14, Bhānujīdīkṣita on AK I.4.14, V. D. Sharma on AK I.4.14}
+तत्र मार्गे सहः सहाः ॥ ३९ ॥
+;c{इति शब्दार्णवः ।}
+;c{XL. Hemacandra on Abhidhānacintāmaṇi II.25}
+;c{यद्वाचस्पतिः -}
+पूर्वफल्गुनी योनिदेवता ॥ ४० ॥
+;c{XLI. Sarvānanda on AK I.4.16, Bhānujīdīkṣita on AK I.4.16, V. D. Sharma on AK I.4.16}
+स्यादाषाढे त्वषाढकः ॥ ४१ ॥
+;c{इति शब्दार्णवः ।}
+;c{XLII. Hemacandra on Abhidhānacintāmaṇi II.70}
+;c{यद्वाचस्पतिः -}
+वसन्ते त्वस्त्रियामिष्यः ॥ ४२ ॥
+;c{XLIII. Bhānujīdīkṣita on AK I.5.1, V. D. Sharma on AK I.5.1}
+प्रज्ञा श्रद्धा धरा ज्ञप्तिः पण्डा संवेदनं विदा ॥ ४३ ॥
+;c{इति शब्दार्णवात् ।}
+;c{XLIV. Bhānujīdīkṣita on AK I.5.12, V. D. Sharma on AK I.5.12}
+;c{शब्दार्णवे तु -}
+कस्तूरिकायामामोदः कर्पूरे मुखवासनः ।
+बकुले स्यात्परिमलश्चम्पके सुरभिस्तथा ॥ ४४ ॥
+;c{इति ।}
+;c{XLV. Bhānujīdīkṣita on AK I.5.13, V. D. Sharma on AK I.5.13}
+;p{0534}
+;c{शब्दार्णवे तु -}
+श्वेतस्तु समपीतोऽसौ रक्तेतरजपारुचिः ।
+वलक्षस्तु सितश्यावः कदलीकुसुमोपमः ॥
+अर्जुनस्तु सितः कृष्णवेशवान् कुमुदच्छविः ॥ ४५ ॥
+;c{इत्युक्तम् ।}
+;c{XLVI. Bhānujīdīkṣita on AK I.5.13, V. D. Sharma on AK I.5.13}
+पाण्डुस्तु पीतभागार्धः केतकीधूलिसन्निभः ॥ ४६ ॥
+;c{इति शब्दार्णवः ।}
+;c{XLVII. Bhānujīdīkṣita on AK I.5.13, V. D. Sharma on AK I.5.13}
+धूसरस्तु सितः पीतलेशवान् बकुलच्छविः ॥ ४७ ॥
+;c{इति शब्दार्णवः ।}
+;c{XLVIII. Bhānujīdīkṣita on AK I.5.14, V. D. Sharma on AK I.5.14}
+;c{शब्दार्णवे तु -}
+मेचकः कृष्णनीलः स्यादतसीपुष्पसन्निभः ॥ ४८ ॥
+;c{इत्युक्तम् ।}
+;c{XLIX. Bhānujīdīkṣita on AK I.5.16, V. D. Sharma on AK I.5.16}
+;c{शब्दार्णवे तु -}
+सितपीतहरिद्रक्तः कडारस्तृणवह्निवत् ।
+अयं तूद्रिक्तपीताङ्गः कपिलो गोविभूषणः ॥
+हरितांशेऽधिकेऽसौ तु पिशङ्गः पद्मधूलिवत् ।
+पिशङ्गस्त्वसितावेशात् पिङ्गो दीपशिखादिषु ॥
+पिङ्गलस्तु परच्छायः पिङ्गे शुक्लाङ्गखण्डवत् ॥ ४९ ॥
+;c{इति}
+;c{L. Bhānujīdīkṣita on AK I.6.1, V. D. Sharma on AK I.6.1}
+ब्रह्माणी वचनं वाचा जल्पितं गदितं‌ गिरा ॥ ५० ॥
+;c{इति शब्दार्णवः ।}
+;c{LI. Mallinātha on Meghadūta II.54}
+उक्तिराभाषणं वाक्यमादेशो वचनं वचः ॥ ५१ ॥
+;c{इति शब्दार्णवे ।}
+;c{LII. Hemacandra on Abhidhānacintāmaṇi II.164}
+;c{यद्वाचस्पतिः -}
+शिक्षा वर्णविवेचिका ॥ ५२ ॥
+;c{LIII. Hemacandra on Abhidhānacintāmaṇi II.164}
+;c{यद्वाचस्पतिः -}
+सिद्धरूपः प्रयोगो यैः कर्मणामवगम्यते ।
+ते कल्पा लक्षणार्थानि सूत्राणिति प्रचक्षते ॥
+;c{... यदाह [वाचस्पतिः] -}
+प्रकृतिप्रत्ययोपाधिनिपातादिविभागशः ।
+पदान्वाख्यानकरणं शास्त्रं व्याकरणं विदुः ॥ ५३ ॥
+;c{LIV. Hemacandra on Abhidhānacintāmaṇi II.208}
+;c{वाचस्पतिस्तु -}
+पटहस्त्वानकोऽस्त्रियाम् ॥ ५४ ॥
+;c{इत्याह ।}
+;c{LV. Hemacandra on Abhidhānacintāmaṇi II.208, Bhānujīdīkṣita on AK I.7.6, V. D. Sharma on AK I.7.6}
+द्वयोस्तु कोणो वीणादेर्वादनं शारिका च सा ॥ ५५ ॥
+;c{LVI. Hemacandra on Abhidhānacintāmaṇi II.195}
+;c{वाचस्पतिस्तु -}
+हल्लीसकोऽस्त्रियाम् ॥ ५६ ॥
+;c{इत्याह ।}
+;c{LVII. Hemacandra on Abhidhānacintāmaṇi II.183}
+;c{यद्वाचस्पतिः -}
+नाट्यधर्मी तु स्त्रियां नाट्ये यथागमम् ॥ ५७ ॥
+;c{LVIII. Hemacandra on Abhidhānacintāmaṇi II.243, Bhānujīdīkṣita on AK I.7.11, V. D. Sharma on AK I.7.11}
+स्त्रीभूमिकां तु यः प्राप्तश्चत्वारस्तस्य वाचकः ।
+भ्रकुंसश्च भ्रुकुंसश्च भ्रूकुंसश्च भृकुंसवत् ॥ ५८ ॥
+;c{LIX. Bhānujīdīkṣita on AK I.7.13, V. D. Sharma on AK I.7.13}
+;c{अत्र विशेषः शब्दार्णवे -}
+गणिकानुचरैरज्जुकेति नाम्ना नृपेण सा ।
+युवराजस्तु सर्वेण कुमारो भर्तृदारकः ॥
+भट्टारको वा देवो वा वाच्यो भृत्यजनेन सः ।
+ब्राह्मणेन तु नाम्नैव राजन्नित्यृषिभिः स च ॥
+वयस्य राजन्निति वा विदूषक इमं वदेत् ।
+अभिषिक्ता तु राज्ञासौ देवीत्यन्या तु भोगिनी ॥
+भट्टिनीत्यपरैरन्या नीचैर्गौस्वामिनी सा ॥ ५९ ॥
+;c{इति ।}
+;c{LX. Bhānujīdīkṣita on AK I.7.14, V. D. Sharma on AK I.7.14}
+आर्ये मारिषमार्षकौ ॥ ६० ॥
+;c{इति शब्दार्णवः ।}
+;c{LXI. Bhānujīdīkṣita on AK I.7.15, V. D. Sharma on AK I.7.15}
+निर्वहणं तु निष्ठा स्त्री संहारश्च समापने ॥ ६१ ॥
+;c{इति शब्दार्णवः ।}
+;c{LXII. Sarvānanda on AK I.7.16, Bhānujīdīkṣita on AK I.7.16, V. D. Sharma on AK I.7.16}
+अङ्गहारस्त्वङ्गहारिः ॥ ६२ ॥
+;c{इति शब्दार्णवः ।}
+;c{LXIII. Bhānujīdīkṣita on AK I.7.19, V. D. Sharma on AK I.7.19}
+तत्र हासो हसो हास्यं घर्घरं हासिका स्त्रियाम् ॥ ६२ ॥
+;c{इति शब्दार्णवः ।}
+;c{LXIV. Bhānujīdīkṣita on AK I.7.19, V. D. Sharma on AK I.7.19}
+;p{0535}
+विकृतो वैकृतः ॥ ६४ ॥
+;c{इति शब्दार्णवात् ।}
+;c{LXV. Mallinātha on Raghuvaṃśa X.46}
+संक्षोभो भयचकितम् ॥ ६५ ॥
+;c{इति शब्दार्णवे ।}
+;c{LXVI. Bhānujīdīkṣita on AK I.7.21, V. D. Sharma on AK I.7.21}
+स्यादर्तनमृतीया च गर्हा चाथ भयं भिया ।
+त्रासोत्त्रासौ दरो भीतमातङ्को भीश्च साध्वसम् ॥ ६६ ॥
+;c{इति शब्दार्णवात् ।}
+;c{LXVII. Bhānujīdīkṣita on AK I.7.24, V. D. Sharma on AK I.7.24}
+असूया त्वभ्यसूया ॥ ६७ ॥
+;c{इति शब्दार्णवः ।}
+;c{LXVIII. Bhānujīdīkṣita on AK I.7.26}
+क्रोधो भामः क्रुधा रुषा ॥ ६८ ॥
+;c{इति शब्दार्णवः ।}
+;c{LXIX. Bhānujīdīkṣita on AK I.7.29, V. D. Sharma on AK I.7.29 and Trikāṇḍaśeṣa III.5.17}
+चिन्ता तु स्मृतिराध्यानं स्मरणं सस्पृहे पुनः ।
+उत्कण्ठोत्कलिके तस्मिन्नभिध्या तूभयोरपि ॥ ६९ ॥
+;c{इति शब्दार्णवः ।}
+;c{LXX. Bhānujīdīkṣita on AK I.7.32}
+लीला केलिर्विलासश्च शृङ्गारभावजा क्रिया ॥ ७० ॥
+;c{इति शब्दार्णवात् ।}
+;c{LXXI. Hemacandra on Abhidhānacintāmaṇi IV.263}
+;c{यद्वाचस्पतिः -}
+मेषशृङ्गं त्वविशृङ्गाकृतिः ॥ ७१ ॥
+;c{LXXII. Hemacandra on Abhidhānacintāmaṇi IV.265}
+एते सर्वेऽपि पुंक्लीबलिङ्गाः ॥ ७२ ॥
+;c{इति वाचस्पतिः ।}
+;c{LXXIII. Bhānujīdīkṣita on AK I.9.3, V. D. Sharma on AK I.9.3}
+प्रसूतिजममानस्यं कृच्छ्रं कष्टं कलाकलम् ॥ ७३ ॥
+;c{इति वाचस्पतिः ।}
+;c{LXXIV. Bhānujīdīkṣita on AK I.10.3, V. D. Sharma on AK I.10.3}
+सरिलं सलिरं सलिलम् ॥ ७४ ॥
+;c{इति वाचस्पतिः ।}
+;c{LXXV. Bhānujīdīkṣita on AK I.10.5, V. D. Sharma on AK I.10.5}
+नारं घनरसः पुमान् ॥ ७५ ॥
+;c{इति शब्दार्णवः ।}
+;c{LXXVI. Sarvānanda on AK I.10.21}
+जलोका रक्तपानडी स्त्रियां भूम्नि जलौकसः ॥ ७६ ॥
+;c{इति शब्दार्णवः ।}
+;c{LXXVII. Hemacandra on Abhidhānacintāmaṇi IV.160, Ujjvaladatta on Uṇ. IV.188, Jñānavimalagaṇi on Maheśvara's Śabdabhedaprakāśa III.58, Jñānendrasarasvatī on Uṇ. 628}
+;c{वाचस्पतिस्तु -}
+कासारस्त्वल्पसरसि सरसी तु महासरः ॥ ७७ ॥
+;c{इति विशेषमाह ।}
+;c{LXXVIII. Bhānujīdīkṣita on AK I.10.28, V. D. Sharma on AK I.10.28}
+वेशन्तः पल्वलोऽस्त्री ॥ ७८ ॥
+;c{इति वाचस्पतिः ।}
+;c{LXXIX. Sarvānanda on AK 1.10.33, Bhānujīdīkṣita on AK I.10.34, V. D. Sharma on AK I.10.34}
+तापी तु तपती सैत्या चन्द्रभागा तु चन्द्रका ।
+चान्द्रभागा शारदा तु कश्मीरेषु सरस्वती ॥ ७९ ॥
+;c{इति शब्दार्णवः ।}
+;c{LXXX. Ujjvaladatta on Uṇ. IV.38, Bhaṭṭojīdīkṣita on Uṇ. 478, Jñānendrasarasvatī on Uṇ. 478, Bhānujīdīkṣita on AK I.10.38, V. D. Sharma on AK I.10.38}
+शेवलं शैवलो न स्त्री शैवलो जलनीलिका ॥ ८० ॥
+;c{इति शब्दार्णवः / वाचस्पतिः ।}
+;c{LXXXI. Ujjvaladatta on Uṇ. I.150, Bhaṭṭojīdīkṣita on Uṇ. 148, Bhānujīdīkṣita on AK II.1.3, Jñānendrasarasvatī on Uṇ. 148, V. D. Sharma on AK II.1.3}
+पृथिवी पृथवी पृथ्वी धरा सर्वंसहा रसा ॥ ८१ ॥
+;c{इति शब्दार्णवः ।}
+;c{LXXXII. Bhānujīdīkṣita on AK II.1.3}
+वीचिः पङ्क्तिर्महिः केलिरित्याद्या ह्रस्वदीर्घयोः ॥ ८२ ॥
+;c{इति वाचस्पतिः ।}
+;c{LXXXIII. Bhānujīdīkṣita on AK II.1.18, V. D. Sharma on AK II.1.18}
+धन्वन्तरसहस्रं तु क्रोशः क्रोशद्वयं पुनः ।
+गव्यूतं स्त्री तु गव्यूतिर्गोरुतं गोमतं च तत् ॥ ८३ ॥
+;p{0536}
+;c{LXXXIV. Sarvānanda on AK II.1.18, Bhānujīdīkṣita on AK II.1.18, V. D. Sharma on AK II.1.18}
+द्वाभ्यां धनुःसहस्राभ्यां गव्यूतिः पुंसि भाषितः ॥ ८४ ॥
+;c{इति शब्दार्णवः ।}
+;c{LXXXV. Hemacandra on Abhidhānacintāmaṇi IV.38}
+;c{वाचस्पतिस्तु -}
+स्यात् स्थानीयं त्वतिलम्बो ग्रामो ग्रामशताष्टके ।
+तदर्धं तु द्रोणमुखं तच्च कर्वटमस्त्रियाम् ॥
+कर्वटार्धे कर्वुटिकं स्यात्तदर्धे तु कार्वटम् ।
+तदर्धे पत्तनं तच्च पत्तनं पुटभेदनम् ॥
+निगमस्तु पत्तनार्धे तदर्धे तु निवेशनम् ।
+कर्वटादधमो द्रङ्गः पत्तनादुत्तमश्च सः ॥
+उद्रङ्गश्च निवेशश्च स एव द्रङ्ग इत्यपि ॥ ८५ ॥
+;c{इति विशेषमाह ।}
+;c{LXXXVI. Hemacandra on Abhidhānacintāmaṇi IV.69}
+;c{वाचस्पतिस्तु -}
+कुड्यमस्त्रियाम् ॥ ८६ ॥
+;c{इति पुंस्यप्याह ।}
+;c{LXXXVII. Bhānujīdīkṣita on AK II.2.4, V. D. Sharma on AK II.2.4}
+गेहमस्त्री शालासभे स्त्रियाम् ॥ ८७ ॥
+;c{इति वाचस्पतिः ।}
+;c{LXXXVIII. Bhānujīdīkṣita on AK II.2.5, V. D. Sharma on AK II.2.5}
+निशान्तं सदनं वस्त्यमगारं मन्दिरं पुरम् ॥ ८८ ॥
+;c{इति वाचस्पतिः ।}
+;c{LXXXIX. Bhānujīdīkṣita on AK II.2.5, V. D. Sharma on AK II.2.5}
+कुलोदवसितं पस्त्यम् ॥ ८९ ॥
+;c{इति वाचस्पतिः ।}
+;c{XC. Hemacandra on Abhidhānacintāmaṇi IV.63}
+;c{यद्वाचस्पतिः -}
+आथर्वणं शान्तिगृहं शान्तिगृहकमप्यदः ॥ ९० ॥
+;c{इति ।}
+;c{XCI. Bhānujīdīkṣita on AK II.2.17, V. D. Sharma on AK II.2.17}
+कपाटश्च कवाटश्च त्रिषु स्यादररं न ना ॥ ९१ ॥
+;c{इति वाचस्पतिः ।}
+;c{XCII. Hemacandra on Abhidhānacintāmaṇi IV.162}
+;c{वाचस्पतिस्तु -}
+सरिः स्त्री निर्झरो झरः उस्रस्त्वस्त्री ॥ ९२ ॥
+;c{इति ।}
+;c{XCIII. Bhānujīdīkṣita on AK II.4.9, V. D. Sharma on AK II.4.9}
+वल्ली तु वेल्लिः सरणे ॥ ९३ ॥
+;c{इति वाचस्पतिः ।}
+;c{XCIV. Hemacandra on Abhidhānacintāmaṇi III.292}
+;c{वाचस्पतिस्तु -}
+अथ मज्जा द्वयोः ॥ ९४ ॥
+;c{इति ...।}
+;c{XCV. Hemacandra on Abhidhānacintāmaṇi IV.192, Jñānavimalagaṇi on Maheśvara's Śabdabhedaprakāśa I.86}
+;c{... वाचस्पतिः, यदाह -}
+गुलुञ्छोऽस्त्री ॥ ९५ ॥
+;c{इति ।}
+;c{XCVI. Hemacandra on Abhidhānacintāmaṇi IV.191, Jñānavimalagaṇi on Maheśvara's Śabdabhedaprakāśa IV.3}
+;c{वाचस्पतिस्तु -}
+पुष्पोऽस्त्री ॥ ९६ ॥
+;c{इति ।}
+;c{XCVII. Mallinātha on Meghadūta I.1}
+छायावृक्षो नमेरुः स्यात् ॥ ९७ ॥
+;c{इति शब्दार्णवे ।}
+;c{XCVIII. Hemacandra on Abhidhānacintāmaṇi IV.197}
+;c{यद्वाचस्पतिः -}
+फलं त्वेतस्य पर्कटम् ॥ ९८ ॥
+;c{XCIX. Bhānujīdīkṣita on AK II.4.34, V. D. Sharma on AK II.4.34}
+कुम्भोलूखलं कुम्भं कुम्भोलुः खलकं वरम् ॥ ९९ ॥
+;c{इति वाचस्पतिः ।}
+;c{C. Bhānujīdīkṣita on AK II.4.35, V. D. Sharma on AK II.4.35}
+राजादनं प्रसरको राजातनः ॥ १०० ॥
+;c{इति वाचस्पतिः ।}
+;c{CI. Bhānujīdīkṣita on AK II.4.38, V. D. Sharma on AK II.4.38}
+नागरङ्गे तु नारङ्गो नार्यङ्गस्तक्रवासनः ॥ १०१ ॥
+;c{इति वाचस्पतिः ।}
+;c{CII. Bhānujīdīkṣita on AK II.4.43, Jñānendrasarasvatī on Uṇ. 460, V. D. Sharma on AK II.4.43}
+तिन्तिडी त्वम्ब्लिका चिञ्चा तिन्तिडिका कपिप्रिया ॥ १०२ ॥
+;c{इति वाचस्पतिः ।}
+;c{CIII. Bhānujīdīkṣita on AK II.4.54, V. D. Sharma on AK II.4.54}
+अलिप्रिया विशालाग्राप्यमोघा पाटलिर्द्वयोः ॥ १०३ ॥
+;c{इति वाचस्पतिः ।}
+;c{CIV. Bhānujīdīkṣita on AK II.4.63, V. D. Sharma on AK II.4.63}
+भण्डिरो भण्डिलो ना ॥ १०४ ॥
+;c{इति वाचस्पतिः ।}
+;p{0537}
+;c{CV. Sarvānanda on AK II.4.67, Raghunātha (R. Sharma, Kalpadrukośa of Keśava, GOS no. 42, Introduction p. xv, note 4)}
+कृष्णपाकफलः कृष्णफलपाको वनालकः ।
+कृष्णपाकः पाककृष्णः फलकृष्णो वरालकः ॥
+पाककृष्णफलः पाकफलकृष्णः कराम्बुकः ।
+फलपाकः पाकफलः पोलः कृष्णफलोऽवशः ॥ १०५ ॥
+;c{इति शब्दार्णवः ।}
+;c{CVi. Bhānujīdīkṣita on AK II.4.70, Raghunātha (R. Sharma, Kalpadrukośa of Keśava, GOS no. 42, Introduction p. xvi, note 1), V. D. Sharma on AK II.4.70}
+मल्लिका शतभीरुश्च गवाक्षी भद्रमल्लिका ।
+शीतभीरुर्मदयन्ती भूपादी तृणशून्यकम् ॥ १०६ ॥
+;c{CVII. Sarvānanda on AK II.4.78, Bhānujīdīkṣita on AK II.4.78}
+धूस्तुरस्तु पुरीमोहो धूस्तूरः कनकाह्वयः ।
+धुस्तूरो मातुलश्चास्य फले मातुलपुत्रकः ॥ १०७ ॥
+;c{CVIII. Bhānujīdīkṣita on AK II.4.87, V. D. Sharma on AK II.4.87}
+... शुकशिम्बिस्तु मर्कटी ।
+शुकशिम्बा च ... ॥ १०८ ॥
+;c{इति वाचस्पतिः ।}
+;c{CIX. Bhānujīdīkṣita on AK II.4.106, V. D. Sharma on AK II.4.106}
+कृमिघ्नं तण्डुलं मोघा ॥ १०९ ॥
+;c{इति वाचस्पतिः ।}
+;c{CX. Bhānujīdīkṣita on AK II.4.108, V. D. Sharma on AK II.4.108}
+सर्वानुभूतिः सरला त्रिपुटा रेचनी सरा ॥ ११० ॥
+;c{इति वाचस्पतिः ।}
+;c{CXI. Bhānujīdīkṣita on AK II.4.108, V. D. Sharma on AK II.4.108}
+त्रिपुटी महती श्वाशा ॥ १११ ॥
+;c{इति वाचस्पतिः ।}
+;c{CXII. Bhānujīdīkṣita on AK II.4.109, V. D. Sharma on AK II.4.109}
+मधुयष्टी च यष्टी च यष्टीमधुकमेव च ॥ ११२ ॥
+;c{CXIII. Bhānujīdīkṣita on AK II.4.112, V. D. Sharma on AK II.4.112}
+गोपी श्यामा गोपवल्ली गोपालिका च सा ॥ ११३ ॥
+;c{इति वाचस्पतिः ।}
+;c{CXIV. Mallinātha on Meghadūta I.21 and Śiśupālavadha VI.30}
+द्रोणपर्णी स्निग्धकन्दा कन्दली भूमिकन्दली ॥ ११४ ॥
+;c{इति शब्दार्णवे (वः) ।}
+;c{CXV. Bhānujīdīkṣita on AK II.4.116, V. D. Sharma on AK II.4.116}
+वनकर्पासिकायां तु सहा चन्दनबीजिका ।
+भारद्वाजी महावीर्या कुष्ठला कुष्ठनाशिनी ॥ ११५ ॥
+;c{इति वाचस्पतिः ।}
+;c{CXVI. Bhānujīdīkṣita on AK II.4.118, V. D. Sharma on AK II.4.118}
+अग्निज्वाला लाङ्गलिकी ॥ ११६ ॥
+;c{इति वाचस्पतिः ।}
+;c{CXVII. Bhānujīdīkṣita on AK II.4.128, V. D. Sharma on AK II.4.128}
+दुष्कुलीना धनहरी विरोकः क्रोधमूर्च्छितः ॥ ११७ ॥
+;c{इति वाचस्पतिः ।}
+;c{CXVIII. Bhānujīdīkṣita on AK II.4.131, Raghunātha (R. Sharma, Kalpadrukośa of Keśava, GOS no. 42, Introduction p. xvi, note 1), V. D. Sharma on AK II.4.131}
+दशपूरं दशपुरं प्लवनं जीविताह्वयम् ॥ ११८ ॥
+;c{इति वाचस्पतिः ।}
+;c{CXIX. Bhānujīdīkṣita on AK II.4.133, V. D. Sharma on AK II.4.133}
+स्पृक्का तु ब्राह्मणी देवी मरुन्माला लता लघुः ।
+समुद्रान्ता वधूः कोटिवर्षा लङ्कोपिका मरुत् ॥
+मुनिर्माल्यवती माला मोहना कुटिला लता ॥ ११९ ॥
+;c{CXX. Sarvānanda on AK II.4.137}
+ब्राह्मी वयःस्था मत्स्याक्षी ब्रह्मा तत् सोमवल्लरी ॥ १२० ॥
+;c{इति शब्दार्णवः ।}
+;c{CXXI. Bhānujīdīkṣita on AK II.4.156, V. D. Sharma on AK II.4.156}
+अलाबुस्तु पिण्डफला तुम्बिस्तुम्बी महाफला ।
+तुम्बा तु वर्तुलालाबूर्निम्बचूर्णा तु लाबूका ॥ १२१ ॥
+;c{इति वाचस्पतिः ।}
+;p{0538}
+;c{CXXII. Bhānujīdīkṣita on AK II.4.157, V. D. Sharma on AK II.4.157}
+कलम्बी तु शतपर्वा कलम्बूर्वासु वीरुधः ॥ १२२ ॥
+;c{इति वाचस्पतिः ।}
+;c{CXXIII. Bhānujīdīkṣita on AK II.4.162, V. D. Sharma on AK II.4.162}
+सरस्तु मुञ्जो बाणाख्यो गुन्द्रस्तेजनकः शरः ॥ १२३ ॥
+;c{इति वाचस्पतेर्दन्त्यादिश्च ।}
+;c{CXXIV. Hemacandra on Abhidhānacintāmaṇi IV.260, Bhānujīdīkṣita on AK II.4.156, V. D. Sharma on AK II.4.156}
+;c{यद्वाचस्पतिः -}
+पुण्ड्रेक्षौ पुण्ड्रकः सेव्यः पुण्ड्रकोऽतिरसो मधुः ।
+श्वेतकाण्डो भीरुकस्तु हरितो मधुरो महान् ॥
+शून्येश्वरस्तु कान्तारः कोषकारस्तु वंशकः ।
+शतघोरस्त्वीषत्क्षारः पीतच्छायोऽथ तापसः ॥
+सितनीलोऽथ नेपालो वंशप्रायो महाबलः ।
+अन्वर्थस्तु दीर्घपत्रो दीर्घपर्वा कषायवान् ॥
+काष्टेक्षुस्तु ह्रस्वकाण्डो धनग्रन्थिर्वनोद्भवः ।
+नीलघोरस्तु सुरसो नीलपीतलराजिवान् ॥
+अनूपसम्भवः प्रायः खर्नटी त्विक्षुबालिका ।
+करङ्कशालिः शाकेक्षुः सूचिपत्रो गुडेक्षवः ॥ १२४ ॥
+;c{इति ।}
+;c{CXXV. Bhānujīdīkṣita on AK II.4.165}
+लामज्जकं लघुलयमवदाहेष्टकापथे ।
+अवदानमिन्द्रगुप्तमवदाहेष्टकापथे ॥ १२५ ॥
+;c{इति वाचस्पतिः ।}
+;c{CXXVI. Hemacandra on Abhidhānacintāmaṇi IV.261, Jñānavimalagaṇi on Maheśvara's Śabdabhedaprakāśa I.53}
+;c{वाचस्पतिस्तु -}
+अथास्त्री यवसो घासः ॥ १२६ ॥
+;c{इति ।}
+;c{CXXVII. Hemacandra on Abhidhānacintāmaṇi IV.218}
+;c{यद्वाचस्पतिः -}
+केतकस्तु द्वयोः ॥ १२७ ॥
+;c{इति ।}
+;c{CXXVIII. Bhānujīdīkṣita on AK II.5.5, V. D. Sharma on AK II.5.5}
+खरोष्ट्रकपिजम्बूकवायसाजम्बरो यमः ॥ १२८ ॥
+;c{इति वाचस्पतिः ।}
+;c{CXXIX. Hemacandra on Abhidhānacintāmaṇi III.294}
+;c{वाचस्पतिरपि -}
+तत्राजिनं मृगयोनिर्मृगाश्च प्रियकादयः ।
+मृगप्रकरणे तेऽथ प्रोक्ता अजिनयोनयः ॥ १२९ ॥
+;c{इति ।}
+;c{CXXX. Sarvānanda on AK II.5.12, Bhānujīdīkṣita on AK II.5.12, V. D. Sharma on AK II.5.12}
+कुन्दुरुन्दुरुरुन्दुरः ॥ १३० ॥
+;c{इति शब्दार्णवः ।}
+;c{CXXXI. Bhānujīdīkṣita on AK II.5.12}
+भद्रमूषिक आसन्दी कुन्दुरुन्दुरुरुन्दुरः ।
+मूषको वज्रदशनः क्रमः‌ काण्डो बिलेशयः ॥ १३१ ॥
+;c{इति वाचस्पतिः ।}
+;c{CXXXII. Mallinātha on Meghadūta I.32, Kirātārjunīya VIII.31 and Śiśupālavadha XII.44}
+चक्राङ्गः‌ सारसो हंसः ॥ १३२ ॥
+;c{इति शब्दार्णवे ।}
+;c{CXXXIII. Sarvānanda on AK II.5.24}
+भूषिते परितो यस्य लोचने कृष्णराजिभिः ।
+कृष्णं च तारकामात्रं मल्लिकाक्षः स उच्यते ॥ १३३ ॥
+;c{इत्यश्वभेदो हंसभेदश्च । एतच्छब्दार्णव उक्तम् ।}
+;c{CXXXIV. Hemacandra on Abhidhānacintāmaṇi IV.399}
+;c{यद्वाचस्पतिः -}
+बलाकस्तु बलाहकः ॥ १३४ ॥
+;c{CXXXV. Bhānujīdīkṣita on AK II.5.35, V. D. Sharma on AK II.5.35}
+;c{यद्वाचस्पतिः -}
+कपोतलावतित्तिराः ॥ १३५ ॥
+;c{इति वाचस्पतिः ।}
+;c{CXXXVI. Mallinātha on Meghadūta II.7}
+विशेषाः कामिनीकान्ताभीरुबिम्बाधराङ्गनाः ॥ १३६ ॥
+;c{इति शब्दार्णवे ।}
+;c{CXXXVII. Bhānujīdīkṣita on AK II.6.11, V. D. Sharma on AK II.6.11}
+विश्वस्ताविधवे तुल्ये विशस्तापतिनी च सा ॥ १३७ ॥
+;c{इति शब्दार्णवः ।}
+;c{CXXXVIII. Mallinātha on Meghadūta I.26}
+वारस्त्री गणिका वेश्या पण्यस्त्री रूपजीविनी ॥ १३८ ॥
+;c{इति शब्दार्णवे ।}
+;c{CXXXIX. Sarvānanda on AK II.6.29, Ujjvaladatta on Uṇ. II.99, Bhaṭṭojīdīkṣita on Uṇ. 255}
+ननन्दा तु स्वसा पत्युर्ननान्दा च सा ॥ १३९ ॥
+;c{इति शब्दार्णवः ।}
+;c{CXL. Sarvānanda on AK II.6.32, Bhānujīdīkṣita on AK II.6.32, V. D. Sharma on AK II.6.32}
+देवृदेवरदेवानः ॥ १४० ॥
+;c{इति शब्दार्णवः ।}
+;p{0539}
+;c{CXLI. Mallinātha on Meghadūta I.25}
+विलासी कामुकः कामी स्त्रीपरो रतिलम्पटः ॥ १४१ ॥
+;c{इति शब्दार्णवे ।}
+;c{CXLII. Bhānujīdīkṣita on AK II.6.38, V. D. Sharma on AK II.6.38}
+शाल्मली मैथिली मैत्री दम्पती च सा ॥ १४२ ॥
+;c{इति वाचस्पतौ ... उक्तम् ।}
+;c{CXLIII. Hemacandra on Abhidhānacintāmaṇi III.126}
+;c{यद्वाचस्पतिः -}
+विविधान् यः‌ करोत्याधीन् व्याधिः स हि निरुच्यते ॥ १४३ ॥
+;c{CXLIV. Hemacandra on Abhidhānacintāmaṇi III.295}
+;c{वाचस्पतिस्तु -}
+गोदोऽस्त्री मस्तुलुङ्गकम् ॥ १४४ ॥
+;c{इति ।}
+;c{CXLV. Hemacandra on Abhidhānacintāmaṇi III.269, Sarvānanda on AK II.6.66, Bhānujīdīkṣita on AK II.6.66, V. D. Sharma on AK II.6.66}
+अन्त्रं पुरीतदस्त्रियाम् ॥ १४५ ॥
+;c{CXLVI. Hemacandra on Abhidhānacintāmaṇi III.295, Jñānavimalagaṇi on Maheśvara's Śabdabhedaprakāśa III.47}
+;c{...वाचस्पतिः । यदाह -}
+अथ स्नायुर्न ना तन्त्रीः ॥ १४६ ॥
+;c{इति ।}
+;c{CXLVII. Sarvānanda on AK II.6.67, Bhānujīdīkṣita on AK II.6.67, V. D. Sharma on AK II.6.67}
+अत्र पिञ्छोडकं नेत्रमलं दूषी च दूषिका ॥ १४७ ॥
+;c{CXLVIII. Hemacandra on Abhidhānacintāmaṇi III.268}
+;c{वाचस्पतिस्तु -}
+कुक्षिस्तु जठराधारे ॥ १४८ ॥
+;c{इति ।}
+;c{CXLIX. Sarvānanda on AK II.6.80, Bhānujīdīkṣita on AK II.6.80, V. D. Sharma on AK II.6.80}
+कफोणिस्तु बाहुमध्ये कट्मरः कफणिर्द्वयोः ॥ १४९ ॥
+;c{इति शब्दार्णवः ।}
+;c{CL. Bhānujīdīkṣita on AK II.6.82}
+अङ्गुलो ना यवमानम् ॥ १५० ॥
+;c{इति वाचस्पतिः ।}
+;c{CLI. Hemacandra on Abhidhānacintāmaṇi III.252}
+;c{वाचस्पतिस्तु -}
+ग्रीवामूले तु कण्ठोऽस्त्री ॥ १५१ ॥
+;c{इति ...।}
+;c{CLII. Hemacandra on Abhidhānacintāmaṇi III.245, Jñānavimalagaṇi on Maheśvara's Śabdabhedaprakāśa I.91}
+;c{वाचस्पतिस्तु -}
+नक्रो नासा विकूणिका ॥ १५२ ॥
+;c{इति ...।}
+;c{CLIII. Hemacandra on Abhidhānacintāmaṇi III.237}
+;c{यद्वाचस्पतिः -}
+श्रवः पैञ्जूषमस्त्रियाम् ॥ १५३ ॥
+;c{CLIV. Bhānujīdīkṣita on AK II.6.96, V. D. Sharma on AK II.6.96}
+शिखाण्डकशिखण्डकौ ॥ १५४ ॥
+;c{इति वाचस्पति-सुभूती ।}
+;c{CLV. Hemacandra on Abhidhānacintāmaṇi III.331}
+... प्रोतः ॥ १५५ ॥
+;c{क्लीबे वाचस्पतिः ।}
+;c{CLVI. Sarvānanda on AK II.6.124}
+वह्लिकेषु च वह्लीकाः ॥ १५६ ॥
+;c{इति शब्दार्णवः ।}
+;c{CLVII. Bhānujīdīkṣita on AK II.6.124, V. D. Sharma on AK II.6.124}
+काश्मीरजं वह्निशिखं बाह्लीकं पीतनं वरम् ॥ १५७ ॥
+;c{इति वाचस्पतिः ।}
+;c{CLVIII. Bhānujīdīkṣita on AK II.6.126, V. D. Sharma on AK II.6.126}
+... राजार्हं वंशिकं नतम् ।
+वनद्रुमः परमदो वंशकं लोहनामकम् ॥ १५८ ॥
+;c{इति वाचस्पतिः ।}
+;c{CLIX. Hemacandra on Abhidhānacintāmaṇi III.489}
+;c{वाचस्पतिस्तु -}
+यूपाग्रं तर्म न स्त्रियाम् ॥ १५९ ॥
+;c{इति ।}
+;c{CLX. Bhānujīdīkṣita on AK II.8.28, V. D. Sharma on AK II.8.28}
+यौतकं यौतुकं च तत् ॥ १६० ॥
+;c{इति वाचस्पतेरुमध्यमपि ।}
+;c{CLXI. Hemacandra on Abhidhānacintāmaṇi III.343}
+;c{यद्वाचस्पतिः -}
+विनियोगस्त्वस्य हस्तिरथप्रावरणादिषु ॥ १६१ ॥
+;c{इति ।}
+;c{CLXII. Bhānujīdīkṣita on AK II.8.48, V. D. Sharma on AK II.8.48}
+अथ धौरितकं धौर्यं धोरणं धौरितं च तत् ॥ १६२ ॥
+;c{इति वाचस्पतिः ।}
+;p{0540}
+;c{CLXIII. Bhānujīdīkṣita on AK II.8.73, V. D. Sharma on AK II.8.73}
+प्रज्ञालप्रज्ञीलौ तुल्यौ जङ्घालजङ्घिलादयः ॥ १६३ ॥
+;c{इति वाचस्पतिः ।}
+;c{CLXIV. Hemacandra on Abhidhānacintāmaṇi III.463, Jñānavimalagaṇi on Maheśvara's Śabdabhedaprakāśa II.7}
+;c{यद्वाचस्पतिः -}
+महासमरतूर्ये तु पटहाडम्बरावुभौ ॥ १६४ ॥
+;c{CLXV. Hemacandra on Abhidhānacintāmaṇi III.67}
+;c{यद्वाचस्पतिः -}
+फाणितमस्त्रियाम् ॥ १६५ ॥
+;c{CLXVI. Hemacandra on Abhidhānacintāmaṇi III.63}
+;c{यद्वाचस्पतिः -}
+तेमने तु निष्ठानोऽस्त्री ॥ १६६ ॥
+;c{CLXVII. Sarvānanda on AK II.9.54}
+(अथ पेष्टषपिष्टनवं) सप्तदिनावधि ॥ १६७ ॥
+;c{इति शब्दार्णवः ।}
+;c{CLXVIII. Hemacandra on Abhidhānacintāmaṇi III.546}
+;c{यद्वाचस्पतिः -}
+गणनीयं तु गणेयम् ॥ १६८ ॥
+;c{इति ।}
+;c{CLXIX. Hemacandra on Abhidhānacintāmaṇi III.536}
+;c{यदाह वाचस्पतिः -}
+अष्टादशभ्य एकाद्याः सङ्ख्याः सङ्ख्येयगोचराः ।
+ऊनविंशत्यादिकास्तु सर्वाः सङ्ख्येयसङ्ख्ययोः ॥ १६९ ॥
+;c{CLXX. Hemacandra on Abhidhānacintāmaṇi IV.113}
+;c{यद्वाचस्पतिः -}
+तारहेम्नि तु संश्लिष्टे घनगोलकमस्त्रियाम् ॥ १७० ॥
+;c{इति ।}
+;c{CLXXI. Hemacandra on Abhidhānacintāmaṇi IV.131}
+;c{वाचस्पतिस्तु -}
+अथास्त्री हीरकः ॥ १७१ ॥
+;c{इति ...।}
+;c{CLXXII. Hemacandra on Abhidhānacintāmaṇi IV.134}
+;c{यद्वाचस्पतिः -}
+स्फटिकास्तु त्रयस्तेषामाकाशस्फटिको वरः ।
+द्वौ क्षीरतौलस्फटिकावाकाशस्फटिकस्य तु ॥
+द्वौ भेदौ सूर्यकान्तश्च चन्द्रकान्तश्च तत्र च ॥ १७२ ॥
+;c{इति ।}
+;c{CLXXIII. Hemacandra on Abhidhānacintāmaṇi IV.129}
+;c{यद्वाचस्पतिः -}
+हीरकं मौक्तिकं स्वर्णं रजतं चन्दनानि च ।
+शङ्खश्च चर्म च वस्त्रं चेत्यष्टौ रत्नस्य जातयः ॥ १७३ ॥
+;c{CLXXIV. Hemacandra on Abhidhānacintāmaṇi IV.109}
+;c{... वाचस्पतिः, यदाह -}
+... हाटकमस्त्रियाम् ।
+हाटकाकरसम्भूतं पलाशकुसुमच्छविः ॥ १७४ ॥
+;c{CLXXV. Hemacandra on Abhidhānacintāmaṇi IV.111}
+;c{वाचस्पतिस्तु -}
+भूरिरष्टापदोऽस्त्रियाम् ॥ १७५ ॥
+;c{इति ...।}
+;c{CLXX. Hemacandra on Abhidhānacintāmaṇi IV.113}
+;c{वाचस्पतिस्तु -}
+पित्तलं त्वारमस्त्रियाम् ॥ १७६ ॥
+;c{इति ...।}
+;c{CLXXVII. Sarvānanda on AK II.9.100, Bhānujīdīkṣita on AK II.9.99, V. D. Sharma on AK II.9.99}
+पारतस्तु मनाक्पाण्डुः सूतस्तु रहितो मलात् ।
+पारदस्तु मनाक्शीतः सर्वे तुल्यगुणाः स्मृताः ॥ १७७ ॥
+;c{इति शब्दार्णवः ।}
+;c{CLXXVIII. Bhānujīdīkṣita on AK II.9.100}
+गिरिजं गिरिजाबीजममलं गवलध्वजम् ॥ १७८ ॥
+;c{इति वाचस्पतिः ।}
+;c{CLXXIX. Bhānujīdīkṣita on AK II.10.12, V. D. Sharma on AK II.10.12}
+रङ्गावतारी शैलूषो नटो भरतभारतौ ॥ १७९ ॥
+;c{इति वाचस्पतिः ।}
+;c{CLXXX. Bhānujīdīkṣita on AK II.10.22, V. D. Sharma on AK II.10.22}
+कुक्कुरस्तु शुनिः श्वानः कपिलो मण्डलः शुनः ॥ १८० ॥
+;c{इति वाचस्पतिः ।}
+;c{CLXXXI. Bhānujīdīkṣita on AK II.10.25, V. D. Sharma on AK II.10.25}
+स्तेयं स्तैन्यं च चौर्ये स्याच्चौरिकाचोरिके स्त्रियाम् ॥ १८१ ॥
+;c{इति वाचस्पतिः ।}
+;c{CLXXXII. Sarvānanda on AK II.10.34, Bhānujīdīkṣita on AK II.10.33, V. D. Sharma on AK II.10.33}
+मूषा त्वावर्तनी मूषी ॥ १८२ ॥
+;c{इति शब्दार्णवः ।}
+;c{CLXXXIII. Bhānujīdīkṣita on AK II.10.33, V. D. Sharma on AK II.10.33}
+वेधनी तु लास्फोटन्यां स्फोटनी वृषदंशिका ॥ १८३ ॥
+;c{इति वाचस्पतिः ।}
+;c{CLXXXIV. Hemacandra on Abhidhānacintāmaṇi IV.280}
+;c{यद्वाचस्पतिः -}
+पौत्तिकभ्रामरक्षौद्रदालौद्दालकमाक्षिकम् ।
+अर्घ्यं छात्रकमित्यष्टौ जातयोऽस्य पृथग्गुणाः ॥
+;p{0541}
+तत्र पौत्तिकमुत्तप्तघृताभं विषकीटजम् ।
+भ्रामरं तु भ्रमरजं पाण्डुरं गुरुशीतलम् ॥
+क्षौद्रं तु कपिलं दाहि क्षुद्रानीतं मलावहम् ।
+दालं तु दलजं सेव्यं दुर्लभं रूक्षवालकम् ॥
+उद्दालकं तु शालाकं विषजिद्मधुराम्लकम् ।
+माक्षिकं तु मधु ज्येष्ठं विरूक्षं तैलवर्णकम् ॥
+अर्घ्यं तु पूज्यमापाण्डु मनाक् तिक्तं सवालकम् ।
+छात्रं त्वेकान्तमधुरं सर्वार्घ्यं राजसेवितम् ॥ १८४ ॥
+;c{CLXXXV. Bhānujīdīkṣita on AK III.2.26, V. D. Sharma on AK III.2.26}
+आवेगस्तु त्वरा त्वरिः ॥ १८५ ॥
+;c{इति वाचस्पतिः ।}
+;c{CLXXXVI. Bhānujīdīkṣita on AK III.2.32, V. D. Sharma on AK III.2.32}
+मोहो वीज्या जुगुप्सा च हृणीया हृणिया घृणा ॥ १८६ ॥
+;c{इति वाचस्पतिः ।}
+;c{CLXXXVII. Mallinātha on Meghadūta I.65 and Śiśupālavadha XIII.31}
+अंशुकं वस्त्रमात्रे स्यात् परिधानोत्तरीययोः ।
+सूक्ष्मवस्त्रे नातिदीप्तौ ... ॥ १८७ ॥
+;c{इति शब्दार्णवे ।}
+;c{CLXXXVIII. Mallinātha on Meghadūta I.33}
+पिण्डे मणौ महारत्ने गुटिका बद्धपारदे ॥ १८८ ॥
+;c{इति शब्दार्णवे ।}
+;c{CLXXXIX. Mallinātha on Meghadūta II.8, II.28 and Raghuvaṃśa XIII.64}
+शङ्का भयवितर्कयोः ॥ १८९ ॥
+;c{इति शब्दार्णवे ।}
+;c{CXC. Mallinātha on Meghadūta I.38 and Śiśupālavadha XVII.38}
+सुखहेतौ सुखे सुखम् ॥ १९० ॥
+;c{इति शब्दार्णवे ।}
+;c{CXCI. Mallinātha on Meghadūta I.39 and Kumārasaṃbhava I.5}
+उद्वेगः स्तिमिते क्लेशे भयेऽमन्थरगामिनि ॥ १९१ ॥
+;c{इति शब्दार्णवे (वः) ।}
+;c{CXCII. Mallinātha on Meghadūta II.45}
+चित्रादिरञ्जकद्रव्ये लाक्षादौ प्रणयेच्छयोः ।
+सारङ्गादौ च रागः स्याद् द्रुण्ये रञ्जने पुमान् ॥ १९२ ॥
+;c{इति शब्दार्णवे ।}
+;c{CXCIII. Mallinātha on Meghadūta I.43}
+सुन्दरेऽधिकभाग्ये च दुर्दिनेतरवासरे ।
+तुरीयांशे श्रीमति च सुभगः ... ॥ १९३ ॥
+;c{इति शब्दार्णवे ।}
+;c{CXCIV. Mallinātha on Meghadūta I.24}
+केतकीमुकुलाग्रेषु सूचिः स्यात् ॥ १९४ ॥
+;c{इति शब्दार्णवे ।}
+;c{CXV. Mallinātha on Meghadūta II.1}
+मुरजा तु मृदङ्गे स्याद् ढक्कामुरजयोरपि ॥ १९५ ॥
+;c{इति शब्दार्णवे ।}
+;c{CXCVI. Mallinātha on Meghadūta I.2 and Raghuvaṃśa V.44}
+उत्खातकेलिः शृङ्गाद्यैर्वप्रक्रीडा निगद्यते ॥ १९६ ॥
+;c{इति शब्दार्णवे (वः) ।}
+;c{CXCVII. Mallinātha on Meghadūta I.36}
+गणस्तु गणनायां स्याद्गणेशे प्रमथे चये ॥ १९७ ॥
+;c{इति शब्दार्णवे ।}
+;c{CXCVIII. Mallinātha on Meghadūta II.6}
+रत्नादिभिर्वालुकादौ गुप्तैर्द्रष्टव्यकर्मभिः ।
+कुमारीभिः कृता क्रीडा नाम्ना गुप्तमणिः स्मृता ॥
+रासक्रीडा गुढमणिर्गुप्तकेलिस्तु लायनम् ।
+पिच्छकन्दुकदण्डाद्यैः स्मृता दैशिककेलयः ॥ १९८ ॥
+;c{इति शब्दार्णवे ।}
+;c{CXCIX. Mallinātha on Meghadūta I.24 and Śiśupālavadha IV.40}
+मृताववसिते रम्ये समाप्तावन्त इष्यते ॥ १९९ ॥
+;c{इति शब्दार्णवे ।}
+;c{CC. Mallinātha on Meghadūta I.19 and Śiśupālavadha XIV.71}
+मुहूर्तमल्पकाले स्याद् घटिकाद्वितयेऽपि च ॥ २०० ॥
+;c{इति शब्दार्णवे ।}
+;c{CCI. Mallinātha on Meghadūta I.35 and I.65}
+ना भावभेदे स्त्री नृत्ये ललितं त्रिषु सुन्दरे ।
+अस्त्रियां प्रमदागारे क्रीडिते जातपल्लवे ॥ २०१ ॥
+;c{इति शब्दार्णवे ।}
+;c{CCII. Mallinātha on Meghadūta I.59}
+तौर्यत्रिकं तु सङ्गीतं न्यायारम्भे प्रसिद्धके ।
+तूर्याणां त्रितये च ... ॥ २०२ ॥
+;c{इति शब्दार्णवे ।}
+;c{CCIII. Mallinātha on Meghadūta II.21}
+सम्पातः पतने वेगे प्रवेशे वेदसंविदे ॥ २०३ ॥
+;c{इति शब्दार्णवे ।}
+;p{0542}
+;c{CCIV. Mallinātha on Meghadūta II.2}
+सीमन्तमस्त्रियां मस्तकेशवीथ्यामुद्धृतम् ॥ २०४ ॥
+;c{इति शब्दार्णवे ।}
+;c{CCV. Mallinātha on Meghadūta I.19}
+भक्तिर्निषेवणे भागे रचनायाम् ॥ २०५ ॥
+;c{इति शब्दार्णवे ।}
+;c{CCVI. Mallinātha on Meghadūta II.38}
+सनाथं प्रभुमित्याहुः सहिते चित्ततापिनि ॥ २०६ ॥
+;c{इति शब्दार्णवे ।}
+;c{CCVII. Mallinātha on Meghadūta II.18 and Kumārasambhava VIII.1}
+तरुगुल्मलतादीनामकाले कुशलैः कृतम् ।
+पुष्पाद्युत्पादकं द्रव्यं दोहदं स्यात्तु तत्क्रिया ॥ २०७ ॥
+;c{इति शब्दार्णवे ।}
+;c{CCVIII. Bhānujīdīkṣita on AK II.6.11, V. D. Sharma on AK II.6.11}
+प्रणादस्तु पुमांस्तारशब्दे च श्रवणागमे ।
+अनुरागकृते शब्दे प्रणादः सीत्कृतं नॄणाम् ॥ २०८ ॥
+;c{इति शब्दार्णवे ।}
+;c{CCIX. Mallinātha on Meghadūta II.46}
+दर्शनं समये शास्त्रे दृष्टौ स्वप्नेऽक्ष्णि संविदि ॥ २०९ ॥
+;c{इति शब्दार्णवे ।}
+;c{CCX. Mallinātha on Meghadūta II.25}
+प्रधाननगरी राज्ञां राजधानीति कथ्यते ॥ २१० ॥
+;c{इति शब्दार्णवे ।}
+;c{CCXI. Mallinātha on Meghadūta I.1 and I.40}
+स्निग्धं तु मसृणे सान्द्रे रम्ये क्लीबे च तेजसि ॥ २११ ॥
+;c{इति शब्दार्णवे ।}
+;c{CCXII. Mallinātha on Meghadūta I.21}
+... अथ स्थलकदम्बके ।
+नीपः स्यात् पुलके .... ॥ २१२ ॥
+;c{इति शब्दार्णवे ।}
+;c{CCXIII. Mallinātha on Meghadūta II.4}
+वित्ताधिपः कुबेरः स्यात् प्रभौ धनिकयक्षयोः ॥ २१३ ॥
+;c{इति शब्दार्णवे ।}
+;c{CCXIV. Mallinātha on Meghadūta I.23}
+ककुभः कुटजेऽर्जुने ॥ २१४ ॥
+;c{इति शब्दार्णवे ।}
+;c{CCXV. Mallinātha on Meghadūta II.38}
+गर्भोऽपवरकेऽन्तस्थे गर्भोऽग्नौ कुक्षिणोऽर्भके ॥ २१५ ॥
+;c{इति शब्दार्णवे ।}
+;c{CCXVI. Mallinātha on Meghadūta I.57}
+संरम्भः सङ्क्रमे कोपे ॥ २१६ ॥
+;c{इति शब्दार्णवे ।}
+;c{CCXVII. Hemacandra on Abhidhānacintāmaṇi III.309}
+;c{वाचस्पतिस्तु -}
+निदाघेऽपि कुङ्कुमः सुखः स्यात् ॥ २१७ ॥
+;c{इति ।}
+;c{CCXVIII. Mallinātha on Meghadūta I.10}
+वामस्तु वक्रे रम्ये स्यात् सव्ये वामगतेऽपि च ॥ २१८ ॥
+;c{इति शब्दार्णवे ।}
+;c{CCXIX. Mallinātha on Meghadūta I.11}
+सहायस्तु सयात्रः स्यात् ॥ २१९ ॥
+;c{इति शब्दार्णवे ।}
+;c{CCXX. Mallinātha on Meghadūta I.9}
+हृदयं जीविते चित्ते वक्षस्याकूतहृद्ययोः ॥ २२० ॥
+;c{इति शब्दार्णवे ।}
+;c{CCXXI. Mallinātha on Meghadūta I.48 and Śiśupālavadha XI.30}
+शरो बाणे बाणतृणे ॥ २२१ ॥
+;c{इति शब्दार्णवे ।}
+;c{CCXXII. Mallinātha on Meghadūta II.8}
+चित्रं लिखितरूपाढ्यं स्यादालेख्यं तु यत्नतः ॥ २२२ ॥
+;c{इति शब्दार्णवे ।}
+;c{CCXXIII. Mallinātha on Meghadūta I.11 and Śiśupālavadha VI.32}
+कदल्यां च शिलीन्ध्रः स्यात् ॥ २२३ ॥
+;c{इति शब्दार्णवे ।}
+;c{CCXXIV. Mallinātha on Meghadūta I.1, Kumārasambhava IV.15, Śiśupālavadha IV.29 and XV.81}
+गुरुस्तु गीष्पतौ श्रेष्ठे गुरौ पितरि दुर्भरे ॥ २२४ ॥
+;c{इति शब्दार्णवे (वः) ।}
+;c{CCXXV. Mallinātha on Meghadūta I.66}
+दुकूलं सूक्ष्मवस्त्रे स्यादुत्तरीयेऽसितांशुके ॥ २२५ ॥
+;c{इति शब्दार्णवे ।}
+;c{CCXXVI. Mallinātha on Meghadūta I.42}
+तृणेऽम्बुजे नलं ना तु राज्ञि नाले तु न स्त्रियाम् ॥ २२६ ॥
+;c{इति शब्दार्णवे ।}
+;c{CCXXVII. Mallinātha on Meghadūta I.14, Bhānujīdīkṣita on AK II.4.61, V. D. Sharma on AK II.4.61}
+वानीरे कविभेदे स्यान्निचुलः स्थलवेतसे ॥ २२७ ॥
+;c{इति शब्दार्णवे (वात्) ।}
+;p{0543}
+;c{CCXXVIII. Raghunātha (R. Sharma, Kalpadrukośa of Keśava, GOS no. 42, Introduction p. xvi, note 3)}
+कोषो दिव्यधनेऽपि स्यात् कुड्मलासिपिधानयोः ।
+पनसादिफलस्यान्तः कोषः शब्दस्य सङ्ग्रहः ॥ २२८ ॥
+;c{इति मूर्धन्यान्ते शब्दार्णवः ।}
+;c{CCXXIX. Mallinātha on Meghadūta I.60}
+विशेषोऽवयवे द्रव्ये द्रष्टव्योत्तमवस्तुनि ॥ २२९ ॥
+;c{इति शब्दार्णवे ।}
+;c{CCXXX. Bhānujīdīkṣita on AK I.6.615, V. D. Sharma on AK I.6.15}
+नीचमाक्षारणं यः स आक्रोशो मैथुनं प्रति ॥ २३० ॥
+;c{इति शब्दार्णवः ।}
+;c{CCXXXI. Mallinātha on Meghadūta I.29}
+शृङ्गारादौ जले वीर्ये सुवर्णे विषशुक्रयोः ।
+तिक्तादावमृते चैव निर्यासे पारदे ध्वनौ ॥
+आस्वादे च रसं प्राहुः ... ॥ २३१ ॥
+;c{इति शब्दार्णवे ।}
+;c{CCXXXII. Sarvānanda on AK III.5.15}
+;c{तथाच शब्दार्णवः -}
+आखूत्थशलभोत्थादि तत् तदुत्थानमद्वयोः ॥ २३२ ॥
+;c{CCXXXIII. Hemacandra on Abhidhānacintāmaṇi IV.127}
+;c{वाचस्पतिस्तु -}
+हिङ्गुलस्त्वस्त्रियाम् ॥ २३३ ॥
+;c{इति ।}
+;c{PART 2}
+;p{0346}
+;c{CCXXXIV. Ujjvaladatta on Uṇ. IV.188}
+देवा विंशतिरेवैते सुरूपाः सुतपाश्च ते ॥ २३४ ॥
+;c{इति शब्दार्णवः ।}
+;c{CCXXXV. Ujjvaladatta on Uṇ. III.117}
+तपसश्चन्द्रमाः ॥ २३५ ॥
+;c{इति शब्दार्णवः ।}
+;c{CCXXXVI. Ujjvaladatta on Uṇ. IV.41}
+शम्बुकः शम्बुको ज्ञेयः पूर्वः कान्तस्तु सर्वदा ।
+ककारेण विना शेषो दृश्यते ग्रन्थविस्तरे ॥ २३६ ॥
+;c{इति शब्दार्णवः ।}
+;c{CCXXXVII. Ujjvaladatta on Uṇ. III.134, Jñānendrasarasvatī on Uṇ. 414}
+पारिभद्रे तु मन्दारुर्मन्दारः पारिजातकः ॥ २३७ ॥
+;c{इति शब्दार्णवः ।}
+;c{CCXXXVIII. Ujjvaladatta on Uṇ. IV.41}
+भालूकः ॥ २३८ ॥
+;c{इति शब्दार्णवः ।}
+;c{CCXXXIX. Ujjvaladatta on Uṇ. IV.138}
+अलिर्मधुकरोऽलि च ॥ २३९ ॥
+;c{इति शब्दार्णवः ।}
+;c{CCXL. Ujjvaladatta on Uṇ. II.7}
+हिरण्यं द्रविणं द्युम्नं रिक्थं ऋक्थं धनं वसु ॥ २४० ॥
+;c{इति शब्दार्णवः ।}
+;c{CCXLI. Ujjvaladatta on Uṇ. II.103 and III.92}
+लोष्टं दलिः स्त्री लोष्टुर्ना स महान् दरणिर्द्वयोः ॥ २४१ ॥
+;c{इति शब्दार्णवः ।}
+;c{CCXLII. Ujjvaladatta on Uṇ. IV.119}
+सम्पातिर्वारुणिः ख्यातो जटायुश्च जटायुषि ॥ २४२ ॥
+;c{इति शब्दार्णवः ।}
+;c{CCXLIII. Ujjvaladatta on Uṇ. I.2}
+जटायुः स्याद् विहगेन्द्रो जटायुररुणाग्रजः ॥ २४३ ॥
+;c{इति शब्दार्णवः ।}
+;c{CCXLIV. Ujjvaladatta on Uṇ. V.57}
+ईश्वरः शङ्करे प्रोक्तः पार्वत्यामीश्वरी च ॥ २४४ ॥
+;c{इति शब्दार्णवः ।}
+;c{CCXLV. Ujjvaladatta on Uṇ. IV.124}
+आवारिर्हट्टवेश्मसु ॥ २४५ ॥
+;c{इति शब्दार्णवः ।}
+;c{CCXLVI. Ujjvaladatta on Uṇ. I.2}
+उषा रात्रिस्तदन्ते च वाणस्यापि सुता तथा ॥ २४६ ॥
+;c{इति वाचस्पतिः ।}
+;c{CCXLVII. Ujjvaladatta on Uṇ. III.22}
+तनुर्धेनुरुरुश्चञ्चुः प्रियङ्गुः सरयुः कुडुः ॥ २४७ ॥
+;c{इति वाचस्पतिकोशः ।}
+;c{CCXLVIII. Ujjvaladatta on Uṇ. IV.129}
+शालिपाली स्त्रियामुभे ॥ २४८ ॥
+;c{इति वाचस्पतिः ।}
+
