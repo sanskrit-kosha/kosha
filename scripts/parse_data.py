@@ -77,6 +77,8 @@ def homonymic_list_generator(content):
     # lineType list holds 'h', 'm', 'v' for headword, meaning and verse lines.
     lineType = []
     # Read the content into list of lines.
+    content = content.replace('\r\n', '\n')
+    content = content.replace('\r', '\n')
     lines = content.split('\n')
     # A temporary placeholder which will be emptied into result list
     # whenever the verse is allocated to it.
