@@ -1,0 +1,386 @@
+;METADATA
+;title{उत्पलिनी}
+;author{व्याडि}
+;bookFullName{Fragments From Three Lost Kośas: II. Vyāḍi's Utpalinī}
+;bookSeriesDetails{1. Journal of the American Oriental Society, Vol. 87, No. 1 (Jan. - Mar., 1967), pp. 39-52}
+;editor{Robert Birwé}
+;editorQualifications{University of Cologne, Germany}
+;publisher{American Oriental Society}
+;pressDetails{}
+;publicationYear{1967 A.D.}
+;dataEntryBy{Dr. Dhaval Patel}
+;dataEntryEmail{drdhaval2785@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{UTVD}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. SRKKF for funding. 2. Mr. Nagabhushana Rao of www.andhrabharati.com for providing the scanned book to digitize. 3. Dr. Dhaval Patel for spending time to type and proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{syno}
+;pagenum{true}
+;linenum{false}
+;chapterArrangements{none}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{02 March 2021}
+;version0.0.2{02 March 2021}
+;version0.0.3{02 March 2021}
+;version0.0.4{02 March 2021}
+;version0.1.0{02 March 2021}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+﻿;p{0046}
+;c{I. Rāyamukuṭa on AK I.1.11, Bhānujīdīkṣita on AK I.1.11}
+निधिं रक्षन्ति ये यक्षास्ते स्युर्गुह्यसञ्ज्ञकाः ॥ १ ॥
+;c{इति व्याडिः ।}
+;c{II. Rāyamukuṭa on AK I.1.12, Bhānujīdīkṣita on AK I.1.13, V. D. Sharma on AK I.1.13}
+अथ बुद्धो जिनो योगी सर्वज्ञः सुगतो बुधः ॥ २ ॥
+;c{इति व्याडिः ।}
+;c{III. Hemacandra on Abhidhānacintāmaṇi II.146}
+;c{यद्व्याडिः -}
+बोधिः स्वबोधनं ज्ञानं तन्मयो बोधिसत्त्वकः ॥ ३ ॥
+;c{IV. Hemacandra on Abhidhānacintāmaṇi II.147}
+;c{यद्व्याडिः -}
+भूमयस्तु प्रमुदिता विमला च प्रभाकरी ।
+अर्चिष्मती सुदुर्जयाभिमुखी च दुरङ्गमा ॥
+अचला साधुमती च धर्ममेघेति च क्रमात् ॥ ४ ॥
+;c{V. Hemacandra on Abhidhānacintāmaṇi II.147}
+;c{यद्व्याडिः -}
+जातकानि पुनर्व्याघ्री शितिः श्रेष्ठी शशो विशम् ।
+हंसो विश्वन्तरः शक्रो मैत्रीबलसुपारगौ ॥
+अपुत्रो ब्राह्मणः कुम्भः कल्माषः पिण्डिजातकम् ।
+अधिमुख्यं श्रेष्ठिजातं दमयन्ती महाकपिः ।
+बोधिर्ब्रह्मा महाबोधिर्वानरः शरभो रुरुः ॥
+क्षान्तिवादी हस्ती च कुन्थुश्चेत्येवमादयः ॥ ५ ॥
+;c{VI. Hemacandra on Abhidhānacintāmaṇi II.147}
+;c{यद्व्याडिः -}
+प्रज्ञापारमिता तारा वृन्दा च जिनशक्तयः ।
+मारीची चतुदुर्वासा मारीचा वज्रकाल्यपि ॥ ६ ॥
+;c{VII. Hemacandra on Abhidhānacintāmaṇi II.114}
+;c{यद्व्याडिः -}
+खट्वाङ्गं शिवपांशुलम् ॥ ७ ॥
+;c{VIII. Hemacandra on Abhidhānacintāmaṇi II.115}
+;c{यद्व्याडिः -}
+गणास्तु प्रमथाः पारिषदाः कूष्माण्डकादयः ॥ ७ ॥
+;c{IX. Hemacandra on Abhidhānacintāmaṇi II.124}
+;c{यद्व्याडिः -}
+महाकालः पुनर्बाणो लूनबाहुर्वृषाणकः ॥ ८ ॥
+;p{0047}
+वीरभद्रस्तु धीराजो हेरुकस्तु कृतालकः ॥
+अथ चण्डो महाचण्डः कुशाण्डी कङ्कणप्रियः ।
+मज्जनोन्मज्जनौ छागच्छागमेषौ महाघसः ॥
+महाकपाल आलानः सन्तापनविलापनौ ।
+महाकपोल ऐलोजः शङ्खकर्णः खरस्तपः ॥
+उल्कामाली महाजम्भः श्वेतपादः खराण्डकः ।
+गोपालो ग्रामणी(र्) मालुर्घण्टाकर्णकरन्धमौ ॥
+कपाली जृम्भको लिम्पः स्थूलोऽकर्णविकर्णकौ ।
+लम्बकर्णो महाशीर्षो हस्तिकर्णः प्रमर्दनः ॥
+ज्वालाजिह्वो धमधमः संहातः क्षेमकः पुलः ।
+भीषको ग्राहकः सिस्नो धिरुण्डो मकराननः ॥
+पिशिताशी महाकुण्डो नखारिरहिलोचनः ।
+कूणकुच्छो महाजानुः कोष्ठकोटिः शिवङ्करः ॥
+वेतालो लोमवेतालस्तामसः सुमहाकपिः ।
+अत्तुङ्गो गृध्रजम्बूकः कण्डानककलानकौ ॥
+चर्मग्रीवो जलोन्नादो ज्वालवक्त्रो विहुण्डनः ।
+हृदयो वर्तुलः पाण्डुर्भुण्डिरित्यादयोऽपरे ॥ ९ ॥
+;c{X. Rāyamukuṭa on AK I.1.50}
+;c{उत्पलिन्यां च -}
+वैवस्वतो मनुर्नाम यमौ च यमुनायमौ ।
+नासत्यदस्ररेवन्ता[ः] षट्सञ्ज्ञायां रवेः सुताः ॥ १० ॥
+;c{इति व्याडिः ।}
+;c{XI. Hemacandra on Abhidhānacintāmaṇi II.97, Jñānavimalagaṇi on Maheśvara's Śabdabhedaprakāśa III.19}
+;c{यद्व्याडिः -}
+अथ ब्रह्मणोऽग्निकुण्डात् समुत्पन्ना प्रभावती ।
+वेदितलाद्वेदिवती यमात्पुनः सुलोचना ॥
+उर्वशी तु हरेः सव्यमूरुं भित्त्वा विनिर्गता ।
+रम्भा तु ब्रह्मणो वक्त्राच्चित्रलेखा तु तत्करात् ॥
+शिरसस्तु महाचित्ता स्मृता काकलिका वसा ।
+मारिचिसूचिका चैव विद्युत्पर्णा तिलोत्तमा ॥
+अर्द्रिका लक्षणा क्षेमा दिव्या रामा मनोरमा ।
+हेमा सुगन्धा सुवपुः सुबाहुः सुव्रतासिता ॥
+शारद्वती पुण्डरीका सुरसा सुनृताऽपि च ।
+सुवाता कामला हंसपादी च सुमुखीति च ॥
+मेनका सहजन्या च पर्णिनी पुञ्जिकास्थला ।
+ऋतुस्थला घृताची च विश्वाचीत्यप्सरःस्त्रियः ॥ ११ ॥
+;c{XII. Hemacandra on Abhidhānacintāmaṇi II.18}
+;c{यदाह व्याडिः -}
+अश्वास्तु दश चन्द्रस्य यजुश्चन्द्रमना वृषः ।
+सप्तधातुर्हयो वाजी हंसो व्योममृगो नरः ॥
+अर्वा चाथ चन्द्रमनःस्थानेऽस्ति त्रिघनाः क्वचित् ।
+सप्तधातोः पुनः स्थाने सहरुण्योऽस्ति कुत्रचित् ॥ १२ ॥
+;c{XIII. Bhānujīdīkṣita on AK I.3.20, V. D. Sharma on AK I.3.20}
+मित्रावरुणयोः सूनुरौर्वशेयश्च वारुणिः ॥ १३ ॥
+;c{इति व्याडिः ।}
+;c{XIV. Hemacandra on Abhidhānacintāmaṇi II.9}
+;c{यद्व्याडिः -}
+सुषुम्णाद्याश्च नाड्योऽस्य पुष्णन्ति सततं ग्रहान् ॥ १४ ॥
+;c{XV. Hemacandra on Abhidhānacintāmaṇi II.9}
+;c{यद्व्याडिः -}
+ऋतुभेदात् पुनस्तस्यातिरिच्यन्तेऽपि रश्मयः ।
+शतानि द्वादश मधौ त्रयोदशैव माधवे ॥
+चतुर्दश पुनर्ज्येष्ठे नभोनभस्ययोस्तथा ।
+पञ्चदशैव त्वाषाढे षोडशैव तथाश्विने ॥
+कार्त्तिकके त्वेकादश शतान्येवं तपस्यपि ।
+मार्गे तु दश सार्धानि शतान्येवं च फाल्गुने ॥
+पौष एव परं मासि सहस्रं किरणा रवेः ॥ १५ ॥
+;c{XVI. Hemacandra on Abhidhānacintāmaṇi II.17}
+;c{यद्व्याडिः -}
+सुरावृतस्त्वसावष्टादशभिः पारिपार्श्विकैः ।
+इन्द्रादयश्च ते देवाः सर्वे नामान्तरैः स्थिताः ॥
+तत्र शक्रो वामपार्श्वे दण्डाख्यो दण्डनायकः ।
+वह्निस्तु दक्षिणे पार्श्वे पिङ्गलो वामनश्च सः ॥
+पूर्वद्वारे गुहहरौ राजश्रोथौ क्रमेण तौ ।
+द्वितीये तु धर्माधर्मौ तौ खरद्वारिकौ क्रमात् ॥
+तृतीये तु यमतार्क्ष्यौ क्रमात् कल्माषपक्षिणौ ।
+चित्रगुप्तश्च कालश्च रवेर्दक्षिणपार्श्वगौ ॥
+प्रथमो जातृकाराख्यो माठराख्यो द्वितीयकः ।
+पश्चिमेनाब्धिवर्णौ तौ प्राप्नुयात् कुतापकौ ॥
+उदीच्यां यक्षहेरम्बौ तौ च पिङ्गगजौ क्रमात् ।
+प्राच्यां तु रुद्ररेवन्तौ तौ दण्डिपुरुषौ क्रमात् ॥
+अश्विनौ तु प्रार्श्वद्वये तौ द्वावेव किशोरकौ ।
+इत्यष्टादशको वर्गश्चण्डांशो पारिपार्श्विकः ॥ १६ ॥
+;c{XVII. Hemacandra on Abhidhānacintāmaṇi II.172}
+;c{व्याडिस्तु -}
+अर्थान् निघण्टयत्यस्माद् निघण्टुः परिकीर्तितः ॥ १७ ॥
+;c{XVIII. Bhānujīdīkṣita on AK I.6.6, V. D. Sharma on AK I.6.6}
+प्रहेलिका प्रवल्ही च प्रश्नदूती विपादिका ॥ १८ ॥
+;c{इत्युत्पलिनी ।}
+;p{0048}
+;c{XIX. Hemacandra on Abhidhānacintāmaṇi VI.37}
+;c{यद्व्याडिः -}
+कण्ठादुत्तिष्ठते व्यक्तं षड्जः षड्भ्यस्तु जायते ।
+कण्ठोरस्तालुनासाभ्यो जिह्वाया दशनादपि ॥
+;c{... यदाह व्याडिः -}
+वायुः समुत्थितो नाभेः कण्ठशीर्षसमाहतः ।
+नर्दद्वृषभवद्यस्मात् तेनैष ऋषभः स्मृतः ॥
+;c{... यदाह -}
+वायुः समुत्थितो नाभेः कण्ठशीर्षसमाहतः ।
+नानागन्धवहः पुण्यैः गान्धारस्तेन हेतुना ॥
+;c{... यदाह -}
+तद्वदेवोत्थितो वायुरुरःकण्ठसमाहतः ।
+नाभिप्राप्तो महानादो मध्यमस्तेन हेतुना ॥
+;c{... यदाह -}
+वायुः समुत्थितो नाभेरुरोहृत्कण्ठमूर्धसु ।
+विरचन् पञ्चमस्थानप्राप्त्या पञ्चम उच्यते ॥
+;c{... यदाह -}
+अधिसन्धीयते यस्मात् स्वरांस्तेनैष धैवतः ।
+;c{... यदाह -}
+निषीदन्ति स्वरा अस्मिन् निषादस्तेन हेतुना ॥ १९ ॥
+;c{XX. Sarvānanda on AK I.10.22, Bhānujīdīkṣita on AK I.10.23, V. D. Sharma on AK I.10.23}
+शम्बूकः शम्बुकश्चैव पूर्वः कान्तस्तु सर्वदा ।
+ककारेण विना शेषो दृश्यते ग्रन्थविस्तरे ॥ २० ॥
+;c{इत्युत्पलिनी ।}
+;c{XXI. Hemacandra on Abhidhānacintāmaṇi IV.161}
+;c{व्याडिस्तु -}
+आवालो जलपिण्डिलः ॥ २१ ॥
+;c{इति ...।}
+;c{XXII. Bhānujīdīkṣita on AK I.10.37, V. D. Sharma on AK I.10.37}
+कुवलयं स्यादिन्दीवारमित्यपि ॥ २२ ॥
+;c{इति व्याडेः ...।}
+;c{XXIII. Hemacandra on Abhidhānacintāmaṇi IV.12}
+;c{यद्व्याडिः -}
+आ समुद्राच्च वै पूर्वादासमुद्राच्च पश्चिमात् ।
+हिमवद्विन्ध्ययोर्मध्यमार्यावर्तं विदुर्बुधाः ॥ २३ ॥
+;c{XXIV. Hemacandra on Abhidhānacintāmaṇi IV.42}
+;c{यद्व्याडिः -}
+उज्जयन्यां यदुद्यानं तत् स्यात् पुष्पकरण्डकम् ॥ २४ ॥
+;c{इति ।}
+;c{XXV. Sarvānanda on AK II.3.7, Raghunātha (R. Śarmā, Kalpadrukośa of Keśava, GOS no. 42, Introduction, p. xii, note 4)}
+161}
+आकरस्तु खनिः खानिः ॥ २५ ॥
+;c{XXVI. Sarvānanda on AK II.4.12}
+अथ मज्जा द्वयोरस्थिस्नेहशुक्रकरो बली ॥ २६ ॥
+;c{इत्युत्पलिन्याम् ।}
+;c{XXVII. Sarvānanda on AK II.4.14, Bhānujīdīkṣita on AK II.4.14, V. D. Sharma on AK II.4.14 and on Puruṣottamadeva's Trikānḍaśeṣa III.5.9}
+पुंसि क्लीबे च पल्लवः ॥ २७ ॥
+;c{इति व्याडिः ।}
+;c{XXVIII. Sarvānanda on AK II.4.73}
+;p{0049}
+कुन्दं वा ना स्मृतम् ॥ २८ ॥
+;c{इति तु व्याडिः ।}
+;c{XXIX. Bhānujīdīkṣita on AK II.4.113, V. D. Sharma on AK II.4.113}
+कदलश्च कदल्यसौ ॥ २९ ॥
+;c{इति व्याडिः ।}
+;c{XXX. Hemacandra on Abhidhānacintāmaṇi IV.252}
+;c{यद्व्याडिः -}
+ऊनोऽम्लेन रसेनेति रसोनस्तेन कीर्त्तितः ॥ ३० ॥
+;c{XXXI. Ujjvaladatta on Uṇ. III.157}
+इक्षुर्मधुतृणं स्मृतम् ॥ ३१ ॥
+;c{इत्युत्पलिनी ।}
+;c{XXXII. Rāyamukuṭa on AK II.5.10  (R. Śarmā, Kalpadrukośa of Keśava, GOS no. 42, Introduction, p. xii, note 4), Bhānujīdīkṣita on AK II.5.10, V. D. Sharma on AK II.5.10}
+मृगो बिन्दुः पृषंश्चैव पृषतश्च प्रकीर्तितः ॥ ३२ ॥
+;c{XXXIII. Sarvānanda on AK II.5.16, Bhānujīdīkṣita on AK II.5.16}
+चाषः किकीदिविः स्मृतः ॥ ३३ ॥
+;{इति व्याडिना द्वितीयो दीर्घ उक्तः ।}
+;c{XXXIV. Sarvānanda on AK II.5.38}
+द्वन्द्वं द्वन्दं युगलं युग्मं युगं मिथुनं मिथः ॥ ३४ ॥
+;c{इति व्याडिः ।}
+;c{XXXV. Hemacandra on Abhidhānacintāmaṇi III.176}
+वध्वटी ॥ ३५ ॥
+;c{इत्यपि व्याडिः ।}
+;c{XXXVI. Hemacandra on Abhidhānacintāmaṇi III.280}
+;c{यद्व्याडिः -}
+पत्पादोऽंह्रिश्चरणोऽस्त्री ॥ ३६ ॥
+;c{इति ।}
+;c{XXXVII. Sarvānanda on AK II.6.89}
+नसा नासा च नासिका ॥ ३७ ॥
+;c{इति बृहदुत्पलिनी ।}
+;c{XXXVIII. Bhānujīdīkṣita on AK II.6.126, V. D. Sharma on AK II.6.126}
+कालीयकं च कालेयं वर्णकं कान्तिदायकम् ॥ ३८ ॥
+;c{इति व्याडिः ।}
+;c{XXXIX. Sarvānanda on AK II.6.133, Bhānujīdīkṣita on AK II.6.133, V. D. Sharma on AK II.6.133}
+;c{तथा च व्याडिः -}
+कर्पूरागुरुकस्तूरीकक्कोलघुसृणानि च ।
+एकीकृतमिदं सर्वं यक्षकर्दम उच्यते ॥ ३९ ॥
+;c{XL. Ujjvaladatta on Uṇ. I.7}
+गण्डुर्गण्डूश्च दृश्यते ॥ ४० ॥
+;c{इत्युत्पलिनीकोशः ।}
+;c{XLI. Hemacandra on Abhidhānacintāmaṇi III.339}
+कच्छाटी पुंस्त्रियोः ॥ ४१ ॥
+;c{इति व्याडिः ।}
+;c{XLII. Hemacandra on Abhidhānacintāmaṇi III.449}
+न्युब्जः खड्गः कडितलम् ॥ ४२ ॥
+;c{इति व्याडिः ।}
+;c{XLIII. Sarvānanda on AK II.9.16, Bhānujīdīkṣita on AK II.9.16, V. D. Sharma on AK II.9.16}
+कलायस्त्रिपुटः प्रोक्तः सतीनो वर्तुलो मतः ।
+हरेणुरङ्कटा ज्ञेया ... ॥ ४३ ॥
+;c{इति व्याडिः ।}
+;c{XLIV. Bhānujīdīkṣita on AK II.9.58, V. D. Sharma on AK II.9.58}
+गोकुले धनगोधने ॥ ४४ ॥
+;c{इति व्याडिः ।}
+;p{0050}
+;c{XLV. Sarvānanda on AK II.9.106}
+स्यादारकूटो रीतिश्च सीसकं त्रपु बन्धकम् ।
+नागं महाबलश्चैव योगेष्टं वमुनेष्टकम् ॥ ४५ ॥
+;c{XLVI. Hemacandra on Abhidhānacintāmaṇi III.597, Jñānavimalagaṇi on Maheśvara's Śabdabhedaprakāśa I.15}
+;c{यद्व्याडिः -}
+चण्डमालं मृषा यस्येत्यर्थः शब्दवतां मतः ॥ ४६ ॥
+;c{XLVII. Hemacandra on Abhidhānacintāmaṇi III.152}
+;c{यद्व्याडिः -}
+जनः पितृसधर्मा यः स तातार्हो मनोजवः ॥ ४७ ॥
+;c{XLVIII. Sarvānanda on AK III.3.18}
+खशब्दः शून्यबिन्दौ च स्वर्गाकाशेन्द्रियेषु च ॥ ४८ ॥
+;c{इति व्याडिः ।}
+;c{XLIX. Bhānujīdīkṣita on AK I.3.23, V. D. Sharma on AK I.3.23}
+मृगशीर्षे हस्तिजातौ मृगः पशुकुरङ्गयोः ॥ ४९ ॥
+;c{इति व्याडिः ।}
+;c{L. Ujjvaladatta on Uṇ. I.125, Jñānendrasarasvatī on Uṇ. 123}
+शृङ्गं विषाणमाख्यातं शैलाग्रे जलयन्त्रके ।
+मीनौषधिसुवर्णानां भेदे शृङ्गी प्रयुज्यते ॥ ५० ॥
+;c{LI. Sarvānanda on AK II.8.98, Bhānujīdīkṣita on AK I.4.29, V. D. Sharma on AK I.4.29}
+;c{तथा चोत्पलिनी -}
+पुष्परेणौ गुणे चैव रजोऽपि रजसा सह ॥ ५१ ॥
+;c{इति ।}
+;c{LII. Bhānujīdīkṣita on AK II.6.6, V. D. Sharma on AK II.6.6}
+क्रोडा हारा तथा दारा त्रय एते यथाक्रमम् ।
+क्रोडे हारे च दारेषु शब्दाः प्रोक्ता मनीषिभिः ॥ ५२ ॥
+;c{इति व्याडिशुभङ्करौ ।}
+;c{LIII. Sarvānanda on AK II.5.14}
+खगे द्वौ प्रथमे मले ॥ ५३ ॥
+;c{इत्युत्पलिनी ।}
+;c{LIV. Sarvānanda on AK III.3.71}
+पौरामात्यादिलिङ्गेषु स्वभावे प्रकृतिर्भगे ।
+सत्त्वरजस्तमसां च समवस्थापि दृश्यते ॥ ५४ ॥
+;c{इति व्याडिः ।}
+;c{LIV. Sarvānanda on AK III.3.74}
+अयाचिते यज्ञशेषे निर्वाणे चापि सुन्दरे ।
+अमृतं वारिणि प्रोक्तं अतिहृद्ये च वस्तुनि ॥ ५५ ॥
+;c{इति व्याडिः ।}
+;c{LVI. Bhānujīdīkṣita on AK I.8.6, V. D. Sharma on AK I.8.6}
+मालुधानश्चित्रसर्पे महापद्मे च दृश्यते ॥ ५६ ॥
+;c{इत्युत्पलिनी ।}
+;c{LVII. Bhānujīdīkṣita on AK III.3.122, V. D. Sharma on AK III.3.112}
+सम्बन्धे सुरते युग्मे राशौ मिथुनमिष्यते ॥ ५७ ॥
+;c{इति व्याडिः ।}
+;c{Raghunātha (R. Śarmā, Kalpadrukośa of Keśava, GOS no. 42, Introduction, p. xii, note 5)}
+जिह्वास्वादनिनादेषु रसनं कटिमण्डने ॥ ५८ ॥
+;c{[इति व्याडिः ।]}
+;c{LIX. Hemacandra on Abhidhānacintāmaṇi II.148}
+;c{यद्व्याडिः -}
+कोष्ठागारोऽभवत् कूर्चो निधिर्वा तेन तादृशः ॥ ५९ ॥
+;p{0051}
+;c{LX. Bhānujīdīkṣita on AK I.3.21, V. D. Sharma on AK I.3.21}
+नक्षत्रे नेत्रमध्ये च तारा स्यात् तार इत्यपि ॥ ६० ॥
+;c{इति व्याडिः ।}
+;c{LXI. Bhānujīdīkṣita on AK I.5.9, V. D. Sharma on AK I.5.9}
+नरेऽश्मश्रुणि शृङ्गाभ्यां रहिते गवि तूवरः ।
+काले प्राप्ते कषाये च रसे पुंव्यञ्जने च्युते ॥ ६१ ॥
+;c{इत्युत्पलिनी ।}
+;c{LXII. Bhānujīdīkṣita on AK III.3.191, V. D. Sharma on AK III.3.191}
+मधुरौ स्वादुशोभनौ ॥ ६२ ॥
+;c{इति व्याडिः ।}
+;c{LXIII. Sarvānanda on AK I.1.2, Rāyamukuṭa on AK I.1.1, Bhānujīdīkṣita on AK I.1.27, V. D. Sharma on AK I.1.27}
+;c{तदुक्तं व्याडिना -}
+लक्ष्मीसरस्वतीधीत्रिवर्गसम्पद्विभूतिशोभासु ।
+उपकरणवेषरचनाविधासु च श्रीरिति प्रथिता ॥ ६३ ॥
+;c{LXIV. Sarvānanda on AK II.4.46}
+कदलं शाल्मलिन्यां च व्रणिकायां च दृश्यते ॥ ६४ ॥
+;c{इत्युत्पलिन्याम् ।}
+;c{LXV. Sarvānanda on AK III.3.193}
+वातूलो वातसङ्घाते वातले मरुतोऽसहे ॥ ६५ ॥
+;c{इति व्याडिः ।}
+;c{LXVI. Ujjvaladatta on Uṇ. I.151}
+लट्वा तु तूलिका ख्याता लट्वा द्यूतेऽपि दृश्यते ॥ ६६ ॥
+;c{इति व्याडिरभसौ ।}
+;c{LXVII. Sarvānanda on AK II.9.99}
+कुशा वल्गा कुशी फालः कुशो दर्भः कुशं जलम् ॥ ६७ ॥
+;c{इति व्याडिः ।}
+;c{LXVIII. Jñānavimalagaṇi on Maheśvara's Śabdabhedaprakāśa III.36}
+कर्षूः ... ॥ ६८ ॥
+;c{गर्तायामप्ययमिति व्याडिः ।}
+;c{LXIX. Ujjvaladatta on Uṇ. IV.88, Bhānujīdīkṣita on AK I.3.13, V. D. Sharma on AK I.3.13}
+माःशब्दो मासि चन्द्रे च सम्मतो बहुदृश्वनाम् ॥ ६९ ॥
+;c{इत्युत्पलिनी(कोशः) ।}
+;c{LXX. Bhānujīdīkṣita on AK III.4.12, V. D. Sharma on AK III.4.12}
+ओम् एवं परमं भवेत् ॥ ७० ॥
+;c{इत्यव्ययकाण्डे व्याडिः ।}
+;c{LXXI. Sarvānanda on AK III.5.10}
+स्त्रीपुंसयोर्मषी ॥ ७१ ॥
+;c{इति व्याडिराह ।}
+;c{LXXII. Mallinātha on Meghadūta I.28}
+विशालोज्जयिनी समा ॥ ७२ ॥
+;c{इत्युत्पलः ।}
+;c{LXXIII. Mallinātha on Śiśupālavadha XX.23}
+कृत्यज्ञेयो यथा वर्णश्चारः प्रणिधिरेव च ॥ ७३ ॥
+;c{इत्युत्पलमाला ।}
+;c{LXXIV. Mallinātha on Raghuvaṃśa XVII.36}
+अनुध्यानमनुग्रहः ॥ ७४ ॥
+;c{इत्युत्पलमालायाम् ।}
+;p{0052}
+;c{LXXV. Mallinātha on Meghadūta II.22 and Śiśupālavadha VIII.36}
+श्यामा यौवनमध्यस्था ॥ ७५ ॥
+;c{इत्युत्पलमालायाम् ।}
+;c{LXXVI. Mallinātha on Meghadūta I.16, Jñānendrasarasvatī on Uṇ. 186}
+मालमुन्नतभूतलम् ॥ ७६ ॥
+;c{इत्युत्पलमालायाम् ।}
+;c{LXXVII. Mallinātha on Raghuvaṃśa VIII.10}
+उदयादिषु अविकृतिर्मनसः सत्त्वमुच्यते ।
+आत्मवान् सत्त्ववानुक्तः ... ॥ ७७ ॥
+;c{इत्युत्पलमालायाम् ।}
+;c{LXXVIII. Mallinātha on Kumārasambhava I.25}
+विशेषोऽवयवे व्यक्तौ ॥ ७८ ॥
+;c{इत्युत्पलमाला ।}
+;c{LXXIX. Mallinātha on Meghadūta I.3 and Śiśupālavadha VII.67}
+ज्ञानहेतुविवक्षायामप्यादिकथमव्ययम् ।
+कथमादि तथाप्यन्तं यत्नगौरवबाडयोः ॥ ७९ ॥
+;c{इत्युत्पलः ।}
+
