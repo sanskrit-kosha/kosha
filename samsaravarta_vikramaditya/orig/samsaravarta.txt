@@ -1,0 +1,134 @@
+;METADATA
+;title{संसारावर्त}
+;author{विक्रमादित्य}
+;bookFullName{1. Fragments From Three Lost Kośas: III. Vikramāditya's Saṃsārāvarta}
+;bookSeriesDetails{1. Journal of the American Oriental Society, Vol. 93, No. 4 (Oct. - Dec., 1973), pp. 462-468}
+;editor{Robert Birwé}
+;editorQualifications{University of Cologne, Germany}
+;publisher{American Oriental Society}
+;pressDetails{}
+;publicationYear{1973 A.D}
+;dataEntryBy{Dr. Dhaval Patel}
+;dataEntryEmail{drdhaval2785@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{SAVD}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. SRKKF for funding. 2. Mr. Nagabhushana Rao of www.andhrabharati.com for providing the scanned book to digitize. 3. Dr. Dhaval Patel for spending time to type and proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{syno}
+;pagenum{true}
+;linenum{false}
+;chapterArrangements{none}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{03 March 2021}
+;version0.0.2{03 March 2021}
+;version0.0.3{03 March 2021}
+;version0.0.4{03 March 2021}
+;version0.1.0{03 March 2021}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+;p{0466}
+﻿;c{I. Ujjvaladatta on Uṇ. III.126, Jñānendrasarasvatī on Uṇ. 406}
+अर्हन्तः क्षपणको जिनः ॥ १ ॥
+;c{इति विक्रमादित्यकोशः ।}
+;c{II. Sarvānanda on AK I.1.18}
+अथ नारायणो विष्णुरूर्ध्वकर्मा नरायणः ॥ २ ॥
+;c{इति संसारावर्तः ।}
+;c{III. Rāyamukuṭa on AK I.1.33, Bhānujīdīkṣita on AK I.1.33, V. D. Sharma on AK I.1.33}
+हीरः कपर्दी च शिवो दक्षयज्ञहरो हरः ॥ ३ ॥
+;c{इति संसारावर्तात् ।}
+;c{IV. Sarvānanda on AK I.1.35}
+धनुरजगवं पिनाकं पुंसि च वृषभेऽजकावमपि पुण्यम् ॥ ४ ॥
+;c{इति संसारावर्तः ।}
+;p{0467}
+;c{V. Rāyamukuṭa on AK I.1.35, Bhānujīdīkṣita on AK I.1.35, V. D. Sharma on AK I.1.35}
+भूताः शिवस्य पार्षद्यः पार्षदाः ॥ ५ ॥
+;c{इति संसारावर्तात् ।}
+;c{VI. Rāyamukuṭa on AK I.1.46, Bhānujīdīkṣita on AK I.1.47, V. D. Sharma on AK I.1.47}
+अस्त्रियौ वज्रकुलिशौ दम्भोलिरशनिर्द्वयोः ॥ ६ ॥
+;c{इति संसारावर्तः ।}
+;c{VII. Bhānujīdīkṣita on AK I.1.59, V. D. Sharma on AK I.1.59}
+आशिरो हनुषः शङ्कुः क्रव्यादोऽस्रप आशरः ॥ ७ ॥
+;c{इति संसारावर्तः ।}
+;c{VIII. Sarvānanda on AK I.1.62, Ujjvaladatta on Uṇ. I.96, Bhānujīdīkṣita on AK I.1.62, Jñānendrasarasvatī on Uṇ. 94, Vāsudevadīkṣita on Uṇ. 94, V. D. Sharma on AK I.1.62}
+मारुतः स्पर्शनः प्राणः समीरो मरुतो जगत् ॥ ८ ॥
+;c{इति शब्दार्णवसंसारावर्तौ ।}
+;c{IX. Bhānujīdīkṣita on AK I.1.62, V. D. Sharma on AK I.1.62}
+मारुतः श्वसनः प्राणः समीरो मरुतो मरुत् ॥ ९ ॥
+;c{इति संसारावर्ताच्च ।}
+;c{X. Ujjvaladatta on Uṇ. II.15}
+सिन्धूत्थरात्रिमणिदर्शविपन्मृगाङ्कविक्रस्रपर्वकरपारदविप्रराजः ॥ १० ॥
+;c{इति विक्रमादित्यः ।}
+;c{XI. Bhānujīdīkṣita on AK I.3.31, V. D. Sharma on AK I.3.31}
+तपनस्तापनो रविः ॥ ११ ॥
+;c{इति संसारावर्तात् ।}
+;c{XII. Ujjvaladatta on Uṇ. IV.75}
+नहुषः खररोमा च शेषवासुकितक्षकाः ॥ १२ ॥
+;c{इति विक्रमादित्यकोशे ।}
+;c{XIII. Bhānujīdīkṣita on AK I.8.4, V. D. Sharma on AK I.8.4}
+गोनसी मण्डली वोडः ॥ १३ ॥
+;c{इति विक्रमादित्यः ।}
+;c{XIV. Bhānujīdīkṣita on AK I.10.3}
+कबन्धमुदकमापो नीरवार्वारिनारम् ॥ १४ ॥
+;c{क्लीबमपि ...}
+;c{इति संसारावर्तात् ।}
+;c{XV. Sarvānanda on AK I.10.21, Bhānujīdīkṣita on AK I.10.22, V. D. Sharma on AK I.10.22}
+जलयुक्ता जलौका च जलौकाश्च जलोरगी ॥ १५ ॥
+;c{इति संसारावर्ते ।}
+;c{XVI. Ujjvaladatta on Uṇ. I.95, Rāyamukuṭa (according to V. D. Sharma, Amarakosha, Bombay 1929, p. 73, note 4), Jñānendrasarasvatī on Uṇ. 93}
+;c{उदाहृतश्च विक्रमादित्येन -}
+तस्या जम्बोः फलरसो नदीभूय प्रवर्तते ॥ १६ ॥
+;c{इति ।}
+;p{0468}
+;c{XVII. Sarvānanda on AK II.5.3}
+खड्गी गण्डी गण्डकः स्यादृक्षभालूकभल्लुकाः ॥ १७ ॥
+;c{इति विक्रमादित्यः ।}
+;c{XVIII. Ujjvaladatta on Uṇ. IV.56}
+स्मृतश्चाषः किकीदिविः ॥ १८ ॥
+;c{इति विक्रमादित्यः ।}
+;c{XIX. Sarvānanda on AK II.6.67, Ujjvaladatta on Uṇ. IV.16, Jñānendrasarasvatī on Uṇ. 456}
+पिचण्डी दूषिका दूषी पिचोण्डं तु दृशोर्मलम् ॥ १९ ॥
+;c{इति विक्रमादित्यकोशः ।}
+;c{XX. Ujjvaladatta on Uṇ. I.9, Jñānendrasarasvatī on Uṇ. 8}
+वटुर्द्विजसुतः स्मृतः ॥ २० ॥
+;c{इति संसारावर्तः ।}
+;c{XXI. Bhānujīdīkṣita on AK II.9.13, V. D. Sharma on AK II.9.13}
+हालः फालवहः सीता ॥ २१ ॥
+;c{इति विक्रमादित्यः ।}
+;c{XXII. Sarvānanda on AK II.9.47}
+लाजाः पुंसि बहुत्वे वा स्त्रियां लाजापि चाक्षतम् ॥ २२ ॥
+;c{इति संसारावर्ते ... ।}
+;c{XXIII. Ujjvaladatta on Uṇ. III.83, Jñānendrasarasvatī on Uṇ. 363}
+शिङ्घाणः फेनडिण्डिरो नक्ररेतश्च पिच्छिलः ॥ २३ ॥
+;c{इति विक्रमादित्यकोशः ।}
+;c{XXIV. Sarvānanda on AK I.1.52, Rāyamukuṭa on AK I.1.51, Bhānujīdīkṣita on AK I.1.52, V. D. Sharma on AK I.1.52}
+गन्धर्वो वीतिहाहसोः ॥ २४ ॥
+;c{इति संसारावर्तात् (०ते ...) ।}
+;c{XXV. Ujjvaladatta on Uṇ. I.48, Bhaṭṭojīdīkṣita on Uṇ. 47, Jñānendrasarasvatī on Uṇ. 47}
+रौहिषो मृगभेदः स्याद्रौहिषं च तृणं मतम् ॥ २५ ॥
+;c{इति संसारावर्तः ।}
+;c{XXVI. Ujjvaladatta on Uṇ. IV.139}
+कोशः कृतः सकलसत्खानिरत्नवान् ॥ २६ ॥
+;c{इति विक्रमादित्यकोशः ।}
+

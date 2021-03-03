@@ -1,0 +1,134 @@
+;METADATA
+;title{saMsArAvarta}
+;author{vikramAditya}
+;bookFullName{1. Fragments From Three Lost Kośas: III. Vikramāditya's Saṃsārāvarta}
+;bookSeriesDetails{1. Journal of the American Oriental Society, Vol. 93, No. 4 (Oct. - Dec., 1973), pp. 462-468}
+;editor{Robert Birwé}
+;editorQualifications{University of Cologne, Germany}
+;publisher{American Oriental Society}
+;pressDetails{}
+;publicationYear{1973 A.D}
+;dataEntryBy{Dr. Dhaval Patel}
+;dataEntryEmail{drdhaval2785@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{SAVD}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. SRKKF for funding. 2. Mr. Nagabhushana Rao of www.andhrabharati.com for providing the scanned book to digitize. 3. Dr. Dhaval Patel for spending time to type and proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{syno}
+;pagenum{true}
+;linenum{false}
+;chapterArrangements{none}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{03 March 2021}
+;version0.0.2{03 March 2021}
+;version0.0.3{03 March 2021}
+;version0.0.4{03 March 2021}
+;version0.1.0{03 March 2021}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+;p{0466}
+﻿;c{I. Ujjvaladatta on Uṇ. III.126, Jñānendrasarasvatī on Uṇ. 406}
+arhantaH kzapaRako jinaH .. 1 ..
+;c{iti vikramAdityakoSaH .}
+;c{II. Sarvānanda on AK I.1.18}
+aTa nArAyaRo vizRurUrDvakarmA narAyaRaH .. 2 ..
+;c{iti saMsArAvartaH .}
+;c{III. Rāyamukuṭa on AK I.1.33, Bhānujīdīkṣita on AK I.1.33, V. D. Sharma on AK I.1.33}
+hIraH kapardI ca Sivo dakzayajYaharo haraH .. 3 ..
+;c{iti saMsArAvartAt .}
+;c{IV. Sarvānanda on AK I.1.35}
+DanurajagavaM pinAkaM puMsi ca vfzaBe'jakAvamapi puRyam .. 4 ..
+;c{iti saMsArAvartaH .}
+;p{0467}
+;c{V. Rāyamukuṭa on AK I.1.35, Bhānujīdīkṣita on AK I.1.35, V. D. Sharma on AK I.1.35}
+BUtAH Sivasya pArzadyaH pArzadAH .. 5 ..
+;c{iti saMsArAvartAt .}
+;c{VI. Rāyamukuṭa on AK I.1.46, Bhānujīdīkṣita on AK I.1.47, V. D. Sharma on AK I.1.47}
+astriyO vajrakuliSO damBoliraSanirdvayoH .. 6 ..
+;c{iti saMsArAvartaH .}
+;c{VII. Bhānujīdīkṣita on AK I.1.59, V. D. Sharma on AK I.1.59}
+ASiro hanuzaH SaNkuH kravyAdo'srapa ASaraH .. 7 ..
+;c{iti saMsArAvartaH .}
+;c{VIII. Sarvānanda on AK I.1.62, Ujjvaladatta on Uṇ. I.96, Bhānujīdīkṣita on AK I.1.62, Jñānendrasarasvatī on Uṇ. 94, Vāsudevadīkṣita on Uṇ. 94, V. D. Sharma on AK I.1.62}
+mArutaH sparSanaH prARaH samIro maruto jagat .. 8 ..
+;c{iti SabdArRavasaMsArAvartO .}
+;c{IX. Bhānujīdīkṣita on AK I.1.62, V. D. Sharma on AK I.1.62}
+mArutaH SvasanaH prARaH samIro maruto marut .. 9 ..
+;c{iti saMsArAvartAcca .}
+;c{X. Ujjvaladatta on Uṇ. II.15}
+sinDUtTarAtrimaRidarSavipanmfgANkavikrasraparvakarapAradaviprarAjaH .. 10 ..
+;c{iti vikramAdityaH .}
+;c{XI. Bhānujīdīkṣita on AK I.3.31, V. D. Sharma on AK I.3.31}
+tapanastApano raviH .. 11 ..
+;c{iti saMsArAvartAt .}
+;c{XII. Ujjvaladatta on Uṇ. IV.75}
+nahuzaH KararomA ca SezavAsukitakzakAH .. 12 ..
+;c{iti vikramAdityakoSe .}
+;c{XIII. Bhānujīdīkṣita on AK I.8.4, V. D. Sharma on AK I.8.4}
+gonasI maRqalI voqaH .. 13 ..
+;c{iti vikramAdityaH .}
+;c{XIV. Bhānujīdīkṣita on AK I.10.3}
+kabanDamudakamApo nIravArvArinAram .. 14 ..
+;c{klIbamapi ...}
+;c{iti saMsArAvartAt .}
+;c{XV. Sarvānanda on AK I.10.21, Bhānujīdīkṣita on AK I.10.22, V. D. Sharma on AK I.10.22}
+jalayuktA jalOkA ca jalOkASca jaloragI .. 15 ..
+;c{iti saMsArAvarte .}
+;c{XVI. Ujjvaladatta on Uṇ. I.95, Rāyamukuṭa (according to V. D. Sharma, Amarakosha, Bombay 1929, p. 73, note 4), Jñānendrasarasvatī on Uṇ. 93}
+;c{udAhftaSca vikramAdityena -}
+tasyA jamboH Palaraso nadIBUya pravartate .. 16 ..
+;c{iti .}
+;p{0468}
+;c{XVII. Sarvānanda on AK II.5.3}
+KaqgI gaRqI gaRqakaH syAdfkzaBAlUkaBallukAH .. 17 ..
+;c{iti vikramAdityaH .}
+;c{XVIII. Ujjvaladatta on Uṇ. IV.56}
+smftaScAzaH kikIdiviH .. 18 ..
+;c{iti vikramAdityaH .}
+;c{XIX. Sarvānanda on AK II.6.67, Ujjvaladatta on Uṇ. IV.16, Jñānendrasarasvatī on Uṇ. 456}
+picaRqI dUzikA dUzI picoRqaM tu dfSormalam .. 19 ..
+;c{iti vikramAdityakoSaH .}
+;c{XX. Ujjvaladatta on Uṇ. I.9, Jñānendrasarasvatī on Uṇ. 8}
+vawurdvijasutaH smftaH .. 20 ..
+;c{iti saMsArAvartaH .}
+;c{XXI. Bhānujīdīkṣita on AK II.9.13, V. D. Sharma on AK II.9.13}
+hAlaH PAlavahaH sItA .. 21 ..
+;c{iti vikramAdityaH .}
+;c{XXII. Sarvānanda on AK II.9.47}
+lAjAH puMsi bahutve vA striyAM lAjApi cAkzatam .. 22 ..
+;c{iti saMsArAvarte ... .}
+;c{XXIII. Ujjvaladatta on Uṇ. III.83, Jñānendrasarasvatī on Uṇ. 363}
+SiNGARaH PenaqiRqiro nakraretaSca picCilaH .. 23 ..
+;c{iti vikramAdityakoSaH .}
+;c{XXIV. Sarvānanda on AK I.1.52, Rāyamukuṭa on AK I.1.51, Bhānujīdīkṣita on AK I.1.52, V. D. Sharma on AK I.1.52}
+ganDarvo vItihAhasoH .. 24 ..
+;c{iti saMsArAvartAt (0te ...) .}
+;c{XXV. Ujjvaladatta on Uṇ. I.48, Bhaṭṭojīdīkṣita on Uṇ. 47, Jñānendrasarasvatī on Uṇ. 47}
+rOhizo mfgaBedaH syAdrOhizaM ca tfRaM matam .. 25 ..
+;c{iti saMsArAvartaH .}
+;c{XXVI. Ujjvaladatta on Uṇ. IV.139}
+koSaH kftaH sakalasatKAniratnavAn .. 26 ..
+;c{iti vikramAdityakoSaH .}
+
