@@ -1,0 +1,186 @@
+;METADATA
+;title{ekavarRArTasaNgraha}
+;author{Baratamallika}
+;bookFullName{Ekavarṇārtha-saṃgraha of Bharatamallika, published in The Indian Historical Quarterly, Vol. XXXVI, No. 1, March 1960}
+;bookSeriesDetails{}
+;editor{Sures Chandra Banerji}
+;editorQualifications{M.A., D.Phil}
+;publisher{The Indian Historical Quarterly, Vol. XXXVI, No. 1, March 1960}
+;pressDetails{}
+;publicationYear{1960 A.D.}
+;dataEntryBy{Dr. Dhaval Patel}
+;dataEntryEmail{drdhaval2785@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{EVBM}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. SRKKF for funding. 2. Google OCR for providing us raw OCR data to work with. 3. www.archive.org and Mr. Nagabhushana Rao of www.andhrabharati.com for providing scans of the book. 4. Dr. Dhaval Patel for spending time to type and proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{homo}
+;pagenum{true}
+;linenum{false}
+;chapterArrangements{kanda}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{03 March 2021}
+;version0.0.2{03 March 2021}
+;version0.0.3{03 March 2021}
+;version0.0.4{03 March 2021}
+;version0.1.0{03 March 2021}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+﻿;p{0030}
+;c{ekavarRArTasaMgrahaH}
+;c{[ BaratamallikakftaH ]}
+namaskftya SivaM vEdyagOrANgamallikAtmajaH .
+BarataH kurUte padyErekavarRArTasaMgraham .. 1 ..
+na halaH kebalasyAsti uccAraRamiti svaraH .
+antaHsTEScEkatA tasya matAH kakAdayo yaTA .. 2 ..
+;k{svaravarRakozaH}
+;c{svaravarRakozaH .}
+aH SrIpatO vartate'To svalpArTapratizeDayoH .
+aBAve'pyanukampAyAmanavyayamudIritam .. 3 ..
+AbrahmaRaScAvyayaM tu smftO vAkye samuccaye .
+sImAyAmapi kAruRyasvalpArTABiviDizvapi .. 4 ..
+upasargAKya ASabdaH samantAdIzadarTayoH .
+pratyAvfttirgrahAdInAM cArTAnAM DAtuyogataH .. 5 ..
+AKyApako Bavedistu kusumAyuDa ucyate .
+i avyayaM ruzoktO syAd BedAnukampayorapi .. 6 ..
+I lakzmyAM syAdavyayaM tu vizAde karuRAruzoH .
+uH Sive syAdavyayaM tu anukampAniyogayoH .. 7 ..
+;p{0031}
+samboDanaruzoktO ca pAdapUraRa izyate .
+U rakzAyAmavyayaM tu vAkyAramBAnukampayoH .. 8 ..
+fkAro devatAmbAyAmavyayaM vAkyanindayoH .
+frdEtyajananI vAkyakutsayorf tu avyayam .. 9 ..
+xkAro devayoniH syAt XrmAtA sadBirucyate .
+ervizRuH syAdavyayaM tu smftyAmantraRahUtizu .. 10 ..
+EH SamBuH syAdavyayaM tu smftyAmantraRahUtizu .
+okAraH syAdabjayoniravyayaM smaraRe taTA .. 11 ..
+AhvAne cAnukampAyAM taTA samboDane matam .
+Orante syAdavyayaM tu hUtO samboDane'pi ca .. 12 ..
+aM Bavet paramaM brahma aH syAdvizRutrinetrayoH .
+;c{iti svaravarRakozaH .}
+;k{vyaYjanavarRakozaH}
+;c{aTa vyaYjanavarRakozaH .}
+kaH pumAn brahmavAyvAtmasUryAgniyamabarhizu .. 13 ..
+dakzaprakASayoH kaM tu SIrza vAriRi SarmaRi .
+kurDaritrI striyAmuktA kvavyayaM pApakutsayoH .. 14 ..
+nivAraRe vinirdizwamIzadarTe ca kovidEH .
+KamAkASendriyakzetradevalokezu SarmaRi .. 15 ..
+saMvedane SUnyabindO prakASapUrayormatam .
+go gaReSe ganDavAhe ganDarve gatigAnayoH .. 16 ..
+gA gATAyAM gadAyAM tu gOH pumAn vfkzavajrayoH .
+svarge raSmO candramasi striyAM tu diSi vAci ca .. 17 ..
+dfk soraBeyI bARezu salile DaraRAvapi .
+Go GaRwAyAM mato GaM tu garhaRe banDane'pi ca .. 18 ..
+GA kiNkiRyAM hatO coktA GurDvanO parikIrtitA .
+NaH BEravo vinirdizwastaTEva vizayaspfhA .. 19 ..
+caScOraScandramAScoktaH caM cakre candane smftam .
+cAvyayaM syAt samAhAre'pyanyonyArTe samuccaye .. 20 ..
+anvAcaye taTA pAdapUraRe'pyavaDAraRe .
+pakzAntare'pi CaM tu syAt Cedane trizu nirmale .. 21 ..
+javane tarale'pyevaM CA tu vedaDvanO matA .
+jaH syAjjetari vijYAte javane ca prayujyate .. 22 ..
+;p{0032}
+jUH stryAkASe sarasvatyAM piSAcyAM javane'pi ca .
+Jo(Ja)YJAvAta uddizwastaTA nazwo'pi paRqitEH .. 23 ..
+YaH syAd GarGaraSabde'pi gAyate SAsane divi .
+waH syAt Sabde kabanDe ca wA pfTivyAM prakIrtitA .. 24 ..
+WaH myAnmahADvanO SUnye SaNkare candramaRqale .
+WA DvanO qaH Sive trAse Sabde ca parikIrtyate .. 25 ..
+Qo QakkAyAM nirguRe ca DvaninirRayayorapi .
+RaH prakarze nivfttO ca jYAnaniScayayorapi .. 26 ..
+tastu sure yudDabadDavargezu kroqapfzWayoH .
+tvavyayaM syAt praSaMsAyAM pakzAntaraniyogayoH .. 27 ..
+Bede'vaDAraRe pAdapUraRe'pi samuccaye .
+vinigrahe Tastu Sele TaTf dvO hayalakzaRe .. 28 ..
+do dAtA daM kalatraM syAt dA dAne cCedadAtfzu .
+Do Darmo DarmarAjo'pi DAtA DIro DanADipaH .. 29 ..
+DUrDUrta indriye kampe cintane'pi prakIryate .
+naH syAdyudDe'pi vipre'To upamApratizeDayoH .. 30 ..
+avyayaM na samuddizwaM YAnubanDastu na DvaniH .
+aBAve ca nizeDe ca svarUpArTe'pyatikrame .. 31 ..
+IzadarTe ca sAdfSye tadvirudDatadanyayoH .
+aprASastye'pyavyayaM na nizeDABAvayoH smftam .. 32 ..
+avyayaM nirnizeDe syAd BfSArTe saMSaye'pi ca .
+nityArTe kOSale kzepe virAme'ntikaradAnayoH .. 33 ..
+rASyaDoBAvavinyAse mokzAntarBAvabanDane .
+akzaye'pyupasargAKyaM nirnizaDe'pi niScaye .. 34 ..
+nIH syAnnetari nItO ca nuH stutO parikIrtitaH .
+avyayaM nu vitarke syAdupamApraSnayorapi .. 35 ..
+vikalpe nu naye'tIte taTA hetUpadeSayoH .
+nfSabdaH paRqite martye puruze'pi prayujyate .. 36 ..
+no'vyayaM tvaBAve syAnnOrnOkAyAM prayujyate .
+paH pAtako(ke?)'pi pavane Bavet pA pApapAnayoH .. 37 ..
+;p{0033}
+Po JaYJAvAte PutkAre dakze nizPalaBAzaRe .
+PiH prakope mato baH dvaruRe varvare Gawe .. 38 ..
+ivArTe tvavyayaM ba syAdavyayaM vA samuccaye .
+upamAyAM vikalpe ca nAnArTAtItayorapi .. 39 ..
+evArTe ca vitarke ca viSizwe pAdapUraRe .
+niyoge niScaye hetO nigrahe sahane taTA .. 40 ..
+IzadarTavyAptiSudDyAlambanABiBavezu ca .
+biH jYAnAtItayAnArTaSrezWArTezu prayujyate .. 41 ..
+upasarge'nvayaM biH syAnnaYarTe gamane taTA .
+viSezadAnavErUpye'vyayaM bE pAdapUraRe .. 42 ..
+samboDane cAnunaye hetAvapyavaDAraRe .
+BaH syAd dEtyagurO BfNge mayUre Bamuqu smftam .. 43 ..
+BA dIptO syAd gaBastO ca BIrBaye samudIritA .
+BUH sTAnamAtre BUmO ca taTotpattO prakIrtitA .. 44 ..
+maH syAd brahmaRi candre ca candraSeKaramantrayoH .
+maM maNgalaM samuddizwaM mA padmAvidyayordyutO .. 45 ..
+mA syAnmAtari mAne cAvyayaM mA vAraRe taTA .
+vikalpe yo yame vAyO yAne tyAge'pi yAtari .. 46 ..
+raH pAvake ca tIkzRe rA dAne grahaRe taTA .
+rIrgato hanane coktA rESabdaH svarRavittayoH .. 47 ..
+la indre hlAdane lAstu grahaRe lI smftASlizi .
+lUSCederastu vAte syAt sAnto'pi vAH suKe gatO .. 48 ..
+vIH praBAgamanavyAptikzepaRezvadane matA .
+varuRe vaM SakuntO virvAvE vitta avyayam .. 49 ..
+aozWyavaM bahavaH prAhurdantyaM ceti ca kecana .
+SaH SamBuH SaM SuBaM proktaM SIH svapne parikIrtitA .. 50 ..
+SvavyayaM pUjane proktaM SUrhiMsAyAM prayujyate .
+zaH SrezWaH kIrtito DIrEH zUstu garBavimocanam .. 51 ..
+;p{0034}
+saH syAdvizRO hare darBe sA lakzmIdurgayoH smftA .
+avyayaM su samfdDO ca BfSArTe'numatAvapi .. 52 ..
+kftsne (?) taTEva pUjAyAM upasarge'vyayaM tu su .
+arcAyAmapyanAyAse taTAtiSaya ucyate .. 53 ..
+haH SamBO vartate SuRqe taTA kopanivAraRe .
+avyayaM tu ha sambudDO nigrahe pAdapUraRe .. 54 ..
+kzipAyAmapi kutsAyAM niyoge ca prayujyate .
+hA Soke syAd vizAde ca nindApIqArTayorapi .. 55 ..
+hi pAdapUraRe praSne saMBrame'pyavaDAraRe .
+hetO hetUpadeSe ca viSezAsUyayorapi .. 56 ..
+hI vizAde vismaye ca duHKe hetO ca vartate .
+he samboDana AhvAnAsUyayoSca prayujyate .. 57 ..
+hEho cAhvAnasambudDyorhO Sabde'pi taTA mataH .
+kzaH sUrye kzatriye yudDe kzaRe mitre ca vartate .. 58 ..
+yadyapi kzastrivarRAtmA taTA'pyeko nigadyate .
+nAmAnuroDAt zAnto'pi pfTageva hi paWyate .. 59 ..
+granTe viSvaprakASAdO maheSvaramuKErbuDEH .
+kzAntAH pfTaNnibadDAste zAntavarge tu kEScana .. 60 ..
+KyAtAnAmekavarRAnAmarTAnAM kiyatAM kftaH .
+saMgraho'yaM pare tvarTA jYeyAstantrAntarekzaRAt .. 61 ..
+;c{iti SrIgOrANgamallikAtmajaSrIBaratasenakfta ekavarRAArTasaMgrahaH samAptaH .}
+
