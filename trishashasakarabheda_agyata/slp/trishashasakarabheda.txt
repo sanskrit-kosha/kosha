@@ -1,0 +1,232 @@
+;METADATA
+;title{triSazasakAraBeda}
+;author{ajYAta}
+;bookFullName{triSazasakAraBedaH}
+;bookSeriesDetails{Unknown. Taken from https://archive.org/details/trishasasakaarabheda/mode/2up}
+;editor{}
+;editorQualifications{}
+;publisher{}
+;pressDetails{}
+;publicationYear{}
+;dataEntryBy{Dr. Dhaval Patel}
+;dataEntryEmail{drdhaval2785@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{TSSU}
+;funding{Shree Ramkrishna Knowledge Foundation.}
+;licence{GNU GPL v3.0}
+;credits{1. SRKKF for funding. 2. www.archive.org for providing us the scanned book to digitize. 3. Dr. Dhaval Patel for spending time to type and proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{special}
+;pagenum{true}
+;linenum{false}
+;chapterArrangements{kanda}
+;newVerseNumbersAtChangeOf{kanda}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{31 March 2021}
+;version0.0.2{31 March 2021}
+;version0.0.3{31 March 2021}
+;version0.0.4{31 March 2021}
+;version0.1.0{31 March 2021}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+;p{0023}
+;c{oM sarasvatyE namaH .}
+;c{granTAramBaH ..}
+;k{tAlavyaSakArAdisaNgrahaH}
+tAlavyAdi mayocyate kiyadatastAlavyamaDyantata-
+stAlavyAntamiha prakASitapadaM yat sUriBirBUri tat .
+mUrdDanyasya padasya cedfSamataM dantyasya tAdfNmataM
+jYAtavyaM triSakAraBedakaTane prAgAdimaDyAntataH .. 1 ..
+tAlavyamUrdDanyadantyAScuwutUnAM kramAdimAH
+saMyogAH SazasA jYeyAH procyante tat katItare .
+SrISarvaSramaSarmaSeKaraSiKASEvAlaSaNKaSrutAH
+SaNkASIkaraSaNkaraSrutiSacISulWISaWISAyakAH .. 1 ..
+SIDuSlIpadaSudDaSoBanaSaraSradDASanEHSambarAH
+;p{0024}
+SabdaSreRiSilASalAwuSiKara--Sara---
+SmaSruSrezWaSaWaSmaSAnaSibikASAlUkaSoBAYjanAH .
+SAlASalyaSakfcCirIzaSaluPASvetaSvaSePAlikAH
+SePaSrotraSarAvaSoTaSiTilaSlAGASlaTaSyAmalAH .. 2 ..
+SikzASevaSarAriSElaSaParISaSvacCfgAlaSritAH
+SukraSvaBraSanEScaraSvasanaSaMSOwIryyaSuSrUzakAH .
+SoBASUnyaSaraRyaSfNgaSaSakaSlakzRa--SukSiMSapAH
+----- SarIraSaraBaSyenAKyaSIRASakAH .. 3 ..
+SampASARqilyaSaRqAH SfmaraSamalaSAlUraSUcISiKaRqAH
+SociH SvaH SAstraSastraM Sama---SamAH SuktikASApaSizyAH .
+SrOzaw SAstA SarAruH SaravaSiKariRI SArikASyAlaSozAH
+SalyaSrukSulkaSAlvaSfRiSayanaSitAH SastaSAwI SakowAH .. 4 ..
+SamanaSakawaSI-SIlaSambUkaSUkAH
+SaralaSayanaSuklAH SlezmaSArdUlaSAnAH .
+SalaBaSavaraSiYjAH SallakI SAliSaRqAH
+SiSuSaSiSaSaSakrAH SiSnaSimbISaSANkAH .. 5 ..
+SivaSavaSuBaSUrpAH SfNKalaSvAsaSalyAH
+SukaSaPaSitiSizwAH SarvvarI SUraSuzkAH .
+SabalaSunakaSuRqAH SAtanaSvitraSakyAH
+SakuniSaraRaSAvAH SAlmaliSlokaSokAH .. 6 ..
+SvaSuraSuziraSAkAH SAntaSElUzaSAKAH
+SaraRiSapaTaSilpAH SarkarASAlaSikyAH .
+SiKiSataSuciSUdrAH SaNkaraSyAvaSItAH
+SravaRaSaniSirAlAH SoDanISAtakumBO .. 7 ..
+SAntiSIraSiraHSvaSrUSASvacCUkaraSambarAH .
+SIGraSIrzeSAkASi- SoPaSoRita----- .. 8 ..
+--------
+;p{0025}
+SukaSimbI SAdaSArNgaSakuntiSatruSAdvalAH
+ete kiyantaH kaTitAstAlavyAdiSasUcakAH .. 9 ..
+;c{iti tAlavyaSakArAdisaNgrahaH ..}
+;k{maDyatAlavyaSakArasaNgrahaH}
+veSmoSIrapiSaNgakaSyapakaSerupraSnakiMSArukAH
+raSmyaSvatTaniSITaSESirayaSaHkASmIraveSyAMSukAH .
+triMSadvaSyaviSAKaviSvamaSakAvaSyaM SaSANkASramA
+veSantASyakOSikASanipiSAcASrASruSiSnaSramAH .. 1 ..
+ESvaryyeSvaraSiMSapASvayugavaSyAyASvinIkeSavAH
+viMSASmASanadandaSUkaniSitAH SvoccEHSravaHkiMSukAH .
+spfSyArSaHSaSakoSanaH piSunaSaSvanmiSrasandaMSanAH
+kESorAtiSayAtikaSmalaviniSvAsapraSaMsAdayaH .. 2 ..
+SmaSAnalaSunO kfSAnupiSitO viSAlakuSalO jalASayadaSa .
+niSAtadaSamI kuSeSadaSanO sAdfSyavaSinO parASaramuniH .. 3 ..
+patrapASyAvArivaSyASmarInISAraSASvatAH .
+keSarASItipaYcASaccatvAriMSatsupAMSukAH .. 4 ..
+ete kiyantastAlavyaSamaDyamAH saMprakIrtitAH .
+;c{iti maDyatAlavyaSakArasaNgrahaH ..}
+;k{tAlavyaSAntasaNgrahaH}
+rASirvaSyavarASidigvaSadfSaH kISeSanASaspfSaH
+kASAkASakuSANkuSASaniniSAH keSorvvaSI tAdfSAH .
+kroSakleSapalASapAMSupaSavaH pASAMSavaMSASavaH
+sparSAveSaniveSaveSavaqiSAdeSapraveSedfSAH .. 1 ..
+dASaprakASakuliSAH SiSuleSadaMSAH
+pArSvASusAdfSaBfSAH SaSaBfNgirISAH .
+AdarSadarSaparaSupratidigdaSAH syuH
+----------- .. 2 ..
+;p{0026}
+kalaSaBraMSAvakASAH -SAnistriMSaviqviSAH .
+kiyattAlavyaSAntAnAM kIrtanaM samudAhftam .. 3 ..
+;c{iti tAlavyaSAntasaNgrahaH ..}
+;k{mUrdDanyazAdisaNgrahaH}
+zazWizoqaSazawzoQAzaRQA mUrdDanyazAdimAH .
+kiyantaH kaTitAH spazwAH zaqetezvakkyasaNgatAH .. 1 ..
+;c{iti mUrdDanyazAdisaNgrahaH ..}
+;k{maDyamUrDanyazakArasaNgrahaH}
+pAzARapuzkaraviSezaRaSazpanizkA-
+DUzpASaBezajaBizagvizayAtiduzKAH .
+kuzmARqaduzkaragavezitaBUzitezat
+pAzaRqapozaRaparizkftakizkuSuzkAH .. 1 ..
+yozidviSizya dfzadaMSakagozpadozmA-
+BizvaNgaBIzmamuzalarzaBaBazmaBUzyAH .
+nizpezasarzapabahizkftavarzmaBAzyAH
+puzpOzaDozarahfzIkavizAdakfzyAH .. 2 ..
+vAstozpatitryuzaRadezaRikApfzatkA
+mastizkamUzikavivizkiraduHsuzeRAH .
+vizkamBaBAzaRamanIzinizekadUzyAH
+prezyezikAsuziravArdDuzikABizekAH .. 3 ..
+SlezmAnuzaNgikakazAyanizaRRaSizyA
+grIzmozatIcazakapUzaturuzkatizyAH .
+pUzyAvizARaDizaRAsuzamAsuzImAH
+kOzeyasuzKaparizaddivizattuzArAH .. 4 ..
+aruzkarAzAQanizeDadUzikA
+gavezaRAnvezaRaniScatuzkAH .
+cazAlacuzyozyaRasatpfzatkA
+nizadvaradvezyaturAdizAQaH .. 5 ..
+;p{0027}
+pfzadaSvo vfzalakaH muzavI vizuvAvuBO .
+Sizuko vfzadaScEte maDyamfrdDanyazAH kati .. 6 ..
+;c{iti maDyamUrDanyazakArasaNgrahaH ..}
+;k{mUrdDanyazAntasaNgrahaH}
+vfzamahizapurIzAmarzapIyUzapezAH
+kaluzaruzaviSezAkarzagaRqUzakozAH .
+kazapuruzakarIzavyozadozapradozAH
+vizatuzakfziSezAByUzatozAmbarizAH .. 1 ..
+pruzanikazaSirIzaSlezaSIrzarzivarzA
+paruzaSuzijigIzASemuzIzAnimezAH .
+IzukfzadiDizUzAkilbizABrezahrezAH
+pluzavuzavarizerzyAlambuzonmezaGozAH .. 2 ..
+harzasnuzArOhizacAzaSozAH
+SElUzatfwkalmazamAzamUzAH .
+hrezAwaruzAmizayUzaSIzAH
+pratyUzaBAzAtripuzInirIzAH .. 3 ..
+SuSrUzamezakruzayozatarzA
+vezAvarozadviquzApramozAH .
+BUzAmfzAmArizamaYjUzezA
+tviqmAnuzarjIzaBazAH kiyantaH .. 4 ..
+ete mUrdDanyazAntASca kaTitAH SabdasaNkarAH .
+;c{iti mUrdDanyazAntasaNgrahaH ..}
+;k{dantyasakArAdisaNgrahaH}
+svastisvarasmarasaritsitasArameyAH
+svAhAsvaDAsamasahasrasaraHsamUhAH .
+saNKyAsamudrasahasAsahasaktusiktAH
+--------- .. 1 ..
+;p{0028}
+srotaHsamastasalilasmitasakTisomAH
+saMyAmasundarasaKIsravasaMsamantAt .
+sevAsaKismaraRasAkzisamIpasantaH
+SrImantasantatasaBAsmftisinDuvArAH .. 2 ..
+svAmispfhAsuKasamIrasadAsahAyAH
+sraksnehasaNgamasuDAsamisADusODAH .
+sindUrasADanasnAta---sidDAH
+smerasva--------------svasAraH .. 3 ..
+saMsargasAntasakalasruGasidDisADyAH
+svaHsvarga---surasAH surasanDisanDyAH .
+--samaYjasasakftsarasIkasUpAH
+sfksItasADvasasamitsfRisUnusasyAH .. 4 ..
+sUcI ------- sAyaM
+--------------- .
+sadyaH samAnasarasIsavasarvasewAH
+smitkArasarzapasurAsatisarvvasaNGAH .. 5 ..
+syandasvedasAlakAH sUdasambarasaNkarAH .
+sAraNgasaptasapadisamitisparSasArasAH .. 6 ..
+satyasattvasvanasvErasvAntasvapnasvayamvarAH .
+saMsatsvIkArasattAH syuH sUrasopisasfzwayaH .. 7 ..
+kiyaddantyamakArAdiSabdAH saMkalitA amI .
+;c{iti dantyasakArAdisaNgrahaH ..}
+;k{maDyadantyasakArasaNgrahaH}
+vikasitavAsaravatsaravAsyAH
+kisalayavAsarahAsyavasantAH .
+avasaraGasmaralAsyasahasraM
+------------- .. 1 ..
+vyavasitaSAsanadasyutamisraM
+kusumavizitsitamAtsaryyAsyam .
+asakfdasArarasAlaprasUnaM
+vasativisAraRakftsnavasAnam .. 2 ..
+vesavArotsavotsAhotsargotsAraRavatsakam .
+AsaktyusrAsanAjasrAsurasAsnAsavAsakft .. 3 ..
+kAsAravasuDAsaMsadBasmaprAsAdanAsikAH .
+prasavasraMsanAmAvAsyAvasAyaprasAdajAH .. 4 ..
+maDyadantyasasaMsfzwAH kiyantaH pariBAzitAH .
+;c{iti maDyadantyasakArasaNgrahaH ..}
+;k{dantyasakArAntasaNgrahaH}
+rAsollAsavilAsavAsanaBasaHkElAsatejo'ruzo
+hiMsAhaMsaDanurvahirdivasanaHsAmAvuButsozasaH .
+kaMsaDvaMsapuraHsaroharirasusrotaScikitsOkasaH
+kutsABAHsuvasASiro'MsakfkalAsorastiraHsArasAH .. 1 ..
+vIpsAmAMsasuvaHsamAsasahasAsAyoyajuHsAhasAH
+hAsaSvaHsvarasABilAzasarasIvIBatsadAsOjasaH .
+vyAsagrAsataraHpayorasarasA pAToyaSaHkIkasA-
+ScakzurGAsatapaHsamaYjasavasuSvAsasvasAraH kati .. 2 ..
+barhiHpipAsAsarpIMzi januHsADvasalipsavaH .
+vihAyaso'pi sAmBo'rRRastamaHSePo'NGaso'ntyasAH .. 3 ..
+;c{iti dantyasakArAntasaNgrahaH ..}
+;k{SadvayasaNgrahaH}
+SmaSruSmaSAnaSiSuSiSnakuSeSayAni SvaSrUSaSiSvaSuraSASvataSiMSapASca .
+SaSvacCaSANkaSiSirARyapi SUkaSimbI tAlavyaSadvayayutAH kaTitAH .. 1 ..
+iti BedaH SakArARAM trayARAM BAzitaH kiyAn .
+----------------- .
+
