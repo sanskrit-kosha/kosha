@@ -49,7 +49,7 @@
 ;version1.0.0{}
 ;CONTENT
 ;p{0023}
-;c{oM sarasvatyE namaH .}
+;c{AUM sarasvatyE namaH .}
 ;c{granTAramBaH ..}
 ;k{tAlavyaSakArAdisaNgrahaH}
 tAlavyAdi mayocyate kiyadatastAlavyamaDyantata-

@@ -7,7 +7,7 @@
 ;editorQualifications{University of Cologne, Germany}
 ;publisher{American Oriental Society}
 ;pressDetails{}
-;publicationYear{1965 A.D., 1968 AḌ.}
+;publicationYear{1965 A.D., 1968 A.D.}
 ;dataEntryBy{Dr. Dhaval Patel}
 ;dataEntryEmail{drdhaval2785@gmail.com}
 ;proofReadBy{Dr. Dhaval Patel}

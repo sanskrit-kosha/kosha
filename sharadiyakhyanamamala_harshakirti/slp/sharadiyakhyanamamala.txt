@@ -50,7 +50,7 @@
 ;CONTENT
 ;p{0001}
 ;c{harzakIrtiviracitA SAradIyAKyanAmamAlA}
-;c{oM namaH ..}
+;c{AUM namaH ..}
 praRamya paramAtmAnaM saccidAnandamISvaram .
 graTnAmyahaM nAmamAlAM mAlAmiva manoramAm .. 1 ..
 ;k{praTamaH kARqaH}
