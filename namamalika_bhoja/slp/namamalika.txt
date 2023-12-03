@@ -14,7 +14,7 @@
 ;proofReaderEmail{kasturinsahiti@gmail.com}
 ;annotatedBy{}
 ;annotatorEmail{}
-;version{0.1.1}
+;version{0.1.0}
 ;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline. The project is funded by generous donation of Shree Ramkrishna Knowledge Fondation, Surat.}
 ;projectWebPage{http://github.com/sanskrit-kosha/kosha}
 ;emailTo{drdhaval2785@gmail.com}
@@ -36,7 +36,6 @@
 ;version0.0.3{11 September 2019}
 ;version0.0.4{11 September 2019}
 ;version0.1.0{11 September 2019}
-;version0.1.1{15 December 2019}
 ;version0.2.0{}
 ;version0.2.1{}
 ;version0.2.2{}
