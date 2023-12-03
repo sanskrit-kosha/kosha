@@ -2406,7 +2406,7 @@ puzpikA liNgaje tasminviSizyEvaM viBAvyatAm .. 287 ..
 ;p{0137}
 sfRIkAsyAsavo lAlA syandinI kaPakUrcikA .
 mUtraM mehaH sravo bastimalaM prasrAva eva ca .. 288 ..
-vizWA ग़UTapurIze ca varcaskaM varcasA saha .
+vizWA gUTapurIze ca varcaskaM varcasA saha .
 viw SakfcCamaloccArO [75] parikarma tvalaMkftiH .. 289 ..
 Akalpo vezanepaTye saMskriyodvartanaM punaH .
 pawavAsakapizwAtO cUrRaM syAdvAsayogataH .. 290 ..
@@ -3845,7 +3845,7 @@ vARIyamarTahInApi kfpayEva vilokyatAm .. 383 ..
 ;p{0211}
 ;k{liNgAnuSAsanam}
 ;c{liNgAnuSAsanam .}
-;c{oM svasti SrIgosvAmine namaH .}
+;c{AUM svasti SrIgosvAmine namaH .}
 nAmAnuSAsanamidaM samyag liNgAnuSAsanADInam .
 tasmAttadboDArTaM kurve kiMcitprayatnamaham .. 1 ..
 utsargeRa viDiM vakzye'pavAdenApi kutracit .
