@@ -75,7 +75,7 @@ saMkIrRAvyayakARqAByAmiti zaqBiranukramAt ..
 kaTyante ke'pi nAnArTAH SabdAstantrAntarADvanA .
 amI saliNganirliNgaBedAd dveDA Bavanti hi ..
 saliNgAH saptaDA vftyA striyAM puMsi napuMsake .
-strIpuMsayo: klIbapuMsoH strInapuMsakayostrizu ..
+strIpuMsayoH klIbapuMsoH strInapuMsakayostrizu ..
 SabdAnpuMsaH striyaH klIbAnnAnAliNgAMstriliNgakAn .
 ;l{0020}
 prAyaH kramAtpravakzyAmi kAntAdIndvyakzarAdizu ..
@@ -317,7 +317,7 @@ ratiBede SukavyUhe SOkaM Bekastu kAtare ..
 ;p{0012}
 trizu varzABvi puMsyeva trikaM pfzWADare traye .
 trikastrayARAM saMGe ca nemO kUpasya ca trikA ..
-puzpaBede bakaM rakza:pakziyakzADipA bakAH .
+puzpaBede bakaM rakzaHpakziyakzADipA bakAH .
 kIre daSAnanAmAtye SoRake vyAsanandane ..
 ;l{0205}
 SukaH SukaM tu SErIzakusumagranTiparRayoH .
@@ -489,7 +489,7 @@ JaYJA DvaniviSeze syAdapi sUkzmAmbuvarzaRe .
 ;p{0019}
 ;v{YAntAH}
 saMjYA nAmnyarkajAyAyAM cEtanye'pyarTasUcane .
-prajYA DI: strI trizvaBijYe trizvajYo jaqamUrKayoH ..
+prajYA DIH strI trizvaBijYe trizvajYo jaqamUrKayoH ..
 prAjYI viduzyAM prAjYA tu prajYAvatyAM tvayaM trizu .
 ;c{.. iti YAntAH ..}
 ;l{0330}
@@ -564,7 +564,7 @@ kuRWaH syAdakftodvAhe Karve'pyaniSitAyuDe ..
 ;v{qAntAH}
 gaRqo vraRe kapole piwake garve mfgAntare yoge .
 mUlAdiduzwaBAge hayaBUzaRabudbude'pyapAye ca ..
-daRqI dvA:sTe yame piRqistagare tilakalkake .
+daRqI dvAHsTe yame piRqistagare tilakalkake .
 coqO kaYculikAdeSO vyAqO hiMsrapaSUragO ..
 ;l{0385}
 pIqA vyaTAkaruRayoH SiromAlyApamardayoH .
@@ -878,7 +878,7 @@ viDuH suDAkare kAle vizRO vAte'gnirakzasoH ..
 viDirviDAne niyatO kAle padmaBave'pyaTa .
 aDizWAne cittaduHKe vyasane banDane'pi ca ..
 ADirboDiH samADO ca kukkuwASvatTabudDizu .
-abDI sara:sarasvantO banDU banDUkabAnDavO ..
+abDI saraHsarasvantO banDU banDUkabAnDavO ..
 ganDo ganDakasaMbanDAmodaleSasmayezu ca .
 ;l{0625}
 skanDo vAyuviBAgeM'se prakARqe saMhatO nfpe ..
@@ -1140,7 +1140,7 @@ harItakyAM tu paTyA syAdDite paTyaM triliNgakam .
 karmAvaboDake gfhyamayaM svavaSage trizu ..
 ;l{0820}
 gfhyaM SAKApuraM gfhyA gfhAsaktamfgAH KagAH .
-sahyo'dri : sahyamArogyaM soQavye tveza vAcyavat ..
+sahyo'dri H sahyamArogyaM soQavye tveza vAcyavat ..
 yogyaM klIbe'pUpayAnacandanAByAsavAcakam .
 pravIRopAyavacCaktayogArhezu tvayaM trizu ..
 DarmAmbupuzpasvargezu puRyaM Darmavati trizu .
@@ -1157,7 +1157,7 @@ kulyastrizvasTi kulyaM syAdaTa kalyamaharmuKe .
 kalyA kalyARavAci syAttrizu nIrogadakzayoH ..
 SalyaM vaMSaSalAkAyAM SaNkutomarayorapi .
 ;l{0835}
-SalyaH kaScinmahIpAla: SvAvinmadanapAdapaH ..
+SalyaH kaScinmahIpAlaH SvAvinmadanapAdapaH ..
 ;p{0045}
 AsyaM vaktre vaktrabile klIbe vaktraBave trizu .
 aSvamaDyaM surA kaSyaM kaSyasrizu kaSArhake ..
@@ -1569,7 +1569,7 @@ lohaH Sastre ca kAMsyAdisarvatEjasavastuni ..
 ;l{1145}
 raho rahasye surate barhaM parRaSiKaRqayoH .
 hemantamAsO sahasO narO klIbaM saho bale ..
-sahA kumArIBUmyo: strI sAkamarTe sahAvyayam .
+sahA kumArIBUmyoH strI sAkamarTe sahAvyayam .
 siMhapucCIkandarayorguhA strI zaRmuKe tu nA ..
 kAntyutsavO tu mahasI pumAMScenmaha utsave .
 ;l{1150}
@@ -1584,7 +1584,7 @@ bahuH syAdvipule tryAdisaMKyAyAM ca triliNgakaH .
 ;v{kzAntAH}
 pakzaH sahAyagarudantikasADyaBittimitrezu cullivivare nfpakfYjare ca ..
 bfnde kacAdupari mAsadale ca pakzadvAre bale ca gajapArSvaviroDayoSca .
-plakzo dvIpo gardaBARqa: parkawI pippaladrumaH ..
+plakzo dvIpo gardaBARqaH parkawI pippaladrumaH ..
 mokzo'pavarge mftyO ca mocane muzkakadrume .
 ;l{1160}
 DvANkzO kAkabakO yakzaH kubere guhyake'pi ca ..
@@ -1648,7 +1648,7 @@ hIrake'pyaTa pArSvaM ca pakzadvAraM ca pakzakam .
 kawutumbyAmapIkzvAkusturuzkaH silhake'pi ca ..
 ;l{1205}
 BujaMgacitrakavyAGravfScikAH syuH pfdAkavaH .
-markawArkaparottApihavyavAhA: kuzAkavaH ..
+markawArkaparottApihavyavAhAH kuzAkavaH ..
 tArkzyaBUpAlamArjAraSalaBAH syustriSaNkavaH .
 bfsImaYcO tu paryaNkO karaNko mastakAsTini ..
 nArikelaPale ca syAtkalaNkastvaNkanindayoH .
@@ -1872,7 +1872,7 @@ cakrAwo vizavEdye'pi dInAre durjane'pi saH ..
 ;p{0073}
 gfhe kavAwe kedAre gfhArAme ca nizkuwaH .
 sArameye vahnikaRe tAmracUqe ca kukkuwaH ..
-aSve mitaMpace ni:sve deSaBede ca kIkawaH .
+aSve mitaMpace niHsve deSaBede ca kIkawaH .
 ratibanDe rASiBede kulIre'pi ca karkawaH ..
 ;l{1375}
 UrRanABO kapO kAntAratiBede ca markawaH .
@@ -2071,7 +2071,7 @@ AkftirgAtrasAmAnyacCandorUpezvaTAditiH .
 umA BUrdevamAtA ca nikftiH SAWyaBartsane ..
 niyatI dEvaniyamAvicCAnujYe tu saMmatI .
 prasUtI janmatanayO padDatI paNktivartmanI ..
-durgatI nE:svyanarakO vratatI tativIruDO .
+durgatI nEHsvyanarakO vratatI tativIruDO .
 ;p{0081}
 saMvittI jYAnasaMvAdO suKanASO tu nirvftI ..
 ;l{1525}
@@ -2310,7 +2310,7 @@ vyutTAnaM tu svatantratvakaraRaM pratikUlatA .
 praDAnaM paramAtmA DIrmantrI prakftiruttamaH ..
 prasTApane nirasane kAlakzepe ca yApanam .
 ;l{1705}
-udyAnaM syAni:saraRe vanaBede prayojane ..
+udyAnaM syAniHsaraRe vanaBede prayojane ..
 saMsTAnamAkftO mftyO saMniveSe catuzpaTe .
 vyasanaM tvaSuBe saktO vipattO nizPalodyame ..
 dEvAnizwaPale pApe doze kAmajakopaje .
@@ -2475,7 +2475,7 @@ KyAtO samADO SapaTe citragarvO tu vismayO ..
 vyavAyo'ntarDiratayorupAyaH syAdupAgatO .
 sAmAdAvaTa saMstyAyaH saMniveSe gfhe gaRe ..
 udayaH pUrvaSEle syAdunnatAvudgatAvapi .
-atyayo maraRe doze kfcCre'tikramadaRqayo: ..
+atyayo maraRe doze kfcCre'tikramadaRqayoH ..
 nikAyo nilaye lakzye samudAye saDarmaRAm .
 ;l{1830}
 asaMhatAnAmekatrakaraRe paramAtmani ..
@@ -2736,7 +2736,7 @@ karAlo danture tuNge BIzaRe cATa saMkulam .
 parasparAhatavacasyAkIrRe'pyAkule'pi ca ..
 peSalO cArucaturO pUrRaSrezWO tu puzkalO .
 uttAlAvutkawaSrezWAvABIlO kfcCraBIzaRO ..
-aKilO garhyani:SezO bahulO sAndrapuzkalO .
+aKilO garhyaniHSezO bahulO sAndrapuzkalO .
 ;c{.. iti lAntAH ..}
 ;v{vAntAH}
 ;l{2035}
@@ -3098,14 +3098,14 @@ vahniBAnU citraBAnU vahnIndvarkA virocanAH .
 ;l{2285}
 puRyajanaH sujane syAdrakzasi yakze'Ta garjite meGe ..
 stanayitnuranUcAnaH suvinIte sANgavedajYe .
-guYjAyUTyO SiKaRqinyO sOdAminyapsara:svapi ..
+guYjAyUTyO SiKaRqinyO sOdAminyapsaraHsvapi ..
 AtaYcanaM pratIvApajIvanApyAyanArTakam .
 sADane tozaRe prAptAvArADanamaTAMSuke ..
 ;l{2290}
 piDAne'pyAcCAdanaM syAtkAryahetvoH prayojanam .
 AskandanaM tiraskAre gatiSozaRayoryuDi ..
 pratimAnaM praticCAyAgajadantAntarAlayoH .
-ADizWAnaM pU:praBAvacakrezvaDyAsane'pi ca ..
+ADizWAnaM pUHpraBAvacakrezvaDyAsane'pi ca ..
 janmotplutyorutpatanamaTABivyAptimUrCayoH .
 ;l{2295}
 saMmUrCanaM samutTAnamudyame roganirRaye ..
@@ -3202,7 +3202,7 @@ vizRusarpO cakraDarO stanameGO payoDarO ..
 yamaBUpO daRqaDarO vItihotrAvinAnalO .
 kUrmeSAbDI akUpArO lakzmIputrO hayasmarO ..
 ;l{2360}
-dvAradvA:sTO pratIhArO kAmapaNkO nizadvarO .
+dvAradvAHsTO pratIhArO kAmapaNkO nizadvarO .
 avatArastu tIrTe'pi Danvantaririne'pi ca ..
 Kaqge'pi karavIraH syAdupahAro'pyupAyane .
 garale'pi brahmaputro'laMkAro'pyupamAdizu ..
@@ -3229,7 +3229,7 @@ saMtAne paripAwyAM ca raho'ntikamupahvaram ..
 ;l{2380}
 aruzkaro nA BallAte vraRakAriRi vAcyavat .
 puRqrekzO nA trizu mfdO sukumAro niSAcaraH ..
-PerUlUkAhirakza:su puMsyasatyAM niSAcarI .
+PerUlUkAhirakzaHsu puMsyasatyAM niSAcarI .
 mahAvIro yajYapAtre vajre Svetahaye harO ..
 siMhe'gnO garuqe puMsi trizu pravaraSUrayoH .
 ;l{2385}
@@ -3628,7 +3628,7 @@ kimutAtiSayapraSnavikalpezvaTa sAMpratam .
 yuktArTe cADunArTe cApyantato'vayavAntayoH ..
 agrataH purataSceti dvAvetO praTamAgrayoH .
 ;l{2630}
-sAkalyaSIGroBayata:sAmIpyABimuKe'BitaH ..
+sAkalyaSIGroBayataHsAmIpyABimuKe'BitaH ..
 sapadi kziprasadyorTa idAnIM vAkyaBUzaRe .
 saMpratyarTe ca samayASabdastvantikamaDyayoH ..
 prAtaH pUrve'hni pUrvedyurantarAntikamaDyayoH .
