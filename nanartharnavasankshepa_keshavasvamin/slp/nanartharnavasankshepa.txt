@@ -1,5 +1,5 @@
 ;METADATA
-;title{nAnArTArRavaMkzepa}
+;title{nAnArTArRavasaMkzepa}
 ;author{keSavasvAmin}
 ;bookFullName{nAnArTArRavasaMkzepaH keSavasvApraRItaH}
 ;bookSeriesDetails{}
@@ -1518,7 +1518,7 @@ kuqastu nA vESravaRe klI Gawe lANgale'pi ca .
 manuzyajAtiBede tu palinIsaMjYayoziti .. 224 ..
 SUdrAjjAte SiSO ca syAt kuqI kuqa iti dvayoH .
 kulI tu badarIkaRwakAryorjyezWasvasaryapi .. 225 ..
-BAryAyAM strI napi tve( na?ta )dfzIRAM jalatarpaRe .
+BAryAyAM strI napi tve(na?ta)dfzIRAM jalatarpaRe .
 kulaM vaMSe sajAtIyagaRe ca syAnniketane .. 226 ..
 taTA janapade dve tu mArjAre'Ta kuTA trayI .
 mataNgajaparistome nA tu darBe kuSaH punaH .. 227 ..
@@ -1541,7 +1541,7 @@ rudite klI tri tu kruzwikriyAyAH karmatAM gate .
 kuRqaM napuMsakaM sTAlyAM kAYjike vahnigartake .. 235 ..
 jalASayaviSeze ca devatAderaTo punaH .
 sajjanaH prAha kumBe'pi kuRqI tu strI kamaRqalO .. 236 ..
-kuRqA tu jAte jArAt tu pativatIsute dvayoH .
+kuRqA tu jAte jArAt tu pativatnIsute dvayoH .
 avivAhyAsu jAte ca kulyA tu sariti striyAm .. 237 ..
 nIrapraRAlikAyAM ca kftrimAlpasarityapi .
 kulastriyAM kaRwakAryAmasTni tu klI pumAMstu saH .. 238 ..
@@ -1549,14 +1549,14 @@ rasaBede kawoScApi kazAyasya ca miSraRAt .
 jAte tadvati tu tri syAt kulIne'pi nfBUmni tu .. 239 ..
 nIvfdBede dAkziRAtye maDyadeSasTite'pi ca .
 udagdeSasTite cATa kutsA strI nindane'Ta nA .. 240 ..
-aratnyAKyapramARe syAda vajre'pyfpyantare'pyaTa .
+aratnyAKyapramARe syAd vajre'pyfzyantare'pyaTa .
 tadapatyezu bahuzu gotrAKyezu dvayoraTa .. 241 ..
 kzudro daridre kfpaRe nfSaMse'lpanikfzwayoH .
 tri kzudrA strI kaRwakArIveSyAvyaNgAnawIzu ca .. 242 ..
-saraGIyAM ca nA tveza utsave'Ta kzuRaH pumAn .
+saraGAyAM ca nA tveza utsave'Ta kzuRaH pumAn .
 kzome kroDe ruji tristu syAdunmatte'Ta kundavAk .. 243 ..
 SastramArjakayantre nA BramAKye pAdapAntare .
-Sukla?zpAhvaye tasya punarnap PalapuzpayoH .. 244 ..
+SuklapuzpAhvaye tasya punarnap PalapuzpayoH .. 244 ..
 kuntirnA nfpaBede tannIvfdBede tu BUmni ca .
 rAjYastasya stryapatye strI kuntI kuntistu kEScana .. 245 ..
 ;p{0064}
@@ -1600,9 +1600,9 @@ kAlavarRe'pyaTo nElyayukte cakitacetasi .. 263 ..
 vAcyaliNgo dvayostu syAt sarpe SUdre mfgAntare .
 kAkakokilayorAKujAtiBede'pyaTa striyAm .. 264 ..
 drOpadyAmaTa pippalyAM rAjikAsaMjYasarpape .
-jalUkAjAtiBedezu dvAdaSasvapi paw smftAH .. 265 ..
+jalUkAjAtiBedezu dvAdaSasvapi zaw smftAH .. 265 ..
 savizAstezu cEkasmin drAkzAtivizayorapi .
-hiraRyAdyAstu yAH proktAH rApta jihvAH SivAgame .. 266 ..
+hiraRyAdyAstu yAH proktAH sapta jihvAH SivAgame .. 266 ..
 agnestAsvapi cEkasyAM yA dakziRadiSi sTitA .
 kftaM tu nirmite tri syAd BaktAya sTitakiNkare .. 267 ..
 klIbaM tvAdiyuge'nnAdipakvahavye'kzadevinAm .
@@ -1613,7 +1613,7 @@ ityeka AhuH paryApte kriyAyAM kftyavAk punaH .. 269 ..
 triH krudDalubDaBItAvamAnitezvapare punaH .
 vidvizwe'nye tu saMrabDe kartavyavraScitavyayoH .. 270 ..
 kartanIye kftikftakftyasADAvamuM punaH .
-ajayo vidvizi prAha nab‌liNgaM tu prayojane .. 271 ..
+ajayo vidvizi prAha nabliNgaM tu prayojane .. 271 ..
 strI tu kftyA kriyAyAM syAd vEjayantyAM tu dEvate .
 aBicArotTite strI ca nap‌ cetyaTa kfSaDvaniH .. 272 ..
 tanuni triH pumAn ketugrahezu tri tu kfzwavAk .
@@ -1646,10 +1646,10 @@ DanOGe vezwakadravye pustakAsipiDAnayoH .. 285 ..
 SAstre prajanane peSyAM vfzaRe'pi ca kecana .
 kfmiBedasya nIqe ce kOSeyaprakftO taTA .. 286 ..
 kftAkfte hemarUpye suzire sajjanastvamum .
-ranDre cAraNga(?)ityAha strI tu koSI vivakzite .. 287 ..
+ranDre cAraNga(?) ityAha strI tu koSI vivakzite .. 287 ..
 tanutve na pumAMstveza meGe kolaM punarnapi .
 vyoze'rDakarze takkole SuRWyAM ca badarIPale .. 288 ..
-striyAM tu kolA pippalyAM (SA?Sa)stre ca vyAKyaBezaje .
+striyAM tu kolA pippalyAM (SA?Sa)stre cavyAKyaBezaje .
 nA tu BelakasaMjYe syAt plave sOrO dvayoH punaH .. 289 ..
 varAhe mUzike tristu KaYje kozWastu na striyAm .
 kusUle'ntargfhe cAntaHkukzO svIye'pyaDIyate .. 290 ..
@@ -1662,7 +1662,7 @@ awwe nfSaRqayoH SaRqe tvanye vastrAntare'bruvan .
 kzoByaM vaNgAKyalohe klI kzoBaRIye tu Bedyavat .. 293 ..
 kroqaM klI karzamAne syAdutsaNge dve tu sUkare .
 kroqA na nA syAdurasi syAt tu puMsi SanEScare .. 294 ..
-yojanaMsya tu turyAMSe kroSo nA kroSane'Ta nap‌ .
+yojanasya tu turyAMSe kroSo nA kroSane'Ta nap‌ .
 sAmAntarezu krozwA tu dve sfgAle'Ta sA striyAm .. 295 ..
 krozwrI SuklavidAryAM syAt krOYcastu kruNKage dvayoH .
 dvIpaBede tftIye'sya jambudvIpasya puMsyayam .. 296 ..
@@ -1708,7 +1708,7 @@ Ganadrave dravyaBede jalapakve pare punaH .. 315 ..
 piRyAke KaruSabdastu gItaBede smare hare .
 darpe ca nA dve puruze kaScid dfpte tu sa trizu .. 316 ..
 ;p{0070}
-KaNgI KaNgavati tri syAd gaRqakAKyamfge dvayoH .
+KaqgI Kaqgavati tri syAd gaRqakAKyamfge dvayoH .
 KaRqI KaRqavati triH syAd vanamudge tu puMsyayam .. 317 ..
 KAtaM klI puzkariRyAM syAt Kanane cATa tat trizu .
 KananakriyayA prApte KyAtiH kIrtiDiyoH striyAm .. 318 ..
@@ -1733,9 +1733,9 @@ bAlAyA BUzaRe'Svasya grIvAyA BUzaRe'pi ca .. 327 ..
 jyotiHSAstrezu ye yogAH saptaviMSatirIritAH .
 vizkamBaH prItirityAdyAstezAmanyatame'pyasO .. 328 ..
 ;p{0071}
-catuzwaye kapardAnAM dve tu KaNgAhvaye mfge .
+catuzwaye kapardAnAM dve tu KaqgAhvaye mfge .
 ajayasya tvidaM granTe dfSyate sADvasADu vA .. 329 ..
-gaRqako ruji vidyAyAM KaNge padacatuzwaye .
+gaRqako ruji vidyAyAM Kaqge padacatuzwaye .
 gaYjA tu strI surAgeha Akare'nyastvavocata .. 330 ..
 koSe'pi syAt tu puMsyeza BARqAgAre'Ta garjavAk .
 dve gaje garjane tvaklI garjA nA tu gado ruji .. 331 ..
@@ -1792,7 +1792,7 @@ gahvare parvatasyApi skande tu sa pumAn guhaH .. 355 ..
 SfNgiberapurasTAnanizAdADipatAvaTa .
 guhyaM SiSne Bage klI tri gopanIye rahasyapi .. 356 ..
 gundrA PalinyAM strI Badramustake kzudravAnyake .
-gavIyusaMjYe nA tveza stambaBede SarAhvaye .. 357 ..
+gavITusaMjYe nA tveza stambaBede SarAhvaye .. 357 ..
 gururbfhaspatO budDamunO pitrAdike taTA .
 purohite ca goDUme'pyupanItyAdikAriRi .. 358 ..
 strI tu mAtfpraBftizu gurvI daDni tu tannapi .
@@ -1857,7 +1857,7 @@ nAsAyAM syAd trirAGrAte GrAtO tu napi nA punaH .
 GAsiryudDe hutASe ca gartAgnAviti kecana .. 387 ..
 ;p{0076}
 tri tu bahvASini GftaM tvAjye toye ca nap‌ pare .
-puMsyapyAhurGfRistu syAnA striyAmapi kecana .. 388 ..
+puMsyapyAhurGfRistu syAnnA striyAmapi kecana .. 388 ..
 raSmO jvAle nidAGe'hni vIcyAM GoRA tu sA striyAm .
 nAsikAyAM hayaproTe jalasyopari gatvare .. 389 ..
 kumBIramakzikAsaMjYe kzudrajantAvaTo nari .
@@ -1873,7 +1873,7 @@ kampillAKyadrume barhimecake'pyajayo'bravIt .. 394 ..
 sundare tu trizu jYeyaM klI tvAraRyakasAmani .
 atra hetyfksamudBUte kumude rajate'pyaTa .. 395 ..
 nfSaRqaH kanake strI tu candrArGyAyAmaTa striyAm .
-pUzRo raSmisahasratya SatAni trIRi raSmayaH .. 396 ..
+pUzRo raSmisahasrasya SatAni trIRi raSmayaH .. 396 ..
 himotsargAya kaTitAstezu cakraM tu napyadaH .
 puMsyapyeke raTANge ca saMsAre sEnyarAzwrayoH .. 397 ..
 jalAvarte caye vftte maRqale DanalohayoH .
@@ -1892,7 +1892,7 @@ campA strI nagarIBede vfkzaBede tu puMsyayam .. 403 ..
 cako nA sarpasatrasya sarpaBede'pi yazwari .
 vyaTane cikkaRe tu syAt klIbaM pUgataroH Pale .. 404 ..
 caraM carAcare trirnA cAre strI yuvatO carI .
-calaM calAcale trirnA turupka iti viSrute .. 405 ..
+calaM calAcale trirnA turuzka iti viSrute .. 405 ..
 niryAsaBede vAyO ca puMScalyAM tu calA striyAm .
 vidyutyaTa carirvAyO caratO nA paSO dvayoH .. 406 ..
 caraRAKyakriyAyAM strI yavase'pyaTa cAwuni .
@@ -1940,7 +1940,7 @@ sitakroqaH sa cInaH syAdityekaH proktalakzaRaH .. 426 ..
 anyaH kapotavarRo yastriMSadaNgulamAnakaH .
 ityaNkito'Ta madanaPale klIbamayasyapi .. 427 ..
 cIraM klIcCidravastre ca valkale ca striyAM tvasO .
-JillikAsaMjYakIwe syAcIrI cukrastu nA rase .. 428 ..
+JillikAsaMjYakIwe syAccIrI cukrastu nA rase .. 428 ..
 amlAKye bIjapUre'mlavetase ca nimantraRe .
 guYjikAyAM dvayostu syAt sundare'Ta napuMsakam .. 429 ..
 yanmastvAdiSucO BARqe sakzOdraguqakAYjike .
@@ -1963,7 +1963,7 @@ pAriSezyAd yaTAyogaM vijYeyo napi puMsi vA .. 437 ..
 cEtyaM citANge budDARqe yAjYikAjyADivAsane .
 devAlaye ca klIbaM syAduddeSadrO tu kecana .. 438 ..
 puMsyapyAhuraTo cEdyAScedinIvfti kecana .
-puBUmnItyAhureza dve cedirAjasya putrayoH .. 439 ..
+puMBUmnItyAhureza dve cedirAjasya putrayoH .. 439 ..
 colastu puMsi kUrpAse karamardAKyapAdape .
 tatPale klI dAkziRAtye nIvfdBede nfBUmani .. 440 ..
 tadrAje nAsya santAne dvayorjAnapadezu ca .
@@ -2075,7 +2075,7 @@ SukramAse tri tu jyezWasambanDinyaTa jEtravAk .. 491 ..
 ;p{0085}
 klI dyUte jayane'Ta trirjayaSIle striyAM punaH .
 jEtryAsPotAKyavallyAM syAd vizRukrAntAnyanAmani .. 492 ..
-jyotirAtmani surye'gnO havirhomArcidIptizu .
+jyotirAtmani sUrye'gnO havirhomArcidIptizu .
 grahanakzatratArAsu nakzatre'pi viSezataH .. 493 ..
 vilocane Dane putre sAmaBedezu kezucit .
 jyotizwomAKyayajYe ca klIbaM dIptO tu vA striyAm .. 494 ..
@@ -2102,7 +2102,7 @@ prAhurjalASayaprAnte tIre tvanye'drisAnuni .
 taNkaH samBAvanAyAM ca Baye'pyastrI tataM punaH .. 504 ..
 vIRAdivAdye klI nA tu pitari tri tu vistfte .
 vyApte trayaM tu tritaye tristrivedyAM trayI striyAm .. 505 ..
-nap‌strI trayARAM vfnde syAt trasaM tu trizu jaNgame .
+napstrI trayARAM vfnde syAt trasaM tu trizu jaNgame .
 trasI tu strI trAsaBede yasmin sati diSAM BramaH .. 506 ..
 gantuM vivekaSUnyatvAdityevaM kaScidabravIt .
 tryaSrA striyAM trivftsaMjYavallyAM tryaSrO tu sA trizu .. 507 ..
@@ -2118,7 +2118,7 @@ ekatra Bede BedAnAM maRqalyAhvayaBoginAm .
 grAhAKyayAdoBede ca sAmaBede punarnapi .. 512 ..
 sa(rvanni?rvAgni)cityAyAH pucCe pakzyAkArasya vastunaH .
 CurikAyAM ca KaqgAdimuzwO cApyastriyAmaTa .. 513 ..
-taptAM syAd BAskare puMsi BedyaliNgaM tu tApake .
+taptA syAd BAskare puMsi BedyaliNgaM tu tApake .
 tvazwA prajApatO vahnO devatakzaRi takzaRi .. 514 ..
 ;p{0087}
 vizRvagraje mADyamikadeve dinakare ca nA .
@@ -2128,10 +2128,10 @@ Ayogave ca vfttiScet takzaRaM tasya nA punaH .. 516 ..
 takzA dIpe jvare sUrya Atape klI tu putrayoH .
 tapastu napi kfcCrAdO DarmasantApayorapi .. 517 ..
 lagnAnnavamarASO ca prAhuH sAMvatsarA idam .
-SiSirartO tvaci prAha SASvataH punnazoH punaH .. 518 ..
+SiSirartO tvaci prAha SASvataH punnapoH punaH .. 518 ..
 mAGamAse tamastu klI pApe narakaSokayoH .
 guRatrayasyAnyatame sANKyAnAM prakftO bale .. 519 ..
-ajYAne jvalanti DvAnte rAtrO rAhO tu nA tamAH .
+ajYAne jvalati DvAnte rAtrO rAhO tu nA tamAH .
 tAlaH kAlakriyAmAne tfRarAjAKyapAdape .. 520 ..
 aNguzWamaDyamAmAne capewe trapuse'pi ca .
 izuBede ca nATa strI tAlI dfQadalAhvaye .. 521 ..
@@ -2152,11 +2152,11 @@ sOvarcalAKyalavaRe punaH klI dve turaNgame .
 tAntastu mAse nA tAntimati tu triH pumAn punaH .. 528 ..
 vistAre tAnaSabdo'Ta gItiDarme napuMsakam .
 tApastaptO pumAn strI tu tApI syAnnimnagAntare .. 529 ..
-tAqo nA tAqane tAqI sI tAlIsaMJapAdape .
+tAqo nA tAqane tAqI strI tAlIsaMjYapAdape .
 tArRaM BAratavarzasTadvIpaBede napuMsakam .. 530 ..
 tfRasambanDini triH syAt trAko Darme nfliNgakaH .
 tri syAcCaraRadeSIye tvAzwrastu kzapake pumAn .. 531 ..
-aratninAM ca yUpasya syAdaratnO caturdaSe .
+aratnInAM ca yUpasya syAdaratnO caturdaSe .
 tvAzwrI tu strI sUryapatnIBede tvazwuH punastrizu .. 532 ..
 sambanDimAtre yasyApi tvazwA syAd devatAtra ca .
 apatye tu dvayostvazwuraTa tApirnfliNgakaH .. 533 ..
@@ -2193,7 +2193,7 @@ tuNgastu puMsi punnAgadrume prAMSO tu sa trizu .
 striyAM tu tuNgA syAd vaMSarocanAsaMjYaBezaje .. 548 ..
 ajaganDAhvayastambe punastuNgI pumAn punaH .
 tugro yave varizWe tu trirannAkASayostu nap‌ .. 549 ..
-tutTaM rasAYjane klIbaM nIlIsaMJOzaDO tu sA .
+tutTaM rasAYjane klIbaM nIlIsaMjYOzaDO tu sA .
 sUkzmElAyAM ca tutTA strI raTacakrasya tu striyAm .. 550 ..
 ;p{0090}
 tumbA nABAvalAbvAM tu tumbI tumbaM tu tatPale .
@@ -2222,7 +2222,7 @@ dUrvAyavekzupraBftikzudrasTAvarajAtizu .
 nfSaRqayoraTa pumAMsteraH katakapAdape .. 562 ..
 ;p{0091}
 klI tu tasya Pale vaktre'pyaTa tElo nfSaRqayoH .
-tilasrehe tilasya triH sambanDinyaTa togmavAk .. 563 ..
+tilasnehe tilasya triH sambanDinyaTa togmavAk .. 563 ..
 haridyave nA haritavarRe cATa tri tadvati .
 klI tvaBre karRamUle'Ta toqaM saSiKamuRqane .. 564 ..
 klIbe'panayane puMsi daRqo'strI nigrahe maTi .
@@ -2244,7 +2244,7 @@ nA tri tvalpe ca kuSale dalBaM tu napi valkale .. 572 ..
 gotrakftyfziBede nA darvaSabdastu rAkzase .
 dvayordeSaviSeze tu puMBUmnyapyaTa dasmavAk .. 573 ..
 ;p{0092}
-puMsi vahO ca vajre ca tri tUpakzayakAriRi .
+puMsi vahnO ca vajre ca tri tUpakzayakAriRi .
 dravo narmaRi niryAse dravaRe ca palAyane .. 574 ..
 puMsi strI tu dravA nadyAM trirGanapratiyogini .
 daraH SaNKe Baye SvaBre CidramAtre tu sajjanaH .. 575 ..
@@ -2267,15 +2267,15 @@ tasyEva pumapatyezu BUmni deSasya BUpateH .. 583 ..
 daRqI puMsi yame dvAHsTe'pyaTa daRqavati trizu .
 dve Suke dve tu daMzwrI syAt sarpe grAhAKyayAdasi .. 584 ..
 varAhe mUzike vyAGre'pyaTa daMzwrAvati trizu .
-dAso Bftye dvayoH strI tu paqaSrAsaMjYavIruDi .. 585 ..
+dAso Bftye dvayoH strI tu zaqaSrAsaMjYavIruDi .. 585 ..
 ;p{0093}
 syAd dAsI nIlaJiRwyAmapyaTa dASo dvayorayam .
 BftyakEvartayostatra stryarTe dASyaTa nfstriyoH .. 586 ..
 dAne (dve ? ca) strI tu dASAtra daSAyogini tu trizu .
-dAnta(stu ? stri) damite dAntiyukte dAntavikArake .. 587 ..
+dAnta(stu ? stri)damite dAntiyukte dAntavikArake .. 587 ..
 stryarTe tu pUrvayordAntA vAcyayoruttame punaH .
 stryarTe dAntI damanake punardAntO ca tannapi .. 588 ..
-dAkzastrirdakzasambanDinyaDnyAyAM tu striyAmiyam .
+dAkzastrirdakzasambanDinyaGnyAyAM tu striyAmiyam .
 kapilAyAM Baved dAkzI dAyastu trizu dAtari .. 589 ..
 nA tu dAne viBaktavyapitrAdidraviRe taTA .
 ajayastvAha solluRWaBAzite rakzaRAdizu .. 590 ..
@@ -2322,7 +2322,7 @@ pumAMstu dyotatO nA tu dyuvArkasvargarAjasu .. 609 ..
 aBigantari tu triH syAdityeke dUtavAk punaH .
 dve sandeSahare Sukre tu nA dUtI tu sA striyAm .. 610 ..
 saYcArikAyAmityeke dUzyaM tu sTUlapUyayoH .
-klI (tu ? tri) dUzayitavye'Ta dfQaM klyayauSIrayoH .. 611 ..
+klI (tu ? tri) dUzayitavye'Ta dfQaM kalyayauSIrayoH .. 611 ..
 dfQA striyAmAmalakyAM tamAlakyAM taTOzaDO .
 tAlamUlIsamAKyAyAM tri tu sTUle'Dike BfSe .. 612 ..
 balavatyapyaTa SlezmasaMjYe carmavikArake .
@@ -2344,7 +2344,7 @@ SatrO ca dEtyaM tu klIbamuSIre nA viBItake .. 620 ..
 dve dEteye strI tu dEtyA murAsaMjYakaBezaje .
 dEzwaM klI yAjYikAnAM syAd prokzaRyAsAdane tri tu .. 621 ..
 ;p{0096}
-sambanDina syAd dizwasya dizweScATa viDO napi .
+sambanDini syAd dizwasya dizweScATa viDO napi .
 dEvaM trirdevasambanDe droRA strI caturAQake .. 622 ..
 dArupAtraviSeze'Ta kAkajAtyantare dvayoH .
 aSvatTAmnastu tAte nA SAkastambAntare taTA .. 623 ..
@@ -2433,7 +2433,7 @@ nfstriyoraTa nagnaH syAt puMsi vEtAlikAdizu .
 digambare tu triH SAstraproktAgnirahite taTA .. 663 ..
 naraH puMsyarjune vizRoravatArAntare naye .
 manuzyajAtO tu dve syAt stryarTe nArIti tatra ca .. 664 ..
-napuMsakaM tu salile naKare tu naKoM'striyAm .
+napuMsakaM tu salile naKare tu naKo'striyAm .
 klI tu SuktyAKyaBEzajye nakrastu grAhasaMjYake .. 665 ..
 dvayorjalacare prAha SAkawAyana ityamum .
 grAhAdanyatra kumBIre'marasiMhAdayo'ByaDuH .. 666 ..
@@ -2453,7 +2453,7 @@ nandI nandISvare mAze nAwyanAndyASca pAWake .. 672 ..
 nA nandinI tu strI gOryAM harItakyAM nanAndari .
 sUkzmElAyAmayoDyAyAM praSaste vAstuBUtale .. 673 ..
 naBaH (klIbABrayoH svarge? svargABrayoH klIbaM) sUrye vAriRi cATa tat .
-naBasI iti tu dyAvApfTivyorAstriyAM punaH .. 674 ..
+naBasI iti tu dyAvApfTivyorastriyAM punaH .. 674 ..
 SrAvaRe mAsi varzAsvapyajayastu paWatyamum .
 vfdDe'pi trizu tatra syAdaTa nAko nfliNgakaH .. 675 ..
 sUrye'ntarikze tu svarge'pyenaM kecinnfSaRqayoH .
@@ -4102,7 +4102,7 @@ siMhasya kesare na(p‌)strI martyajAtyantare punaH .. 1463 ..
 dve BawIvipraje'Ta syurnIvfdBede('Ta ? nf)BUmani .
 salvAH salvA punaH strItve kzattriyABeda IritA .. 1464 ..
 saNgo nA saNgame yudDe lavaRe tu napuMsakam .
-sEnDavAKye'Ta nap‌strItve sTalI sTalamiti dvayam .. 1465 ..
+sEnDavAKye'Ta napstrItve sTalI sTalamiti dvayam .. 1465 ..
 vidyAdunnataBUBAge wAbantA tu sTalA striyAm .
 kzetrAdinimnaBUmizWasalilasya nivAraRe .. 1466 ..
 kftrime mfnmaye sannaM tvanudAttaviSIrRayoH .
@@ -8533,7 +8533,7 @@ nIvfdBede hi yavanA huruzkarasamAKyake .. 1461 ..
 taddeSajAtamartye tu dvayoH sarvavacasyapi .
 klIbaM tu miSraRe'Ta syAd yajatraM klIbaliNgakam .. 1462 ..
 agnihotre ca yajYopakaraRe cATa Bedyavat .
-yajanIye'Ta nab‌liNgaM yamakaM kavayo viduH .. 1463 ..
+yajanIye'Ta nabliNgaM yamakaM kavayo viduH .. 1463 ..
 BinnArTavarRasaNGAtAvfttirUpe vyavasTite .
 kAvyAlaNkAraBede syAt tElasarpirdvaye'pi ca .. 1464 ..
 raBasastu vadatyetat saMyaMma yamale'pi ca .
@@ -8620,7 +8620,7 @@ strIliNgA nA tu banDUke vrUte mlAne tu kaScana .. 1503 ..
 rakzoGnastu pumAYCvetasarzape tri tu hantari .
 amanuzye rakzasaH syAd rasavat tvaBiDeyavat .. 1504 ..
 rasayukte rasavatI punaH strI syAnmahAnase .
-paYcarAtre tu nab‌liNgaM rAtrakaM raBaso'paWIt .. 1505 ..
+paYcarAtre tu nabliNgaM rAtrakaM raBaso'paWIt .. 1505 ..
 ;p{0179}
 sa evAha nfliNgaM taM veSyAveSmAbdavAsini .
 rAGavastu mahAmatsyaviSeze dve taTA raGoH .. 1506 ..
@@ -8641,7 +8641,7 @@ rAtrijAte rAmakastu martyajAtyantare dvayoH .. 1513 ..
 tri tu rantari nA tu syAd rAgavAn pUgapAdape .
 tri tu rAgayute nA tu rucako BUzaRAntare .. 1514 ..
 nizke tu raBasaH prAha mAtuluNgAKyaBUruhe .
-Pale tu tasya vijYeyaM nab‌liNgaM ruciraH punaH .. 1515 ..
+Pale tu tasya vijYeyaM nabliNgaM ruciraH punaH .. 1515 ..
 sundare BedyavacCandovfttaBede tu sA striyAm .
 rucirAtijagatyAM syAt tad‌vfttamaTa puMsyayam .. 1516 ..
 ruDiro'NgArake klI tu SoRite kuNkume'pi ca .
@@ -9663,7 +9663,7 @@ anA tu sevayatyarTe sevanA sevakaH punaH .. 2001 ..
 syUte prasevasaMjYe nA tri tu sevitari smftaH .
 senAnIstu pumAn skande tri tu senApatO smftaH .. 2002 ..
 svedanI tu striyAM kandusaMjYaBARqe napi tvadaH .
-svittO syAt KedanaM nap‌strI punaH syAt svedanA taTA .. 2003 ..
+svittO syAt KedanaM napstrI punaH syAt svedanA taTA .. 2003 ..
 arTe svedayaterastrI punaH syAllavaRottame .
 sEnDavaM puMsi tu prAhurDImantastajjayadraTe .. 2004 ..
 dve tvaSve'SvapraBede ca sinDudeSajamAnuze .
@@ -10389,7 +10389,7 @@ anukroSaH kfpAyAM nA syAdanukroSane'pi ca .
 klI tu sAmAntare'Ta syAdasTiKAdaH Suni dvayoH .. 26 ..
 ;p{0028}
 trizvasTnaH KAdake'sTnastu KAdane puMstriyoraTa .
-ahicCatraM tu nab‌liNgaM CatrAke syAnnfBUmni tu .. 27 ..
+ahicCatraM tu nabliNgaM CatrAke syAnnfBUmni tu .. 27 ..
 pratyagraDA iti KyAte KyAto janapadAntare .
 anirudDaH pumAn patyAvuzAyAmni tvavArite .. 28 ..
 arDahastastu nA paYcahastamAne nfnap‌ punaH .
@@ -10426,7 +10426,7 @@ nA tu rAjYAM rakzivarge gajaSikzAkrame'pi ca .. 43 ..
 aDikANgaM sArasanasaMjYe kavacaDAriBiH .
 maDyabadDe'Dike cANge klI tri tvanyapadArTakam .. 44 ..
 aNgArakastu nA BOme dvayostu vihagAntare .
-aSmantakaM tu nap‌strItve cullyAM vfkzAntare tu nA .. 45 ..
+aSmantakaM tu napstrItve cullyAM vfkzAntare tu nA .. 45 ..
 aNgulIyaM tUrmikAKye klIbagaNguliBUzaRe .
 syAdaNguliBave tu trirabrahmaRyaM tu napyadaH .. 46 ..
 nAwyAvadyoktizu tristu brahmaRyAdanyavastuni .
@@ -12096,7 +12096,7 @@ pumAMstu puruzaSrezWe pumAMstu pfTivIpatiH .. 70 ..
 yame BOme tri tu kzmApe tAlIsaMjYe tu pAdape .
 striyAM syAt PalapAkAntA tri tu vrIhiyavAdizu .. 71 ..
 mudgamAzatilAdyezu PalapAkavinASizu .
-aTa cApapraBede syAnnab‌liNgaM bimbisArakam .. 72 ..
+aTa cApapraBede syAnnabliNgaM bimbisArakam .. 72 ..
 bARaBede tu vijYeyo nA dvApaYcASadaNgule .
 nAwyoktO yuvarAje syAt pulli~Ngo BartfdArakaH .. 73 ..
 rAjaputryAM tu nAwyoktO strIliNgA BartfdArikA .
