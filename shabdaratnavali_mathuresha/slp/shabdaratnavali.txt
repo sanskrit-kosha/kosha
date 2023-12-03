@@ -3962,7 +3962,7 @@ mArzwirmAzwI mArjanA syAt mfjA mArjanamityapi ..
 ucCAdanodvartanaYca SarIrodvartane dvayam .
 aTa snAnaYcABizekaH BavedAplAvaH AplavaH ..
 sTAsakaH sTAzakaScarcA cArcikyaYca catuzwayam .
-vastrAdO kumkumAdInAM CawAdizu nigadyate ..
+vastrAdO kuNkumAdInAM CawAdizu nigadyate ..
 
 lalAwikA SaNKacarcI SaNKapAtrasTacandane .
 snAnAdO sOraBe vyakte tvanuroDaH pravoDanam ..
@@ -3971,7 +3971,7 @@ patraBaNgiH patraBaNgastaTA patrAvalItyapi ..
 tamAlapatraM citraM syAttilakaYca viSezakam .
 dvayamastrI citrakaYca tilake candanAdiBiH ..
 sAmAlaBanamucCittiraNgarAgaH kazAyakam .
-kumkumaM GusfRaM raktaM saNkocaM haricandanam ..
+kuNkumaM GusfRaM raktaM saNkocaM haricandanam ..
 piSunaM SiKaraM DIraM varaM lohitacandanam .
 kASmIrajanma kASmIraM KalamagniSiKaM rajam ..
 dIpakaM lohitaYcAgrasOraBaM cApi candanam .
@@ -6438,7 +6438,7 @@ pratibanDapratizwamBO samArTO samBrame tvarA .
 nipAtanaScAvanAyaH syAdaDonayane dvayam ..
 
 upalamBaScAnuBavaH pUrvajYAtArTavedane .
-kumkumAdilepanArTe samAlamBo vilepanam .
+kuNkumAdilepanArTe samAlamBo vilepanam .
 viprayogo vipralamBo vilamBastvatisarjanam ..
 viSrAvastu praviKyAtiratyantaKyAtizu dvayam .
 aTa pratijAgaraH syAdavekzA pratyavekzaRe ..
@@ -7270,7 +7270,7 @@ marIciH syAd dvayordIptO muniBede pumAnapi .
 mArIcaH kuzWite rakzoBede syAd yAjake'pi ca ..
 syAd vipaYcI tu vIRAyAM krIqAyAmapi kIrtitA .
 viriYciH syAd viriYco'pi Sive vizRO viDAtari ..
-SaNkociH mInaBede syAdvalke klIbaYca kumkume .
+SaNkociH mInaBede syAdvalke klIbaYca kuNkume .
 samyag manojYe SudDe tu saNgate cApyaliNgakam ..
 ;vv{ca catuH}
 
