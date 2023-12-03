@@ -66,7 +66,7 @@ tapasvI saMyamI yogI varRI sADuSca pAtu vaH .. 3 ..
 dIkzitaM mORqyaM SizyaM tamantevAsinaM viduH .
 #kftAnta,Agama,sidDAnta
 #granTa,SAstra
-kftAntAgamasidDAntAH granTaH SAsntramataH param .. 4 ..
+kftAntAgamasidDAntAH granTaH SAstramataH param .. 4 ..
 #BUmi,BU,pfTivI,pfTvI,gahvarI,medinI,mahI,DarA,vasumatI,DAtrI,kzamA,viSvamBarA,avani,vasuDA,DaraRI,kzoRI,kzmA,DaritrI,kziti,kumBinI,ilA,urvarA,urvI,jagatI,go,vasunDarA
 BUmirBUH pfTivI pfTvI gahvarI medinI mahI .
 DarA vasumatI DAtrI kzamA viSvamBarA'vaniH .. 5 ..
@@ -111,7 +111,7 @@ saraM vanaM kuSaM nIraM toyaM jIvanamabvizam .. 15 ..
 #vArcara,vAricara,kaYcara,payaScara,amBaScara,ambucara,pATaScara,arRaScara,salilacara,jalacara,saracara,vanacara,kuSacara,nIracara,toyacara,jIvanacara,apcara,vizacara,matsya
 #vArprada,vAriprada,kamprada,payaHprada,amBaHprada,ambuprada,pATaHprada,arRaHprada,salilaprada,jalaprada,saraprada,vanaprada,kuSaprada,nIraprada,toyaprada,jIvanaprada,apprada,vizaprada,Gana
 #vArudBava,vAryudBava,kodBava,payaudBa,amBaudBava,ambUdBava,pATaudBava,arRaudBava,salilodBava,jalodBava,saraudBava,vanodBava,kuSodBava,nIrodBava,toyodBava,jIvanodBava,abudBava,vizodBava,padma
-#vArDi,vAriDi,kaDi,payoDi,amBoDi,ambuDi,pAToDi,arRoDi,salilaDi,jalaDi,saraDi,vanaDi,kuSaDi,nIraDi,toyaDi,jIvanaDi,abDi,vizaDi,ambuDi
+#vArDi,vAriDi,kaDi,payoDi,amBoDi,ambuDi,pAToDi,arRoDi,salilaDi,jalaDi,saraDi,vanaDi,kuSaDi,nIraDi,toyaDi,jIvanaDi,abDi,vizaDi
 tatparyyAyacaro matsyastatparyyAyaprado GanaH .
 tatparyyAyodBavaM padmaM tatparyyAyaDirambuDiH .. 16 ..
 #pfTuroman,zaqakzIRa,yAdas,vEsAriRa,Jaza,visArin,SaParin,mIna,pAWIna,animiza,timi
@@ -132,7 +132,7 @@ nirGAtamaSanirvajramulkASabdaM ca yojayet .. 19 ..
 #parizajja,kardamaja,paNkaja,tAmarasa,kamala,nalina,saroja,sarasIruha,KaradaRqa,kokanada,paRqarIka,palotpala
 parizatkardamaH paNkaH tajjam tAmarasaM viduH .
 kamalaM nalinaM padam sarojaM sarasIruham .. 20 ..
-KaradaRqaM kokanadaM paRqarIkaM mahotpalam .
+KaradaRqaM kokanadaM puRqarIkaM mahotpalam .
 ;p{0011}
 #indIvara,aravinda,Satapatra,puzkara,utpala,kuvalaya
 #nIlAmbujanman,indIvara
@@ -162,13 +162,13 @@ pAlI velA tawocCvAsO viBramo'yamudanvataH .. 27 ..
 #manuzya,mAnuza,martya,manuja,mAnava,nara,nf,puMMs,puruza,goDA
 #manuzyaDava,mAnuzaDava,martyaDava,manujaDava,mAnavaDava,naraDava,nfDava,punDava,puruzaDava,goDADava,manuzyapati,mAnuzapati,martyapati,manujapati,mAnavapati,narapati,nfpati,puMMspati,puruzapati,goDApati,nfpa
 manuzyo mAnuzo martyo manujo mAnavo naraH .
-nA pumAn puruzo goDA DavaH syAttatpatinfrpaH .. 28 ..
+nA pumAn puruzo goDA DavaH syAttatpatirnfpaH .. 28 ..
 ;p{0014}
 #Bftya,Bftaka,patti,padAti,padaga,anuga,Bawa,anujIvya,anucara,SastrajIvin,kiNkara
 Bftyo'Ta BftakaH pattiH padAtiH padago'nugaH .
 Bawo'nujIvyanucaraH SastrajIvI ca kiNkaraH .. 29 ..
 #strI,nArI,vanitA,mugDA,BAminI,BIru,aNganA,lalanA,kAminI,yozit,yozA,sImantinI
-srI nArI vanitA mugDA BAminI BIruraNganA .
+strI nArI vanitA mugDA BAminI BIruraNganA .
 lalanA kAminI yozid yozA sImantinIti ca .. 30 ..
 ;p{0015}
 #nitambinI,abalA,bAlA,kAmukI,vAmalocanA,BAmA,tanUdarI,rAmA,sundarI,yuvatI,calA
@@ -190,7 +190,7 @@ banDakI kulawA muktA punarBUH puMScalI KalA .
 #sparSA,aBisArikA,dUtI,svEriRI,SamPalI
 sparSA'BisArikA dUtI svEriRI SamPalI taTA .. 35 ..
 #gaRikA,laYjikA,veSyA,rupAjIvA,vilAsinI,paRyastrI,dArikA,dAsI,kAmukI,sarvavallaBA
-gaRikA laYjikA veSyA rupAjIvA vilAsinI .
+gaRikA laYjikA veSyA rUpAjIvA vilAsinI .
 paRyastrI dArikA dAsI kAmukI sarvavallaBA .. 36 ..
 ;p{0018}
 #kAnta,izwa,dayita,prIta,priya,kAmin,kAmuka,vallaBa,asupati,preyas,viwa,ramaRa,vara
@@ -373,7 +373,7 @@ prasUnaM kusumaM jYeyam tadAdyastraSaraH smaraH .. 80 ..
 ;p{0041}
 #svAnta,Asvanita,citta,cetas,antaHkaraRa,manas,hfdaya,viSiKa,AkUta
 #svAntodBava,svAntaja,svAntasamBava,AsvanitodBava,Asvanitaja,AsvanitasamBava,cittodBava,cittaja,cittasamBava,cetaudBava,cetoja,cetaHsamBava,antaHkaraRodBava,antaHkaraRaja,antaHkaraRasamBava,manaudBava,manoja,manaHsamBava,hfdayodBava,hfdayaja,hfdayasamBava,viSiKodBava,viSiKaja,viSiKasamBava,AkUtodBava,AkUtaja,AkUtasamBava,mAra
-svAntamAsvanitaM citaM ceto'ntaHkaraRaM manaH .
+svAntamAsvanitaM cittaM ceto'ntaHkaraRaM manaH .
 hfdayaM viSiKA'kUtaM mArastatrodBavo mataH .. 81 ..
 #mOrvI,jIvA,guRa,gavyA,jyA
 #ali,BfNga,SilImuKa,Bramara,zawpada,dvirePa,maDuvrata
@@ -392,7 +392,7 @@ DvajaM patAkA ketuSca cihnaM tadvEjayantyapi .
 tattadanto JazAdyAdiH SamBorviGnakaraH smaraH .. 84 ..
 #kOkzeyaka,asi,nistriMSa,kfpARa,karavAla,taravAri,maRqalAgra,Kaqga
 kOkzeyakAsinistriMSakfpARAH karavAlakaH .
-taravArirmaRqalAgraM KaNganAmAvaliM viduH .. 85 ..
+taravArirmaRqalAgraM KaqganAmAvaliM viduH .. 85 ..
 #akzOhiRI,bala,anIka,vAhinI,sADana,camU,DvajinI,pftanA,senA,sEnya,daRqa,varUTinI
 akzOhiRI balAnIkaM vAhinI sADanaM camUH .
 DvajinI pftanA senA sEnyaM daRqo varUTinI .. 86 ..
@@ -458,7 +458,7 @@ SiroDaro galo grIvA kaRWaSca DamanI DamaH .. 100 ..
 dordozA ca Bujo bAhuH pARirhastaH karastaTA .
 #bAhuSiras,aMsa
 #hastaSAKA,karANguli
-prAhurbAhuSiroM'saSca hastaSAKA karANguliH .. 101 ..
+prAhurbAhuSiro'MsaSca hastaSAKA karANguliH .. 101 ..
 #nAsA,GrARa
 #uras,vakzas
 #kukzi,jaWara,udara
@@ -470,7 +470,7 @@ stanaH payoDarakucO vakzoja iti varRitaH .. 102 ..
 #jAnu,jahnu
 #calana,caraRa,pAda,krama,aMhri,pada
 kawirnitambaM SroRI ca jaGanaM jAnu jahnu ca .
-calanaM caraRaM pAdaM kramo'hriSca padaM viduH .. 103 ..
+calanaM caraRaM pAdaM kramo'MhriSca padaM viduH .. 103 ..
 ;p{0052}
 #Siras,mUrDan,uttamANga,ka
 #prAraBya,prerita,Irita
@@ -484,8 +484,8 @@ vAgvaco vacanaM vARI BAratI gIH sarasvatI .. 104 ..
 #bfMhita,gaja
 siMhadvipaGane garjaH hezA'Sve bfMhitaM gaje .
 #sPItkfta,DenukalaBaSabda
-#stamita,jaladaSabda
-sPItkftaM DenukalaBe stamitaM jalade taTA .. 105 ..
+#stanita,jaladaSabda
+sPItkftaM DenukalaBe stanitaM jalade taTA .. 105 ..
 ;p{0053}
 #syandanaSabda,cItkfta
 #mantra,huNkfta
@@ -493,14 +493,14 @@ sPItkftaM DenukalaBe stamitaM jalade taTA .. 105 ..
 syandane cItkftaM mantre Bawe ca huNkftaM taTA .
 #sItkfta,maRita,kAmaSabda
 #Kankfta,SfNKalAyuDaSabda
-sItkftaM maRitaM kAme KankftaM SrfNKalAyuDe .. 106 ..
+sItkftaM maRitaM kAme KankftaM SfNKalAyuDe .. 106 ..
 #maYjIraka,tulAkowi,nUpura
 #maYjIrakaSabda,tulAkowiSabda,nUpuraSabda,saMsfta
 maYjIrakaM tulAkowirnUpuraM tatra saMsftam .
 #JANkfta,marucCabda
 #kreNkfta,krOYcaSabda
 #kreNkfta,haMsaSabda
-JANkftaM cATa maruti kreNkftam krOYcahaMsayoH .. 107 ..
+JANkftaM cATa maruti kreNkftaM krOYcahaMsayoH .. 107 ..
 ;p{0054}
 #pratIta,saMstuta,labDa,dfzwa,paricita,smfta
 pratItaM saMstutaM labDaM dfzwaM paricitaM smftam .
@@ -533,7 +533,7 @@ vizwaraM mallikApIWamAsandImAsanaM viduH .
 vizwapaM BuvanaM loko jagat tasya patirjinaH .. 113 ..
 #varzIyas,vfzaBa,jyAyas,puru,Adya,prajApati,EkzvAka,kASyapa,brahman,gOtama,nAja,agraja
 varzIyAn vfzaBo jyAyAn pururAdyaH prajApatiH .
-EkzvAkuH (kaH) kASyapo brahmA gOtamo nABijo'grajaH .. 114 ..
+EkzvAkuH(kaH) kASyapo brahmA gOtamo nABijo'grajaH .. 114 ..
 ;p{0058}
 #sanmati,mahati,vIra,mahAvIra,antyakASyapa,nATAnvaya,varDamAna,sAmprata-tIrTa
 sanmatirmahatirvIro mahAvIro'ntyakASyapaH .
@@ -574,7 +574,7 @@ SuRqAsavaH tadviDAyI SORqo gadyeta madyapaH .. 121 ..
 sakto'kzadyUtapAnezu vicitrA SabdapadDatiH .
 #sarpis,hEyaNgavIna,Ajya
 #dugDa,kzIra,amfta,payas
-sarpirhEyaNgavInAjyaM dugDaM kzIrA'mftam payaH .. 122 ..
+sarpirhEyaNgavInAjyaM dugDaM kzIrA'mftaM payaH .. 122 ..
 ;p{0062}
 #udaSvit,maTita,takra,kAlaSeya
 udaSvinmaTitaM takraM kAlaSeyaM pibedguruH .
@@ -603,14 +603,14 @@ varawA vAralI haMsI koka IhAmfgo vfkaH .
 #hariRANka,mfgANka,pfzatANka,SarvarIka
 hariRo mfgaSca pfzataH tadaNkaH SarvarIkaraH .. 127 ..
 #pannaga,ahi,vizaDara,lelihAna,BujaNgama,nAga,uraga,PaRin,sarpa
-#pannagavErin,pannagArAti,pannagAmitra,pannagAri,pannagadviz,pannagasapatna,pannagadvizat,pannagaripu,pannagaBrAtfvya,pannagadurjana,pannagaSatru,pannagaduzwa,pannagadvezin,pannagaKala,pannagAhita,ahivErin,ahyArAti,ahyamitra,ahyari,ahidviz,ahisapatna,ahidvizat,ahiripu,ahiBrAtfvya,ahidurjana,ahiSatru,ahiduzwa,ahidvezin,ahiKala,ahyahita,vizaDaravErin,vizaDarArAti,vizaDarAmitra,vizaDarAri,vizaDaradviz,vizaDarasapatna,vizaDaradvizat,vizaDararipu,vizaDaraBrAtfvya,vizaDaradurjana,vizaDaraSatru,vizaDaraduzwa,vizaDaradvezin,vizaDaraKala,vizaDarAhita,lelihAnavErin,lelihAnArAti,lelihAnAmitra,lelihAnAri,lelihAnadviz,lelihAnasapatna,lelihAnadvizat,lelihAnaripu,lelihAnaBrAtfvya,lelihAnadurjana,lelihAnaSatru,lelihAnaduzwa,lelihAnadvezin,lelihAnaKala,lelihAnAhita,BujaNgamavErin,BujaNgamArAti,BujaNgamAmitra,BujaNgamAri,BujaNgamadviz,BujaNgamasapatna,BujaNgamadvizat,BujaNgamaripu,BujaNgamaBrAtfvya,BujaNgamadurjana,BujaNgamaSatru,BujaNgamaduzwa,BujaNgamadvezin,BujaNgamaKala,BujaNgamAhita,nAgavErin,nAgArAti,nAgAmitra,nAgAri,nAgadviz,nAgasapatna,nAgadvizat,nAgaripu,nAgaBrAtfvya,nAgadurjana,nAgaSatru,nAgaduzwa,nAgadvezin,nAgaKala,nAgAhita,uragavErin,uragArAti,uragAmitra,uragAri,uragadviz,uragasapatna,uragadvizat,uragaripu,uragaBrAtfvya,uragadurjana,uragaSatru,uragaduzwa,uragadvezin,uragaKala,uragAhita,PaRivErin,PaRyArAti,PaRyamitra,PaRyari,PaRidviz,PaRisapatna,PaRidvizat,PaRiripu,PaRiBrAtfvya,PaRidurjana,PaRiSatru,PaRiduzwa,PaRidvezin,PaRiKala,PaRyahita,sarpavErin,sarpArAti,sarpAmitra,sarpAri,sarpadviz,sarpasapatna,sarpadvizat,sarparipu,sarpaBrAtfvya,sarpadurjana,sarpaSatru,sarpaduzwa,sarpadvezin,sarpaKala,sarpAhita,vinatAtmaja,suparRa,garuqa,tArkzya,garutmat,SakunISvara,indrajit,mantrapUtAtman,vEnateya,vizASaya
+#pannagavErin,pannagArAti,pannagAmitra,pannagAri,pannagadviz,pannagasapatna,pannagadvizat,pannagaripu,pannagaBrAtfvya,pannagadurjana,pannagaSatru,pannagaduzwa,pannagadvezin,pannagaKala,pannagAhita,ahivErin,ahyArAti,ahyamitra,ahyari,ahidviz,ahisapatna,ahidvizat,ahiripu,ahiBrAtfvya,ahidurjana,ahiSatru,ahiduzwa,ahidvezin,ahiKala,ahyahita,vizaDaravErin,vizaDarArAti,vizaDarAmitra,vizaDarAri,vizaDaradviz,vizaDarasapatna,vizaDaradvizat,vizaDararipu,vizaDaraBrAtfvya,vizaDaradurjana,vizaDaraSatru,vizaDaraduzwa,vizaDaradvezin,vizaDaraKala,vizaDarAhita,lelihAnavErin,lelihAnArAti,lelihAnAmitra,lelihAnAri,lelihAnadviz,lelihAnasapatna,lelihAnadvizat,lelihAnaripu,lelihAnaBrAtfvya,lelihAnadurjana,lelihAnaSatru,lelihAnaduzwa,lelihAnadvezin,lelihAnaKala,lelihAnAhita,BujaNgamavErin,BujaNgamArAti,BujaNgamAmitra,BujaNgamAri,BujaNgamadviz,BujaNgamasapatna,BujaNgamadvizat,BujaNgamaripu,BujaNgamaBrAtfvya,BujaNgamadurjana,BujaNgamaSatru,BujaNgamaduzwa,BujaNgamadvezin,BujaNgamaKala,BujaNgamAhita,nAgavErin,nAgArAti,nAgAmitra,nAgAri,nAgadviz,nAgasapatna,nAgadvizat,nAgaripu,nAgaBrAtfvya,nAgadurjana,nAgaSatru,nAgaduzwa,nAgadvezin,nAgaKala,nAgAhita,uragavErin,uragArAti,uragAmitra,uragAri,uragadviz,uragasapatna,uragadvizat,uragaripu,uragaBrAtfvya,uragadurjana,uragaSatru,uragaduzwa,uragadvezin,uragaKala,uragAhita,PaRivErin,PaRyArAti,PaRyamitra,PaRyari,PaRidviz,PaRisapatna,PaRidvizat,PaRiripu,PaRiBrAtfvya,PaRidurjana,PaRiSatru,PaRiduzwa,PaRidvezin,PaRiKala,PaRyahita,sarpavErin,sarpArAti,sarpAmitra,sarpAri,sarpadviz,sarpasapatna,sarpadvizat,sarparipu,sarpaBrAtfvya,sarpadurjana,sarpaSatru,sarpaduzwa,sarpadvezin,sarpaKala,sarpAhita,vinatAtmaja,suparRa,garuqa,tArkzya,garutmat,SakunISvara,indrajit,mantrapUtAtman,vEnateya,vizakzaya
 pannago'hirvizaDaro lelihAno BujaNgamaH .
 nAgoragO PaRI sarpaH tadvErI vinatAtmajaH .. 128 ..
 ;p{0065}
 suparRo garuqastArkzyo garutmAn SakunISvaraH .
-indrajinmantrapUtAtmA vEnateyo vizASayaH .. 129 ..
+indrajinmantrapUtAtmA vEnateyo vizakzayaH .. 129 ..
 #Ka,indriya,hfzIka,Srotas,akza,karaRa
-KamindriyaM hfzIkaM ca Sro(sro॒to'kzaM karaRaM viduH .
+KamindriyaM hfzIkaM ca Sro(sro)to'kzaM karaRaM viduH .
 #puRya,BAgya,sukfta,BAgaDeya,satkfta
 puRyaM BAgyaM ca sukftaM BAgaDeyaM ca satkftam .. 130 ..
 ;p{0066}
@@ -640,7 +640,7 @@ vAtAyanaM matAlambamAlambyasuKamAsanam .. 135 ..
 samaH savarRaH sajYAtiH sadfkzaH sadfSaH sadfk .
 tulyaH saDarmarUpaSca tulA kakzopamA viDA .. 136 ..
 ;p{0068}
-#vitsama,vitsavarRa,vitsajYAti,vitsadfkza,vitsadfSa,vitsadfS,vittulya,vitsaDarma,vitsarUpa,vittulya,vitkakza,vidupama,vidviDa,mAnyasama,mAnyasavarRa,mAnyasajYAti,mAnyasadfkza,mAnyasadfSa,mAnyasadfS,mAnyatulya,mAnyasaDarma,mAnyasarUpa,mAnyatulya,mAnyakakza,mAnyopama,mAnyaviDa,vidyamAnasama,vidyamAnasavarRa,vidyamAnasajYAti,vidyamAnasadfkza,vidyamAnasadfSa,vidyamAnasadfS,vidyamAnatulya,vidyamAnasaDarma,vidyamAnasarUpa,vidyamAnatulya,vidyamAnakakza,vidyamAnopama,vidyamAnaviDa,gurusama,gurusavarRa,gurusajYAti,gurusadfkza,gurusadfSa,gurusadfS,gurutulya,gurusaDarma,gurusarUpa,gurutulya,gurukakza,gurUpama,guruviDa,sTAnasama,sTAnasavarRa,sTAnasajYAti,sTAnasadfkza,sTAnasadfSa,sTAnasadfS,sTAnatulya,sTAnasaDarma,sTAnasarUpa,sTAnatulya,sTAnakakza,sTAnopama,sTAnaviDa,ambujasama,ambujasavarRa,ambujasajYAti,ambujasadfkza,ambujasadfSa,ambujasadfS,ambujatulya,ambujasaDarma,ambujasarUpa,ambujatulya,ambujakakza,ambujopama,ambujaviDa,Ananasama,AnanasavarRa,AnanasajYAti,Ananasadfkza,AnanasadfSa,AnanasadfS,Ananatulya,AnanasaDarma,AnanasarUpa,Ananatulya,Ananakakza,Ananopama,AnanaviDa,siMhasama,siMhasavarRa,siMhasajYAti,siMhasadfkza,siMhasadfSa,siMhasadfS,siMhatulya,siMhasaDarma,siMhasarUpa,siMhatulya,siMhakakza,siMhopama,siMhaviDa
+#vitsama,vitsavarRa,vitsajYAti,vitsadfkza,vitsadfSa,vitsadfS,vittulya,vitsaDarma,vitsarUpa,vitkakza,vidupama,vidviDa,mAnyasama,mAnyasavarRa,mAnyasajYAti,mAnyasadfkza,mAnyasadfSa,mAnyasadfS,mAnyatulya,mAnyasaDarma,mAnyasarUpa,mAnyakakza,mAnyopama,mAnyaviDa,vidyamAnasama,vidyamAnasavarRa,vidyamAnasajYAti,vidyamAnasadfkza,vidyamAnasadfSa,vidyamAnasadfS,vidyamAnatulya,vidyamAnasaDarma,vidyamAnasarUpa,vidyamAnakakza,vidyamAnopama,vidyamAnaviDa,gurusama,gurusavarRa,gurusajYAti,gurusadfkza,gurusadfSa,gurusadfS,gurutulya,gurusaDarma,gurusarUpa,gurukakza,gurUpama,guruviDa,sTAnasama,sTAnasavarRa,sTAnasajYAti,sTAnasadfkza,sTAnasadfSa,sTAnasadfS,sTAnatulya,sTAnasaDarma,sTAnasarUpa,sTAnakakza,sTAnopama,sTAnaviDa,ambujasama,ambujasavarRa,ambujasajYAti,ambujasadfkza,ambujasadfSa,ambujasadfS,ambujatulya,ambujasaDarma,ambujasarUpa,ambujakakza,ambujopama,ambujaviDa,Ananasama,AnanasavarRa,AnanasajYAti,Ananasadfkza,AnanasadfSa,AnanasadfS,Ananatulya,AnanasaDarma,AnanasarUpa,Ananakakza,Ananopama,AnanaviDa,siMhasama,siMhasavarRa,siMhasajYAti,siMhasadfkza,siMhasadfSa,siMhasadfS,siMhatulya,siMhasaDarma,siMhasarUpa,siMhakakza,siMhopama,siMhaviDa
 vinmAnyo vidyamAnaSca gurusTAnAmbujAnanAH .
 siMhAdIni ca paryAyamupamAnezu yojayet .. 137 ..
 #vyapadeSa,niBa,vyAja,vyatikara,Cala,Cadman
@@ -681,7 +681,7 @@ SuklAvadAtaM DavalaM pARquH SuBraM SaSipraBam .. 147 ..
 ;p{0072}
 #kfzRa,nIla,asita,kAla
 #DUma,DUmra,alipraBa
-kfzRaM nIlAsitaM kAlaM GUmaM DUmramalipraBaH .
+kfzRaM nIlAsitaM kAlaM DUmaM DUmramalipraBaH .
 #tamas,anDakAra,timira,DvAnta,saMtamas,tama
 tamo'nDakAraM timiraM DvAntaM saMtamasaM tamam .. 148 ..
 #lohita,rakta,AtAmra,pAwala,viSada,aruRa
@@ -751,9 +751,9 @@ vartmA'DvA saraRiH panTA mArgaH pracarasaYcarO .
 #Goza,gomaRqala,vraja
 trimArganAmagA gaNgA Gozo gomaRqalaM vrajaH .. 162 ..
 #SfNga,dftihari,nATahari,tiryaYc,SfNgin
-SrfNgo dftiharirnATaharistiryakca SrfNgiRaH .
-;p{0079}
+SfNgo dftiharirnATaharistiryakca SfNgiRaH .
 #go,catuzpAd,paSu
+;p{0079}
 #mahizI,dehikA
 gOScatuzpAtpaSuH tatra mahizI nAma dehikA .. 163 ..
 #kftin,nadISRa,nizRAta,kuSalin,nipuRa,pawu,kzuRRa,pravIRa,pragalBa,kovida,viSArada
@@ -823,7 +823,7 @@ darSanIyaM manojYaM ca cittaparyAyahAri ca .. 178 ..
 #avaSyAya,tuzAra,prAleya,tuhina,hima,nIhAra
 #avaSyAyakara,tuzArakara,prAleyakara,tuhinakara,himakara,nIhArakara,mfgANka,rohiRIpati
 avaSyAyaM tuzAraM ca prAleyaM tuhinaM himam .
-nIhAraM tatkaraM vidDi mfgANkaM rohiRIpatiH .. 179 ..
+nIhAraM tatkaraM vidDi mfgANkaM rohiRIpatim .. 179 ..
 ;p{0086}
 #punnAga,sannara
 #tilaka,viSezaka,lalawikA,lalAmA,pUrRavAha,druma
