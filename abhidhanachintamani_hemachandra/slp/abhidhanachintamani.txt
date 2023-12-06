@@ -4762,7 +4762,7 @@ sarjamaRiH sarjaraso rAlaH sarvaraso'pi ca .. 647 ..
 <LEND>
 ;p{0028}
 <L>707<pc>28
-<eid>1966<syns>vfkaDUpa-puM,kftrimaDUpa-puM,turuzka-puMklI,sihla-puM,piRqaka-puM
+<eid>1966<syns>vfkzaDUpa-puM,kftrimaDUpa-puM,turuzka-puMklI,sihla-puM,piRqaka-puM
 DUpo vfkzAtkftrimAcca turuzkaH silhapiRqakO .
 <LEND>
 <L>708<pc>28
@@ -4973,7 +4973,7 @@ colaH kaYculikA kUrpAsako'NgikA ca kaYcuke .. 674 ..
 <LEND>
 <L>746<pc>28
 <eid>2044<syns>SAwI-strI,cowI-strI
-<eid>2045<syns>nISAra-puM
+<eid>2045<syns>nISAra-puM,himavAtApahAMSuka-klI
 SAwI cowyaTa nISAro himavAtApahAMSuke .
 <LEND>
 <L>747<pc>28
@@ -7925,7 +7925,7 @@ sarvaM ca tEjasaM lohaM vikArastvayasaH kuSI .
 <LEND>
 <L>1284<pc>40
 <eid>3172<syns>tAmra-klI,mlecCamuKa-klI,Sulba-klI,rakta-klI,dvyazwa-klI,udumbara-klI,mlecCa-klI,SAbara-klI,markawAsya-klI,kanIyasa-klI,brahmavarDana-klI,varizWa-klI
-<eid>3173<syns>sIsa-klI,sIsapatraka-klI,nAga-klI,gaRqUpadaBava-klI,vapra-klI,sindUrakAraRa-klI,varDra-puMklI,svarRAri-klI,yogezwa-klI,yavanezwa-klI,suvarRaka-klI
+<eid>3173<syns>sIsaka-klI,sIsapatraka-klI,nAga-klI,gaRqUpadaBava-klI,vapra-klI,sindUrakAraRa-klI,varDra-puMklI,svarRAri-klI,yogezwa-klI,yavanezwa-klI,suvarRaka-klI
 tAmraM mlecCamuKaM SulvaM raktaM dvyazwamudumbaram .. 1039 ..
 mlecCaSAbaraBedAKyaM markawAsyaM kanIyasam .
 brahmavarDanaM varizWaM sIsaM tu sIsapattrakam .. 1040 ..
