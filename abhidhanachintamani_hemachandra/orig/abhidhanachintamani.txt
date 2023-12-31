@@ -19,7 +19,7 @@
 ;projectWebPage{http://github.com/sanskrit-kosha/kosha}
 ;emailTo{drdhaval2785@gmail.com}
 ;description{}
-;shortCode{ABCP}
+;shortCode{ABCH}
 ;funding{Shree Ramkrishna Knowledge Foundation.}
 ;licence{GNU GPL v3.0}
 ;credits{1. SRKKF for funding. 2. Google OCR for providing us raw OCR data to work with. 3. Acharya Shri Kailasasagarasuri Gyanamandir (www.kobatirth.org) for providing us the scanned book to digitize. 4. Navya Sahiti Kasturi for spending her valuable time to do data entry of the work. 5. Dr. Dhaval Patel for spending time to proofread the data. 6. Gender information is provided from commentaries of Hemachandra and Devasagaragani.}
@@ -4265,7 +4265,7 @@
 <L>619<pc>25
 <eid>1781<syns>गन्धज्ञा-स्त्री,नासिका-स्त्री,नासा-स्त्री,घ्राण-क्ली,घोणा-स्त्री,विकूणिका-स्त्री,नक्र-क्ली,नर्कुटक-क्ली,शिङ्घिनी-स्त्री
 <eid>1782<syns>ओष्ठ-पुं,अधर-पुं,रदच्छद-पुं,दन्तवस्त्र-पुंक्ली
-<eid>1783<syns>सृक्कणी-स्त्री
+<eid>1783<syns>सृक्वणी-स्त्री
 <eid>1784<syns>असिक-क्ली
 गन्धज्ञा नासिका नासा घ्राणं घोणा विकूणिका ॥ ५८० ॥
 नक्रं नर्कुटकं शिङ्घिन्योष्ठोऽधरो रदच्छदः ।
@@ -4405,7 +4405,7 @@
 पाणिः प्रसृतः प्रसृतिस्तौ युतावञ्जलिः पुनः ।
 <LEND>
 <L>644<pc>26
-<eid>1836<syns>गण्डूष-पुंस्त्री,चुलुक-पुंस्त्री,चुलु-पुं
+<eid>1836<syns>गण्डूष-पुंस्त्री,चुलुक-पुंस्त्री,चलु-पुं
 प्रसृते तु जलाधारे गण्डूषश्चुलुकश्चलुः ॥ ५९८ ॥
 <LEND>
 <L>645<pc>26
@@ -4762,7 +4762,7 @@
 <LEND>
 ;p{0028}
 <L>707<pc>28
-<eid>1966<syns>वृक्षधूप-पुं,कृत्रिमधूप-पुं,तुरुष्क-पुंक्ली,सिह्ल-पुं,पिण्डक-पुं
+<eid>1966<syns>वृक्षधूप-पुं,कृत्रिमधूप-पुं,तुरुष्क-पुंक्ली,सिल्ह-पुं,पिण्डक-पुं
 धूपो वृक्षात्कृत्रिमाच्च तुरुष्कः सिल्हपिण्डकौ ।
 <LEND>
 <L>708<pc>28
@@ -5906,7 +5906,7 @@
 <LEND>
 <L>911<pc>32
 <eid>2408<syns>उरस्वत्-पुं,उरसिल-पुं
-<eid>2409<syns>ऊर्जस्विन्-पुं,ऊर्जस्वल-पुं
+<eid>2409<syns>उर्जस्विन्-पुं,उर्जस्वल-पुं
 स्यादुस्वानुरसिल उर्जस्व्युर्जस्वलौ समौ ॥ ७९२ ॥
 <LEND>
 <L>912<pc>32
@@ -6807,7 +6807,7 @@
 मद्यं मदिष्ठा मदिरा परिस्रुता कश्यं परिस्रुन्मधु कापिशायनम् ।
 गन्धोत्तमा कल्यमिरा परिप्लुता कादम्बरी स्वादुरसा हलिप्रिया ॥ ९०२ ॥
 शुण्डा हाला हारहूरं प्रसन्ना वारुणी सुरा ।
-मार्द्वीकं मदना देवसृष्टा कापिशमब्धिजा ॥ ९०३ ॥
+माध्वीकं मदना देवसृष्टा कापिशमब्धिजा ॥ ९०३ ॥
 <LEND>
 <L>1072<pc>36
 <eid>2762<syns>मध्वासव-पुं,माधवक-पुं

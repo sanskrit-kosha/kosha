@@ -19,7 +19,7 @@
 ;projectWebPage{http://github.com/sanskrit-kosha/kosha}
 ;emailTo{drdhaval2785@gmail.com}
 ;description{}
-;shortCode{ABCP}
+;shortCode{ABCH}
 ;funding{Shree Ramkrishna Knowledge Foundation.}
 ;licence{GNU GPL v3.0}
 ;credits{1. SRKKF for funding. 2. Google OCR for providing us raw OCR data to work with. 3. Acharya Shri Kailasasagarasuri Gyanamandir (www.kobatirth.org) for providing us the scanned book to digitize. 4. Navya Sahiti Kasturi for spending her valuable time to do data entry of the work. 5. Dr. Dhaval Patel for spending time to proofread the data. 6. Gender information is provided from commentaries of Hemachandra and Devasagaragani.}
@@ -4265,7 +4265,7 @@ kUrcaM kUrpaM BruvormaDye pakzma syAnnetraromaRi .
 <L>619<pc>25
 <eid>1781<syns>ganDajYA-strI,nAsikA-strI,nAsA-strI,GrARa-klI,GoRA-strI,vikURikA-strI,nakra-klI,narkuwaka-klI,SiNGinI-strI
 <eid>1782<syns>ozWa-puM,aDara-puM,radacCada-puM,dantavastra-puMklI
-<eid>1783<syns>sfkkaRI-strI
+<eid>1783<syns>sfkvaRI-strI
 <eid>1784<syns>asika-klI
 ganDajYA nAsikA nAsA GrARaM GoRA vikURikA .. 580 ..
 nakraM narkuwakaM SiNGinyozWo'Daro radacCadaH .
@@ -4405,7 +4405,7 @@ saMgrAhaScArDamuzwiH syAtKawakaH kubjitaH punaH .. 597 ..
 pARiH prasftaH prasftistO yutAvaYjaliH punaH .
 <LEND>
 <L>644<pc>26
-<eid>1836<syns>gaRqUza-puMstrI,culuka-puMstrI,culu-puM
+<eid>1836<syns>gaRqUza-puMstrI,culuka-puMstrI,calu-puM
 prasfte tu jalADAre gaRqUzaSculukaScaluH .. 598 ..
 <LEND>
 <L>645<pc>26
@@ -4762,7 +4762,7 @@ sarjamaRiH sarjaraso rAlaH sarvaraso'pi ca .. 647 ..
 <LEND>
 ;p{0028}
 <L>707<pc>28
-<eid>1966<syns>vfkzaDUpa-puM,kftrimaDUpa-puM,turuzka-puMklI,sihla-puM,piRqaka-puM
+<eid>1966<syns>vfkzaDUpa-puM,kftrimaDUpa-puM,turuzka-puMklI,silha-puM,piRqaka-puM
 DUpo vfkzAtkftrimAcca turuzkaH silhapiRqakO .
 <LEND>
 <L>708<pc>28
@@ -5906,7 +5906,7 @@ aByamitryo'ByamitrIyo'ByamitrIRo'Byari vrajan .
 <LEND>
 <L>911<pc>32
 <eid>2408<syns>urasvat-puM,urasila-puM
-<eid>2409<syns>Urjasvin-puM,Urjasvala-puM
+<eid>2409<syns>urjasvin-puM,urjasvala-puM
 syAdusvAnurasila urjasvyurjasvalO samO .. 792 ..
 <LEND>
 <L>912<pc>32
@@ -6807,7 +6807,7 @@ vArivAsaH pAnavaRigDvajo DvajyAsutIbalaH .. 901 ..
 madyaM madizWA madirA parisrutA kaSyaM parisrunmaDu kApiSAyanam .
 ganDottamA kalyamirA pariplutA kAdambarI svAdurasA halipriyA .. 902 ..
 SuRqA hAlA hArahUraM prasannA vAruRI surA .
-mArdvIkaM madanA devasfzwA kApiSamabDijA .. 903 ..
+mADvIkaM madanA devasfzwA kApiSamabDijA .. 903 ..
 <LEND>
 <L>1072<pc>36
 <eid>2762<syns>maDvAsava-puM,mADavaka-puM

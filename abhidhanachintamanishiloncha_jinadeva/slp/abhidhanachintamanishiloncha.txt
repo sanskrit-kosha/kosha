@@ -52,11 +52,11 @@
 ;c{.. SrIH ..}
 ;c{SrImajjinadevamunISvaraviracitaH aBiDAnacintAmaRiSiloYCaH .}
 ;k{devADidevakARqaH}
-arhaM bIjaM namaskftya gurURAmupadeSataH .
-SrIhEmanAmamAlAyAH SiloYCaH kriyate mayA .. 1 ..
 <L>1<pc>1
 <eid>1<syns>sarvIya-puM
 <eid>4<syns>samBava-puM
+arhaM bIjaM namaskftya gurURAmupadeSataH .
+SrIhEmanAmamAlAyAH SiloYCaH kriyate mayA .. 1 ..
 sarvIya ityapi jine SamBave samBavo'pi ca .
 <LEND>
 <L>2<pc>1
@@ -264,8 +264,8 @@ vivaDikavIvaDikAvapi vEvaDike praticaro'pi Bftye syAt .
 <LEND>
 <L>43<pc>2
 <eid>1166<syns>sammArjaka-puM,bahuDAnyArjaka-puM
-<LEND>
 sammArjako bahukare bahuDAnyArjaka iti prAhuH .. 24 ..
+<LEND>
 <L>44<pc>2
 <eid>1171<syns>vihaNgamA-strI
 <eid>1187<syns>OrDvadEhika-puM
@@ -833,7 +833,7 @@ upakAryopakaryA'pi prAsAde ca prasAdanaH .. 86 ..
 SAntIgfhaM SAntigfhe prANgaRaM tvaNgaRaM matam .
 <LEND>
 <L>153<pc>4
-<eid>3071<syns>kavAwa-tri
+<eid>3071<syns>kavAwa-puMklI
 <eid>3072<syns>KawakkikA-strI
 kapAwavatkavAwo'pi pakzadvAre KawakkikA .. 87 ..
 <LEND>
@@ -1307,10 +1307,10 @@ nirBare ca svatI hetO yena tena ca kIrtitO .
 <L>240<pc>5
 <eid>4573<syns>aho-a
 aho saMboDane'pIti zazWa kARqaH SiloYCitaH .. 138 ..
-<LEND>
 ;end{
 vEkrame'bde triviSvendramite rADAdyapakzatO .
 granTo'yaM dadfBe SrImajjinadevamunISvarEH .. 139 ..
 }
+<LEND>
 ;c{iti hEmanAmamAlAyAH SiloYCaH samarTitaH .}
 

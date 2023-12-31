@@ -25,7 +25,7 @@
 ;credits{1. SRKKF for funding. 2. Google OCR for providing us raw OCR data to work with. 3. www.archive.org for providing us the scanned book to digitize. 4. Dr. Dhaval Patel for spending time to digitize and proofread the data.}
 ;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
 ;editorialChanges{}
-;nymic{homo}
+;nymic{syno}
 ;pagenum{true}
 ;linenum{false}
 ;chapterArrangements{kanda holds varga.}
@@ -78,7 +78,7 @@
 <eid>5009<syns>वायु-पुं
 <eid>5010<syns>वैकुण्ठ-पुं
 <eid>5011<syns>सुशर्मन्-पुं
-<eid>5011<syns>साध्य-पुं
+<eid>5143<syns>साध्य-पुं
 द्वादशार्का वसवोऽष्टौ विश्वेदेवास्त्रयोदश ।
 षट्त्रिंशत्तुषिताश्चैव षष्टिराभास्वरा अपि ॥ ४ ॥
 षट्त्रिंशदधिके माहाराजिकाश्च शते उभे ।
@@ -457,8 +457,8 @@
 भक्तमण्डे तु प्रस्रावप्रस्रवाच्छोदनास्रवाः ॥ ९४ ॥
 <LEND>
 <L>46<pc>4
-<eid>1245<syns>
-<eid>1249<syns>
+<eid>1245<syns>पारिशाल-पुं
+<eid>1249<syns>दधिसक्तु-पुंब
 अपूपे पारिशालोऽथ करम्बो दधिसक्तुषु ।
 <LEND>
 <L>47<pc>4

@@ -25,7 +25,7 @@
 ;credits{1. SRKKF for funding. 2. Google OCR for providing us raw OCR data to work with. 3. www.archive.org for providing us the scanned book to digitize. 4. Dr. Dhaval Patel for spending time to digitize and proofread the data.}
 ;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
 ;editorialChanges{}
-;nymic{homo}
+;nymic{syno}
 ;pagenum{true}
 ;linenum{false}
 ;chapterArrangements{kanda holds varga.}
@@ -78,7 +78,7 @@ pUjitA martyamahitAH subAlA vAyuBAH surAH .. 3 ..
 <eid>5009<syns>vAyu-puM
 <eid>5010<syns>vEkuRWa-puM
 <eid>5011<syns>suSarman-puM
-<eid>5011<syns>sADya-puM
+<eid>5143<syns>sADya-puM
 dvAdaSArkA vasavo'zwO viSvedevAstrayodaSa .
 zawtriMSattuzitAScEva zazwirABAsvarA api .. 4 ..
 zawtriMSadaDike mAhArAjikASca Sate uBe .
@@ -457,8 +457,8 @@ aBizastirmArgaRA ca buBukzAyAM kzuDAkzuDO .
 BaktamaRqe tu prasrAvaprasravAcCodanAsravAH .. 94 ..
 <LEND>
 <L>46<pc>4
-<eid>1245<syns>
-<eid>1249<syns>
+<eid>1245<syns>pAriSAla-puM
+<eid>1249<syns>daDisaktu-puMba
 apUpe pAriSAlo'Ta karambo daDisaktuzu .
 <LEND>
 <L>47<pc>4
