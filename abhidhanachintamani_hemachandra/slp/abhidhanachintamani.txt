@@ -217,7 +217,7 @@ munisuvratanemI tu harivaMSasamudBavO .. 35 ..
 <eid>67<syns>meGa-puM
 <eid>68<syns>Dara-puM
 <eid>69<syns>pratizWa-puM
-<eid>70<syns>mahasenanareSvara-puM
+<eid>70<syns>mahAsenanareSvara-puM
 <eid>71<syns>sugrIva-puM
 <eid>72<syns>dfQaraTa-puM
 <eid>73<syns>vizRu-puM
@@ -238,7 +238,7 @@ nABiSca jitaSatruSca jitAriraTa saMvaraH .
 meGo DaraH pratizWaSca mahAsenanareSvaraH .. 36 ..
 sugrIvaSca dfQaraTo vizRuSca vasupUjyarAw .
 kftavarmA siMhaseno BAnuSca viSvasenarAw .. 37 ..
-sUraH sudarSanaH kumBaH sumittro vijayastaTA .
+sUraH sudarSanaH kumBaH sumitro vijayastaTA .
 samudravijayaScASvasenaH sidDArTa eva ca .. 38 ..
 <LEND>
 <L>11<pc>5
@@ -667,7 +667,7 @@ vfndArakAH sumanasastridaSA amartyAH svAhAsvaDAkratusuDABuja AditeyAH .. 88 ..
 gIrvARA maruto'svapnA vibuDA dAnavArayaH .
 <LEND>
 <L>43<pc>7
-<eid>343<syns>vimAna-puM,devayAna-klI
+<eid>343<syns>vimAna-puMklI,devayAna-klI
 <eid>344<syns>anDas-klI,pIyUza-klI,amfta-klI,suDA-strI
 tezAM yAnaM vimAno'nDaH pIyUzamamftaM suDA .. 89 ..
 <LEND>
@@ -693,7 +693,7 @@ udaDidvIpadiSo daSa BavanADISAH kumArAntAH .. 90 ..
 <eid>359<syns>yakza-puM
 <eid>360<syns>rAkzasa-puM
 <eid>361<syns>kinnara-puM
-<eid>362<syns>kiMpuruza-puM
+<eid>362<syns>kimpuruza-puM
 <eid>363<syns>mahoraga-puM
 <eid>364<syns>ganDarva-puM
 syuH piSAcA BUtA yakzA rAkzasAH kiMnarA api .
@@ -733,7 +733,7 @@ kalpAtItA nava grEveyakAH paYca tvanuttarAH .
 nikAyaBedAdevaM syurdevAH kila caturviDAH .. 94 ..
 <LEND>
 <L>48<pc>7
-<eid>388<syns>Aditya-puM,savitf-puM,aryaman-puM,KarAMSu-puM,sahasrAMSu-puM,uzRAMSu-puM,aMSu-puM,ravi-puM,mArtaRqa-puM,taraRi-puM,gaBasti-puM,aruRa-puM,BAnu-puM,naBomaRi-puM,aharmaRi-puM,sUrya-puM,arka-puM,kiraRa-puM,Baga-puM,grahapuza-puM,pUzan-puM,pataNga-puM,Kaga-puM,mArtARqa-puM,yamunAjanaka-puM,kftAntajanaka-puM,pradyotana-puM,tApana-puM,braDna-puM,haMsa-puM,citraBAnu-puM,vivasvat-puM,sUra-puM,tvazwf-puM,dvAdaSAtman-puM,heli-puM,mittra-puM,DvAntArAti-puM,abjahasta-puM,aMSuhasta-puM,cakrabAnDava-puM,abjabAnDava-puM,aharbAnDava-puM,saptasapti-puM,divAkara-puM,dinakara-puM,ahaskara-puM,divasakara-puM,praBAkara-puM,viBAkara-puM,BAskara-puM,mihira-puM,virocana-puM,grahapati-puM,abjinIpati-puM,gopati-puM,dyupati-puM,vikartana-puM,hari-puM,Suci-puM,ina-puM,gaganaDvaja-puM,gaganADvaga-puM,haridaSva-puM,jagatsAkzin-puM,karmasAkzin-puM,BAsvat-puM,viBAvasu-puM,trayItanu-puM,jagaccakzus-puM,tapana-puM,aruRasAraTi-puM
+<eid>388<syns>Aditya-puM,savitf-puM,aryaman-puM,KarAMSu-puM,sahasrAMSu-puM,uzRAMSu-puM,aMSu-puM,ravi-puM,mArtaRqa-puM,taraRi-puM,gaBasti-puM,aruRa-puM,BAnu-puM,naBomaRi-puM,aharmaRi-puM,sUrya-puM,arka-puM,kiraRa-puM,Baga-puM,grahapuza-puM,pUzan-puM,pataNga-puM,Kaga-puM,mArtARqa-puM,yamunAjanaka-puM,kftAntajanaka-puM,pradyotana-puM,tApana-puM,braDna-puM,haMsa-puM,citraBAnu-puM,vivasvat-puM,sUra-puM,tvazwf-puM,dvAdaSAtman-puM,heli-puM,mitra-puM,DvAntArAti-puM,abjahasta-puM,aMSuhasta-puM,cakrabAnDava-puM,abjabAnDava-puM,aharbAnDava-puM,saptasapti-puM,divAkara-puM,dinakara-puM,ahaskara-puM,divasakara-puM,praBAkara-puM,viBAkara-puM,BAskara-puM,mihira-puM,virocana-puM,grahapati-puM,abjinIpati-puM,gopati-puM,dyupati-puM,vikartana-puM,hari-puM,Suci-puM,ina-puM,gaganaDvaja-puM,gaganADvaga-puM,haridaSva-puM,jagatsAkzin-puM,karmasAkzin-puM,BAsvat-puM,viBAvasu-puM,trayItanu-puM,jagaccakzus-puM,tapana-puM,aruRasAraTi-puM
 AdityaH savitAryamA KarasahasrozRAMSuraMSU ravi-
 rmArtaRqastaraRirgaBastiraruRo BAnurnaBo'harmaRiH .
 sUryo'rkaH kiraRo Bago grahapuzaH pUzA pataNgaH Kago
@@ -760,7 +760,7 @@ prakASasteja udyota Aloko varca AtapaH .
 <L>51<pc>8
 <eid>391<syns>marIcikA-strI,mfgatfzRA-strI
 <eid>392<syns>maRqala-klI,upasUryaka-klI,pariDi-puM,pariveza-puM
-<eid>393<syns>sUrasuta-puM,kASyapi-puM,anUru-puM,vinatAsUnu-puM,aruRa-puM,garuqAgraja-puM
+<eid>393<syns>sUrasUta-puM,kASyapi-puM,anUru-puM,vinatAsUnu-puM,aruRa-puM,garuqAgraja-puM
 marIcikA mfgatfzRA maRqalaM tUpasUryakam .. 101 ..
 pariDiH parivezaSca sUrasUtastu kASyapiH .
 anUrurvinatAsUnuraruRo garuqAgrajaH .. 102 ..
@@ -770,8 +770,23 @@ anUrurvinatAsUnuraruRo garuqAgrajaH .. 102 ..
 revantastvarkaretojaH plavago hayavAhanaH .
 <LEND>
 <L>53<pc>8
-<eid>395<syns>savitf_pAripArSvaka-puM
+<eid>395<syns>sUryapAripArSvaka-puM
 <eid>396<syns>mAWara-puM
+<eid>396.01<syns>piNgala-puM
+<eid>396.02<syns>daRqa-puM
+<eid>396.03<syns>rAjan-puM
+<eid>396.04<syns>SroTa-puM
+<eid>396.05<syns>Kara-puM
+<eid>396.06<syns>dvArika-puM
+<eid>396.07<syns>kalmAza-puM
+<eid>396.08<syns>pakzin-puM
+<eid>396.09<syns>jAtfkAra-puM
+<eid>396.10<syns>kutApakO-puMdvi
+<eid>396.11<syns>piNga-puM
+<eid>396.12<syns>gaja-puM
+<eid>396.13<syns>daRqin-puM
+<eid>396.14<syns>puruza-puM
+<eid>396.15<syns>kiSorakO-puMdvi
 azwAdaSa mAWarAdyAH savituH paripArSvakAH .. 103 ..
 <LEND>
 <L>54<pc>8
@@ -785,7 +800,7 @@ rAjA niSo ratnakarO ca candraH somo'mftaSvetahimadyutirglOH .. 105 ..
 <eid>398<syns>kalA-strI
 <eid>399<syns>cihna-klI,lakzaRa-klI,lakzman-klI,lAYCana-klI,aNka-puM,kalaNka-puM,aBijYAna-klI
 <eid>400<syns>candrikA-strI,candragolikA-strI,candrAtapa-puM,kOmudI-strI,jyotsnA-strI
-<eid>401<syns>bimba-puMklI,maRqala-klI
+<eid>401<syns>bimba-puMklI,maRqala-tri
 zoqaSoM'SaH kalA cihnaM lakzaRaM lakzma lAYCanam .
 aNkaH kalaNko'BijYAnaM candrikA candragolikA .. 106 ..
 candrAtapaH kOmudI ca jyotsnA bimbaM tu maRqalam .
@@ -808,7 +823,7 @@ kfttikA bahulAScAgnidevA brAhmI tu rohiRI .
 mfgaSIrzaM mfgaSiro mArgaScAndramasaM mfgaH .. 109 ..
 <LEND>
 <L>59<pc>8
-<eid>408<syns>IlvalAH-strIba
+<eid>408<syns>ilvalAH-strIba
 ilvalAstu mfgaSiraHSirasTAH paYca tArakAH .
 <LEND>
 <L>60<pc>8
@@ -820,12 +835,12 @@ AdityO ca puzpastizyaH siDyaSca gurudEvataH .
 <LEND>
 <L>61<pc>8
 <eid>412<syns>sArpI-strI,aSlezA-puMstrI
-<eid>413<syns>maGAH-strI,pitryAH-strI
-<eid>414<syns>PAlgunI-strI,yonidevatA-strI
-sArpya'SlezA maGA pitryA PAlgunI yonidevatA .. 111 ..
+<eid>413<syns>maGAH-strIba,pitryAH-strIba
+<eid>414<syns>PalgunI-strI,yonidevatA-strI
+sArpya'SlezA maGA pitryA PalgunI yonidevatA .. 111 ..
 <LEND>
 <L>62<pc>8
-<eid>415<syns>uttaraPAlgunI-strI,aryamadevA-strI
+<eid>415<syns>uttaraPalgunI-strI,aryamadevA-strI
 <eid>416<syns>hasta-puM,savitfdevata-puM
 sA tUttarAryamadevA hastaH savitfdEvataH .
 <LEND>
@@ -864,8 +879,8 @@ pUrvottarA BAdrapadA dvayyaH prozWapadASca tAH .
 revatI tu pOzRaM dAkzAyaRyaH sarvAH SaSipriyAH .. 115 ..
 <LEND>
 <L>68<pc>9
-<eid>433<syns>lagna-klI,rASi_udaya-puM
-<eid>434<syns>rASi-strI
+<eid>433<syns>lagna-puMklI,rASyudaya-puM
+<eid>434<syns>rASi-puM
 <eid>435<syns>meza-puM
 <eid>436<syns>vfza-puM
 <eid>437<syns>miTuna-puM
@@ -896,7 +911,7 @@ gIrbfhatyoH patirutaTyAnujANgirasO guruH .
 <L>71<pc>9
 <eid>450<syns>Sukra-puM,maGABava-puM,kAvya-puM,uSanas-puM,BArgava-puM,kavi-puM,zoqaSArcis-puM,dEtyaguru-puM,DizRya-puM
 <eid>451<syns>SanEScara-puM,Sani-puM,CAyAsuta-puM,asita-puM,sOri-puM,saptArcis-puM,revatIBava-puM,manda-puM,kroqa-puM,nIlavAsas-puM
-<eid>452<syns>svarBARu-puM,viDuntuda-puM,tamas-puM,rAhu-puM,sEMhikeya-puM,BaraRIBU-puM
+<eid>452<syns>svarBARu-puM,viDuntuda-puM,tamas-puMklI,rAhu-puM,sEMhikeya-puM,BaraRIBU-puM
 Sukro maGABavaH kAvya uSanA BArgavaH kaviH .. 119 ..
 zoqaSArcirdEtyagururDizRyaH SanEScaraH SaniH .
 CAyAsuto'sitaH sOriH saptArcI revatIBavaH .. 120 ..
@@ -1000,14 +1015,14 @@ kalA tEH paYcadaSaBirleSastaddvitayena ca .. 136 ..
 <L>88<pc>9
 <eid>485<syns>kzaRa-puM
 <eid>486<syns>nAqikA-strI,DArikA-strI,GawikA-strI
-<eid>487<syns>muhUrta-puM
+<eid>487<syns>muhUrta-puMklI
 kzaRastEH paYcadaSaBiH kzaREH zaqBistu nAqikA .
 sA DArikA ca GawikA muhUrtastaddvayena ca .. 137 ..
 <LEND>
 <L>89<pc>9
 <eid>488<syns>ahorAtra-puMklI
-<eid>489<syns>ahan-klI,divasa-puM,dina-klI,diva-klI,dyu-puM,vAsara-puM,Gasra-puM
-<eid>490<syns>praBAta-klI,aharmuKa-klI,vyuzwa-klI,viBAta-klI,pratyUza-klI,kalya-klI,pratyuzas-klI,uzas-klI,kAlya-klI
+<eid>489<syns>ahan-klI,divasa-puM,dina-puMklI,diva-klI,dyu-puM,vAsara-puM,Gasra-puM
+<eid>490<syns>praBAta-klI,aharmuKa-klI,vyuzwa-klI,viBAta-klI,pratyUza-puMklI,kalya-klI,pratyuzas-klI,uzas-klI,kAlya-klI
 <eid>491<syns>maDyAhRa-puM,divAmaDya-klI,maDyandina-klI
 triMSatA tErahorAtrastatrAhardivaso dinam .
 divaM dyurvAsaro GasraH praBAtaM syAdaharmuKam .. 138 ..
@@ -1060,7 +1075,7 @@ uccandrastvapararAtrastamisraM timiraM tamaH .. 145 ..
 DvAntaM BUCAyAnDakAraM tamasaM samavAnDataH .
 <LEND>
 <L>98<pc>10
-<eid>507<syns>vizuvad-puMklI,vizuva-klI
+<eid>507<syns>vizuvat-puMklI,vizuva-klI
 tulyanaktaMdine kAle vizuvadvizuvaM ca tat .. 146 ..
 <LEND>
 <L>99<pc>10
@@ -1074,12 +1089,11 @@ paYcadaSAhorAtraH syAtpakzaH sa bahulo'sitaH .
 tiTiH punaH karmavAwI pratipatpakzatiH same .. 147 ..
 <LEND>
 <L>101<pc>10
-<eid>512<syns>paYcadaSI-strIdvi,yajYakAla-puMdvi,pakzAnta-puMdvi,parvan-puMdvi
+<eid>512<syns>paYcadaSyO-strIdvi,yajYakAlO-puMdvi,pakzAntO-puMdvi,parvaRI-puMdvi
 paYcadaSyO yajYakAlO pakzAntO parvaRI api .
 <LEND>
 <L>102<pc>10
 <eid>513<syns>parvamUla-klI
-<eid>514<syns>BUtezwA-strI,caturdaSI-strI
 tatparvamUlaM BUtezwApaYcadaSyoryadantaram .. 148 ..
 <LEND>
 <L>103<pc>10
@@ -1151,7 +1165,7 @@ vasanta izyaH suraBiH puzpakAlo balANgakaH .. 156 ..
 uzRa uzRAgamo grIzmo nidAGastapa UzmakaH .
 <LEND>
 <L>115<pc>10
-<eid>542<syns>varzAH-strIba,tapAtyaya-puM,prAvfw-strI,meGakAla-puM,meGAgama-puM,kzarin-puM
+<eid>542<syns>varzAH-strIba,tapAtyaya-puM,prAvfz-strI,meGakAla-puM,meGAgama-puM,kzarin-puM
 varzAstapAtyayaH prAvfRmeGakAlAgamO kzarI .. 157 ..
 <LEND>
 <L>116<pc>10
@@ -1164,7 +1178,7 @@ SaradGanAtyayo'yanaM SiSirAdyEstriBistriBiH .
 ayane dve gatirudagdakziRArkasya vatsaraH .. 158 ..
 <LEND>
 <L>118<pc>10
-<eid>546<syns>saMvatsara-puM,parivatsara-puM,anuvatsara-puM,udvatsara-puM,varza-klI,hAyana-puM,abda-klI,samAH-strIba,Sarat-strI
+<eid>546<syns>saMvatsara-puM,parivatsara-puM,anuvatsara-puM,udvatsara-puM,varza-puMklI,hAyana-puMklI,abda-puMklI,samAH-strIba,Sarat-strI
 sa saMparyanUdByo varzaM hAyano'bdaM samAH Sarat .
 <LEND>
 <L>119<pc>10
@@ -1198,7 +1212,7 @@ tatkAlastu tadAtvaM syAttajjaM sAMdfzwikaM Palam .
 AyatistUttaraH kAla udarkastadBavaM Palam .. 162 ..
 <LEND>
 <L>125<pc>10
-<eid>558<syns>vyoman-klI,antarikza-klI,gagana-klI,GanASraya-puM,vihAyas-puM,AkASa-puMklI,ananta-klI,puzkara-klI,aBra-klI,surapaTa-puM,aBrapaTa-puM,uqupaTa-puM,marutpaTa-puM,ambara-klI,Ka-klI,dyo-strI,div-strI,vizRupada-klI,viyat-klI,naBas-klI
+<eid>558<syns>vyoman-klI,antarikza-klI,gagana-klI,GanASraya-puM,vihAyas-puMklI,AkASa-puMklI,ananta-klI,puzkara-klI,aBra-klI,surapaTa-puM,aBrapaTa-puM,uqupaTa-puM,marutpaTa-puM,ambara-klI,Ka-klI,dyo-strI,div-strI,vizRupada-klI,viyat-klI,naBas-klI
 vyomAntarikzaM gaganaM GanASrayo vihAya AkASamanantapuzkare .
 aBraM surABroqumarutpaTo'mbaraM KaM dyodivO vizRupadaM viyannaBaH .. 163 ..
 <LEND>
@@ -1223,7 +1237,7 @@ AsAro vegavAnvarzo vAtAstaM vAriSIkaraH .. 165 ..
 vfzwyAM varzaRavarze tadviGne grAhagrahAvavAt .
 <LEND>
 <L>130<pc>10
-<eid>566<syns>Ganopala-puM,karaka-puM
+<eid>566<syns>Ganopala-puM,karaka-tri
 <eid>567<syns>kAzWA-strI,ASA-strI,diS-strI,harit-strI,kakuB-strI
 Ganopalastu karakaH kAzWASA digDaritkakup .. 166 ..
 <LEND>
@@ -1232,7 +1246,7 @@ Ganopalastu karakaH kAzWASA digDaritkakup .. 166 ..
 <eid>569<syns>dakziRA-strI,apAcI-strI
 <eid>570<syns>pratIcI-strI,paScimA-strI,aparA-strI
 <eid>571<syns>uttarA-strI,udIcI-strI
-<eid>572<syns>vidiS-strI,apadiS-strI,pradiS-strI
+<eid>572<syns>vidiS-strI,apadiSa-klIa,pradiS-strI
 pUrvA prAcI dakziRApAcI pratIcI tu paScimA .
 aparATottarodIcI vidikcopadiSaM pradik .. 167 ..
 <LEND>
@@ -1257,6 +1271,14 @@ prAkprAcInaM ca same pratyaktu syAtpratIcInam .. 168 ..
 <eid>583<syns>vAyavyA-strI,uttarapaScimA-strI
 <eid>584<syns>kOberI-strI,uttarA-strI
 <eid>585<syns>ESAnI-strI,uttarapUrvA-strI
+<eid>578.01<syns>indra-puM,pUrvadikpati-puM
+<eid>579.01<syns>agni-puM,dakziRapUrvadikpati-puM
+<eid>580.01<syns>yama-puM,dakziRadikpati-puM
+<eid>581.01<syns>nErfta-puM,dakziRapaScimadikpati-puM
+<eid>582.01<syns>varuRa-puM,paScimadikpati-puM
+<eid>583.01<syns>vAyu-puM,uttarapaScimadikpati-puM
+<eid>584.01<syns>kubera-puM,uttaradikpati-puM
+<eid>585.01<syns>ISAna-puM,uttarapUrvadikpati-puM
 tiryagdiSAM tu pataya indrAgniyamarnErftAH .
 varuRo vAyukuberAvISAnaSca yaTAkramam .. 169 ..
 <LEND>
@@ -1275,7 +1297,7 @@ puzpadantaH sArvaBOmaH supratIkaSca diggajAH .. 170 ..
 <LEND>
 <L>136<pc>11
 <eid>595<syns>dikpAla-puM
-<eid>596<syns>indra-puM,hari-puM,duScyavana-puM,acyutAgraja-puM,vajrin-puM,viqOjas-puM,maGavan-puM,purandara-puM,prAcInabarhis-puM,puruhUta-puM,vAsava-puM,saNkrandana-puM,AKaRqala-puM,meGavAhana-puM,sutrAman-puM,vAstozpati-puM,dalmi-puM,Sakra-puM,vfzan-puM,sunASIra-puM,sahasranetra-puM,parjanya-puM,haryaSva-puM,fBukzin-puM,bAhudanteya-puM,vfdDaSravas-puM,turAzAh-puM,surarzaBa-puM,tapastakza-puM,jizRu-puM,varakratu-puM,Satakratu-puM,kOSika-puM,pUrvadikpati-puM,devapati-puM,apsaraHpati-puM,svargapati-puM,SacIpati-puM,pftanAzAh-puM,ugraDanvan-puM,marutvat-puM,maGavat-puM
+<eid>596<syns>indra-puM,hari-puM,duScyavana-puM,acyutAgraja-puM,vajrin-puM,viqOjas-puM,maGavan-puM,purandara-puM,prAcInabarhis-puM,puruhUta-puM,vAsava-puM,saNkrandana-puM,AKaRqala-puM,meGavAhana-puM,sutrAman-puM,vAstozpati-puM,dalmi-puM,Sakra-puM,vfzan-puM,sunASIra-puM,sahasranetra-puM,parjanya-puM,haryaSva-puM,fBukzin-puM,bAhudanteya-puM,vfdDaSravas-puM,turAzAh-puM,surarzaBa-puM,tapastakza-puM,jizRu-puM,varakratu-puM,Satakratu-puM,kOSika-puM,pUrvadikpati-puM,devapati-puM,apsaraHpati-puM,svargapati-puM,SacIpati-puM,pftanAzAh-puM,ugraDanvan-puM,marutvat-puM,maGavan-puM
 indro harirduScyavano'cyutAgrajo vajrI viqOjA maGavAnpuraMdaraH .
 prAcInabarhiH puruhUtavAsavO saMkrandanAKaRqalameGavAhanAH .. 171 ..
 sutrAmavAstozpatidalmiSakrA vfzA SunAsIrasahasranetrO .
@@ -1323,7 +1345,7 @@ vEjayantO tu prAsAdaDvajO puryamarAvatI .
 <LEND>
 <L>143<pc>11
 <eid>614<syns>indrasaras-klI,nandIsaras-klI
-<eid>615<syns>indraparzad-strI,suDarman-puM
+<eid>615<syns>indraparzad-strI,suDarmA-strI
 <eid>616<syns>indravana-klI,nandana-klI
 saro nandIsaraH parzatsuDarmA nandanaM vanam .. 178 ..
 <LEND>
@@ -1332,7 +1354,7 @@ saro nandIsaraH parzatsuDarmA nandanaM vanam .. 178 ..
 <eid>618<syns>kalpa-puM
 <eid>619<syns>pArijAta-puM
 <eid>620<syns>mandAra-puM
-<eid>621<syns>haricandana-puM
+<eid>621<syns>haricandana-puMklI
 <eid>622<syns>santAna-puM
 <eid>623<syns>indraDanus-klI,devAyuDa-klI
 <eid>624<syns>rohita-klI
@@ -1341,12 +1363,12 @@ saMtAnaSca DanurdevAyuDaM tadfju rohitam .. 179 ..
 <LEND>
 <L>145<pc>11
 <eid>625<syns>ErAvata-klI
-<eid>626<syns>vajra-klI,aSani-puMstrI,hrAdinI-strI,svaru-puM,Satakowi-puM,pavi-puM,Samba-puM,damBoli-puM,Bidura-klI,Bidu-puM,vyADAma-puM,kuliSa-puMklI
+<eid>626<syns>vajra-puMklI,aSani-puMstrI,hrAdinI-strI,svaru-puM,Satakowi-puM,pavi-puM,Samba-puM,damBoli-puM,Bidura-klI,Bidu-puM,vyADAma-puM,kuliSa-puMklI
 <eid>627<syns>varjArcis-strI,atiBI-strI
-<eid>628<syns>vajraDvani-puM,sPurjaTu-puM
+<eid>628<syns>vajraDvani-puM,sPUrjaTu-puM
 dIrGarjvErAvataM vajraM tvaSanirhrAdinI svaruH .
 SatakowiH paviH Sambo damBolirBiduraM BiduH .. 180 ..
-vyADAmaH kuliSo'syArciratiBIH sPurjaTurDvaniH .
+vyADAmaH kuliSo'syArciratiBIH sPUrjaTurDvaniH .
 <LEND>
 <L>146<pc>11
 <eid>629<syns>svarvEdyO-puMdvi,aSvinIputrO-puMdvi,aSvinO-puMdvi,vaqavAsutO-puMdvi,nAsikyO-puMdvi,arkajO-puMdvi,dasrO-puMdvi,nAsatyO-puMdvi,abDijO-puMdvi,yamO-puMdvi
@@ -1358,7 +1380,7 @@ nAsikyAvarkajO dasrO nAsatyAvabDijO yamO .
 viSvakarmA punastvazwA viSvakfddevavarDakiH .. 182 ..
 <LEND>
 <L>148<pc>11
-<eid>631<syns>svarvaDU-strI,svargivaDU-strI,apsaras-strI,svarveSyA-strI
+<eid>631<syns>svarvaDU-strI,svargivaDU-strI,apsaras-strI,apsaras-strIba,svarveSyA-strI
 <eid>632<syns>urvaSI-strI
 svaHsvargivaDvo'psarasaH svarveSyA urvaSImuKAH .
 <LEND>
@@ -1388,21 +1410,21 @@ purI punaH saMyamanI pratIhArastu vEDyataH .
 dAsO caRqamahAcaRqO citraguptaSca leKakaH .. 186 ..
 <LEND>
 <L>153<pc>11
-<eid>643<syns>rAkzasa-puM,puRyajana-puM,nfcakzas-puM,yAtu-puM,ASara-puM,kORapa-puM,yAtuDAna-puM,rAtriYcara-puM,rAtricara-puM,palAda-puM,kInASa-puM,rakzas-puM,nikasAtmaja-puM,kravyAd-puM,karbura-puM,nErfta-puM,asfkpa-puM
+<eid>643<syns>rAkzasa-puM,puRyajana-puM,nfcakzas-puM,yAtu-klI,ASara-puM,kORapa-puM,yAtuDAna-puM,rAtriYcara-puM,rAtricara-puM,palAda-puM,kInASa-puM,rakzas-puM,nikasAtmaja-puM,kravyAd-puM,karbura-puM,nErfta-puM,asfkpa-puM
 <eid>644<syns>varuRa-puM,arRavamandira-puM,pracetas-puM,jalapati-puM,yAdaHpati-puM,pASin-puM,meGanAda-puM,jalakAntAra-puM,paraYjana-puM
 syAdrAkzasaH puRyajano nfcakzA yAtvASaraH kORapayAtuDAnO .
 rAtriMcaro rAtricaraH palAdaH kInASarakzo nikasAtmajASca .. 187 ..
-kravyAtkarburanErftAksfkpo varuRastvarRavamandiraH pracetAH .
+kravyAtkarburanErftAvasfkpo varuRastvarRavamandiraH pracetAH .
 jalayAdaHpatipASimeGanAdA jalakAntAraH syAtparaMjanaSca .. 188 ..
 <LEND>
 <L>154<pc>11
-<eid>645<syns>SrIda-puM,sitodara-puM,kuha-puM,ISasaKa-puM,piSAcakin-puM,icCAvasu-puM,triSiras-puM,Elavila-puM,ekapiNga-puM,pOlastya-puM,vESravaRa-puM,ratnakara-puM,kubera-puM,yakza-puM,nfDarman-puM,Danada-puM,naravAhana-puM,kElAsOkas-puM,yakzeSvara-puM,DaneSvara-puM,niDISvara-puM,kiMpuruzeSvara-puM
+<eid>645<syns>SrIda-puM,sitodara-puM,kuha-puM,ISasaKa-puM,piSAcakin-puM,icCAvasu-puM,triSiras-puM,Elavila-puM,ekapiNga-puM,pOlastya-puM,vESravaRa-puM,ratnakara-puM,kubera-puM,yakza-puM,nfDarman-puM,Danada-puM,naravAhana-puM,kElAsOkas-puM,yakzeSvara-puM,DaneSvara-puM,niDISvara-puM,kimpuruzeSvara-puM
 SrIdaH sitodarakuheSasaKAH piSAcakIcCAvasustriSira ElabilEkapiNgAH .
 pOlastyavESravaRaratnakarAH kuberayakzO nfDarmaDanadO naravAhanaSca .. 189 ..
 kElAsOkA yakzaDananiDikiMpuruzeSvarAH .
 <LEND>
 <L>155<pc>11
-<eid>646<syns>kuberavimAna-klI,puzpaka-klI
+<eid>646<syns>kuberavimAna-klI,puzpaka-puMklI
 <eid>647<syns>kuberavana-klI,cEtraraTa-klI
 <eid>648<syns>kuberapurI-strI,praBA-strI,alakA-strI,vasvokasArA-strI
 <eid>649<syns>kuberasuta-puM,nalakUbara-puM
@@ -1427,7 +1449,6 @@ hiraRyArTO niDAnaM tu kunABiH SevaDirniDiH .. 192 ..
 <eid>658<syns>kunda-puM
 <eid>659<syns>nIla-puM
 <eid>660<syns>carcas-puM
-<eid>661<syns>niDi-puM
 mahApadmaSca padmaSca SaNKo makarakacCapO .
 mukundakundanIlASca KarvaSca niDayo nava .. 193 ..
 <LEND>
@@ -1436,7 +1457,7 @@ mukundakundanIlASca KarvaSca niDayo nava .. 193 ..
 yakzaH puRyajano rAjA guhyako vawavAsyapi .
 <LEND>
 <L>159<pc>12
-<eid>663<syns>kiMnara-puM,kiMpuruza-puM,turaNgavadana-puM,mayu-puM
+<eid>663<syns>kinnara-puM,kimpuruza-puM,turaNgavadana-puM,mayu-puM
 kiMnarastu kiMpuruzasturaMgavadano mayuH .. 194 ..
 <LEND>
 <L>160<pc>12
@@ -1459,7 +1480,7 @@ gajapUzapurAnaNgakAlAnDakamaKAsuhft .
 kapardo'sya jawAjUwaH KawvANgastu suKaMsuRaH .. 200 ..
 <LEND>
 <L>162<pc>12
-<eid>667<syns>SivaDanus-klI,pinAka-klI,Ajagava-klI,ajakAva-klI
+<eid>667<syns>SivaDanus-klI,pinAka-puMklI,Ajagava-klI,ajakAva-klI
 pinAkaM syAdAjagavamajakAvaM ca tadDanuH .
 <LEND>
 <L>163<pc>12
@@ -1469,19 +1490,19 @@ brAhmyAdyA mAtaraH sapta pramaTAH pArzadA gaRAH .. 201 ..
 <LEND>
 <L>164<pc>12
 <eid>670<syns>ESvarya-klI
-<eid>671<syns>laGiman-strI
+<eid>671<syns>laGiman-puM
 <eid>672<syns>vaSitA-strI
-<eid>673<syns>ISitva-klI
+<eid>673<syns>ISitva-puM
 <eid>674<syns>prAkAmya-klI
-<eid>675<syns>mahiman-strI
-<eid>676<syns>aRiman-strI
+<eid>675<syns>mahiman-puM
+<eid>676<syns>aRiman-puM
 <eid>677<syns>yatrakAmAvasAyitva-klI
 <eid>678<syns>prApti-strI
 laGimA vaSiteSitvaM prAkAmyaM mahimARimA .
 yatra kAmAvasAyitvaM prAptirESvaryamazwaDA .. 202 ..
 <LEND>
 <L>165<pc>12
-<eid>679<syns>gOrI-strI,kAlI-strI,pArvatI-strI,mAtfmAtf-strI,aparRa-strI,rudrARI-strI,ambikA-strI,tryambakA-strI,umA-strI,durgA-strI,caRqI-strI,siMhayAnA-strI,mfqAnI-strI,kAtyAyanI-strI,dakzajA-strI,AryA-strI,kumArI-strI,satI-strI,SivA-strI,mahAdevI-strI,SarvARI-strI,sarvamaNgalA-strI,BavAnI-strI,kfzRasvasf-strI,mEnAkasvasf-strI,menAjA-strI,adrijA-strI,ISvarA-strI,niSumBamaTanI-strI,SumBamaTanI-strI,mahizamaTanI-strI,BUtanAyikA-strI
+<eid>679<syns>gOrI-strI,kAlI-strI,pArvatI-strI,mAtfmAtf-strI,aparRA-strI,rudrARI-strI,ambikA-strI,tryambakA-strI,umA-strI,durgA-strI,caRqI-strI,siMhayAnA-strI,mfqAnI-strI,kAtyAyanI-strI,dakzajA-strI,AryA-strI,kumArI-strI,satI-strI,SivA-strI,mahAdevI-strI,SarvARI-strI,sarvamaNgalA-strI,BavAnI-strI,kfzRasvasf-strI,mEnAkasvasf-strI,menAjA-strI,adrijA-strI,ISvarA-strI,niSumBamaTanI-strI,SumBamaTanI-strI,mahizamaTanI-strI,BUtanAyikA-strI
 gOrI kAlI pArvatI mAtfmAtAparRA rudrARyambikA tryambakomA .
 durgA caRqI siMhayAnA mfqAnIkAtyAyanyO dakzajAryA kumArI .. 203 ..
 satI SivA mahAdevI SarvARI sarvamaNgalA .
@@ -1533,7 +1554,7 @@ SaMBuH SataDftiH srazwA surajyezWo viriYcanaH .
 hiraRyagarBo lokeSo nABipadmAtmaBUrapi .. 213 ..
 <LEND>
 <L>173<pc>13
-<eid>692<syns>vizRu-puM,jizRu-puM,janArdana-puM,harikeSa-puM,hfzIkeSa-puM,acyuta-puM,keSava-puM,dASArha-puM,puruzottama-puM,abDiSayana-puM,upendra-puM,aja-puM,indrAnuja-puM,vizvaksena-puM,narAyaRa-puM,jalaSaya-puM,nArAyaRa-puM,SrIpati-puM,dEtyAri-puM,purARapuruza-puM,yajYapuruza-puM,tArkzyaDvaja-puM,aDokzaja-puM,govinda-puM,zaqbindu-puM,mukunda-puM,kfzRa-puM,vEkuRWa-puM,padmeSaya-puM,padmanABa-puM,vfzAkapi-puM,mADava-puM,vAsudeva-puM,viSvamBara-puM,SrIDara-puM,viSvarUpa-puM,dAmodara-puM,SOri-puM,sanAtana-puM,viDu-puM,pItAmbara-puM,mArja-puM,jIna-puM,kumodaka-puM,trivikrama-puM,jahnu-puM,caturBuja-puM,punarvasu-puM,SatAvarta-puM,gadAgraja-puM,svaBU-puM,muYjakeSin-puM,vanamAlin-puM,puRqarIkAkza-puM,baBru-puM,SaSabindu-puM,pfSniSfNga-puM,DaraRIDara-puM,pARqavAyana-puM,suvarRabindu-puM,SrIvatsa-puM,devakIsUnu-puM,gopendra-puM,vizwaraSravas-puM,somasinDu-puM,jagannATa-puM,govarDanaDara-puM,yadunATa-puM,gadABft-puM,SArNgaBft-puM,cakraBft-puM,SrIvatsaBft-puM,SaNKaBft-puM
+<eid>692<syns>vizRu-puM,jizRu-puM,janArdana-puM,harikeSa-puM,hfzIkeSa-puM,acyuta-puM,keSava-puM,dASArha-puM,puruzottama-puM,abDiSayana-puM,upendra-puM,aja-puM,indrAnuja-puM,vizvaksena-puM,narAyaRa-puM,jalaSaya-puM,nArAyaRa-puM,SrIpati-puM,dEtyAri-puM,purARapuruza-puM,yajYapuruza-puM,tArkzyaDvaja-puM,aDokzaja-puM,govinda-puM,zaqbindu-puM,mukunda-puM,kfzRa-puM,vEkuRWa-puM,padmeSaya-puM,padmanABa-puM,vfzAkapi-puM,mADava-puM,vAsudeva-puM,viSvamBara-puM,SrIDara-puM,viSvarUpa-puM,dAmodara-puM,SOri-puM,sanAtana-puM,viDu-puM,pItAmbara-puM,mArja-puM,jina-puM,kumodaka-puM,trivikrama-puM,jahnu-puM,caturBuja-puM,punarvasu-puM,SatAvarta-puM,gadAgraja-puM,svaBU-puM,muYjakeSin-puM,vanamAlin-puM,puRqarIkAkza-puM,baBru-puM,SaSabindu-puM,pfSniSfNga-puM,DaraRIDara-puM,pARqavAyana-puM,suvarRabindu-puM,SrIvatsa-puM,devakIsUnu-puM,gopendra-puM,vizwaraSravas-puM,somasinDu-puM,jagannATa-puM,govarDanaDara-puM,yadunATa-puM,gadABft-puM,SArNgaBft-puM,cakraBft-puM,SrIvatsaBft-puM,SaNKaBft-puM
 vizRurjizRujanArdanO harihfzIkeSAcyutAH keSavo
 dASArhaH puruzottamo'bDiSayanopendrAvajendrAnujO .
 vizvaksenanarAyaRO jalaSayo nArAyaRaH SrIpati-
@@ -1542,7 +1563,7 @@ govindazaqbindumukundakfzRA vEkuRWapadmeSayapadmanABAH .
 vfzAkapirmADavavAsudevO viSvaMBaraH SrIDaraviSvarUpO .. 215 ..
 dAmodaraH SOrisanAtanO viDuH pItAmbaro mArjajinO kumodakaH .
 trivikramo jahnucaturBujO punarvasuH SatAvartagadAgrajO svaBUH .. 216 ..
-muYjakeSivanamAlipuRqarIkAkzavaBruSaSabinduveDasaH .
+muYjakeSivanamAlipuRqarIkAkzabaBruSaSabinduveDasaH .
 pfSniSfNgaDaraRIDarAtmaBUH pARqavAyanasuvarRabindavaH .. 217 ..
 SrIvatso devakIsUnurgopendro vizwaraSravAH .
 somasinDurjagannATo govarDanaDaro'pi ca .. 218 ..
@@ -1590,7 +1611,7 @@ SaNKo'sya pAYcajanyo'NkaH SrIvatso'sistu nandakaH .
 <L>176<pc>13
 <eid>722<syns>vizRugadA-strI,kOmodakI-strI
 <eid>723<syns>vizRucApa-klI,SArNga-klI
-<eid>724<syns>vizRucakra-klI,sudarSana-klI
+<eid>724<syns>vizRucakra-klI,sudarSana-puM
 gadA kOmodakI cApaM SArNgaM cakraM sudarSanaH .. 222 ..
 <LEND>
 <L>177<pc>13
@@ -1623,7 +1644,7 @@ haripriyA padmavAsA kzIrodatanayApi ca .. 226 ..
 <L>182<pc>14
 <eid>733<syns>madana-puM,jarABIru-puM,anaNga-puM,manmaTa-puM,kamana-puM,kalAkeli-puM,ananyaja-puM,aNgaja-puM,maDudIpa-puM,mAra-puM,maDusAraTi-puM,smara-puM,vizamAyuDa-puM,darpaka-puM,kAma-puM,hfcCaya-puM,pradyumna-puM,SrInandana-puM,kandarpa-puM,puzpaketana-puM,puzpezu-puM,kusumabARa-puM,puzpacApa-puM,kusumaDanvan-puM,puzpAstra-puM,kusumAyuDa-puM,mInaketana-puM,makaraketana-puM,mInaDvaja-puM,makaraDvaja-puM,Jazaketana-puM,JazaDvaja-puM,paYcabARa-puM,vizamezu-puM,manoyoni-puM,cetoBava-puM,SfNgArayoni-puM,SfNgArajanman-puM,saNkalpayoni-puM,smftiBU-puM,Atmayoni-puM,AtmaBU-puM,maDusuhfd-puM,cEtrasaKa-puM
 <eid>734<syns>kAmAri-puM
-<eid>735<syns>Sambara-puM
+<eid>735<syns>SaMvara-puM
 <eid>736<syns>SUrpaka-puM
 <eid>737<syns>kAmaketana-klI
 <eid>738<syns>mIna-puM
@@ -1828,7 +1849,7 @@ avAntaraprakaraRaviSrAme SIGrapAWataH .
 AhnikamaDikaraRaM tvekanyAyopapAdanam .. 255 ..
 <LEND>
 <L>203<pc>15
-<eid>839<syns>vArttika-klI
+<eid>839<syns>vArtika-klI
 uktAnuktaduruktArTacintAkAri tu vArtikam .
 <LEND>
 <L>204<pc>15
@@ -1866,7 +1887,7 @@ itihAsaH purAvfttaM pravahlikA prahelikA .
 janaSrutiH kiMvadantI vArtEtihyaM purAtanI .. 259 ..
 <LEND>
 <L>211<pc>15
-<eid>853<syns>vArttA-strI,pravftti-strI,vfttAnta-puM,udanta-puM
+<eid>853<syns>vArtA-strI,pravftti-strI,vfttAnta-puM,udanta-puM
 <eid>854<syns>Ahvaya-puM,aBiDA-strI,gotra-klI,saMjYA-strI,nAmaDeya-klI,AKyA-strI,AhvA-strI,aBiKyA-strI,nAman-puMklI
 vArtA pravfttirvfttAnta udanto'TAhvayo'BiDA .
 gotrasaMjYAnAmaDeyAKyAhvABiKyASca nAma ca .. 260 ..
@@ -1889,13 +1910,13 @@ vyavahAro vivAdaH syAcCapaTaH SapanaM SapaH .. 262 ..
 <LEND>
 <L>215<pc>15
 <eid>861<syns>uttara-klI,prativacas-klI
-<eid>862<syns>praSna-puM,pfcCA-strI,anuyojana-klI,kaTaMkaTikatA-strI
+<eid>862<syns>praSna-puM,pfcCA-strI,anuyojana-klI,kaTaNkaTikatA-strI
 <eid>863<syns>devapraSna-puM,upaSruti-strI
 uttaraM tu prativacaH praSnaH pracCAnuyojanam .
 kaTaMkaTikatA cATa devapraSna upaSrutiH .. 263 ..
 <LEND>
 <L>216<pc>15
-<eid>864<syns>cawu-klI,cAwu-klI,priyaprAya-klI
+<eid>864<syns>cawu-puMklI,cAwu-puMklI,priyaprAya-klI
 <eid>865<syns>sUnfta-klI,priyasatya-klI
 cawu cAwu priyaprAyaM priyasatyaM tu sUnftam .
 <LEND>
@@ -1906,7 +1927,7 @@ satyaM samyaksamIcInamftaM taTyaM yaTAtaTam .. 264 ..
 yaTAsTitaM ca sadBUte'lIke tu vitaTAnfte .
 <LEND>
 <L>218<pc>15
-<eid>868<syns>klizwa-klI,saNkula-klI,parasparAhata-klI
+<eid>868<syns>klizwa-klI,saNkula-klI,parasparaparAhata-klI
 aTa klizwaM saMkulaM ca parasparaparAhatam .. 265 ..
 <LEND>
 <L>219<pc>15
@@ -1926,7 +1947,7 @@ luptavarRapadaM grastamavAcyaM syAdanakzaram .. 266 ..
 ambUkftaM saTUtkAraM nirastaM tvarayoditam .
 <LEND>
 <L>222<pc>15
-<eid>876<syns>Amreqita-klI,dvirirukta-klI,trirukta-klI
+<eid>876<syns>Amreqita-klI,dvirukta-klI,trirukta-klI
 <eid>877<syns>abadDa-klI,nirarTaka-klI
 AmreqitaM dvistriruktamabadDaM tu nirarTakam .. 267 ..
 <LEND>
@@ -2027,7 +2048,7 @@ saMgItaM prekzaRArTe'smiYSAstrokte nAwyaDarmikA .. 279 ..
 <LEND>
 <L>241<pc>16
 <eid>912<syns>gIta-klI,gAna-klI,geya-klI,gIti-strI,gAnDarva-klI
-<eid>913<syns>nartana-klI,nawana-klI,nftya-klI,nftta-klI,lAsya-klI,nAwya-klI,tARqava-klI
+<eid>913<syns>nartana-klI,nawana-klI,nftya-klI,nftta-klI,lAsya-klI,nAwya-klI,tARqava-puMklI
 gItaM gAnaM geyaM gItirgAnDarvamaTa nartanam .
 nawanaM nftyaM nfttaM ca lAsyaM nAwyaM ca tARqavam .. 280 ..
 <LEND>
@@ -2184,7 +2205,6 @@ bIBatsAdButaSAntASca rasA BAvAH punastriDA .
 <eid>988<syns>sTAyiBAva-puM
 <eid>989<syns>sAttvikaBAva-puM
 <eid>990<syns>saYcAriBAva-puM
-<eid>991<syns>sTAyikAraRa-klI
 <eid>992<syns>rati-strI,rAga-puM,anurAga-puM,anurati-strI
 <eid>993<syns>hAsa-puM,hasana-klI,hasa-puM,GarGara-puM,hAsikA-strI,hAsya-klI
 <eid>994<syns>smita-klI,vakrozWikA-strI
@@ -2282,7 +2302,15 @@ saMvittiH SemuzI dfzwiH sA meDA DAraRakzamA .. 309 ..
 paRqA tattvAnugA mokze jYAnaM vijYAnamanyataH .
 <LEND>
 <L>280<pc>16
-<eid>1029<syns>SuSrUzA-strI,SravaRa-klI,grahaRa-klI,DAraRa-klI,Uha-puM,apoha-puM,arTavijYAna-klI,tattvajYAna-klI,DIguRa-puM
+<eid>1029<syns>DIguRa-puM
+<eid>1029.01<syns>SuSrUzA-strI
+<eid>1029.02<syns>SravaRa-klI
+<eid>1029.03<syns>grahaRa-klI
+<eid>1029.04<syns>DAraRa-klI
+<eid>1029.05<syns>Uha-puM
+<eid>1029.06<syns>apoha-puM
+<eid>1029.07<syns>arTavijYAna-klI
+<eid>1029.08<syns>tattvajYAna-klI
 SuSrUzA SravaRaM cEva grahaRaM DAraRaM taTA .. 310 ..
 ;p{0017}
 UhApoho'rTavijYAnaM tattvajYAnaM ca DIguRAH .
@@ -2331,7 +2359,7 @@ darpo'BimAno mamatA mAnaScittonnatiH smayaH .
 <L>288<pc>17
 <eid>1045<syns>ahamahamikA-strI
 <eid>1046<syns>ahopuruzikA-strI
-<eid>1047<syns>ahaMpUrvikA-strI
+<eid>1047<syns>ahampUrvikA-strI
 <eid>1048<syns>ugratva-klI,caRqatA-strI
 sA miTo'hamahamikA yA tu saMBAvanAtmani .. 317 ..
 darpAtsAhopuruzikA syAdahaMpUrvikA punaH .
@@ -2379,7 +2407,7 @@ paYcatvaM niDanaM nASo dIrGanidrA nimIlanam .
 dizwAnto'staM kAlaDarmo'vasAnaM sA tu sarvagA .. 324 ..
 <LEND>
 <L>296<pc>17
-<eid>1064<syns>maraka-puM,mAri-strI
+<eid>1064<syns>maraka-puMklI,mAri-strI
 <eid>1065<syns>viBAva-puM
 <eid>1066<syns>anuBAva-puM
 <eid>1067<syns>vyaBicAriBAva-puM
@@ -2439,7 +2467,7 @@ bAlA vAsUrmArza Aryo devo BawwArako nfpaH .
 <LEND>
 <L>306<pc>17
 <eid>1086<syns>rAzwriya-puM,nfpatiSyAla-puM
-<eid>1087<syns>duhitf-puM,BartfdArikA-puM
+<eid>1087<syns>rAjaduhitf-strI,BartfdArikA-strI
 rAzwriyo nfpateH SyAlo duhitA BartfdArikA .. 333 ..
 <LEND>
 <L>307<pc>17
@@ -2449,14 +2477,14 @@ rAzwriyo nfpateH SyAlo duhitA BartfdArikA .. 333 ..
 devI kftABizekAnyA BawwinI gaRikAjjukA .
 <LEND>
 <L>308<pc>17
-<eid>1091<syns>nIcAhUti-strI,haRqe-strI
-<eid>1092<syns>cewIhUti-strI,haYje-strI
-<eid>1093<syns>saKIhUti-strI,halA-strI
+<eid>1091<syns>nIcAhUti-strI,haRqe-a
+<eid>1092<syns>cewIhUti-strI,haYje-a
+<eid>1093<syns>saKIhUti-strI,halA-a
 nIcAcewIsaKIhUtO haRqehaYjehalAH kramAt .. 334 ..
 <LEND>
 <L>309<pc>17
 <eid>1094<syns>abrahmaRya-klI,avaDyokti-strI
-<eid>1095<syns>AttikA-strI,jyAyasIsvasf-strI
+<eid>1095<syns>attikA-strI,jyAyasIsvasf-strI
 abrahmaRyamavaDyoktO jyAyasI tu svasAttikA .
 <LEND>
 <L>310<pc>17
@@ -2534,7 +2562,7 @@ vyutpannaprahatakzuRRA antarvARistu SAstravit .. 345 ..
 <L>321<pc>18
 <eid>1122<syns>vAgISa-puM,vAkpati-puM
 <eid>1123<syns>vAgmin-puM,vAcoyuktipawu-puM,pravAc-puM,samuKa-puM,vAvadUka-puM
-<eid>1124<syns>vada-puM,vaktA-puM,vadAvada-puM
+<eid>1124<syns>vada-puM,vaktf-puM,vadAvada-puM
 vAgISo vAkpatO vAgmI vAcoyuktipawuH pravAk .
 samuKo vAvadUko'Ta vado vaktA vadAvadaH .. 346 ..
 <LEND>
@@ -2583,7 +2611,7 @@ durmuKe muKarAbadDamuKO SaklaH priyaMvadaH .
 <LEND>
 <L>330<pc>18
 <eid>1143<syns>dAnaSIla-puM,vadAnya-puM,vadanya-puM
-<eid>1144<syns>bAliSa-puM,mUQa-puM,manda-puM,yaTAjAta-puM,bAla-puM,mAtfmuKa-puM,jaqa-puM,mUrKa-puM,ameDa-puM,vivarRa-puM,ajYa-puM,vEDeya-puM,mAtfSAsita-puM,devAnAMpriya-puM,jAlma-puM
+<eid>1144<syns>bAliSa-puM,mUQa-puM,manda-puM,yaTAjAta-puM,bAla-puM,mAtfmuKa-puM,jaqa-puM,mUrKa-puM,ameDa-puM,vivarRa-puM,ajYa-puM,vEDeya-puM,mAtfSAsita-puM,devAnAmpriya-puM,jAlma-puM
 <eid>1145<syns>dIrGasUtra-puM,cirakriya-puM
 dAnaSIlaH sa vadAnyo vadanyo'pyaTa bAliSaH .. 351 ..
 mUQo mando yaTAjAto bAlo mAtfmuKo jaqaH .
@@ -2623,7 +2651,7 @@ tantrAyattavaSADInacCandavantaH parAtpare .. 356 ..
 lakzmIvAMllakzmaRaH SrIla iBya AQyo DanISvaraH .
 <LEND>
 <L>337<pc>18
-<eid>1158<syns>viBUti-strI,saMpatti-strI,lakzmI-strI,SrI-strI,fdDi-strI,sampad-strI
+<eid>1158<syns>viBUti-strI,sampatti-strI,lakzmI-strI,SrI-strI,fdDi-strI,sampad-strI
 fdDe viBUtiH saMpattirlakzmIH SrIfdDisaMpadaH .. 357 ..
 <LEND>
 <L>338<pc>18
@@ -2948,7 +2976,7 @@ gorasaSca tadaGanaM drapsaM pattralamityapi .. 406 ..
 GftaM havizyamAjyaM ca havirAGArasarpizI .
 <LEND>
 <L>391<pc>20
-<eid>1273<syns>hyogohodBava-klI,hEyaNgavIna-klI
+<eid>1273<syns>hyogodohodBava-klI,hEyaNgavIna-klI
 <eid>1274<syns>Saraja-klI,daDisAra-klI,takrasAra-klI,navanIta-klI,navodDfta-klI
 hyogodohodBavaM hEyaMgavInaM SarajaM punaH .. 407 ..
 daDisAraM takrasAraM navanItaM navodDftam .
@@ -2998,7 +3026,7 @@ BfzwAmizaM BawitraM syAdBUtirBarUwakaM ca tat .. 412 ..
 SUlyaM SUlAkftaM mAMsaM nizkvATo rasakaH samO .
 <LEND>
 <L>401<pc>20
-<eid>1291<syns>praRIta-klI,upasaMpanna-klI
+<eid>1291<syns>praRIta-klI,upasampanna-klI
 <eid>1292<syns>snigDa-puM,masfRa-klI,cikkaRa-klI
 praRItamupasaMpannaM snigDe masfRacikkaRe .. 413 ..
 <LEND>
@@ -3008,7 +3036,7 @@ picCilaM tu vijivilaM vijjalaM vijalaM ca tat .
 <LEND>
 <L>403<pc>20
 <eid>1294<syns>BAvita-klI,vAsita-klI
-<eid>1295<syns>saMmfzwa-klI,SoDita-klI
+<eid>1295<syns>sammfzwa-klI,SoDita-klI
 BAvitaM tu vAsitaM syAttulye saMmfzwaSoDite .. 414 ..
 <LEND>
 <L>404<pc>20
@@ -3047,11 +3075,11 @@ SuRWI mahOzaDI viSvA nAgaraM viSvaBezajam .. 420 ..
 vEdehI pippalI kfzRopakulyA mAgaDI kaRA .
 <LEND>
 <L>410<pc>20
-<eid>1306<syns>granTika-strI,sarvagranTika-strI,cawakASiras-strI
+<eid>1306<syns>granTika-strI,sarvagranTika-strI,cawakASiras-klI
 tanmUlaM granTikaM sarvagranTikaM cawakASiraH .. 421 ..
 <LEND>
 <L>411<pc>20
-<eid>1307<syns>trikawu-strI,tryUzaRa-strI,vyoza-strI
+<eid>1307<syns>trikawu-klI,tryUzaRa-klI,vyoza-klI
 <eid>1308<syns>ajAjin-puM,jIraka-puMklI,kaRA-strI
 trikawu tryUzaRaM vyozamajAjI jIrakaH kaRA .
 <LEND>
@@ -3132,7 +3160,7 @@ vIkzApanno vilakzo'TADfzwe SAlInaSAradO .
 <LEND>
 <L>425<pc>21
 <eid>1335<syns>SuBaMyu-puM,SuBasaMyukta-puM
-<eid>1336<syns>ahaMyu-puM,ahaMkfta-puM
+<eid>1336<syns>ahaMyu-puM,ahaNkfta-puM
 SuBaMyuH SuBasaMyuktaH syAdahaMyurahaMkftaH .. 433 ..
 <LEND>
 <L>426<pc>21
@@ -3402,7 +3430,7 @@ SvitraM syAtpARquraM kuzWaM keSaGnaM tvindraluptakam .. 466 ..
 <LEND>
 <L>473<pc>22
 <eid>1441<syns>siDman-klI,kilAsa-klI,tvakpuzpa-klI,siDma-klI
-<eid>1442<syns>koWa-klI,maRqala-klI
+<eid>1442<syns>koWa-puM,maRqala-klI
 siDma kilAsaM tvakpuzpaM siDmaM koWastu maRqalam .
 <LEND>
 <L>474<pc>22
@@ -3585,7 +3613,7 @@ syAnmanojavasastAtatulyaH SAstA tu deSakaH .. 488 ..
 <L>508<pc>22
 <eid>1509<syns>sukftin-puM,puRyavat-puM,Danya-puM
 <eid>1510<syns>mitrayu-puM,mitravatsala-puM
-sukftI puRyavAnDanyo mittrayurmittravatsalaH .
+sukftI puRyavAnDanyo mitrayurmitravatsalaH .
 <LEND>
 <L>509<pc>22
 <eid>1511<syns>kzemaNkara-puM,rizwatAti-puM,SivatAti-puM,SivaNkara-puM
@@ -3639,7 +3667,7 @@ javanastvarite vege rayo raMhastaraH syadaH .. 494 ..
 javo vAjaH prasaraSca mandagAmI tu manTaraH .
 <LEND>
 <L>517<pc>23
-<eid>1533<syns>kAmaMgAmin-puM,anukAmIna-puM
+<eid>1533<syns>kAmaNgAmin-puM,anukAmIna-puM
 <eid>1534<syns>atyantIna-puM,atyantagAmin-puM
 kAmaMgAmyanugAmIno'tyantIno'tyantagAmini .. 495 ..
 <LEND>
@@ -3867,12 +3895,12 @@ svata AcAryA SUdrA ca kzattriyA kzatriyARyapi .
 upADyAyyupADyAyA syAdaryAryARyO punaH same .. 524 ..
 <LEND>
 <L>549<pc>24
-<eid>1637<syns>diDizU-strI,pUnarBU-strI,dvirUQA-strI
+<eid>1637<syns>diDizU-strI,punarBU-strI,dvirUQA-strI
 <eid>1638<syns>diDizU-puM
 diDizUstu punarBUrdvirUQAsyA diDizUH patiH .
 <LEND>
 <L>550<pc>24
-<eid>1639<syns>agrediDizU-strI
+<eid>1639<syns>agrediDizU-puM
 sa tu dvijo'grediDizuryasya syAtsEva gehinI .. 525 ..
 <LEND>
 <L>551<pc>24
@@ -4020,7 +4048,7 @@ mAtfzvasrIyastugmAtfzvasurmAtfzvaseyavat .. 545 ..
 vimAtfjo vEmAtreyo dvEmAturo dvimAtfjaH .
 <LEND>
 <L>575<pc>24
-<eid>1695<syns>sAMmAtura-puM,BAdramAtura-puM
+<eid>1695<syns>sAmmAtura-puM,BAdramAtura-puM
 satyAstu tanaye sAMmAturavaqgAdramAturaH .. 546 ..
 <LEND>
 <L>576<pc>24
@@ -4184,9 +4212,9 @@ alakastu karkarAlaH KaMKaraScUrRakuntalaH .
 sa tu BAle BramarakaH kurulo BramarAlakaH .. 569 ..
 <LEND>
 <L>604<pc>25
-<eid>1753<syns>Dammila-puM
+<eid>1753<syns>Dammilla-puM
 <eid>1754<syns>kabarI-strI
-DamillaH saMyatAH keSAH keSaveSe kabaryaTa .
+DammillaH saMyatAH keSAH keSaveSe kabaryaTa .
 <LEND>
 <L>605<pc>25
 <eid>1755<syns>veRi-strI,praveRI-strI
@@ -4265,11 +4293,11 @@ kUrcaM kUrpaM BruvormaDye pakzma syAnnetraromaRi .
 <L>619<pc>25
 <eid>1781<syns>ganDajYA-strI,nAsikA-strI,nAsA-strI,GrARa-klI,GoRA-strI,vikURikA-strI,nakra-klI,narkuwaka-klI,SiNGinI-strI
 <eid>1782<syns>ozWa-puM,aDara-puM,radacCada-puM,dantavastra-puMklI
-<eid>1783<syns>sfkvaRI-strI
+<eid>1783<syns>sfkkaRI-strI
 <eid>1784<syns>asika-klI
 ganDajYA nAsikA nAsA GrARaM GoRA vikURikA .. 580 ..
 nakraM narkuwakaM SiNGinyozWo'Daro radacCadaH .
-dantavastraM ca tatprAntO sfkvaRI asikaM tvaDaH .. 581 ..
+dantavastraM ca tatprAntO sfkkaRI asikaM tvaDaH .. 581 ..
 <LEND>
 <L>620<pc>25
 <eid>1785<syns>cibuka-klI
@@ -4488,7 +4516,7 @@ nitambArohO strIkawyAH paScAjjaGanamagrataH .
 <LEND>
 <L>661<pc>26
 <eid>1864<syns>trika-klI
-<eid>1865<syns>kukundare-klIdvi
+<eid>1865<syns>kukundara-klI,pArSvakUpaka-puM
 trikaM vaMSADastatpArSvakUpakO tu kukundare .. 608 ..
 <LEND>
 <L>662<pc>26
@@ -4596,7 +4624,8 @@ raktAttejoBave kravyaM kASyapaM tarasAmize .. 622 ..
 medaskftpiSitaM kInaM palaM peSyastu tallatAH .
 <LEND>
 <L>678<pc>27
-<eid>1908<syns>bukkan-puM,hfd-klI,hfdaya-klI,vfkkA-strI,surasa-klI
+<eid>1908<syns>bukkan-puM,hfd-klI,hfdaya-klI
+<eid>1908.01<syns>vfkkA-strI,surasa-klI
 vukkA hfdDfdayaM vfkkA surasaM ca tadagrimam .. 623 ..
 <LEND>
 <L>679<pc>27
@@ -4762,8 +4791,8 @@ sarjamaRiH sarjaraso rAlaH sarvaraso'pi ca .. 647 ..
 <LEND>
 ;p{0028}
 <L>707<pc>28
-<eid>1966<syns>vfkzaDUpa-puM,kftrimaDUpa-puM,turuzka-puMklI,silha-puM,piRqaka-puM
-DUpo vfkzAtkftrimAcca turuzkaH silhapiRqakO .
+<eid>1966<syns>vfkaDUpa-puM,kftrimaDUpa-puM,turuzka-puMklI,silha-puM,piRqaka-puM
+DUpo vakAtkftrimAcca turuzkaH silhapiRqakO .
 <LEND>
 <L>708<pc>28
 <eid>1967<syns>pAyasa-puM,vfkzaDUpa-puM,SrIvAsa-puM,saraladrava-puM
@@ -4834,8 +4863,8 @@ utkziptikA tu karRAndurvAlikA karRapfzWagA .. 656 ..
 <LEND>
 <L>721<pc>28
 <eid>1991<syns>grEveyaka-klI,kaRWaBUzA-strI
-<eid>1992<syns>lalambikA-strI
-grEveyakaM kaRWaBUzA lambamAnA lalambikA .
+<eid>1992<syns>lalantikA-strI
+grEveyakaM kaRWaBUzA lambamAnA lalantikA .
 <LEND>
 <L>722<pc>28
 <eid>1993<syns>prAlambikA-strI
@@ -4902,7 +4931,7 @@ kalApo raSanA sArasanaM kAYcI ca saptakI .. 664 ..
 sA SfNKalaM puMskawIsTA kiMkiRI kzudraGaRwikA .
 <LEND>
 <L>733<pc>28
-<eid>2019<syns>nUpura-klI,tulAkowi-puMklI,pAdakawaka-strI,pAdANgada-strI,maYjIra-puMklI,haMsaka-puMklI,SiYjinI-strI
+<eid>2019<syns>nUpura-klI,tulAkowi-puMklI,pAdakawaka-puMklI,pAdANgada-klI,maYjIra-puMklI,haMsaka-puMklI,SiYjinI-strI
 <eid>2020<syns>aMSuka-klI,vastra-puMklI,ambara-klI,sicaya-puM,vasana-klI,cIra-puM,AcCAda-puM,siYc-strI,cela-klI,vAsas-klI,pawa-tri,prota-puM
 <eid>2021<syns>aYcala-puMklI
 <eid>2022<syns>varti-puMstrI,vasti-puMstrI,daSAH-puMstrIba
@@ -4921,6 +4950,11 @@ patrorRaM DOtakOSeyamuzRIzo mUrDavezwanam .. 667 ..
 tatsyAdudgamanIyaM yadDOtayorvastrayoryugam .
 <LEND>
 <L>736<pc>28
+<eid>2025.01<syns>tvac-strI
+<eid>2025.02<syns>Pala-klI
+<eid>2025.03<syns>kfmi-puM
+<eid>2025.04<syns>roman-klI
+<eid>2025.05<syns>vastrayoni-strI
 <eid>2026<syns>kzOma-klI
 <eid>2027<syns>kArpAsa-klI
 <eid>2028<syns>kOSeya-klI
@@ -4962,10 +4996,10 @@ antarIyaM nivasanamupasaMvyAnamityapi .
 <LEND>
 <L>744<pc>28
 <eid>2040<syns>uccaya-puM,nIvI-strI
-<eid>2041<syns>caRqAtaka-puMklI,calanaka-puM
+<eid>2041<syns>arDoruka-klI,caRqAtaka-puMklI,calanaka-puM
 <eid>2042<syns>calanI-strI
-tadgranTiruccayo nIvIvarastryarDorukAMSurum .. 673 ..
-caRqAtakaM calanakaM calanI tvitarastriyAH .
+tadgranTiruccayo nIvI varastryarDorukAMSukam .. 673 ..
+caRqAtakaM calanakaH calanI tvitarastriyAH .
 <LEND>
 <L>745<pc>28
 <eid>2043<syns>cola-puM,kaYculikA-strI,kUrpAsaka-puM,aNgikA-strI,kaYcuka-puMklI
@@ -5075,7 +5109,7 @@ vyajanaM tAlavfntaM tadDavitraM mfgacarmaRaH .. 687 ..
 <eid>2079<syns>kaNkata-puM,keSamArjana-puM,prasADana-puM
 <eid>2080<syns>bAlakrIqanaka-klI,guqa-puM,giri-puM,giriyaka-puM,giriguqa-puM
 <eid>2081<syns>kanduka-puMklI,genduka-puM
-AlAvartaM tu vastrasya kaNkataH keSamArjanam .
+AlAvartaM tu vastrasya kaNkataH keSamArjanaH .
 prasADanaScATa bAlakrIqanake guqo giriH .. 688 ..
 giriyako giriguqaH samO kandukagendukO .
 <LEND>
@@ -5193,7 +5227,7 @@ DunDumAraH kuvalASvo hariScandrastriSaNkujaH .
 purUravA vODa Ela urvaSIramaRaSca saH .. 701 ..
 <LEND>
 <L>784<pc>29
-<eid>2134<syns>dOzyanti-puM,Barata-puM,sarvaMdama-puM,SakuntalAtmaja-puM
+<eid>2134<syns>dOzyanti-puM,Barata-puM,sarvandama-puM,SakuntalAtmaja-puM
 dOzyantirBarataH sarvaMdamaH SakuntalAtmajaH .
 <LEND>
 <L>785<pc>29
@@ -5213,7 +5247,7 @@ rAmaputrO kuSalavAvekayoktyA kuSIlavO .
 <L>788<pc>29
 <eid>2139<syns>sOmitri-puM,lakzmaRa-puM
 <eid>2140<syns>vAlin-puM,vAli-puM,indrasuta-puM
-sOmittrirlakzmaRo vAlI vAlirindrasutaSca saH .. 704 ..
+sOmitrirlakzmaRo vAlI vAlirindrasutaSca saH .. 704 ..
 <LEND>
 <L>789<pc>29
 <eid>2141<syns>Adityasunu-puM,sugrIva-puM
@@ -5274,8 +5308,8 @@ rAjabIjI rAjavaMSyo bIjavaMSyO tu vaMSaje .. 713 ..
 <eid>2159<syns>amAtya-puM
 <eid>2160<syns>suhfd-puM
 <eid>2161<syns>koSa-puM
-<eid>2162<syns>rAzwra-puM
-<eid>2163<syns>durga-puM
+<eid>2162<syns>rAzwra-klI
+<eid>2163<syns>durga-klI
 <eid>2164<syns>bala-klI
 <eid>2165<syns>SreRi-strI
 svAmyamAtyaH suhftkoSo rAzwradurgabalAni ca .
@@ -5397,7 +5431,7 @@ durhftpareH panTakapanTinO dviwpratyarTyamitrAvaBimAtyarAtI .. 729 ..
 <eid>2204<syns>vayasya-puM,savayas-puM,suhfd-puM,snigDa-puM,sahacara-puM,mitra-klI,saKi-puM
 <eid>2205<syns>saKya-klI,sOhfda-klI,sOhArda-klI,sAptapadIna-klI,mEtrI-strI,ajarya-klI,saNgata-klI
 vEraM viroDo vidvezo vayasyaH savayAH suhft .
-snigDaH sahacaro mittraM saKA saKyaM tu sOhfdam .. 730 ..
+snigDaH sahacaro mitraM saKA saKyaM tu sOhfdam .. 730 ..
 sOhArdaM sAptapadInamEttryajaryARi saMgatam .
 <LEND>
 <L>822<pc>30
@@ -5406,8 +5440,8 @@ AnandanaM tvApracCanaM syAtsaBAjanamityapi .. 731 ..
 <LEND>
 <L>823<pc>30
 <eid>2207<syns>Satru-puM
-<eid>2208<syns>mittra-klI
-vizAyAnantaro rAjA SatrurmittramataH param .
+<eid>2208<syns>mitra-klI
+vizAyAnantaro rAjA SatrurmitramataH param .
 <LEND>
 <L>824<pc>30
 <eid>2209<syns>udAsIna-puM
@@ -5565,6 +5599,10 @@ asyoccUlAvacUlAKyAvUrDvADomuKakUrcakO .. 750 ..
 <LEND>
 <L>847<pc>31
 <eid>2279<syns>senANga-klI
+<eid>2279.01<syns>gaja-puM
+<eid>2279.02<syns>vAjin-puM
+<eid>2279.03<syns>raTa-puM
+<eid>2279.04<syns>patti-puM
 gajo vAjI raTaH pattiH senANgaM syAccaturviDam .
 <LEND>
 <L>848<pc>31
@@ -5874,7 +5912,7 @@ SaktipawwiSaduHsPowacakrAdyAH SastrajAtayaH .. 787 ..
 KuralI tu Sramo yogyAByAsastadBUH KalUrikA .
 <LEND>
 <L>904<pc>32
-<eid>2399<syns>sarvABisAra-puM,sarvOGa-puM,sarvasaMnahana-klI
+<eid>2399<syns>sarvABisAra-puM,sarvOGa-puM,sarvasannahana-klI
 sarvABisAraH sarvOGaH sarvasaMhananaM samAH .. 788 ..
 <LEND>
 <L>905<pc>32
@@ -5940,7 +5978,7 @@ nagnaH stutivratastasya granTo BogAvalI Bavet .. 795 ..
 <LEND>
 <L>918<pc>32
 <eid>2421<syns>prARa-puM,sTAman-klI,taras-klI,parAkrama-puM,bala-puMklI,dyumna-klI,SOrya-klI,ojas-klI,Suzma-klI,Suzman-klI,Sakti-strI,Urja-puMstrI,sahas-klI
-<eid>2422<syns>yudDa-klI,saNKya-puMklI,kali-puM,saNgrAma-puM,Ahava-puM,samprahAra-puM,samara-puMklI,janya-puMklI,yuD-strI,AyoDana-klI,saMsPowa-puM,kalaha-puM,mfDa-klI,praharaRa-klI,saMyat-klI,raRa-puMklI,vigraha-puM,dvandva-klI,samAGAta-puM,samAhvaya-puM,aBisampAta-puM,saMmarda-puM,samiD-strI,praGAta-puM,Askandana-klI,Aji-strI,praDana-puM,anIka-puMklI,aByAgama-puM,pravidAraRa-puM,samudAya-puM,samudaya-puM,rAwi-strI,samiti-strI,saNgara-puM,aByAmarda-puM,samparAya-puMklI,samIka-klI,sAmparAyika-klI,Akranda-puM,saMyuga-puMklI
+<eid>2422<syns>yudDa-klI,saNKya-puMklI,kali-puM,saNgrAma-puM,Ahava-puM,samprahAra-puM,samara-puMklI,janya-puMklI,yuD-strI,AyoDana-klI,saMsPowa-puM,kalaha-puM,mfDa-klI,praharaRa-klI,saMyat-klI,raRa-puMklI,vigraha-puM,dvandva-klI,samAGAta-puM,samAhvaya-puM,aBisampAta-puM,sammarda-puM,samiD-strI,praGAta-puM,Askandana-klI,Aji-strI,praDana-puM,anIka-puMklI,aByAgama-puM,pravidAraRa-puM,samudAya-puM,samudaya-puM,rAwi-strI,samiti-strI,saNgara-puM,aByAmarda-puM,samparAya-puMklI,samIka-klI,sAmparAyika-klI,Akranda-puM,saMyuga-puMklI
 <eid>2423<syns>niyudDa-klI
 prARaH sTAma taraH parAkramabaladyumnAni SOryOjasI
 SuzmaM Suzma ca SaktirUrjasahasI yudDaM tu saMKyaM kaliH .
@@ -5982,7 +6020,7 @@ niyudDaBUrakzavAwo moho mUrcCA ca kaSmalam .. 801 ..
 vftte BAvini vA yudDe pAnaM syAdvIrapARakam .
 <LEND>
 <L>925<pc>33
-<eid>2434<syns>palAyana-klI,apayAna-klI,saMdAva-puM,drava-puM,vidrava-puM,apakrama-puM,saMdrAva-puM,uddrAva-puM,pradrAva-puM
+<eid>2434<syns>palAyana-klI,apayAna-klI,sandAva-puM,drava-puM,vidrava-puM,apakrama-puM,sandrAva-puM,uddrAva-puM,pradrAva-puM
 <eid>2435<syns>vijaya-puM,jaya-puM
 palAyanamapayAnaM saMdAvadravavidravAH .. 802 ..
 apakramaH samutpreByo drAvo'Ta vijayo jayaH .
@@ -6021,6 +6059,7 @@ cAraH kArA guptO bandyAM grahakaH propato grahaH .. 806 ..
 <LEND>
 <L>933<pc>33
 <eid>2447<syns>cAturvarRya-klI
+<eid>2447.01<syns>varRa-puM
 <eid>2448<syns>dvija-puM
 <eid>2449<syns>kzatra-puM
 <eid>2450<syns>vESya-puM
@@ -6043,7 +6082,7 @@ jyezWASramI gfhameDI gfhasTaH snAtako gfhI .. 808 ..
 <LEND>
 <L>936<pc>33
 <eid>2459<syns>vEKAnasa-puM,vAnaprasTa-puM
-<eid>2460<syns>Bikzu-puM,sAMnyAsika-puM,yati-puM,karmandin-puM,raktavasana-puM,parivrAjaka-puM,tApasa-puM,pArASarin-puM,pArikANkzin-puM,maskarin-puM,pArirakzika-puM
+<eid>2460<syns>Bikzu-puM,sAnnyAsika-puM,yati-puM,karmandin-puM,raktavasana-puM,parivrAjaka-puM,tApasa-puM,pArASarin-puM,pArikANkzin-puM,maskarin-puM,pArirakzika-puM
 vEKAnaso vAnaprasTo BikzuH sAMnyAsiko yatiH .
 karmandI raktavasanaH parivrAjakatApasO .. 809 ..
 pArASarI pArikANkzI maskarI pArirakzakaH .
@@ -6266,7 +6305,7 @@ izwApUrtaM taduBayaM barhirmuzwistu vizwaraH .
 <eid>2542<syns>agnihotrin-puM,agnicit-puM,AhitAgni-puM
 <eid>2543<syns>agnirakzaRa-klI,agnyADAna-klI,agnihotra-klI
 <eid>2544<syns>darvI-strI,GftaleKanI-strI
-agnihotryamiviccAhitAgnAvaTAgnirakzaRam .. 835 ..
+agnihotryagniciccAhitAgnAvaTAgnirakzaRam .. 835 ..
 agnyADAnamagnihotraM darvI tu GftaleKanI .
 <LEND>
 <L>979<pc>34
@@ -6326,7 +6365,7 @@ saMskArapUrvaM grahaRaM syAtsvADyAyaH punarjapaH .
 OpavastraM tUpavAsaH kfcCraM sAMtapanAdikam .. 842 ..
 <LEND>
 <L>990<pc>34
-<eid>2566<syns>prAya-puM,saMnyAsyanaSana-klI
+<eid>2566<syns>prAya-puM,sannyAsyanaSana-klI
 <eid>2567<syns>niyama-puM,puRyaka-klI,vrata-klI
 prAyaH saMnyAsyanaSane niyamaH puRyakaM vratam .
 <LEND>
@@ -6374,7 +6413,7 @@ vasizWo'runDatIjAnirakzamAlA tvarunDatI .. 849 ..
 <LEND>
 <L>999<pc>34
 <eid>2581<syns>triSaNkuyAjin-puM,gADeya-puM,viSvAmitra-puM,kOSika-puM
-triSaNkuyAjI gADeyo viSvAmittraSca kOSikaH .
+triSaNkuyAjI gADeyo viSvAmitraSca kOSikaH .
 <LEND>
 <L>1000<pc>34
 <eid>2582<syns>kuSAraRi-puM,durvAsas-puM
@@ -6711,7 +6750,8 @@ govindo'Dikfto gozu jAbAlastvajajIvikaH .. 889 ..
 <eid>2726<syns>kuwumbin-puM,karzaka-puM,kzetrin-puM,halin-puM,kfzika-puM,kArzika-puM,kfzIvala-puM
 <eid>2727<syns>jityA-strI,hali-puMstrI
 <eid>2728<syns>sIra-puM,lANgala-klI,godAraRa-klI,hala-klI
-<eid>2729<syns>IzA-strI,sItA-strI
+<eid>2729<syns>IzA-strI,haladaRqa-puM
+<eid>2729.01<syns>sItA-strI,halapadDati-strI
 kuwumbI karzakaH kzetrI halI kfzikakArzikO .
 kfzIvalo'pi jityA tu haliH sIrastu lANgalam .. 890 ..
 godAraRaM halamIzAsIte taddaRqapadDatI .
@@ -6856,7 +6896,7 @@ tEjasAvartanI mUzA BastrA carmaprasevikA .. 908 ..
 AsPowinI veDanikA SARastu nikazaH kazaH .
 <LEND>
 <L>1081<pc>36
-<eid>2779<syns>saMdaMSa-puM,kaNkamuKa-puM
+<eid>2779<syns>sandaMSa-puM,kaNkamuKa-puM
 <eid>2780<syns>Brama-puM,kunda-klI,yantraka-klI
 saMdaMSaH syAtkaNkamuKo BramaH kundaM ca yantrakam .. 909 ..
 <LEND>
@@ -7021,7 +7061,7 @@ vyADo mfgavaDAjIvI lubDako mfgayuSca saH .
 pApardDirmfgayAKewo mfgavyAcCodane api .. 927 ..
 <LEND>
 <L>1114<pc>37
-<eid>2840<syns>jAlika-strI,vAgurika-strI
+<eid>2840<syns>jAlika-puM,vAgurika-puM
 <eid>2841<syns>vAgurA-strI,mfgajAlikA-strI
 jAlikaSca vAguriko vAgurA mfgajAlikA .
 <LEND>
@@ -7067,7 +7107,7 @@ caRqAle'ntAvasAyyantevAsiSvapacabukkasAH .
 nizAdaplavamAtaNgadivAkIrtijanaMgamAH .. 933 ..
 <LEND>
 <L>1123<pc>37
-<eid>2856<syns>mlecCajAti-puM
+<eid>2856<syns>mlecCajAti-strI
 <eid>2857<syns>pulinda-puM
 <eid>2858<syns>nAhala-puM
 <eid>2859<syns>nizwya-puM
@@ -7106,12 +7146,12 @@ urvarA sarvasasyA BUririRaM punaruzaram .. 939 ..
 <L>1127<pc>37
 <eid>2870<syns>sTala-klI,sTalI-strI
 <eid>2871<syns>maru-puM,Danvan-klI
-<eid>2872<syns>Kila-klI
+<eid>2872<syns>Kila-klI,aprahata-klI
 sTalaM sTalI marurDanvA kzetrAdyaprahataM Kilam .
 <LEND>
 <L>1128<pc>37
 <eid>2873<syns>mfd-strI,mfttikA-strI
-<eid>2874<syns>kzArA-strI
+<eid>2874<syns>kzArA-strI,Uza-puM
 <eid>2875<syns>mftsA-strI,mftsnA-strI
 mfnmfttikA sA kzArozo mftsA mftsnA ca sA SuBA .. 940 ..
 <LEND>
@@ -7205,8 +7245,7 @@ pARqUdakkfzRato BUmiH pARqUdakkfzRamfttike .
 <LEND>
 <L>1145<pc>38
 <eid>2906<syns>jaNgala-puM,nirjala-puM
-<eid>2907<syns>anUpa-puM,ambumat-puM
-<eid>2908<syns>kacCa-puMklI
+<eid>2907<syns>anUpa-puM,ambumat-puM,kacCa-puMklI
 jaNgalo nirjalo'nUpo'mbumAnkacCastu tadviDaH .. 953 ..
 <LEND>
 <L>1146<pc>38
@@ -7724,7 +7763,7 @@ nandyAvartapraBftayo vicCandA AQyaveSmanAm .
 <L>1245<pc>40
 <eid>3098<syns>samudga-puM,sampuwa-puM
 <eid>3099<syns>pewA-strI,maYjUzA-strI
-<eid>3100<syns>SoDanI-strI,saMmArjanI-strI,bahukarI-strI,varDanI-strI,samUhanI-strI
+<eid>3100<syns>SoDanI-strI,sammArjanI-strI,bahukarI-strI,varDanI-strI,samUhanI-strI
 samudgaH saMpuwaH pewA syAnmaYjUzA'Ta SoDanI .. 1015 ..
 saMmArjanI bahukarI varDanI ca samUhanI .
 <LEND>
@@ -7767,7 +7806,7 @@ hasanyaNgArAcCakawIDAnIpAtryo hasantikA .
 BrAzwro'mbarIza fcIzamfjIzaM pizwapAkaBft .. 1020 ..
 <LEND>
 <L>1253<pc>40
-<eid>3116<syns>kambi-strI,divi-strI,KajAkA-strI
+<eid>3116<syns>kambi-strI,darvi-strI,KajAkA-strI
 <eid>3117<syns>tardU-strI,dAruhastaka-puM
 kambirdarviH KajAkATa syAttardUrdAruhastakaH .
 <LEND>
@@ -7991,7 +8030,7 @@ sOrAzwrake paYcalOhaM vartalohaM tu vartakam .
 pAradaH pArataH sUto harabIjaM rasaScalaH .. 1050 ..
 <LEND>
 <L>1296<pc>41
-<eid>3189<syns>aBraka-klI,svacCapatra-klI,Ka-klI,meGAKya-klI,girijAmala-klI
+<eid>3189<syns>aBraka-klI,svacCapatra-klI,Ka-klI,meGAKya-klI,girija-klI,amala-klI
 aBrakaM svacCapattraM KaM meGAKyaM girijAmale .
 <LEND>
 <L>1297<pc>41
@@ -8332,7 +8371,7 @@ utsaH sravaH prasravaRaM jalADArA jalASayAH .. 1096 ..
 ;c{iti jalakAyaH . }
 ;v{tejaskAyaH}
 <L>1360<pc>43
-<eid>3300<syns>vahni-puM,bfhadBAnu-puM,hiraRyaretas-puM,DanaYjaya-puM,havyASana-puM,havirASana-puM,hutASana-puM,kfpIwayoni-puM,damunas-puM,virocana-puM,ASuSukzaRI-puM,CAgaraTa-puM,tanUnapAd-puM,kfSAnu-puM,vESvAnara-puM,vItihotra-puM,vfzAkapi-puM,pAvaka-puM,citraBAnu-puM,appitta-klI,DUmaDvaja-puM,kfzRavartman-puM,arcizmat-puM,SamIgarBa-puM,tamoGna-puM,Sukra-puM,SocizkeSa-puM,Suci-puM,hutavaha-puM,uzarbuDa-puM,saptajihva-puM,mantrajihva-puM,jvAlAjihva-puM,jvalana-puM,SiKin-puM,jAgfvi-puM,jAtavedas-puM,barhiHSuzman-puM,anilasaKa-puM,vasu-puM,rohitASva-puM,ASrayASa-puM,barhirjyoti-puM,dahana-puM,bahula-puM,havyavAha-puM,anala-puM,agni-puM,viBAvasu-puM,saptArcis-puM,udarcis-puM
+<eid>3300<syns>vahni-puM,bfhadBAnu-puM,hiraRyaretas-puM,DanaYjaya-puM,havyASana-puM,havirASana-puM,hutASana-puM,kfpIwayoni-puM,damunas-puM,virocana-puM,ASuSukzaRi-puM,CAgaraTa-puM,tanUnapAd-puM,kfSAnu-puM,vESvAnara-puM,vItihotra-puM,vfzAkapi-puM,pAvaka-puM,citraBAnu-puM,appitta-klI,DUmaDvaja-puM,kfzRavartman-puM,arcizmat-puM,SamIgarBa-puM,tamoGna-puM,Sukra-puM,SocizkeSa-puM,Suci-puM,hutavaha-puM,uzarbuDa-puM,saptajihva-puM,mantrajihva-puM,jvAlAjihva-puM,jvalana-puM,SiKin-puM,jAgfvi-puM,jAtavedas-puM,barhiHSuzman-puM,anilasaKa-puM,vasu-puM,rohitASva-puM,ASrayASa-puM,barhirjyoti-puM,dahana-puM,bahula-puM,havyavAha-puM,anala-puM,agni-puM,viBAvasu-puM,saptArcis-puM,udarcis-puM
 <eid>3301<syns>svAhA-strI,AgneyI-strI
 vahnirbfhadBAnuhiraRyaretasO DanaMjayo havyahavirhutASanaH .
 kfpIwayonirdamunA virocanASuSukzaRI CAgaraTastanUnapAt .. 1097 ..
@@ -8370,7 +8409,7 @@ saMtApaH saMjvaro bAzpa UzmA jihvAH syurarcizaH .
 hetiH kIlA SiKA jvAlArcirulakkA mahatyapi .. 1102 ..
 <LEND>
 <L>1366<pc>43
-<eid>3312<syns>sPuliNga-puM,agnikaRa-puM
+<eid>3312<syns>sPuliNga-tri,agnikaRa-puM
 <eid>3313<syns>alAtajvAlA-strI,ulkA-strI
 <eid>3314<syns>alAta-klI,ulmuka-klI
 sPuliNgo'gnikaRo'lAtajvAlolkA'lAtamulmukam .
@@ -8550,7 +8589,7 @@ guluYCo'Ta rajaH pOzpaM parAgo'Ta raso maDu .. 1126 ..
 makarando marandaSca vfntaM prasavabanDanam .
 <LEND>
 <L>1397<pc>44
-<eid>3374<syns>prabudDa-klI,ujjfmBa-klI,Pulla-klI,vyAkoSa-klI,vikaca-klI,smita-klI,unmizita-klI,vikasita-klI,dalita-klI,sPuwita-klI,sPuwa-klI,praPulla-klI,utPulla-klI,saMPulla-klI,ucCvasita-klI,vijfmBita-klI,smera-klI,vinidra-klI,unnidra-klI,vimudra-klI,hasita-klI
+<eid>3374<syns>prabudDa-klI,ujjfmBa-klI,Pulla-klI,vyAkoSa-klI,vikaca-klI,smita-klI,unmizita-klI,vikasita-klI,dalita-klI,sPuwita-klI,sPuwa-klI,praPulla-klI,utPulla-klI,samPulla-klI,ucCvasita-klI,vijfmBita-klI,smera-klI,vinidra-klI,unnidra-klI,vimudra-klI,hasita-klI
 prabudDojjfmBaPullAni vyAkoSaM vikacaM smitam .. 1127 ..
 unmizitaM vikasitaM dalitaM sPuwitaM sPuwam .
 praPullotPullasaMPullocCvasitAni vijfmBitas .. 1128 ..
@@ -8705,7 +8744,7 @@ drumotpalaH karRikAre nicule hijjalejjalO .
 <LEND>
 <L>1427<pc>45
 <eid>3431<syns>DAtrI-strI,SivA-strI,AmalakI-strI
-<eid>3432<syns>kalirakza-puM,biBItaka-tri
+<eid>3432<syns>kali-puM,akza-puM,biBItaka-tri
 DAtrI SivA cAmalakI kalirakzo biBItakaH .. 1145 ..
 <LEND>
 <L>1428<pc>45
@@ -9178,7 +9217,7 @@ mustako dAlavaSceti sTAvarA vizajAtayaH .. 1199 ..
 <eid>3632<syns>parvayoni-puM
 <eid>3633<syns>skanDaja-puM
 <eid>3634<syns>bIjaruha-puM
-<eid>3635<syns>saMmUrcCaja-puM
+<eid>3635<syns>sammUrcCaja-puM
 <eid>3636<syns>mUlajAti-strI
 kuraRwyAdyA agrabIjA mUlajAstUtpalAdayaH .
 parvayo'naya ikzvAdyAH skanDajAH sallakImuKAH .. 1200 ..
@@ -9290,7 +9329,7 @@ pataNgaH SalaBaH kzudrA saraGA maDumakzikA .. 1213 ..
 mAkzikAdi maDu kzOdraM maDUcCizwaM tu sikTakam .
 <LEND>
 <L>1526<pc>47
-<eid>3672<syns>varvaRA-strI
+<eid>3672<syns>varvaRA-strI,makzikA-strI,nIlA-strI
 <eid>3673<syns>puttikA-strI,pataNgikA-strI
 varvaRA makzikA nIlA puttikA tu pataNgikA .. 1214 ..
 <LEND>
@@ -9468,7 +9507,7 @@ ganDarvo'rvA saptivItI vAho vAjI hayo hariH .
 vaqavASvA prasUrvAmI kiSoro'lpavayA hayaH .. 1233 ..
 <LEND>
 <L>1558<pc>48
-<eid>3743<syns>javana-puM
+<eid>3743<syns>javana-puM,javADika-puM
 <eid>3744<syns>raTya-puM
 javADikastu javano raTyo voQA raTasya yaH .
 <LEND>
@@ -9539,7 +9578,7 @@ kulAhastu manAkpItaH kfzRaH syAdyadi jAnuni .
 <LEND>
 <L>1572<pc>48
 <eid>3770<syns>ukanAha-puM
-<eid>3771<syns>SoRa-puM
+<eid>3771<syns>SoRa-puM,kokanadacCavi-puM
 ukanAhaH pItaraktacCAyaH sa eva tu kvacit .. 1241 ..
 kfzRaraktacCaviH proktaH SoRaH kokanadacCaviH .
 <LEND>
@@ -9683,7 +9722,9 @@ vatsaH SakftkaristarRo damyavatsatarO samO .
 nasyoto nastitaH pazWavAw tu syAdyugapArSvagaH .. 1260 ..
 <LEND>
 <L>1599<pc>48
-<eid>3822<syns>yugya-puM,prAsaNgya-puM,SAkawa-puM
+<eid>3822<syns>yugya-puM
+<eid>3822.01<syns>prAsaNgya-puM
+<eid>3822.02<syns>SAkawa-puM
 yugAdInAM tu voQAro yugyaprAsaNgyaSAkawAH .
 <LEND>
 <L>1600<pc>48
@@ -9757,7 +9798,7 @@ duHKadohyA tu karawA bahudugDA tu vaYjulA .
 <LEND>
 <L>1613<pc>49
 <eid>3849<syns>droRadugDA-strI,droRaduGA-strI
-<eid>3850<syns>pInoGnI-strI,pIvarastanI-strI
+<eid>3850<syns>pInoDnI-strI,pIvarastanI-strI
 droRadugDA droRaduGA pInoDnI pIvarastanI .. 1269 ..
 <LEND>
 <L>1614<pc>49
@@ -9919,6 +9960,7 @@ mfgaH kuraNgaH sAraNgo vAtAyuhariRAvapi .
 <eid>3913<syns>kfzRasAra-puM
 <eid>3914<syns>pfzata-puM
 <eid>3915<syns>rohita-puM
+<eid>3915.01<syns>mfga-puM
 mfgaBedA rurunyaNkuraNkugokarRaSambarAH .. 1293 ..
 camUrucInacamarAH samUrERarSyarOhizAH .
 kadalI kandalI kfzRasAraH pfzatarohitO .. 1294 ..
@@ -10246,12 +10288,12 @@ pArApataH kalaravaH kapoto raktalocanaH .
 jyotsnApriye calacaYcucakoravizasUcakAH .. 1339 ..
 <LEND>
 <L>1698<pc>51
-<eid>4024<syns>jIvaMjIva-puM,gundrAla-puM,vizadarSanamftyuka-puM
+<eid>4024<syns>jIvaYjIva-puM,gundrAla-puM,vizadarSanamftyuka-puM
 jIvaMjIvastu gundrAlo vizadarSanamftyukaH .
 <LEND>
 <L>1699<pc>51
 <eid>4025<syns>vyAGrAwa-puM,BaradvAja-puM
-<eid>4026<syns>plava-puM,gAtrasaMplava-puM
+<eid>4026<syns>plava-puM,gAtrasamplava-puM
 vyAGrAwastu BaradvAjaH plavastu gAtrasaMplavaH .. 1340 ..
 <LEND>
 <L>1700<pc>51
@@ -10370,7 +10412,7 @@ rasajA madyakIwAdyA nfgavAdyA jarAyujAH .
 <LEND>
 <L>1723<pc>51
 <eid>4062<syns>svedaja-puM
-<eid>4063<syns>saMmUrcCanodBava-puM
+<eid>4063<syns>sammUrcCanodBava-puM
 yUkAdyAH svedajA matsyAdayaH saMmUrcCanodBavAH .. 1356 ..
 <LEND>
 ;p{0052}
@@ -10387,7 +10429,7 @@ trasayonaya ityazwAvudBidudBijjamudBidam .. 1357 ..
 ;c{ityAcAryahemacandraviracitAyAmaBiDAnacintAmaRO nAmamAlAyAM tiryakkARqaScaturTaH .. 4 ..}
 ;k{narakakARqaH}
 <L>1726<pc>52
-<eid>4068<syns>nAraka-puM,pareta-puM,prata-puM,yAtya-puM,ativAhika-puM
+<eid>4068<syns>nAraka-puM,pareta-puM,preta-puM,yAtya-puM,ativAhika-puM
 syurnArakAstu paretapretayAtyAtivAhikAH .
 <LEND>
 <L>1727<pc>52
@@ -10501,7 +10543,7 @@ vAsanA BAvanA saMskAro'nuBUtAdyavismftiH .. 1373 ..
 nirRayo niScayo'ntaH saMpraDAraRA samarTanam .
 <LEND>
 <L>1745<pc>52
-<eid>4109<syns>avidyA-strI,ahaMmati-strI,ajYAna-klI
+<eid>4109<syns>avidyA-strI,ahammati-strI,ajYAna-klI
 <eid>4110<syns>BrAnti-strI,miTyAmati-strI,Brama-puM
 avidyAhaMmatyajYAne BrAntirmiTyAmatirBramaH .. 1374 ..
 <LEND>
@@ -10535,9 +10577,9 @@ vipratisAro'nuSayaH paScAttApo'nutApaSca .
 avaDAnasamADAnapraRiDAnAni tu samADO syuH .. 1378 ..
 <LEND>
 <L>1752<pc>52
-<eid>4120<syns>Darma-puM,puRya-klI,vfza-puM,Sreyas-klI,sukfta-klI
+<eid>4120<syns>Darma-puMklI,puRya-klI,vfza-puM,Sreyas-klI,sukfta-klI
 <eid>4121<syns>niyati-strI,viDi-puM,dEva-puMklI,BAgya-klI,BAgaDeya-klI,dizwa-klI
-<eid>4122<syns>ayas-puM
+<eid>4122<syns>aya-puM
 DarmaH puRyaM vfzaH SreyaH sukfte niyatO viDiH .
 dEvaM BAgyaM BAgaDeyaM dizwaM cAyastu tacCuBam .. 1379 ..
 <LEND>
@@ -10581,12 +10623,15 @@ sparSAdayastvindriyArTA vizayA gocarA api .. 1384 ..
 ;p{0053}
 <L>1759<pc>53
 <eid>4138<syns>SIta-puM,tuzAra-puM,SiSira-puM,suSIma-puM,SItala-puM,jaqa-puM,hima-puM
+<eid>4138.01<syns>SIta-tri,tuzAra-tri,SiSira-tri,suSIma-tri,SItala-tri,jaqa-tri,hima-tri
 <eid>4139<syns>uzRa-puM,tigma-puM,tIvra-puM,tIkzRa-puM,caRqa-puM,Kara-puM,pawu-puM
+<eid>4139.01<syns>uzRa-tri,tigma-tri,tIvra-tri,tIkzRa-tri,caRqa-tri,Kara-tri,pawu-tri
 SIte tuzAraH SiSiraH suSImaH SItalo jaqaH .
 himo'TozRe tigmastIkzRastIvraScaRqaH KaraH pawuH .. 1385 ..
 <LEND>
 <L>1760<pc>53
 <eid>4140<syns>kozRa-puM,kavozRa-puM,kaduzRa-puM,mandozRa-puM,IzaduzRa-puM
+<eid>4140.01<syns>kozRa-tri,kavozRa-tri,kaduzRa-tri,mandozRa-tri,IzaduzRa-tri
 kozRaH kavozRaH kaduzRo mandozRaScezaduzRavat .
 <LEND>
 <L>1761<pc>53
@@ -10622,7 +10667,7 @@ samAkarzI tu nirhArI sa Amodo vidUragaH .. 1390 ..
 <L>1766<pc>53
 <eid>4152<syns>vimardotTa-puM,parimala-puM
 <eid>4153<syns>Amodin-puM,muKavAsana-puM,izwaganDa-puM,suganDi-puM
-<eid>4154<syns>durganDa-puM,pUtiganDika-puM
+<eid>4154<syns>durganDa-puM,pUtiganDi-puM
 vimardotTaH parimalo'TAmodI muKavAsanaH .
 izwaganDaH suganDiSca durganDaH pUtiganDikaH .. 1391 ..
 <LEND>
@@ -10665,7 +10710,7 @@ raktaSyAme punarDUmraDUmalAvaTa karburaH .
 kirmIra etaH SabalaScitrakalmAzacitralAH .. 1398 ..
 <LEND>
 <L>1772<pc>53
-<eid>4169<syns>Sabda-puM,ninAda-puM,nirGoza-puM,svAna-puM,DvAna-puM,svara-puM,Dvani-puM,nihrAda-puM,ninada-puM,hrAda-puM,nisvAna-puM,niHsvana-puM,svana-puM,rava-puM,nAda-puM,svanirGoza-puM,saMrAva-puM,virAva-puM,ArAva-puM,Arava-puM,kvaRana-klI,nikvaRa-puM,kvARa-puM,nikvARa-puM,kvaRa-puM,raRa-puM
+<eid>4169<syns>Sabda-puM,ninAda-puM,nirGoza-puM,svAna-puM,DvAna-puM,svara-puM,Dvani-puM,nihrAda-puM,ninada-puM,hrAda-puM,nisvAna-puM,niHsvana-puM,svana-puM,rava-puM,nAda-puM,svani-puM,Goza-puM,saMrAva-puM,virAva-puM,ArAva-puM,Arava-puM,kvaRana-klI,nikvaRa-puM,kvARa-puM,nikvARa-puM,kvaRa-puM,raRa-puM
 Sabdo ninAdo nirGozaH svAno DvAnaH svaro DvaniH .
 nihrAdo ninado hrAdo nisvAno nisvanaH svanaH .. 1399 ..
 ravo nAdaH svanirGozaH saMvyANByo rAva AravaH .
@@ -10962,7 +11007,7 @@ sarvaM samastamanyUnaM samagraM sakalaM samam .
 viSvASezAKaRqakftsnanyakzARi niKilAKile .. 1433 ..
 <LEND>
 <L>1820<pc>54
-<eid>4297<syns>KaRqa-puMklI,arDa-tri,Sakala-klI,Bitta-klI,nema-puM,Salka-klI,dala-klI
+<eid>4297<syns>KaRqa-puMklI,arDa-puM,Sakala-puMklI,Bitta-klI,nema-puM,Salka-klI,dala-klI
 KaRqe'rDaSakale BittaM nemaSalkadalAni ca .
 <LEND>
 <L>1821<pc>54
@@ -11039,7 +11084,7 @@ kAmyaM kamraM kamanIyaM sOmyaM ca maDuraM priyam .. 1445 ..
 <L>1831<pc>55
 <eid>4325<syns>vyuzwi-strI,Pala-klI
 <eid>4326<syns>asAra-klI,Palgu-klI
-<eid>4327<syns>SUnya-klI,rikta-klI,Sunya-klI,tucCa-klI,vaMSika-klI
+<eid>4327<syns>SUnya-klI,rikta-klI,Sunya-klI,tucCa-klI,vaSika-klI
 <eid>4328<syns>nibiqa-klI,nirantara-klI,nibirIsa-klI,Gana-klI,sAndra-klI,nIranDra-klI,bahala-klI,dfQa-klI,gAQa-klI,avirala-klI
 <eid>4329<syns>virala-klI,tanu-klI,pelava-klI
 vyuzwiH PalamasAraM tu Palgu SUnyaM tu riktakam .
@@ -11130,7 +11175,7 @@ tulyaH samAnaH sadfkzaH sarUpaH sadfSaH samaH .
 sADAraRasaDarmARO savarRaH saMniBaH sadfk .. 1461 ..
 <LEND>
 <L>1845<pc>55
-<eid>4358<syns>praKya-puM,prakAra-puM,pratiBa-puM,niBa-puM,BUta-puM,rUpa-klI,upamA-strI,saMkASa-puM,nIkASa-puM,prakASa-puM,pratikASa-puM
+<eid>4358<syns>praKya-puM,prakAra-puM,pratiBa-puM,niBa-puM,BUta-puM,rUpa-klI,upamA-strI,saNkASa-puM,nIkASa-puM,prakASa-puM,pratikASa-puM
 syuruttarapade praKyaH prakAraH pratimo niBaH .
 BUtarUpopamAH kASaH saMnIprapratItaH paraH .. 1462 ..
 <LEND>
@@ -11263,7 +11308,7 @@ nunnanuttAstanizWyUtAnyAvidDaM kziptamIritam .. 1482 ..
 <L>1868<pc>56
 <eid>4400<syns>digDa-klI,lipta-klI
 <eid>4401<syns>rugRa-klI,Bugna-klI
-<eid>4402<syns>ruzita-klI,guRqita-klI
+<eid>4402<syns>rUzita-klI,guRqita-klI
 same digDalipte rugRaBugne rUzitaguRqite .
 <LEND>
 <L>1869<pc>56
@@ -11282,7 +11327,7 @@ syAnniSAtaM SitaM SAtaM niSitaM tejitaM kzRutam .
 vftte tu vfttavAvfttO hrItahrIRO tu lajjite .. 1484 ..
 <LEND>
 <L>1872<pc>56
-<eid>4409<syns>saMgUQa-puM,saNkalita-puM
+<eid>4409<syns>saNgUQa-puM,saNkalita-puM
 <eid>4410<syns>saMyojita-puM,upAhita-puM
 saMgUQaH syAtsaMkalite saMyojita upAhite .
 <LEND>
@@ -11509,7 +11554,7 @@ nidAnamaTa kAryaM syAdarTaH kftyaM prayojanam .
 <L>1914<pc>57
 <eid>4490<syns>nizWA-strI,nirvahaRa-klI
 <eid>4491<syns>pravaha-puM,bahirgamana-klI
-nizWAnirvahaRe tulye pravAho gamanaM bahiH .. 1514 ..
+nizWAnirvahaRe tulye pravaho gamanaM bahiH .. 1514 ..
 <LEND>
 <L>1915<pc>57
 <eid>4492<syns>jAti-strI,sAmAnya-klI
@@ -11528,18 +11573,18 @@ tiryaksAciH saMharzastu sparDA drohastvapakriyA .. 1515 ..
 vanDye moGAPalamuDA antargaqurnirarTakam .
 <LEND>
 <L>1918<pc>57
-<eid>4499<syns>saMsTAna-klI,saMniveSa-puM
+<eid>4499<syns>saMsTAna-klI,sanniveSa-puM
 <eid>4500<syns>arTApagama-puM,vyaya-puM
 saMsTAnaM saMniveSaH syAdarTasyApagame vyayaH .. 1516 ..
 <LEND>
 <L>1919<pc>57
-<eid>4501<syns>saMmUrCana-klI,aBivyApti-strI
+<eid>4501<syns>sammUrCana-klI,aBivyApti-strI
 <eid>4502<syns>Breza-puM,BraMSa-puM
 saMmUrCanaM tvaBivyAptirBrezo BraMSo yaTocitAt .
 <LEND>
 <L>1920<pc>57
 <eid>4503<syns>aBAva-puM,nASa-puM
-<eid>4504<syns>saMkrAma-puM,saMkrama-puM,durgasaYcara-puM
+<eid>4504<syns>saNkrAma-puM,saNkrama-puM,durgasaYcara-puM
 aBAvo nASe saMkrAmasaMkramO durgasaMcare .. 1517 ..
 <LEND>
 <L>1921<pc>57
@@ -11656,7 +11701,7 @@ paritaH sarvato vizvaksamantAcca samantataH .
 puraH purastAtpurato'grataH prAyastu BUmani .. 1529 ..
 <LEND>
 <L>1943<pc>57
-<eid>4548<syns>sAmpratam-a,aDunA-a,idAnIm-a,saMprati-a,etarhi-a
+<eid>4548<syns>sAmpratam-a,aDunA-a,idAnIm-a,samprati-a,etarhi-a
 <eid>4549<syns>aYjasA-a,drAk-a,srAk-a,aram-a,Jawiti-a,ASu-a,maNkzu-a,ahnAya-a,satvaram-a
 sAMpratamaDunedAnIM saMpratyetarhyaTAYjasA .
 drAksrAgaraM JawityASu maNkzvahnAya ca satvaram .. 1530 ..
