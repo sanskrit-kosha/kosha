@@ -16551,7 +16551,7 @@ mohaH ..</t>
 <t><b>paracakreRa deSasya pIqane</b> avamardadvayam . ‘mfda kzode’ .
 GaY . avamardaH . pIqayaterlyuwi pIqanam ..</t>
 
-<s>aByavaskandanaM tvaByAsAnaM</s>
+<s>aByavaskandanaM tvaByAsAdanaM</s>
 <t>niSSaktIkaraRAya <b>yaH SatruBiH prahAro dIyate tatrA</b>Byava- 
 skandanadvayam . ‘skandir gatiSozaRayoH’ . lyuw . aByavaskandanam . saderRici 
 lyuw . AsAdanaM, dantyasam ..</t>
