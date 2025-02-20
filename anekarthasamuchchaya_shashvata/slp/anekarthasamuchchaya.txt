@@ -49,8 +49,7 @@
 ;version1.0.0{}
 ;CONTENT
 ﻿﻿;p{0001}
-;preface{}
-{{
+;preface{
 aTa
 SrISASvatapraRItaH
 anekArTasamuccayaH
@@ -73,59 +72,73 @@ dfzwaSizwaprayogo'haM dfzwavyAkaraRatrayaH .
 aDItI sadupADyAyAlliNgaSAstrezu paYcasu .. 6 ..
 ataH SabdArTaliNgezu kartavyo'tra na saMSayaH .
 SabdakoSe'Biyogena vidvajjananirUpite .. 7 ..
-}}
+}
 ﻿;p{0002}
-$Siva;
-#,,
-$SivA;
-#,,,
+$Siva;klI
+#Badra
+$Siva;pu
+#SaMBu,kIla
+$SivA;strI
+#gOrI,aBayA,krozwf,AmalakI
 SivaM BadraM SivaH SaMBuH SivA gOrI SivABayA .
 SivaH kIlaH SivA krozwA BavedAmalakI SivA .. 1 ..
-$bala;
-#,,,,,,,
+$bala;klI
+#Sakti,sEnya,sTOlya,rupa
+$bala;pu
+#balin,dEtya,kAka,halin
 balaM SaktirbalaM sEnyaM balaM sTOlyaM balo balI .
 balaM rUpaM balo dEtyo balaH kAko halI balaH .. 2 ..
-$maDu;
-#,,,,,
+$maDu;klI
+#madya,kzOdra,puzparasa
+$maDu;pu
+#dEtya,cEtra,maDuka
 maDu madyaM maDu kzOdraM maDu puzparasaM viduH .
 maDurdEtyo maDuScEtro maDukopi maDurmataH .. 3 ..
-$Druva;
-#,,,,,
-$DruvA;
-#
+$Druva;pu
+#kIla,muni,nitya,niScita
+$Druva;klI
+#SaSvat,tarka
+$DruvA;strI
+#gIti,srugBeda
 DruvaH kIle (lo) DruvaM SaSvad DruvaM tarke Druvo munO .
 Druvo nitye niScite ca gItisrugBedayorDruvA .. 4 ..
-$SiKA;
-#,,,,,
+$SiKA;strI
+#jvAlA,cUqA,SAKA,SiPA,SiKaRqin_cUqA,agramAtraka
 SiKA jvAlA SiKA cUqA SiKA SAKA SiKA SiPA .
 SiKA SiKaRqinAM cUqA SiKA syAdagramAtrakam .. 5 ..
-$Gana;
-#,,,,,,,,
+$Gana;pu
+#vAdya,musta,ambuda,sAndra,lohamudgara,kAWinya,saMGAta,mUrti,bAhulya
 vAdye muste'mbude sAndre GanaH syAllohamudgare .
 GanO kAWinyasaMGAtO mUrtibAhulyayorGanaH .. 6 ..
 (GanaM sAndraM GanaM vAdyaM Gano musto Gano'mbudaH .
 GanO kAWinyasaMGAtO GanaH syAllohamudgaraH ..)
-$rAma;
-#,,,,,
-$rAmA;
-#
+$rAma;pu
+#jAmadagnya,rAma,sita,asita,paSuviSeza,cAru,halAyuDa
+$rAmA;strI
+#strI
 rAmA strI jAmadagnyaSca rAmo rAmO sitAsitO .
 rAmaH paSuviSezopi rAmO cAruhalAyuDO .. 7 ..
-$padma;
-#,,,,
-$padmA;
-#
+$padmA;strI
+#lakzmI
+$padma;pu
+#niDi,saMKyAviSeza,nAgaviSeza
+$padma;klI
+#gajabindu,saroruha
 padmA lakzmIrniDiH padmaH padmAni gajabindavaH .
 saMKyAnAgaviSezO ca padmO padmaM saroharum .. 8 ..
-$vasu;
-#,,,,,
+$vasu;pu
+#devapraBeda,kiraRa,yoktra
+$vasu;klI
+#ratna,Dana,tejas
 devapraBedA vasavo vasuH kiraRayoktrayoH .
 vasu ratnaM vasu DanaM vasu tejo nigadyate .. 9 ..
 (vasumAhurhutASanam ..)
-$gotra;
-#,,
-$gotrA;
-#,
+$gotrA;strI
+#viSvamBarA,gonikurambaka
+$gotra;klI
+#nAman,kula
+$gotra,pu
+#DaraRIDara
 viSvamBarA Baved gotrA gotrA gonikura(ru)mbakam .
 nAma gotraM kulaM gotraM gotraSca DaraRIDaraH .. 10 ..
 ;p{0003}
@@ -224,7 +237,7 @@ $kzudra;
 $kzudrA;
 #,,
 aDamakrUrayoH kzudraH kzudro'lpaH kfpaRastaTA .
-kzudrA vyaNgA nawI veSyA saraGA kaRwakArikA .. 30 ..
+kzudrA vyaNgA nawI vaSyA saraGA kaRwakArikA .. 30 ..
 $parigraha;
 #,,,,
 parigrahaH parijane SapaTe ca parigrahaH .
@@ -4113,7 +4126,7 @@ $hEmavatI;
 #,
 $varjana;
 #,
-vacArgOryorhEmavatI varjanaM tyAgahiMsayoH .
+vacAgOryorhEmavatI varjanaM tyAgahiMsayoH .
 $arti;
 #,
 $umA;
